@@ -1,0 +1,411 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:12,230 --> 00:00:15,180","Hey guys, welcome back to our IELTS Listening course.",嘿，大家好！歡迎回到我們的 雅思 聽力課程。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+2,"00:00:15,600 --> 00:00:17,920","In the previous lesson, we already learned how",在前一堂課中，我們已經學會了,80,minor_issues,,[medium] terminology: None
+3,"00:00:17,920 --> 00:00:19,460",to do short answer questions.,如何作答簡答題。,100,ok,,
+4,"00:00:20,000 --> 00:00:23,960","In today's lesson, we'll continue practicing listening skills",今天的課程中，我們將繼續透過多項選擇題,35,needs_revision,今天的課程中，我們將繼續練習聽力,[medium] terminology: None; [high] meaning_drift: None
+5,"00:00:23,960 --> 00:00:28,480","with multiple choice questions, another common question type",來練習聽力技巧，這是一種常見的題型。,35,needs_revision,"with multiple choice questions, another common question type",[medium] terminology: None; [high] meaning_drift: None
+6,"00:00:28,480 --> 00:00:29,980",in the IELTS listening test.,在 雅思 聽力測驗中。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+7,"00:00:30,590 --> 00:00:33,000",Today's lesson is divided into three parts.,今天的課程分為三個部分。,100,ok,,
+8,"00:00:33,000 --> 00:00:37,220",Part 1. General introduction to multiple choice questions.,第一部分。多項選擇題的一般介紹。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+9,"00:00:37,660 --> 00:00:41,500",Part 2. Strategy or steps to handle the question type.,第二部分。處理此題型的策略或步驟。,45,needs_revision,,[high] placeholder: None
+10,"00:00:42,080 --> 00:00:45,830",And part 3. Practice and explanation.,第三部分：練習與解析。,45,needs_revision,,[high] placeholder: None
+11,"00:00:46,780 --> 00:00:49,700","Let's come to the first part, general introduction",接下來進入第一部分，多項,35,needs_revision,接下來進入第一部分，概述,[medium] terminology: None; [high] meaning_drift: None
+12,"00:00:49,700 --> 00:00:51,400",to multiple choice questions.,選擇題的簡介。,35,needs_revision,多項選擇題。,[medium] terminology: None; [high] meaning_drift: None
+13,"00:00:56,370 --> 00:00:59,750",Multiple choice questions can be quite challenging,多項選擇題可能相當具挑,45,needs_revision,多項選擇題可能相當具挑戰性,[high] meaning_drift: None
+14,"00:00:59,750 --> 00:01:02,630",because candidates need to grasp the information,戰性，因為考生需要同時,45,needs_revision,因為候選人需要掌握資訊,[high] meaning_drift: None
+15,"00:01:02,630 --> 00:01:06,350",in the questions and the recording at the same time.,掌握題目與錄音中的資訊。,35,needs_revision,同時回答問題並聽錄音。,[medium] terminology: None; [high] meaning_drift: None
+16,"00:01:07,310 --> 00:01:10,290","Multiple choice questions usually appear in section two,",多項選擇題通常出現在雅思聽力測,45,needs_revision,多項選擇題通常出現在雅思聽力測驗,[high] meaning_drift: None
+17,"00:01:10,590 --> 00:01:13,070","three, and four of the IELTS Listening test.",驗的第二、三及第四部分。,30,needs_revision,雅思聽力測驗的第三和第四部分。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+18,"00:01:13,570 --> 00:01:16,310",There are two main types of multiple choice questions.,多項選擇題主要有兩種類型。,45,needs_revision,多項選擇題主要有兩種型別。,[high] terminology: None
+19,"00:01:16,590 --> 00:01:20,390","Type one, multiple choice questions with one correct answer.",第一種類型，多項選擇題，僅有一個正確答案。,45,needs_revision,第一種型別，多項選擇題，僅有一個正確答案。,[high] terminology: None
+20,"00:01:20,910 --> 00:01:23,270","Type two, multiple choice questions",第二種類型，多項選擇題,45,needs_revision,第二種型別，多項選擇題,[high] terminology: None
+21,"00:01:23,270 --> 00:01:25,190",with more than one correct answer.,有多個正確答案。,80,minor_issues,,[medium] terminology: None
+22,"00:01:26,390 --> 00:01:30,030","For the second type, each correct answer scores one point.",第二種類型，每個正確答案得一分。,35,needs_revision,第二種型別，每個正確答案得一分。,[high] terminology: None; [medium] terminology: None
+23,"00:01:30,030 --> 00:01:32,610",So make sure to give all the answers.,所以請務必回答所有題目。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+24,"00:01:33,350 --> 00:01:36,950","Please note that when given all choices,",請注意，當提供所有選項時,80,minor_issues,,[medium] terminology: None
+25,"00:01:36,950 --> 00:01:40,090",you are likely to hear the speaker talking about all options.,，你很可能會聽到講者談論所有選項。,70,minor_issues,，你很可能會聽到說話者談論所有選項。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [low] style: None
+26,"00:01:40,550 --> 00:01:42,470",Just because you hear it mentioned,聽到有人提到，不代表,100,ok,,
+27,"00:01:42,470 --> 00:01:43,990",doesn't make it correct.,它就是正確的。,35,needs_revision,這不代表它是正確的。,[medium] terminology: None; [high] meaning_drift: None
+28,"00:01:43,990 --> 00:01:46,930",So be careful to analyze the choices and,請仔細分析選項，並選,100,ok,,
+29,"00:01:46,930 --> 00:01:48,230",choose the correct answer.,出正確答案。,35,needs_revision,請選擇正確答案。,[medium] terminology: None; [high] meaning_drift: None
+30,"00:01:48,430 --> 00:01:50,870","Now, let's move on to part two",現在，讓我們進入第二部分。,80,minor_issues,,[medium] terminology: None
+31,"00:01:50,870 --> 00:01:53,610",Strategy or steps to handle the question type.,處理此題型的策略或步驟。,100,ok,,
+32,"00:01:57,830 --> 00:01:59,510",Let's take a look at this question.,我們來看看這道題目。,100,ok,,
+33,"00:01:59,750 --> 00:02:02,250",Candidates will be given about 30 seconds to,考生將有約30秒的時間來,100,ok,,
+34,"00:02:02,250 --> 00:02:03,350",read the questions.,閱讀題目。,100,ok,,
+35,"00:02:03,810 --> 00:02:05,890","During this time, what we have to do",這段時間內，我們必須要做的事是,100,ok,,
+36,"00:02:05,890 --> 00:02:06,730",is as follows.,雅思 課程,35,needs_revision,如下,[medium] terminology: None; [high] meaning_drift: None
+37,"00:02:07,630 --> 00:02:10,890","Step one, read the instructions carefully to know",第一步，仔細閱讀說明，以了解,45,needs_revision,第一步，仔細閱讀說明，以瞭解,[high] terminology: None
+38,"00:02:10,890 --> 00:02:13,310",whether the questions require you to choose one,題目是要求選取一個答案，還,30,needs_revision,問題是否需要你選擇一個,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+39,"00:02:13,310 --> 00:02:15,070",or more than one answer.,是多個答案。,35,needs_revision,或多個答案。,[medium] terminology: None; [high] meaning_drift: None
+40,"00:02:15,790 --> 00:02:19,430","For today's listening test, we'll choose one correct answer",今天的聽力測驗，我們將選取一個正確答案,100,ok,,
+41,"00:02:19,430 --> 00:02:20,630",for each question.,針對每個問題,100,ok,,
+42,"00:02:20,910 --> 00:02:24,550","Step two, read the questions and underline keywords.",第二步，閱讀題目並畫底線標示關鍵字,80,minor_issues,,[medium] terminology: None
+43,"00:02:25,250 --> 00:02:27,950",Since we have only about 30 seconds to,由於我們只有約30秒的時,45,needs_revision,由於我們只有約30秒的時間,[high] meaning_drift: None
+44,"00:02:27,950 --> 00:02:30,390","read the questions, we should read the questions",間來閱讀題目，我們應該在閱讀選項,45,needs_revision,我們應該先閱讀題目,[high] meaning_drift: None
+45,"00:02:30,390 --> 00:02:31,550",before the choices.,之前先讀題。,42,needs_revision,在選擇之前。,[low] style: None; [high] meaning_drift: None
+46,"00:02:32,530 --> 00:02:34,890",This step is very important and needs to,這個步驟非常重要，必須,100,ok,,
+47,"00:02:34,890 --> 00:02:37,290",be done quickly because there's not much time,快速完成，因為閱讀題目,45,needs_revision,快速完成，因為時間不多,[high] meaning_drift: None
+48,"00:02:37,290 --> 00:02:38,390",to read the questions.,的時間不多。,35,needs_revision,to read the questions.,[medium] terminology: None; [high] meaning_drift: None
+49,"00:02:39,010 --> 00:02:41,230",The first key thing is to really focus,第一個重點是確實著重,45,needs_revision,第一個重點是真正專注,[high] meaning_drift: None
+50,"00:02:41,230 --> 00:02:44,210","on the question word in each question, like",於每道題目的疑問詞，例如,100,ok,,
+51,"00:02:44,210 --> 00:02:49,210","why, what, how, who, and so on.",why、what、how、who 等等。,100,ok,,
+52,"00:02:49,210 --> 00:02:52,250",This helps us understand what the question is,這有助於我們理解題目所詢問的,100,ok,,
+53,"00:02:52,250 --> 00:02:55,170",asking for and grasp the information we need,內容，並在聽力過程中掌握所,45,needs_revision,並掌握我們所需的資訊,[high] meaning_drift: None
+54,"00:02:55,170 --> 00:02:55,930",while listening.,需的資訊。,30,needs_revision,while listening.,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+55,"00:02:56,430 --> 00:02:59,010","Plus, we should also predict the answer as",此外，我們還應該預測答案，因為,35,needs_revision,此外，我們還應該預測答案，並,[medium] terminology: None; [high] meaning_drift: None
+56,"00:02:59,010 --> 00:02:59,670",we go along.,我們繼續前進。,100,ok,,
+57,"00:03:00,350 --> 00:03:02,990",We'll underline important keywords in the questions.,我們將在題目中的重要關鍵字下劃線。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+58,"00:03:03,730 --> 00:03:04,390",Let's do it.,我們來做吧。,100,ok,,
+59,"00:03:05,030 --> 00:03:11,270","Question 11. Why, decide, introduce, wellness initiatives",題目 11。為什麼要決定導入健康促進措施？,35,needs_revision,題目 11。為什麼要決定匯入健康促進措施？,[high] terminology: None; [medium] terminology: None
+60,"00:03:11,270 --> 00:03:16,310","Question 12. What new activity, encouraging, start",題目 12。什麼新的活動？鼓勵、開始,87,minor_issues,第12題：什麼新活動？鼓勵、開始,[low] style: None
+61,"00:03:16,310 --> 00:03:20,390","Question 13. What kind of snacks, break room",題目 13。什麼樣的零食？休息室,77,minor_issues,第 13 題：什麼樣的零食？休息室,[medium] terminology: None; [low] style: None
+62,"00:03:20,410 --> 00:03:24,230","Question 14. health screening, organized",題目 14。健康篩檢、有組織的,77,minor_issues,題目 14。健康篩檢、已組織,[medium] terminology: None; [low] style: None
+63,"00:03:24,890 --> 00:03:28,270","Question 15. join, wellness program",題目 15。加入、健康計畫,100,ok,,
+64,"00:03:29,290 --> 00:03:32,750","Step three, read the choices and underline keywords.",第三步，閱讀選項並劃出關鍵字。,100,ok,,
+65,"00:03:33,490 --> 00:03:36,990","Remember, underline keywords that differentiate the choices.",記住，請劃出能區分選項的關鍵字。,80,minor_issues,,[medium] terminology: None
+66,"00:03:37,750 --> 00:03:38,850",Look at question 11.,請看第 11 題。,100,ok,,
+67,"00:03:39,410 --> 00:03:42,790","The choices are A, to address a rise",選項 A 為解決員工病假,30,needs_revision,選項 A 是處理增加的情況,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+68,"00:03:42,790 --> 00:03:43,690",in staff sickness.,增加的問題。,45,needs_revision,員工請病假的情況。,[high] meaning_drift: None
+69,"00:03:44,390 --> 00:03:47,270","B, to provide a reward for hard work.",選項 B 為提供獎勵以表揚辛勤工作。,100,ok,,
+70,"00:03:47,270 --> 00:03:50,630","C, to create a more supportive atmosphere.",選項 C 為營造更具支持性的氛圍。,100,ok,,
+71,"00:03:51,190 --> 00:03:54,910","The key differences are staff sickness, reward for",主要差異在於員工病假、對辛勤工作,45,needs_revision,主要差異在於員工請病假、獎勵,[high] meaning_drift: None
+72,"00:03:54,910 --> 00:03:57,550","hard work, and a supportive atmosphere.",的獎勵，以及支持性的氛圍。,45,needs_revision,努力，以及支持性的氛圍。,[high] meaning_drift: None
+73,"00:03:58,210 --> 00:03:59,170",Question 12.,第 12 題。,100,ok,,
+74,"00:03:59,730 --> 00:04:01,910",The question asks about a new activity,這道題目詢問公司正在鼓,45,needs_revision,這題問的是新活動,[high] meaning_drift: None
+75,"00:04:01,910 --> 00:04:03,350",the company is encouraging.,勵的一項新活動。,35,needs_revision,這家公司表現不錯。,[medium] terminology: None; [high] meaning_drift: None
+76,"00:04:03,790 --> 00:04:05,430","A, using the stairs.",A 使用樓梯。,100,ok,,
+77,"00:04:06,010 --> 00:04:07,950","B, attending yoga classes.",B 參加瑜伽課程。,100,ok,,
+78,"00:04:08,670 --> 00:04:10,650","C, drinking water frequently.",C 經常喝水。,100,ok,,
+79,"00:04:11,330 --> 00:04:13,110",These are very different actions.,這些是非常不同的行為。,100,ok,,
+80,"00:04:13,110 --> 00:04:15,550","Physical movement, stairs.",肢體活動、爬樓梯。,100,ok,,
+81,"00:04:16,030 --> 00:04:17,750","A class, yoga.",一堂瑜伽課。,100,ok,,
+82,"00:04:17,850 --> 00:04:19,370","Or a habit, water.",或是習慣，water。,100,ok,,
+83,"00:04:20,310 --> 00:04:23,010",Listen for which one is specifically encouraged as,留意哪一項被特別鼓勵作為新的,42,needs_revision,留意哪一個特別鼓勵作為,[low] collocation: None; [high] meaning_drift: None
+84,"00:04:23,010 --> 00:04:23,690",a new thing.,活動。,45,needs_revision,新事物。,[high] meaning_drift: None
+85,"00:04:24,530 --> 00:04:27,690",Next is question 13 about the break room snacks.,接下來是關於休息室零食的 question 13。,74,minor_issues,接下來是休息室的零食 第13題。,[medium] terminology: None; [low] style: None; [low] collocation: None
+86,"00:04:28,330 --> 00:04:30,370","A, healthy potato chips.",健康的洋芋片。,100,ok,,
+87,"00:04:30,850 --> 00:04:31,990","B, yogurt.","B, 優格。",100,ok,,
+88,"00:04:32,590 --> 00:04:34,710","C, freshly cut fruits.","C, 新鮮切好的水果。",100,ok,,
+89,"00:04:35,270 --> 00:04:36,950","They might mention chips,",他們可能會提到晶片,100,ok,,
+90,"00:04:36,950 --> 00:04:40,090",but say they are banned or talk about another type of chips.,，但表示晶片是被禁止的，或是談論另一種晶片。,100,ok,,
+91,"00:04:40,790 --> 00:04:42,230","They might mention yogurt,",他們可能會提到優,45,needs_revision,他們可能會提到優格,[high] meaning_drift: None
+92,"00:04:42,230 --> 00:04:43,910",but say they stopped offering it,格，但表示因為找到了,45,needs_revision,但說他們停止提供,[high] meaning_drift: None
+93,"00:04:43,910 --> 00:04:45,830",because they found a better option.,更好的選項而停止提供。,45,needs_revision,因為他們找到了更好的選項。,[high] meaning_drift: None
+94,"00:04:45,830 --> 00:04:47,350",Or maybe it's just that they want to,或者只是他們想把它加,42,needs_revision,或者只是他們想做,[low] style: None; [high] meaning_drift: None
+95,"00:04:47,350 --> 00:04:49,430","include it in the menu, but are unable",入選單，卻無法做到。,42,needs_revision,加入選單，卻無法操作。,[high] meaning_drift: None; [low] collocation: None
+96,"00:04:49,430 --> 00:04:50,510",to do so for now.,目前先這樣做。,80,minor_issues,,[medium] terminology: None
+97,"00:04:51,150 --> 00:04:53,830","For fruits, pay close attention to the adjective.",關於水果，請特別注意形容詞。,100,ok,,
+98,"00:04:54,490 --> 00:04:57,630","They might offer dried fruits, not freshly cut ones.",他們可能會提供乾燥水果，而非新鮮切好的水果。,100,ok,,
+99,"00:04:58,510 --> 00:05:00,670",Question 14 is about the health screening.,第 14 題關於健康檢查。,100,ok,,
+100,"00:05:01,210 --> 00:05:04,210",And it tests your ability to understand time paraphrases.,並且測驗你理解時間轉述的能力。,77,minor_issues,,[low] style: None; [medium] terminology: None
+101,"00:05:04,750 --> 00:05:06,830","A, on a quarterly basis.",A，每季一次。,100,ok,,
+102,"00:05:06,830 --> 00:05:10,150","Remember, a quarter is one fourth of a year.",記住，一個 quarter 是一年的一 fourth。,81,minor_issues,記住，一個 季 是一年的一 四分之一。,[low] terminology: None; [low] terminology: None; [low] collocation: None
+103,"00:05:10,770 --> 00:05:13,950",So you might hear every three months or,所以你可能每三個月或每年,45,needs_revision,所以你可能每三個月或,[high] meaning_drift: None
+104,"00:05:13,950 --> 00:05:15,610",four times a year.,四次會聽到。,35,needs_revision,一年四次。,[medium] terminology: None; [high] meaning_drift: None
+105,"00:05:16,090 --> 00:05:17,870","B, every six months.",B，每半年一次。,100,ok,,
+106,"00:05:18,550 --> 00:05:21,370",Common paraphrases for this are twice a year,常見的改述方式包括 twice a year 和 sem,77,minor_issues,常見的改述方式包括 每年兩次 和 sem,[medium] terminology: None; [low] style: None
+107,"00:05:21,370 --> 00:05:23,250",and semi-annually.,i-annually。,45,needs_revision,每半年。,[high] meaning_drift: None
+108,"00:05:24,110 --> 00:05:25,650","C, once a year.",C，每年一次。,100,ok,,
+109,"00:05:26,210 --> 00:05:29,750","The speaker might simply say annually, yearly,",講者可能會直接說 annually、yearly、on an annu,39,needs_revision,說話者可能會直接說 annually、yearly、on an annu,[low] style: None; [low] style: None; [high] meaning_drift: None
+110,"00:05:29,750 --> 00:05:33,210",on an annual basis or on a yearly basis.,al basis 或 on a yearly basis。,30,needs_revision,al basis 或 每年一次。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+111,"00:05:33,830 --> 00:05:36,370","So, don't just listen for the exact words,",所以，不要只聽單詞，,32,needs_revision,所以，不要只聽單字，,[high] terminology: None; [medium] terminology: None; [low] terminology: None
+112,"00:05:36,830 --> 00:05:38,630",listen for the actual frequency.,要聽實際頻率。,100,ok,,
+113,"00:05:39,610 --> 00:05:42,590","Finally, question 15 asks how to join.",最後，question 15 詢問如何報考。,84,minor_issues,最後，第15題 問如何報考。,[low] style: None; [low] style: None
+114,"00:05:43,190 --> 00:05:45,390","A, registering through their manager.",A 透過其經理進行註冊。,80,minor_issues,,[medium] terminology: None
+115,"00:05:45,850 --> 00:05:48,030","B, emailing the head of HR.",B，致信人力資源部主管。,80,minor_issues,,[medium] terminology: None
+116,"00:05:48,750 --> 00:05:51,050","C, filling out the sign-up form.",C，填寫報名表單。,100,ok,,
+117,"00:05:51,630 --> 00:05:54,190","Here, we need to listen for the specific method.",這裡，我們需要專注聆聽具體的方法。,42,needs_revision,這裡，我們需要聽特定的方法。,[low] collocation: None; [high] meaning_drift: None
+118,"00:05:54,650 --> 00:05:56,970","Register, email or fill out.",註冊、發送電子信箱或填寫。,30,needs_revision,註冊、傳送電子信箱或填寫資料。,[high] terminology: None; [high] meaning_drift: None; [low] collocation: None
+119,"00:05:57,310 --> 00:05:59,310",And the person/object.,以及人/受詞。,87,minor_issues,,[low] terminology: None
+120,"00:05:59,770 --> 00:06:02,050","Manager, HR or form.",經理、人力資源部或形式。,45,needs_revision,經理、人力資源部或表格。,[high] meaning_drift: None
+121,"00:06:03,110 --> 00:06:05,510","Step 4, listen to the recording",第 4 步，聆聽錄,70,minor_issues,第 4 步，聽錄音,[medium] terminology: None; [medium] terminology: None; [low] collocation: None
+122,"00:06:05,510 --> 00:06:07,430",and choose the correct answer.,音並選擇正確答案。,45,needs_revision,並選擇正確答案。,[high] meaning_drift: None
+123,"00:06:09,240 --> 00:06:12,340","Remember, don't rush to write the first answer you hear.",記住，不要急著寫下你聽到的第一個答案。,80,minor_issues,,[medium] terminology: None
+124,"00:06:12,620 --> 00:06:13,900",It could be a distractor.,可能是干擾項。,100,ok,,
+125,"00:06:14,760 --> 00:06:17,680",Sometimes the speaker only discusses before giving the,有時候講者在提供答案前僅會先進行說明。,81,minor_issues,有時候說話者在提供答案前僅會先說明。,[low] style: None; [low] style: None; [low] style: None
+126,"00:06:17,680 --> 00:06:18,440",final decision.,雅思 課程,45,needs_revision,最終決定,[high] meaning_drift: None
+127,"00:06:19,180 --> 00:06:21,140",And that's the correct answer.,那就是正確答案。,100,ok,,
+128,"00:06:21,620 --> 00:06:24,660","Here, we need to grasp signposting language.",這裡，我們需要掌握語篇標誌語言（signposting language）。,87,minor_issues,這裡，我們需要掌握語篇標記語言（signposting language）。,[low] terminology: None
+129,"00:06:25,460 --> 00:06:28,340",Signposting language can really help you to see,語篇標誌語言能真正幫助你了,42,needs_revision,語篇標誌詞能真正幫助你,[high] meaning_drift: None; [low] terminology: None
+130,"00:06:28,340 --> 00:06:31,240",how the information is developed and structured.,解資訊是如何發展與組織的。,87,minor_issues,,[low] style: None
+131,"00:06:31,240 --> 00:06:34,980",We have seven common types of signposting language,以下列舉七種常見的語篇標誌,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+132,"00:06:34,980 --> 00:06:35,880",as follows.,語言。,35,needs_revision,如下。,[medium] terminology: None; [high] meaning_drift: None
+133,"00:06:36,860 --> 00:06:39,480",Signposting language to introduce the topic of speech.,用於引入演講主題的 Signposting language。,77,minor_issues,用於引入演講主題的 語篇標記語言。,[medium] terminology: None; [low] terminology: None
+134,"00:06:40,000 --> 00:06:42,320","I'm, we're going to tell you about.",接下來，我們要跟大家介紹的是。,80,minor_issues,,[medium] terminology: None
+135,"00:06:43,040 --> 00:06:45,220",Signposting language to show you the order of,用於引導你了解順序的 Signposting language,30,needs_revision,用於引導你瞭解順序的 標記性語言,[high] terminology: None; [medium] terminology: None; [low] terminology: None; [low] style: None
+136,"00:06:45,220 --> 00:06:47,340",ideas or times of events.,概念或事件發生的時間。,100,ok,,
+137,"00:06:47,680 --> 00:06:49,700","Before, when and then.",Before、when 和 then。,100,ok,,
+138,"00:06:50,500 --> 00:06:53,620",Signposting language to emphasize important information.,用於強調重要資訊的 Signposting language。,77,minor_issues,用於強調重要資訊的 標記性語言。,[medium] terminology: None; [low] terminology: None
+139,"00:06:54,120 --> 00:06:56,060",One thing to remember is that.,有一點必須記住的是。,100,ok,,
+140,"00:06:56,720 --> 00:06:58,780",Signposting language to show reason.,用於說明原因的 Signposting language,74,minor_issues,表示原因的 語篇連接詞,[medium] terminology: None; [low] terminology: None; [low] style: None
+141,"00:06:59,340 --> 00:07:01,540","Because, since, as.",Because、since、as。,77,minor_issues,Because、since、作為。,[medium] terminology: None; [low] style: None
+142,"00:07:02,480 --> 00:07:04,740",Signposting language to show the purpose.,用於說明目的的 Signposting language,77,minor_issues,,[medium] terminology: None; [low] style: None
+143,"00:07:05,340 --> 00:07:08,200","To, in order to, so as to.",To、in order to、so as to。,77,minor_issues,To、in order to、so 作為 to。,[medium] terminology: None; [low] style: None
+144,"00:07:09,440 --> 00:07:11,820",Signposting language to show the contrast.,用於說明對比的 Signposting language,77,minor_issues,用於說明對比的 語篇連接詞,[medium] terminology: None; [low] terminology: None
+145,"00:07:12,220 --> 00:07:13,620","Although, even though.",Although、even though。,45,needs_revision,雖然、即使。,[high] meaning_drift: None
+146,"00:07:14,740 --> 00:07:17,960",Signposting language to extend ideas in the speech.,用於在演講中延伸想法的 Signposting language,74,minor_issues,用於在演講中擴展想法的 語篇標記語言,[medium] terminology: None; [low] terminology: None; [low] style: None
+147,"00:07:18,260 --> 00:07:19,580","In addition, moreover.",此外，而且。,87,minor_issues,,[low] style: None
+148,"00:07:20,720 --> 00:07:24,260","Now, the second skill to use here is note taking.",接下來，這裡要使用的第二項技巧是筆記。,80,minor_issues,,[medium] terminology: None
+149,"00:07:24,660 --> 00:07:26,840",Which we covered in the previous lesson.,這部分我們在上堂課已經講過。,77,minor_issues,這部分我們在上一堂課已經講過。,[medium] terminology: None; [low] register: None
+150,"00:07:26,840 --> 00:07:30,220","When you're listening, you might feel overwhelmed by",在聆聽時，你可能會感到不知所措，,87,minor_issues,在聽時，你可能會感到不知所措，,[low] style: None
+151,"00:07:30,220 --> 00:07:32,160",all the information coming at you.,所有湧入你腦中的資訊。,80,minor_issues,,[medium] terminology: None
+152,"00:07:32,560 --> 00:07:34,220",And it's tough to remember it all.,要記住所有內容並不容易。,80,minor_issues,,[medium] terminology: None
+153,"00:07:34,720 --> 00:07:37,400",So what you should do is noting down,因此，你應該做的是記下,100,ok,,
+154,"00:07:37,400 --> 00:07:40,280",the keywords or phrases that catch your attention.,那些吸引你注意的關鍵字或片語。,80,minor_issues,,[medium] terminology: None
+155,"00:07:40,840 --> 00:07:43,700",Then you can refer back to them when,接著，你可以隨時參考這些內容，,80,minor_issues,,[medium] terminology: None
+156,"00:07:43,700 --> 00:07:46,940",transferring your answers to the answer sheet later on.,之後將你的答案填寫至答題卷上。,32,needs_revision,之後將你的答案填寫至答題捲上。,[high] terminology: None; [low] style: None; [medium] terminology: None
+157,"00:07:47,300 --> 00:07:47,760",All right.,好了。,80,minor_issues,,[medium] terminology: None
+158,"00:07:47,820 --> 00:07:50,630","After analyzing the questions, let's listen",分析完題目後，讓我們聆聽,77,minor_issues,分析完題目後，讓我們聽,[medium] terminology: None; [low] register: None
+159,"00:07:50,630 --> 00:07:52,070",and choose the correct answer.,並選擇正確答案。,100,ok,,
+160,"00:07:52,920 --> 00:07:54,160","Hello, everyone.",大家好！,100,ok,,
+161,"00:07:54,600 --> 00:07:55,920",Thanks for gathering here.,謝謝大家前來參加。,100,ok,,
+162,"00:07:55,920 --> 00:07:58,840",I hope you're all having a productive week.,希望大家這週都有豐收的成果。,77,minor_issues,,[medium] terminology: None; [low] style: None
+163,"00:07:59,500 --> 00:08:02,760","As mentioned in my previous email, the purpose",如我在前一封電子信箱中所述，今,74,minor_issues,如我在前一封電子郵件中所述，今天,[medium] terminology: None; [low] style: None; [low] style: None
+164,"00:08:02,760 --> 00:08:05,500",of today's meeting is to walk you through,天會議的目的是要帶你了解我,30,needs_revision,天會議的目的是要帶你瞭解我,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+165,"00:08:05,500 --> 00:08:08,020",our new workplace wellness initiatives.,們新的職場健康促進計畫。,35,needs_revision,我們新的職場健康促進計畫。,[medium] terminology: None; [high] meaning_drift: None
+166,"00:08:08,780 --> 00:08:12,940","First, let me explain the motivation behind these changes.",首先，讓我說明進行這些變更的動機。,100,ok,,
+167,"00:08:13,680 --> 00:08:17,260","In our recent survey, over 60% of",在最近的調查中，超過 6,30,needs_revision,在最近的調查中，超過 60%,[high] placeholder: None; [high] meaning_drift: None
+168,"00:08:17,260 --> 00:08:20,060",you reported feeling significant stress.,0% 的你表示感到顯著的压力。,30,needs_revision,你表示感到顯著的壓力。,[low] script: None; [low] script: None; [high] meaning_drift: None; [high] None: None
+169,"00:08:20,060 --> 00:08:23,640",While we haven't actually seen an increase in,雖然我們並未實際看到請病假,42,needs_revision,雖然我們並未實際看到增加,[low] style: None; [high] meaning_drift: None
+170,"00:08:23,640 --> 00:08:26,440","people taking sick leave, we don't want to",的人數增加，但我們不希望,45,needs_revision,請假的人，我們不希望,[high] meaning_drift: None
+171,"00:08:26,440 --> 00:08:27,760",wait until that happens.,等那個情況發生後再說。,100,ok,,
+172,"00:08:28,420 --> 00:08:31,440","And although we certainly appreciate your hard work,",雖然我們非常感謝你的辛勤工作，但,87,minor_issues,,[low] style: None
+173,"00:08:31,880 --> 00:08:34,919",this isn't intended as a bonus or reward.,這並非作為額外獎金或獎勵。,80,minor_issues,,[medium] terminology: None
+174,"00:08:35,360 --> 00:08:39,590",Our primary aim is to build a positive work environment,我們的首要目標是建立一個積極的工作環境，讓你在這,35,needs_revision,我們的主要目標是營造一個正面的工作環境,[medium] terminology: None; [high] meaning_drift: None
+175,"00:08:39,590 --> 00:08:42,060",where you feel supported and like,裡感到受到支持並擁有歸屬感。,30,needs_revision,裡感到受到支援並擁有歸屬感。,[high] terminology: None; [high] meaning_drift: None
+176,"00:08:42,059 --> 00:08:43,640",a valued part of the team.,團隊中不可或缺的一員。,100,ok,,
+177,"00:08:44,140 --> 00:08:46,540",So let's look at the details.,讓我們來看看細節。,80,minor_issues,,[medium] terminology: None
+178,"00:08:46,540 --> 00:08:50,020",We are introducing several new programs.,我們正在推出幾項新課程。,100,ok,,
+179,"00:08:51,080 --> 00:08:54,400",The first initiative is our group exercise classes.,第一項計畫是我們的團體課程。,100,ok,,
+180,"00:08:55,260 --> 00:08:58,660","Every Tuesday and Thursday at lunchtime, we will",每週二和週四的午餐時間，我們將,100,ok,,
+181,"00:08:58,660 --> 00:09:02,700",have yoga sessions in the new conference room 208.,在新會議室 208 舉辦瑜伽課程。,100,ok,,
+182,"00:09:03,380 --> 00:09:06,640","This room connects directly from the lobby, so",這間會議室與大廳相連，因,100,ok,,
+183,"00:09:06,640 --> 00:09:09,350",you'll need to take the stairs on the left,此你必須走左側的樓梯,87,minor_issues,你得走左側的樓梯,[low] grammar: None
+184,"00:09:09,350 --> 00:09:12,800",as the elevators do not provide access to this area.,，因為電梯無法通往此區域。,80,minor_issues,,[medium] terminology: None
+185,"00:09:13,430 --> 00:09:16,060",Please remember to bring your own water bottles,請記得自備水瓶。,45,needs_revision,,[high] meaning_drift: None
+186,"00:09:16,060 --> 00:09:19,860",since there are no water purifiers available in the room.,因為房間內沒有提供淨水器。,100,ok,,
+187,"00:09:20,660 --> 00:09:24,880","Also, wear comfortable clothes suitable for yoga and stretching.",此外，請穿著適合瑜伽和伸展運動的舒適衣物。,80,minor_issues,,[medium] terminology: None
+188,"00:09:25,960 --> 00:09:28,340","Next, let's talk about nutrition.",接下來，我們來談談營養。,100,ok,,
+189,"00:09:29,060 --> 00:09:31,900",We're saying goodbye to the old snack bar.,我們即將告別舊的零食吧。,100,ok,,
+190,"00:09:32,440 --> 00:09:35,620",No more instant coffee or unhealthy snacks.,不再攝取速溶咖啡或不健康的零食。,35,needs_revision,不再攝取即溶咖啡或不健康的零食。,[high] terminology: None; [medium] terminology: None
+191,"00:09:35,620 --> 00:09:39,120","From now on, you'll find healthier options in",從現在開始，休息區將提供,35,needs_revision,從現在開始，這裡會有更多健康選項,[medium] terminology: None; [high] meaning_drift: None
+192,"00:09:39,120 --> 00:09:42,040","the break room, such as vegetable juices and",較健康的選項，例如蔬果汁,30,needs_revision,休息室，例如蔬果汁,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+193,"00:09:42,040 --> 00:09:45,700","a wide selection of healthy snacks, including yogurt",和多樣化的健康零食，包含優格,100,ok,,
+194,"00:09:45,700 --> 00:09:47,240",and fruit-based treats.,和水果甜點。,100,ok,,
+195,"00:09:47,900 --> 00:09:51,720","For me, my personal favorite is the dried banana snacks.",對我來說，我最喜歡的是乾燥香蕉零食。,87,minor_issues,對我來說，我最喜歡的是香蕉乾。,[low] collocation: None
+196,"00:09:52,320 --> 00:09:55,220","We also looked into providing fresh cut fruit,",我們也研議過提供現切水果的選項，但這,87,minor_issues,,[low] style: None
+197,"00:09:55,560 --> 00:09:57,200",but it spoils too quickly.,類水果過於容易腐壞。,84,minor_issues,這類水果很容易腐壞。,[low] grammar: None; [low] style: None
+198,"00:09:57,460 --> 00:10:00,500","So unfortunately, we won't be able to offer",很遺憾，在我們找到這個問題的,45,needs_revision,很遺憾，我們無法提供,[high] meaning_drift: None
+199,"00:10:00,500 --> 00:10:03,320",that until we can find a solution for this issue.,解決方案之前，將無法提供該服務。,42,needs_revision,在找到解決此問題的方案之前。,[low] style: None; [high] meaning_drift: None
+200,"00:10:03,320 --> 00:10:06,420",We hope these choices make it easier for,我們希望這些選擇能讓,80,minor_issues,,[medium] terminology: None
+201,"00:10:06,420 --> 00:10:09,260",you to grab something healthy during your busy day.,讓你在忙碌的一天中也能吃得健康,87,minor_issues,,[low] style: None
+202,"00:10:10,100 --> 00:10:13,400",Another important part of our wellness program is,心理健康支持是我們健康計畫的另,30,needs_revision,心理健康支援是我們健康計畫的另,[high] terminology: None; [high] meaning_drift: None
+203,"00:10:13,400 --> 00:10:14,620",mental health support.,一個重要部分。,35,needs_revision,心理健康支持。,[medium] terminology: None; [high] meaning_drift: None
+204,"00:10:15,400 --> 00:10:17,800",We know that mental well-being is just,我們知道心理健康與身,45,needs_revision,我們知道心理健康只是,[high] meaning_drift: None
+205,"00:10:17,800 --> 00:10:19,640",as important as physical health.,體健康同樣重要。,30,needs_revision,身體健康同樣重要。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+206,"00:10:20,380 --> 00:10:22,660","Next month, we will be running a series",下個月，我們將舉辦一系,45,needs_revision,下個月，我們將舉辦一系列,[high] meaning_drift: None
+207,"00:10:22,660 --> 00:10:26,240",of mindfulness workshops focused on stress management.,列以壓力管理為重點的正念工作坊。,100,ok,,
+208,"00:10:26,240 --> 00:10:29,990","We have decided to make this a quarterly event,",我們已決定將此活動改為每季舉辦，,80,minor_issues,,[medium] terminology: None
+209,"00:10:30,230 --> 00:10:32,390",so you can look forward to these sessions,因此你可以期待每三個月一次,45,needs_revision,所以你可以期待這些課程,[high] meaning_drift: None
+210,"00:10:32,390 --> 00:10:34,740",every three months to help you relax,的課程，幫助你放鬆身心。,80,minor_issues,,[medium] terminology: None
+211,"00:10:34,740 --> 00:10:37,220",and find better balance in your daily life.,並在你的日常生活中找到更好的平衡。,100,ok,,
+212,"00:10:37,900 --> 00:10:40,840","And of course, to maintain that balance, we",當然，為了維持這種平衡，我們,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+213,"00:10:40,840 --> 00:10:43,760",are also upgrading our physical health monitoring.,也在升級我們的生理健康監測功能。,87,minor_issues,,[low] style: None
+214,"00:10:44,480 --> 00:10:48,950","Previously, our company only offered one annual health check,",過去，我們公司僅提供一次年度健康檢查，但,100,ok,,
+215,"00:10:48,950 --> 00:10:51,040",but we agree with your feedback that,我們同意你的回饋，認為,100,ok,,
+216,"00:10:51,040 --> 00:10:52,560",this isn't frequent enough.,這不夠頻繁。,100,ok,,
+217,"00:10:52,560 --> 00:10:56,040",We initially hoped to match the quarterly schedule,我們原本希望配合工作坊的季,35,needs_revision,我們原本希望配合工作坊的季度,[medium] terminology: None; [high] meaning_drift: None
+218,"00:10:56,040 --> 00:10:59,400","of the workshops, but the logistics were too complex.",度進度，但物流安排過於複雜。,30,needs_revision,進度落後，但行政安排太複雜。,[medium] terminology: None; [high] meaning_drift: None; [low] terminology: None; [low] register: None
+219,"00:11:00,220 --> 00:11:03,240","Therefore, we have finalized a schedule for a",因此，我們已訂定每年兩次免,45,needs_revision,因此，我們已訂定一個,[high] meaning_drift: None
+220,"00:11:03,240 --> 00:11:05,400",free health checkup twice a year.,費健康檢查的行程。,30,needs_revision,每年兩次免費健康檢查。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+221,"00:11:06,240 --> 00:11:08,880",Now you might be wondering how to get involved.,現在你可能想知道如何參與。,100,ok,,
+222,"00:11:09,380 --> 00:11:10,060",It's simple.,很簡單。,100,ok,,
+223,"00:11:10,640 --> 00:11:13,200",You will receive an email later today with,你稍後將收到一封電子信箱，其,42,needs_revision,你稍後將收到一封電子郵件，內容為,[low] terminology: None; [high] meaning_drift: None
+224,"00:11:13,200 --> 00:11:16,560",full details about each program and a link,中包含每個計畫的詳細資訊以及,35,needs_revision,每個計畫的詳細資訊和連結,[medium] terminology: None; [high] meaning_drift: None
+225,"00:11:16,560 --> 00:11:18,520",to an online sign-up form.,線上報名形式連結。,74,minor_issues,線上報名表單連結。,[medium] terminology: None; [low] collocation: None; [low] terminology: None
+226,"00:11:18,520 --> 00:11:21,500","All of the activities are free, and you",所有活動皆為免費，你可以,80,minor_issues,,[medium] terminology: None
+227,"00:11:21,500 --> 00:11:23,340",can join as many as you like.,自由參加多項活動。,35,needs_revision,想參加多少就參加多少。,[medium] terminology: None; [high] meaning_drift: None
+228,"00:11:24,020 --> 00:11:26,680","If you have ideas for new wellness activities,",如果你有新的健康促進活動構想，請寄電子信,84,minor_issues,如果你有新的健康促進活動構想，請分享電子郵件,[low] terminology: None; [low] register: None
+229,"00:11:27,180 --> 00:11:30,140","please email me, Sarah, the head of HR.",箱給我，我是人事主管 Sarah。,35,needs_revision,請寄電子郵件給我，我是人事主管 Sarah。,[medium] terminology: None; [high] meaning_drift: None
+230,"00:11:30,620 --> 00:11:33,350","You can also send your ideas to your manager,",你也可以將你的構想發送給你的主管，,42,needs_revision,你也可以將你的構想傳送給你的主管，,[high] terminology: None; [low] style: None
+231,"00:11:33,350 --> 00:11:35,540",who will collect feedback from the team.,誰將收集團隊的反饋意見。,35,needs_revision,誰將收集團隊的回饋意見。,[high] terminology: None; [medium] terminology: None
+232,"00:11:36,040 --> 00:11:38,840",We want this program to be something everyone,我們希望這個程式能讓所有人都樂在,100,ok,,
+233,"00:11:38,840 --> 00:11:40,860",enjoys and benefits from.,其中並享有權益。,45,needs_revision,並享有權益。,[high] meaning_drift: None
+234,"00:11:45,590 --> 00:11:46,550",Did you get all of them?,你全部拿到了嗎？,100,ok,,
+235,"00:11:47,030 --> 00:11:49,210",Let's listen again with the transcript to make,讓我們再次聆聽逐字稿，以便完成,74,minor_issues,讓我們再次聽逐字稿，來做,[medium] terminology: None; [low] style: None; [low] style: None
+236,"00:11:49,210 --> 00:11:50,790",sure all your answers are correct.,確保你的答案都正確。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+237,"00:11:52,490 --> 00:11:54,070","Hello, everyone.",大家好！,100,ok,,
+238,"00:11:54,690 --> 00:11:55,930",Thanks for gathering here.,謝謝大家匯聚在此。,87,minor_issues,謝謝大家聚集在此。,[low] collocation: None
+239,"00:11:56,350 --> 00:11:58,850",I hope you're all having a productive week.,希望大家這週都過得充實。,80,minor_issues,,[medium] terminology: None
+240,"00:11:59,530 --> 00:12:02,770","As mentioned in my previous email, the purpose",如我先前在電子信箱中所述，目的,77,minor_issues,如我先前在email中所述，目的,[medium] terminology: None; [low] style: None
+241,"00:12:02,770 --> 00:12:05,510",of today's meeting is to walk you through,今天會議的目的，是要帶你了解,35,needs_revision,今天會議的目的，是要帶你瞭解,[high] terminology: None; [medium] terminology: None
+242,"00:12:05,510 --> 00:12:08,050",our new workplace wellness initiatives.,我們的新職場健康促進計畫。,80,minor_issues,,[medium] terminology: None
+243,"00:12:08,810 --> 00:12:13,030","First, let me explain the motivation behind these changes.",首先，讓我說明進行這些變動的動機。,100,ok,,
+244,"00:12:13,610 --> 00:12:17,270","In our recent survey, over 60% of",在最近的調查中，超過 6,30,needs_revision,在最近的調查中，超過 60%,[high] placeholder: None; [high] meaning_drift: None
+245,"00:12:17,270 --> 00:12:20,070",you reported feeling significant stress.,0% 的你表示感到顯著的压力。,30,needs_revision,你表示感到顯著的壓力。,[low] script: None; [low] script: None; [high] meaning_drift: None; [high] None: None
+246,"00:12:20,070 --> 00:12:23,630",While we haven't actually seen an increase in,雖然我們尚未看到請病假的人數,42,needs_revision,雖然我們尚未看到增加,[low] style: None; [high] meaning_drift: None
+247,"00:12:23,630 --> 00:12:26,450","people taking sick leave, we don't want to",實際增加，但我們不希望等到情,45,needs_revision,請假的人，我們不希望,[high] meaning_drift: None
+248,"00:12:26,450 --> 00:12:27,770",wait until that happens.,況發生才行動。,45,needs_revision,等那件事發生再行動。,[high] meaning_drift: None
+249,"00:12:28,450 --> 00:12:31,450","And although we certainly appreciate your hard work,",雖然我們非常感謝你的辛勞，但這,87,minor_issues,,[low] style: None
+250,"00:12:31,890 --> 00:12:34,910",this isn't intended as a bonus or reward.,並非作為額外獎金或獎勵。,80,minor_issues,,[medium] terminology: None
+251,"00:12:35,350 --> 00:12:39,830",Our primary aim is to build a positive work environment,我們的主要目標是建立一個積極的工作環境，讓你,45,needs_revision,,[high] meaning_drift: None
+252,"00:12:39,830 --> 00:12:42,070",where you feel supported and like,在這裡感受到支持，並成為團,30,needs_revision,在這裡感受到支援，並成為團,[high] terminology: None; [high] meaning_drift: None
+253,"00:12:42,070 --> 00:12:43,650",a valued part of the team.,隊中有價值的一份子。,87,minor_issues,團隊中有價值的一份子。,[low] style: None
+254,"00:12:44,170 --> 00:12:46,570","So, let's look at the details.",那麼，讓我們來看看細節。,80,minor_issues,,[medium] terminology: None
+255,"00:12:46,570 --> 00:12:50,030",We are introducing several new programs.,我們正在推出幾門新課程。,100,ok,,
+256,"00:12:51,090 --> 00:12:54,390",The first initiative is our group exercise classes.,第一個計劃是我們的團體練習課程。,77,minor_issues,,[medium] terminology: None; [low] style: None
+257,"00:12:55,270 --> 00:12:58,670","Every Tuesday and Thursday at lunchtime, we will",每週二和週四午餐時間，我們將在新,45,needs_revision,每週二和週四午餐時間，我們會,[high] meaning_drift: None
+258,"00:12:58,670 --> 00:13:02,690",have yoga sessions in the new conference room 208.,的 208 會議室舉行瑜伽課程。,45,needs_revision,在 208 會議室進行瑜伽課程。,[high] meaning_drift: None
+259,"00:13:03,390 --> 00:13:06,650","This room connects directly from the lobby, so",這間房間直接連接大廳，所,45,needs_revision,這間房間直接連結大廳，所,[high] terminology: None
+260,"00:13:06,650 --> 00:13:09,350",you'll need to take the stairs on the left,以你需要走左邊的樓梯。,87,minor_issues,你需要走左邊的樓梯。,[low] grammar: None
+261,"00:13:09,350 --> 00:13:12,810",as the elevators do not provide access to this area.,因為電梯無法通往此區域。,80,minor_issues,,[medium] terminology: None
+262,"00:13:12,810 --> 00:13:16,070",Please remember to bring your own water bottles,請記得自備水瓶，因,30,needs_revision,請記得自備水瓶，。,[high] meaning_drift: None; [high] meaning_drift: None
+263,"00:13:16,070 --> 00:13:19,850",since there are no water purifiers available in the room.,為房間內未提供淨水器。,45,needs_revision,,[high] meaning_drift: None
+264,"00:13:20,650 --> 00:13:24,870","Also, wear comfortable clothes suitable for yoga and stretching.",此外，請穿著適合瑜伽和伸展運動的舒適服裝。,80,minor_issues,,[medium] terminology: None
+265,"00:13:25,830 --> 00:13:28,330","Next, let's talk about nutrition.",接下來，我們來談談營養。,100,ok,,
+266,"00:13:29,070 --> 00:13:31,910",We're saying goodbye to the old snack bar.,我們即將告別舊有的點心吧檯。,80,minor_issues,,[medium] terminology: None
+267,"00:13:32,450 --> 00:13:35,630",No more instant coffee or unhealthy snacks.,不再喝速溶咖啡或吃對健康無益的零食。,35,needs_revision,不再喝即溶咖啡或吃對健康無益的零食。,[high] terminology: None; [medium] terminology: None
+268,"00:13:35,630 --> 00:13:39,110","From now on, you'll find healthier options in",從現在起，休息室將提供較,35,needs_revision,從現在起，休息室將提供較多的,[medium] terminology: None; [high] meaning_drift: None
+269,"00:13:39,110 --> 00:13:42,050","the break room, such as vegetable juices and",健康的選項，例如蔬果汁和,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+270,"00:13:42,050 --> 00:13:45,710","a wide selection of healthy snacks, including yogurt",多樣化的健康零食，包括優格。,100,ok,,
+271,"00:13:45,710 --> 00:13:47,230",and fruit-based treats.,以及水果製成的點心。,80,minor_issues,,[medium] terminology: None
+272,"00:13:47,910 --> 00:13:51,730","For me, my personal favorite is the dried banana snacks.",對我來說，我最喜歡的是乾燥香蕉零食。,87,minor_issues,對我來說，我最喜歡的是香蕉乾。,[low] collocation: None
+273,"00:13:52,330 --> 00:13:55,210","We also looked into providing fresh-cut fruit,",我們也曾考慮提供鮮切水果，但它變質,39,needs_revision,我們也曾考慮提供鮮切水果，但後來變質了,[low] style: None; [low] style: None; [high] meaning_drift: None
+274,"00:13:55,590 --> 00:13:59,370","but it spoils too quickly, so, unfortunately, we",得太快，因此很遺憾，在我們……之前,36,needs_revision,壞得太快，所以很遺憾，我們……,[low] style: None; [high] meaning_drift: None; [low] register: None; [low] style: None
+275,"00:13:59,370 --> 00:14:01,350",won't be able to offer that until we,，我們將無法提供此項服務。,45,needs_revision,我們還無法提供,[high] meaning_drift: None
+276,"00:14:01,350 --> 00:14:03,330",can find a solution for this issue.,可以找到解決這個問題的方案。,100,ok,,
+277,"00:14:03,330 --> 00:14:06,430",We hope these choices make it easier for,我們希望這些選擇能讓你在忙,35,needs_revision,我們希望這些選擇能讓你在你,[medium] terminology: None; [high] meaning_drift: None
+278,"00:14:06,430 --> 00:14:09,270",you to grab something healthy during your busy day.,碌的一天中，輕鬆取得健康的食物。,87,minor_issues,,[low] style: None
+279,"00:14:10,110 --> 00:14:13,390",Another important part of our wellness program is,我們健康計畫的另一個重要部分是 mental hea,45,needs_revision,我們健康計畫的另一個重要部分是 心理健康,[high] meaning_drift: None
+280,"00:14:13,390 --> 00:14:14,630",mental health support.,lth support。,35,needs_revision,心理健康支持,[medium] terminology: None; [high] meaning_drift: None
+281,"00:14:15,410 --> 00:14:17,810",We know that mental well-being is just,我們知道心理福祉與生,35,needs_revision,我們知道心理健康只是,[medium] terminology: None; [high] meaning_drift: None
+282,"00:14:17,810 --> 00:14:19,650",as important as physical health.,理健康同等重要。,30,needs_revision,身體健康同等重要。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+283,"00:14:20,410 --> 00:14:22,630","Next month, we will be running a series",下個月，我們將舉辦一系列,87,minor_issues,下個月，我們將推出一系列,[low] collocation: None
+284,"00:14:22,630 --> 00:14:26,250",of mindfulness workshops focused on stress management.,專注於壓力管理的心智覺察工作坊。,80,minor_issues,,[medium] terminology: None
+285,"00:14:26,250 --> 00:14:29,990","We have decided to make this a quarterly event,",我們已決定將此活動改為每季舉辦，,80,minor_issues,,[medium] terminology: None
+286,"00:14:29,990 --> 00:14:32,390",so you can look forward to these sessions,因此，你可以期待每三個月舉,45,needs_revision,因此，你可以期待這些課程,[high] meaning_drift: None
+287,"00:14:32,390 --> 00:14:34,750",every three months to help you relax,辦一次這些課程，幫助你放,35,needs_revision,每三個月一次，幫助你放鬆,[medium] terminology: None; [high] meaning_drift: None
+288,"00:14:34,750 --> 00:14:37,210",and find better balance in your daily life.,鬆並在生活中找到更好的平衡。,77,minor_issues,,[medium] terminology: None; [low] style: None
+289,"00:14:37,910 --> 00:14:40,850","And, of course, to maintain that balance, we",此外，當然，為了維持這種平衡，,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+290,"00:14:40,850 --> 00:14:43,770",are also upgrading our physical health monitoring.,我們也在升級我們的體能健康監測。,77,minor_issues,,[low] style: None; [medium] terminology: None
+291,"00:14:44,470 --> 00:14:48,710","Previously, our company only offered one annual health check,",以往，我們公司只提供一次年度健康檢查，但,100,ok,,
+292,"00:14:48,710 --> 00:14:51,050",but we agree with your feedback that,我們同意你的反饋，認為,42,needs_revision,我們同意你的回饋，認為,[high] terminology: None; [low] style: None
+293,"00:14:51,050 --> 00:14:52,570",this isn't frequent enough.,這樣的頻率並不够。,42,needs_revision,,[low] style: None; [high] None: None
+294,"00:14:52,570 --> 00:14:56,050",We initially hoped to match the quarterly schedule,我們原本希望配合工作坊的每季,35,needs_revision,我們原本希望配合每季的時程,[medium] terminology: None; [high] meaning_drift: None
+295,"00:14:56,050 --> 00:14:59,410","of the workshops, but the logistics were too complex.",舉辦時程，但後勤事務過於複雜。,32,needs_revision,工作坊，但後勤事務過於複雜。,[medium] terminology: None; [high] meaning_drift: None; [low] missing_content: None
+296,"00:15:00,230 --> 00:15:03,250","Therefore, we have finalized a schedule for a",因此，我們已確定每年進行兩次,45,needs_revision,因此，我們已確定一個,[high] meaning_drift: None
+297,"00:15:03,250 --> 00:15:05,410",free health checkup twice a year.,免費健康檢查的時程。,35,needs_revision,每年兩次免費健檢。,[medium] terminology: None; [high] meaning_drift: None
+298,"00:15:06,250 --> 00:15:08,850","Now, you might be wondering how to get involved.",現在，你或許會想知道如何參與其中。,100,ok,,
+299,"00:15:09,370 --> 00:15:10,070",It's simple.,很簡單。,100,ok,,
+300,"00:15:10,630 --> 00:15:13,210",You will receive an email later today with,你將在今晚稍後收到一封電子信箱，內容包含,87,minor_issues,,[low] style: None
+301,"00:15:13,210 --> 00:15:16,570",full details about each program and a link,每個計畫的詳細資訊以及線上,35,needs_revision,每個計畫的詳細資訊以及連結,[medium] terminology: None; [high] meaning_drift: None
+302,"00:15:16,570 --> 00:15:18,530",to an online sign-up form.,報名表單的連結。,80,minor_issues,,[medium] terminology: None
+303,"00:15:19,190 --> 00:15:21,510","All of the activities are free, and you",所有活動均免費，你可,80,minor_issues,,[medium] terminology: None
+304,"00:15:21,510 --> 00:15:23,330",can join as many as you like.,以自由參加多項。,35,needs_revision,想參加幾項就參加幾項。,[medium] terminology: None; [high] meaning_drift: None
+305,"00:15:23,990 --> 00:15:26,670","If you have ideas for new wellness activities,",如果你有關於新健康活動的構想，,80,minor_issues,,[medium] terminology: None
+306,"00:15:27,150 --> 00:15:30,130","please email me, Sarah, the head of HR.",請寄信給我，Sarah，人事主管。,80,minor_issues,,[medium] terminology: None
+307,"00:15:30,590 --> 00:15:33,350","You can also send your ideas to your manager,",你也可以將你的構想發送給你的主管,42,needs_revision,你也可以將你的構想傳送給你的主管,[high] terminology: None; [low] style: None
+308,"00:15:33,590 --> 00:15:35,750",who will collect feedback from the team.,，由主管收集團隊的反饋意見。,32,needs_revision,，由主管收集團隊的回饋意見。,[high] terminology: None; [medium] terminology: None; [low] terminology: None
+309,"00:15:36,030 --> 00:15:38,830",We want this program to be something everyone,我們希望這個程式是大家都喜歡並能,45,needs_revision,我們希望這個程式是每個人都能,[high] meaning_drift: None
+310,"00:15:38,830 --> 00:15:40,850",enjoys and benefits from.,享有權益的內容。,45,needs_revision,享受並受益於。,[high] meaning_drift: None
+311,"00:15:42,050 --> 00:15:43,030",Question 11.,問題 11.,100,ok,,
+312,"00:15:43,630 --> 00:15:46,310",We need to find the reason for the wellness initiatives.,我們需要找出這些健康計畫的原因,45,needs_revision,我們需要找出推行這些健康計畫的原因,[high] meaning_drift: None
+313,"00:15:46,790 --> 00:15:49,910",Make sure to pay close attention to the details provided.,從音檔中,30,needs_revision,請仔細留意提供的細節,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+314,"00:15:50,370 --> 00:15:53,210","The speaker mentions that staff feel stress, but",講者提到員工感到壓力，但她明確表示：「We h,30,needs_revision,說話者提到員工感到壓力，不過：「We h,[low] style: None; [low] style: None; [high] meaning_drift: None; [high] meaning_drift: None
+315,"00:15:53,210 --> 00:15:56,350","she explicitly says, We haven't actually seen an",aven't actually seen an,45,needs_revision,我們實際上還沒看到一個,[high] meaning_drift: None
+316,"00:15:56,350 --> 00:15:58,410",increase in people taking sick leave.,請病假的人數增加。,100,ok,,
+317,"00:15:58,990 --> 00:16:00,970","So, option A is wrong.",因此，選項 A 是錯誤的。,100,ok,,
+318,"00:16:01,690 --> 00:16:05,550","She also states, This isn't intended as a bonus or reward.",她也表示，這並非旨在作為額外福利或獎勵。,87,minor_issues,,[low] style: None
+319,"00:16:06,190 --> 00:16:07,690",This eliminates option B.,此選項排除了 B。,87,minor_issues,因此排除了選項 B。,[low] style: None
+320,"00:16:08,290 --> 00:16:09,910",The correct answer comes next.,正確答案在下一項。,100,ok,,
+321,"00:16:09,910 --> 00:16:12,610",Our primary aim is to build a positive,我們的主要目標是建立一個積極,100,ok,,
+322,"00:16:12,610 --> 00:16:15,630",work environment where you feel supported and like,的工作環境，讓你感到受到支持，並成為團,42,needs_revision,的工作環境，讓你感到受到支援，並成為團,[high] terminology: None; [low] style: None
+323,"00:16:15,630 --> 00:16:17,030",a valued part of the team.,隊中有價值的一員。,100,ok,,
+324,"00:16:17,650 --> 00:16:20,710","So, the answer is C, to create a",因此，答案是 C，以建,87,minor_issues,所以，答案是 C，以建,[low] style: None
+325,"00:16:20,710 --> 00:16:22,310",more supportive atmosphere.,立更支持性的氛圍。,87,minor_issues,,[low] style: None
+326,"00:16:23,150 --> 00:16:24,070",Question 12.,第 12 題,100,ok,,
+327,"00:16:24,670 --> 00:16:27,490",We need to find the new activity the company is encouraging.,我們需要找出公司正在鼓勵的新活動。,100,ok,,
+328,"00:16:28,290 --> 00:16:31,130","Right in the beginning, the speaker immediately says,",一開始，演講者便立刻表示，,87,minor_issues,,[low] style: None
+329,"00:16:31,610 --> 00:16:34,650","We will have yoga sessions, which directly points",我們會進行瑜伽課程，這直接指向選,45,needs_revision,我們會進行瑜伽課程，這直接指向,[high] meaning_drift: None
+330,"00:16:34,650 --> 00:16:35,570",to option B.,項 B。,87,minor_issues,選項 B。,[low] style: None
+331,"00:16:36,230 --> 00:16:38,670","But, as we all know, because this is",但是，就像我們都知道的，因為,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+332,"00:16:38,670 --> 00:16:41,230","mentioned first doesn't mean it is correct, right?",這件事先被提到不代表它就是正確的，對吧？,100,ok,,
+333,"00:16:41,790 --> 00:16:42,710",Let's keep going.,我們繼續吧。,100,ok,,
+334,"00:16:43,230 --> 00:16:46,330","After that, the speaker mentions, Take the stairs,",接著，講者提到「Take the stai,32,needs_revision,接著，講者提到「Take the stairs,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+335,"00:16:46,850 --> 00:16:48,950",but that is just how to get to the room.,rs」，但這只是前往房間的方式。,45,needs_revision,,[high] meaning_drift: None
+336,"00:16:49,430 --> 00:16:52,970","She also mentions, Water, but tells you to bring your own.",她還提到水，但請你自備。,100,ok,,
+337,"00:16:53,570 --> 00:16:56,790","Therefore, options A and C are the wrong ones.",因此，選項 A 和 C 是錯誤的。,100,ok,,
+338,"00:16:57,290 --> 00:17:01,450","So, the answer is B, attending yoga classes.",因此，答案為 B，參加瑜伽課程。,100,ok,,
+339,"00:17:02,310 --> 00:17:03,250",Question 13.,第 13 題。,100,ok,,
+340,"00:17:03,250 --> 00:17:06,810",We need to find out what kind of snacks will be provided.,我們需要弄清楚會提供哪種零食。,100,ok,,
+341,"00:17:07,690 --> 00:17:11,810","The speaker lists healthy options, specifically mentioning including",講者列出健康選項，特別提到包含優,81,minor_issues,說話者列出健康選項，特別提到包含優質,[low] style: None; [low] style: None; [low] style: None
+342,"00:17:11,810 --> 00:17:12,329",yogurt.,格。,45,needs_revision,優格。,[high] meaning_drift: None
+343,"00:17:13,230 --> 00:17:14,550",This matches option B.,這符合選項 B。,100,ok,,
+344,"00:17:15,089 --> 00:17:15,970",What about the others?,其他人呢？,100,ok,,
+345,"00:17:16,609 --> 00:17:20,210","She mentions fresh cut fruit, but listen to the condition.",她提到會提供現切水果，但請留意其新鮮度。,100,ok,,
+346,"00:17:20,810 --> 00:17:22,130",But it spoils too quickly.,但它很容易變質。,100,ok,,
+347,"00:17:22,510 --> 00:17:24,829","Unfortunately, we won't be able to offer that.",很抱歉，我們無法提供該服務。,100,ok,,
+348,"00:17:25,630 --> 00:17:27,650",It's easy to pick the wrong answer if,如果在聽到「fruit」這,35,needs_revision,如果選錯答案，因為,[medium] terminology: None; [high] meaning_drift: None
+349,"00:17:27,650 --> 00:17:30,070",you stop listening after hearing the word fruit.,個詞後就停止聆聽，很容易選錯答案。,45,needs_revision,聽到「水果」這個詞後就停止聆聽。,[high] meaning_drift: None
+350,"00:17:30,070 --> 00:17:33,570","For option A, this option is not mentioned",選項 A 未提及此選項。,87,minor_issues,沒有提到選項 A。,[low] style: None
+351,"00:17:33,570 --> 00:17:34,750",at all in the recording.,錄音中完全沒有。,80,minor_issues,,[medium] terminology: None
+352,"00:17:35,350 --> 00:17:37,570","So, the answer is B, yogurt.",所以答案是 B，yogurt。,80,minor_issues,,[medium] terminology: None
+353,"00:17:38,550 --> 00:17:39,470",Question 14.,第 14 題。,100,ok,,
+354,"00:17:40,070 --> 00:17:41,750",We need to find out how often,我們需要確認健康,35,needs_revision,我們需要確認出頻率,[medium] terminology: None; [high] meaning_drift: None
+355,"00:17:41,750 --> 00:17:43,750",the health screening is organized.,檢查的舉辦頻率。,35,needs_revision,健康篩檢已安排。,[medium] terminology: None; [high] meaning_drift: None
+356,"00:17:43,750 --> 00:17:44,710",Be very careful.,請務必小心。,100,ok,,
+357,"00:17:45,410 --> 00:17:48,070","The speaker mentions, We have decided to make",講者提到，我們決定先將此活,39,needs_revision,說話者提到，我們決定要製作,[low] style: None; [low] style: None; [high] meaning_drift: None
+358,"00:17:48,070 --> 00:17:50,190",this a quarterly event first.,動改為每季舉辦。,35,needs_revision,這是首個每季舉辦的活動。,[medium] terminology: None; [high] meaning_drift: None
+359,"00:17:50,730 --> 00:17:53,090",But she is talking about the mindfulness workshops,但她談的是心理健康意識的,35,needs_revision,但她談的是正念工作坊,[medium] terminology: None; [high] meaning_drift: None
+360,"00:17:53,090 --> 00:17:56,130","for mental health awareness, not the health screening.",正念工作坊，而非健康檢查。,32,needs_revision,心理健康意識，而非健康篩檢。,[medium] terminology: None; [high] meaning_drift: None; [low] terminology: None
+361,"00:17:56,590 --> 00:17:59,390","So, this is not the part we should focus on.",因此，這部分不是我們應該著重的重點。,74,minor_issues,所以，這部分不是我們應該重點。,[medium] terminology: None; [low] register: None; [low] collocation: None
+362,"00:17:59,390 --> 00:18:02,210",When she finally switches to the topic of,當她最終轉向身體健康,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+363,"00:18:02,210 --> 00:18:05,030","physical health monitoring, the screening",監測這個主題時，篩檢,35,needs_revision,身體健康監測、篩檢，篩檢,[medium] terminology: None; [high] meaning_drift: None
+364,"00:18:05,030 --> 00:18:06,810","First, she says,",首先，她說，,100,ok,,
+365,"00:18:06,810 --> 00:18:10,790","Previously, our company only offered one annual health check,",我們公司以前只提供一次年度健康檢查，,100,ok,,
+366,"00:18:10,790 --> 00:18:12,650",but this isn't frequent enough.,但這樣不夠頻繁。,100,ok,,
+367,"00:18:13,130 --> 00:18:15,690","Since this is the old system, option C",因為這是舊制，所以選項 C 是,45,needs_revision,因為這是舊系統，所以選 C,[high] meaning_drift: None
+368,"00:18:15,690 --> 00:18:16,350",is wrong.,錯誤的。,100,ok,,
+369,"00:18:17,030 --> 00:18:19,890","Next, she says, They hoped to match the",接下來，她表示，他們希望,45,needs_revision,,[high] meaning_drift: None
+370,"00:18:19,890 --> 00:18:22,930","quarterly schedule of the workshops, but the logistics",配合工作坊的季度進度，但物流方面,35,needs_revision,工作坊的季度安排，但物流,[medium] terminology: None; [high] meaning_drift: None
+371,"00:18:22,930 --> 00:18:23,970",were too complex.,過於複雜。,100,ok,,
+372,"00:18:24,750 --> 00:18:26,770","Since this was just a hope that failed,",因為這只是未實現的願望，所以選項,45,needs_revision,,[high] meaning_drift: None
+373,"00:18:27,090 --> 00:18:28,550",option A is wrong.,A 是錯誤的。,80,minor_issues,,[medium] terminology: None
+374,"00:18:28,550 --> 00:18:32,670","Finally, she concludes, They have finalized the schedule",最後，她總結道，他們已確定每年,45,needs_revision,最後，她總結道，他們已確定日程安排,[high] meaning_drift: None
+375,"00:18:32,670 --> 00:18:35,230",for a free health check-up twice a year.,兩次的免費健檢行程。,35,needs_revision,每年兩次免費健檢。,[medium] terminology: None; [high] meaning_drift: None
+376,"00:18:35,770 --> 00:18:39,210","So, the answer is B, once every six months.",因此，答案為 B，每半年一次。,100,ok,,
+377,"00:18:39,850 --> 00:18:40,510",Last question.,最後一題。,100,ok,,
+378,"00:18:41,110 --> 00:18:41,970",Question 15.,第 15 題。,100,ok,,
+379,"00:18:42,750 --> 00:18:45,010",We need to find out how to join the program.,我們需要弄清楚如何加入這個課程。,100,ok,,
+380,"00:18:45,710 --> 00:18:47,570",Pay attention to the instructions given.,請注意所提供的指示。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+381,"00:18:48,170 --> 00:18:50,630","The speaker says, They can get involved through",演講者表示，他們可以透過線上,81,minor_issues,演講者表示，他們可以透過網路,[low] style: None; [low] terminology: None; [low] collocation: None
+382,"00:18:50,630 --> 00:18:52,670",a link to an online sign-up form.,報名表的連結參與。,35,needs_revision,線上報名表的連結。,[medium] terminology: None; [high] meaning_drift: None
+383,"00:18:53,110 --> 00:18:56,470",This matches filling out the form of option A.,這符合填寫選項 A 的形式。,80,minor_issues,,[medium] terminology: None
+384,"00:18:56,870 --> 00:18:58,950","So, option C is correct.",因此，選項 C 是正確的。,100,ok,,
+385,"00:18:59,470 --> 00:19:00,710",Why are the others wrong?,為什麼其他選項是錯誤的？,100,ok,,
+386,"00:19:01,090 --> 00:19:04,270","You only email Sarah, head of HR, or",如果你對新活動有任何構思，請透過電,30,needs_revision,你只寄電子郵件給莎拉，也就是人力資源主管，或者,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+387,"00:19:04,270 --> 00:19:07,010",your manager if you have ideas for new activities.,子信箱聯繫人事主管 Sarah 或你的主管。,30,needs_revision,子信箱聯絡人事主管 Sarah 或你的主管。,[high] terminology: None; [high] meaning_drift: None
+388,"00:19:07,450 --> 00:19:09,450",Not to register for the current ones.,不要為目前的課程註冊。,80,minor_issues,,[medium] terminology: None
+389,"00:19:10,510 --> 00:19:11,150",Yay!,太好了！,100,ok,,
+390,"00:19:11,730 --> 00:19:15,110",We finally grasped how to handle multiple choice questions,我們終於學會了如何應對多項選擇題。,100,ok,,
+391,"00:19:15,110 --> 00:19:16,550",in the IELTS Listening.,在 雅思 聽力中。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+392,"00:19:16,690 --> 00:19:18,950",How many correct answers have you got?,你答對幾題了？,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+393,"00:19:19,170 --> 00:19:21,990","For each incorrect answer, make sure to revisit",對於每一個錯誤的答案，請務必重,30,needs_revision,對於每一個錯誤的答案，請務必重新檢視,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+394,"00:19:21,990 --> 00:19:25,090",the detailed explanation part to understand why you,新檢視詳細的解析部分，以了解答錯,45,needs_revision,詳細說明部分，以了解你為何,[high] meaning_drift: None
+395,"00:19:25,090 --> 00:19:25,650",got it wrong.,的原因。,45,needs_revision,搞錯了。,[high] meaning_drift: None
+396,"00:19:25,650 --> 00:19:28,730",This is key to improving your listening skills and score.,這是提升你聽力技巧與分數的關鍵。,100,ok,,
+397,"00:19:29,190 --> 00:19:31,110","Now, let's review what we've learned today.",現在，讓我們複習今天所學的內容。,100,ok,,
+398,"00:19:35,280 --> 00:19:37,540",Today's lesson was divided into three parts.,今天的課程分為三個部分。,100,ok,,
+399,"00:19:38,020 --> 00:19:41,160",Part 1. General introduction to multiple choice questions.,第一部分。多項選擇題的簡介。,45,needs_revision,,[high] placeholder: None
+400,"00:19:41,600 --> 00:19:44,760",Part 2. Strategy or steps to handle the question type.,第二部分。處理此題型的策略或步驟。,45,needs_revision,,[high] placeholder: None
+401,"00:19:44,980 --> 00:19:46,200",There are four steps to this.,這個部分共有四個步驟。,100,ok,,
+402,"00:19:46,880 --> 00:19:49,500",Step 1. Read the instructions carefully.,步驟 1。仔細閱讀說明。,100,ok,,
+403,"00:19:50,440 --> 00:19:53,660",Step 2. Read the questions and underline keywords.,步驟 2。閱讀問題並為關鍵字劃底線。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+404,"00:19:54,500 --> 00:19:57,560",Step 3. Read the choices and underline keywords.,步驟 3。閱讀選項並為關鍵字劃底線。,80,minor_issues,,[medium] terminology: None
+405,"00:19:57,560 --> 00:20:01,660",Step 4. Listen to the recording and choose the correct answer.,步驟 4。聆聽錄音並選擇正確答案。,77,minor_issues,步驟 4。聽錄音並選擇正確答案。,[medium] terminology: None; [low] style: None
+406,"00:20:02,420 --> 00:20:04,940",Part 3. Practice an explanation.,第 3 部分。練習解釋。,100,ok,,
+407,"00:20:05,580 --> 00:20:06,820",That's it for today's lesson.,今天的課程到此結束。,80,minor_issues,,[medium] terminology: None
+408,"00:20:07,160 --> 00:20:09,580",Don't forget to do the exercises and practice,別忘了定期完成練習並,35,needs_revision,別忘了定期完成練習並練習,[medium] terminology: None; [high] meaning_drift: None
+409,"00:20:09,580 --> 00:20:11,270",what you've learned regularly.,複習所學內容。,80,minor_issues,,[medium] terminology: None
+410,"00:20:11,680 --> 00:20:13,910","Goodbye, and see you in the next lesson.",再見，我們下一堂課見。,100,ok,,

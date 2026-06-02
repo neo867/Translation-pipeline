@@ -1,0 +1,314 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:12,220 --> 00:00:14,870","Hey guys, welcome to our last lesson of",大家好，歡迎來到 雅思 聽,45,needs_revision,大家好，歡迎來到 雅思聽力課程,[high] meaning_drift: None
+2,"00:00:14,870 --> 00:00:16,180",the IELTS Listening course.,力課程的最後一堂課。,30,needs_revision,雅思聽力課程。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+3,"00:00:16,350 --> 00:00:18,470","In the previous lesson, we had a brief",在上一堂課中，我們對 marine arch,45,needs_revision,,[high] meaning_drift: None
+4,"00:00:18,470 --> 00:00:21,670",introduction to the topic of marine archaeology and,aeology 和 marigold shipwreck,35,needs_revision,海洋考古學主題介紹以及,[medium] terminology: None; [high] meaning_drift: None
+5,"00:00:21,670 --> 00:00:22,890",the marigold shipwreck.,這個主題進行了簡要介紹。,35,needs_revision,The marigold shipwreck.,[medium] terminology: None; [high] meaning_drift: None
+6,"00:00:23,470 --> 00:00:25,890","However, we haven't really practiced it yet.",不過，我們還沒有真正進行過練習。,100,ok,,
+7,"00:00:26,310 --> 00:00:28,550","Today, we are going to dive deep into",今天，我們將透過聆聽萬壽,45,needs_revision,今天，我們將深入探討,[high] meaning_drift: None
+8,"00:00:28,550 --> 00:00:30,990",section 4 by listening to what happened with,菊的相關內容，深入探討第 4,35,needs_revision,第 4 節，透過聆聽...,[medium] terminology: None; [high] meaning_drift: None
+9,"00:00:30,990 --> 00:00:31,650",the marigold.,部分。,35,needs_revision,萬壽菊。,[medium] terminology: None; [high] meaning_drift: None
+10,"00:00:32,220 --> 00:00:35,660",This is often considered the hardest part of the listening test,這通常被認為是聽力測驗中最困難的部分。,100,ok,,
+11,"00:00:35,660 --> 00:00:38,920",because it's a long academic lecture with no breaks.,因為這是一場沒有休息時間的長篇學術演講。,80,minor_issues,,[medium] terminology: None
+12,"00:00:39,930 --> 00:00:43,240","To master this, we need to change our mindset.",要掌握這一點，我們必須改變心態。,80,minor_issues,,[medium] terminology: None
+13,"00:00:43,430 --> 00:00:45,970",You shouldn't just wait for keywords anymore.,你不再應該只是等待關鍵字。,100,ok,,
+14,"00:00:46,650 --> 00:00:50,370","Instead, you need to listen like a university student taking notes.",相反地，你需要像大學生做筆記那樣聆聽。,87,minor_issues,相反地，你需要像大學生做筆記那樣聽。,[low] register: None
+15,"00:00:51,570 --> 00:00:54,050",Today's lesson is divided into three parts.,今天的課程分為三個部分。,100,ok,,
+16,"00:00:54,530 --> 00:00:58,730",Part 1. Technique: The Cornell method and signposting language.,第一部分。技巧：康乃爾筆記法與引導用語。,30,needs_revision,,[low] style: None; [low] style: None; [medium] terminology: None; [medium] terminology: None; [high] placeholder: None
+17,"00:00:59,350 --> 00:01:03,250",Part 2: Strategy or steps to handle the question type.,第二部分：處理此題型的策略或步驟。,45,needs_revision,,[high] placeholder: None
+18,"00:01:03,709 --> 00:01:06,210",Part 3. Practice and explanation.,第三部分。練習與解說。,45,needs_revision,,[high] placeholder: None
+19,"00:01:07,350 --> 00:01:11,070","Let's come to the first part, the Cornell method and signposting.",我們來進入第一部分：Cornell method 與 signposting。,70,minor_issues,我們來進入第一部分：康奈爾筆記法 與 標示語。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] terminology: None
+20,"00:01:16,260 --> 00:01:18,300",Section four is a long lecture.,第四部分是長篇講座。,100,ok,,
+21,"00:01:18,820 --> 00:01:20,800","If you just sit and wait for keywords,",如果你只是坐在那兒等待關鍵字，,100,ok,,
+22,"00:01:21,140 --> 00:01:22,580",you will easily get lost.,很容易就會迷失方向。,100,ok,,
+23,"00:01:23,200 --> 00:01:25,300","The best way to handle this, to me,",對我來說，處理這個問題,45,needs_revision,,[high] meaning_drift: None
+24,"00:01:25,620 --> 00:01:27,140",is to listen as if you are a,最好的方式是像大學,30,needs_revision,是像...一樣聆聽,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+25,"00:01:27,140 --> 00:01:28,980",university student taking notes.,生做筆記一樣去聆聽。,35,needs_revision,大學生做筆記。,[medium] terminology: None; [high] meaning_drift: None
+26,"00:01:29,560 --> 00:01:31,140",We use the Cornell method.,我們使用康奈爾筆記法。,87,minor_issues,,[low] style: None
+27,"00:01:31,960 --> 00:01:34,460",Imagine your paper is divided into two columns.,想像你的論文分為兩欄。,100,ok,,
+28,"00:01:35,240 --> 00:01:37,440",The left column is for headings or cues.,左欄用於標題或提示。,100,ok,,
+29,"00:01:38,180 --> 00:01:40,560",These are simply the titles or main topics,這些只是你考卷上直接看到,45,needs_revision,這些只是標題或主要主題,[high] meaning_drift: None
+30,"00:01:40,560 --> 00:01:43,100","you see right on your question paper, like",的標題或主要主題，例如,35,needs_revision,你看到你的考卷上，就像,[medium] terminology: None; [high] meaning_drift: None
+31,"00:01:43,100 --> 00:01:45,540",background or excavation process.,背景或挖掘過程。,80,minor_issues,,[medium] terminology: None
+32,"00:01:46,220 --> 00:01:48,120",This helps you to know what the speaker,這能幫助你了解演講,30,needs_revision,這能幫助你瞭解說話者,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+33,"00:01:48,120 --> 00:01:50,640",is focusing on during each part of the recording.,者在錄音各個部分的重點。,42,needs_revision,錄音各階段的重點。,[low] style: None; [high] meaning_drift: None
+34,"00:01:51,280 --> 00:01:53,060",The right column is for notes.,右欄用於備註。,100,ok,,
+35,"00:01:53,540 --> 00:01:55,400",This is where you write the details and,這裡是填寫詳細資訊的地方，以及,80,minor_issues,,[medium] terminology: None
+36,"00:01:55,400 --> 00:01:56,320",answers you hear.,你所聽到的答案。,100,ok,,
+37,"00:01:56,920 --> 00:01:59,460","By doing this, you ensure you never miss",透過這樣做，你可以確保不會遺,45,needs_revision,透過這樣做，你可以確保不會錯過,[high] meaning_drift: None
+38,"00:01:59,460 --> 00:02:02,120",information because you are tracking the structure.,漏任何資訊，因為你正在追蹤結構形式。,77,minor_issues,,[medium] terminology: None; [low] style: None
+39,"00:02:02,760 --> 00:02:04,500",But how do you know when the speaker,但你要如何知道說話者,70,minor_issues,但你要如何知道講者,[low] style: None; [medium] terminology: None; [medium] terminology: None; [low] style: None
+40,"00:02:04,500 --> 00:02:07,080",moves from the background to the excavation?,何時從背景轉移到挖掘區？,100,ok,,
+41,"00:02:07,360 --> 00:02:09,360",This is where signposting comes in.,這就是標示語的作用所在。,100,ok,,
+42,"00:02:10,320 --> 00:02:13,440",Signposting language acts like road signs in the speech.,路標語言在演講中如同路標一般發揮作用。,71,minor_issues,路標式語言在口語表達中就像路標一樣。,[medium] terminology: None; [low] style: None; [low] terminology: None; [low] style: None
+43,"00:02:13,820 --> 00:02:15,300",They tell you where you are.,它們會告訴你身處何處。,80,minor_issues,,[medium] terminology: None
+44,"00:02:15,880 --> 00:02:19,000","For example, to start a topic, you might hear:",例如，要開始一個主題，你可能會聽到：,100,ok,,
+45,"00:02:19,220 --> 00:02:20,760",Now let's start with.,現在讓我們開始。,80,minor_issues,,[medium] terminology: None
+46,"00:02:21,220 --> 00:02:23,940","To move to a new section, you might hear:",要進入下一個單元，你可能會聽到：,100,ok,,
+47,"00:02:24,120 --> 00:02:27,280",Moving on to... / Let's turn to...,接下來要討論... / 讓我們轉向...,100,ok,,
+48,"00:02:28,080 --> 00:02:30,360","To correct a false idea, you might hear:",要糾正錯誤觀念，你可能會聽到：,80,minor_issues,,[medium] terminology: None
+49,"00:02:30,820 --> 00:02:33,680",However / Actually.,不過 / 其實。,100,ok,,
+50,"00:02:34,140 --> 00:02:36,560",Combining these two skills is powerful.,結合這兩項技能將發揮強大功效。,100,ok,,
+51,"00:02:37,140 --> 00:02:39,440",Think of section 4 as a dense forest.,把第 4 節想像成一片茂密的森林。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+52,"00:02:40,180 --> 00:02:43,020",Your Cornell notes are the map showing the path.,你的康乃爾筆記就是顯示路徑的地圖。,84,minor_issues,,[low] style: None; [low] style: None
+53,"00:02:43,620 --> 00:02:46,900","And signposting, that is your signal telling you",還有路標提示，這就像是你的信號，明確告,30,needs_revision,還有路標提示，這就像是你的訊號，明確告,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+54,"00:02:46,900 --> 00:02:49,660",exactly when to move so you never get lost.,訴你何時該移動，讓你永遠不會迷路。,87,minor_issues,告訴你何時該移動，讓你永遠不會迷路。,[low] typo: None
+55,"00:02:54,990 --> 00:02:57,240",Now let's dive into how to actually tackle,現在讓我們深入探討如何實際應對,80,minor_issues,,[medium] terminology: None
+56,"00:02:57,240 --> 00:02:58,360",this part of the test.,測驗的這一小部分。,100,ok,,
+57,"00:02:58,860 --> 00:03:02,020",Here we follow the exact four steps that,接下來，我們將依照四個確,35,needs_revision,接下來，我們將依照四個步驟,[medium] terminology: None; [high] meaning_drift: None
+58,"00:03:02,020 --> 00:03:04,990",help us deal with the form completion question type,切的步驟，來應對聽力第一部分中表,30,needs_revision,幫助我們處理表單填寫題型,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+59,"00:03:04,990 --> 00:03:06,360",in the listening part 1.,單填寫的題型。,30,needs_revision,聽力部分一。,[medium] terminology: None; [high] placeholder: None; [high] meaning_drift: None
+60,"00:03:07,000 --> 00:03:09,720","Step 1, read the instructions carefully.",步驟一，仔細閱讀說明。,45,needs_revision,,[high] placeholder: None
+61,"00:03:10,440 --> 00:03:13,780","Step 2, read the questions and underline keywords.",步驟 2：閱讀題目並劃出關鍵字。,80,minor_issues,,[medium] terminology: None
+62,"00:03:14,740 --> 00:03:16,600","Step 3, predict the answer.",步驟 3：預測答案。,100,ok,,
+63,"00:03:17,360 --> 00:03:19,600","Step 4, listen to the recording",步驟 4：聆聽錄,30,needs_revision,步驟 4：聽錄音,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+64,"00:03:19,600 --> 00:03:20,920",and write down the answer.,音並寫下答案。,45,needs_revision,並寫下答案。,[high] meaning_drift: None
+65,"00:03:21,560 --> 00:03:24,280","In this lesson, let's narrow our focus to",在這堂課中，讓我們將焦點集中在,100,ok,,
+66,"00:03:24,280 --> 00:03:26,340",questions 31 to 35.,第 31 至 35 題。,80,minor_issues,,[medium] terminology: None
+67,"00:03:27,200 --> 00:03:29,820","Step 1, read the instructions carefully.",步驟 1：仔細閱讀說明。,100,ok,,
+68,"00:03:30,560 --> 00:03:33,040","For today's practice, the instruction is",今天的練習，每一題請,45,needs_revision,今天的練習，指示是,[high] meaning_drift: None
+69,"00:03:33,040 --> 00:03:35,980",write one word only for each answer.,僅寫一個單字作答。,80,minor_issues,,[medium] terminology: None
+70,"00:03:37,020 --> 00:03:40,340","Step 2, read the questions and underline keywords.",步驟 2：閱讀題目並為關鍵字劃線。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+71,"00:03:41,160 --> 00:03:44,720","Question 31, it was originally designed to transport ...",第 31 題，其原始設計目的為運輸……,100,ok,,
+72,"00:03:45,320 --> 00:03:49,200",The keywords are originally designed and transport.,關鍵字最初是為運輸而設計。,87,minor_issues,,[low] style: None
+73,"00:03:49,900 --> 00:03:51,720",This is in the background section.,這部分位於背景章節中。,100,ok,,
+74,"00:03:52,280 --> 00:03:55,820","Question 32, historical records suggest the cause of",第 32 題，歷史紀錄顯示沉沒的,42,needs_revision,第 32 題，歷史記錄顯示導致沉沒的原因,[low] terminology: None; [high] meaning_drift: None
+75,"00:03:55,820 --> 00:03:57,680",sinking was a...,原因為……,45,needs_revision,下沉是……,[high] meaning_drift: None
+76,"00:03:57,680 --> 00:03:59,800",The keywords are cause of sinking.,關鍵字為 cause of sinking。,35,needs_revision,關鍵字為 沉沒原因。,[medium] terminology: None; [high] meaning_drift: None
+77,"00:04:00,340 --> 00:04:02,300",This is also in the background.,這也位於背景章節中。,42,needs_revision,這也是在背景中。,[low] style: None; [high] meaning_drift: None
+78,"00:04:02,660 --> 00:04:06,060","Question 33, the site was first identified by ...",第 33 題，該地點最初由……確認,45,needs_revision,第 33 題，該地點最初由……發現,[high] meaning_drift: None
+79,"00:04:06,060 --> 00:04:07,140",in 1995.,在 1995 年。,100,ok,,
+80,"00:04:07,860 --> 00:04:12,340",The keywords are first identified by and 1995.,關鍵字是 1995 年所確定的。,87,minor_issues,,[low] style: None
+81,"00:04:13,200 --> 00:04:15,160",This is in the excavation section.,這是在挖掘部分。,100,ok,,
+82,"00:04:16,060 --> 00:04:19,680","Question 34, initial surveys were difficult due to",第 34 題，初期的調查因該區域的…,30,needs_revision,第 34 題，初期的調查因為…,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+83,"00:04:19,680 --> 00:04:21,060",the ... in the area.,…而面臨困難。,45,needs_revision,該區域的……。,[high] meaning_drift: None
+84,"00:04:21,780 --> 00:04:25,380","The keywords are initial surveys, difficult due to",關鍵字是 initial surveys、difficult due to 和,70,minor_issues,關鍵字是 初步調查、difficult 是因為 和,[medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None
+85,"00:04:25,380 --> 00:04:27,220",and in the area.,in the area。,45,needs_revision,and in the area。,[high] meaning_drift: None
+86,"00:04:28,040 --> 00:04:30,960","Question 35, archaeologists used a ...",第35題，考古學家使用了一個,100,ok,,
+87,"00:04:30,960 --> 00:04:33,120",to find the accurate location of the ship.,來找到船隻的準確位置,100,ok,,
+88,"00:04:33,520 --> 00:04:36,800",The keywords are archaeologists and accurate location.,關鍵字是 archaeologists 和 accurate location。,74,minor_issues,關鍵字是 考古學家 和 精確位置。,[medium] terminology: None; [low] style: None; [low] style: None
+89,"00:04:37,620 --> 00:04:39,660","Step 3, predict the answer.",步驟 3，預測答案。,100,ok,,
+90,"00:04:40,360 --> 00:04:42,840","While we underline, we should also predict the",當我們標註下劃線時，也應預測答案。,77,minor_issues,,[low] style: None; [medium] terminology: None
+91,"00:04:42,840 --> 00:04:43,960",type of word we need.,我們需要的詞性。,80,minor_issues,,[medium] terminology: None
+92,"00:04:44,640 --> 00:04:46,740","Question 31, transport.",第 31 題，運輸。,100,ok,,
+93,"00:04:47,620 --> 00:04:49,180",We need a noun for a type of,我們需要一個名詞，用來表示某,100,ok,,
+94,"00:04:49,180 --> 00:04:50,280",cargo or goods.,種貨物或商品。,87,minor_issues,,[low] style: None
+95,"00:04:51,220 --> 00:04:54,340","Question 32, cause was a...",第 32 題，原因是……,100,ok,,
+96,"00:04:54,340 --> 00:04:56,620",We need a noun for an event or disaster.,我們需要一個名詞，用來表示某種活動或災難。,100,ok,,
+97,"00:04:57,420 --> 00:05:00,760","Question 33, identified by...",第 33 題，由……識別,84,minor_issues,第 33 題，由……標識,[low] terminology: None; [low] register: None
+98,"00:05:00,760 --> 00:05:03,120",We need a noun representing a person or,我們需要一個名詞，用來表示一,45,needs_revision,,[high] meaning_drift: None
+99,"00:05:03,120 --> 00:05:04,160",a group of people.,個人或一群人。,100,ok,,
+100,"00:05:04,720 --> 00:05:08,120","Question 34, difficult due to...",第 34 題，難度較高，原因在於……,80,minor_issues,,[medium] terminology: None
+101,"00:05:08,120 --> 00:05:10,920",We need a noun related to a natural obstacle,我們需要一個與自然障礙或天氣狀況相關的,32,needs_revision,,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+102,"00:05:10,920 --> 00:05:12,040",or weather condition.,名詞（noun）。,87,minor_issues,,[low] style: None
+103,"00:05:12,540 --> 00:05:15,460","Question 35, used a...",第 35 題，使用了一個……,100,ok,,
+104,"00:05:15,460 --> 00:05:17,880",We need a noun for a tool or device.,我們需要一個名詞，用來表示工具或裝置。,100,ok,,
+105,"00:05:19,040 --> 00:05:21,640","Step 4, listen to the recording",步驟 4，聆聽錄音,77,minor_issues,,[medium] terminology: None; [low] style: None
+106,"00:05:21,640 --> 00:05:22,920",and write down the answer.,並寫下答案。,100,ok,,
+107,"00:05:23,840 --> 00:05:26,740",Now prepare your Cornell note layout and try,現在請準備好你的康奈爾筆記版式，,87,minor_issues,,[low] style: None
+108,"00:05:26,740 --> 00:05:29,760",to listen for the signpost to navigate through the questions.,並嘗試聆聽引導詞，以便在回答問題時掌握方向。,70,minor_issues,並嘗試聽提示詞，來幫助你回答問題。,[medium] terminology: None; [medium] terminology: None; [low] style: None; [low] terminology: None; [low] style: None
+109,"00:05:30,380 --> 00:05:31,160",Let's do it!,我們來做吧！,100,ok,,
+110,"00:05:32,300 --> 00:05:33,780",Good morning everyone.,大家早安。,80,minor_issues,,[medium] terminology: None
+111,"00:05:34,420 --> 00:05:37,240",In today's lecture we're going to delve into,在今天的講座中，我們將深入,100,ok,,
+112,"00:05:37,240 --> 00:05:40,660","marine archaeology, looking at how we piece together",探討海洋考古學，檢視如何根據在海,45,needs_revision,,[high] meaning_drift: None
+113,"00:05:40,660 --> 00:05:43,060",history from objects found on the seabed.,底發現的受詞來拼湊歷史。,45,needs_revision,從海底發現的物件來拼湊歷史。,[high] meaning_drift: None
+114,"00:05:43,760 --> 00:05:46,140","To illustrate this, I'm going to share a",為了說明這一點，我將分享一項,100,ok,,
+115,"00:05:46,140 --> 00:05:49,060","detailed case study of a recent excavation,",近期考古發掘的詳細案例研究，,100,ok,,
+116,"00:05:49,060 --> 00:05:51,060",the recovery of the Marigold.,萬壽菊號的救援。,80,minor_issues,,[medium] terminology: None
+117,"00:05:51,620 --> 00:05:54,380",Now let's start with some background information.,現在讓我們開始一些背景資訊。,74,minor_issues,現在讓我們先介紹一些背景資訊。,[medium] terminology: None; [low] collocation: None; [low] terminology: None
+118,"00:05:54,980 --> 00:05:57,620",The Marigold was a merchant vessel that met,「萬壽菊號」是一艘商船，於,100,ok,,
+119,"00:05:57,620 --> 00:05:59,940",its tragic end off the coast of Wales,17世紀末在威爾斯海岸遭,39,needs_revision,在威爾斯海岸外的悲劇結局,[low] style: None; [low] style: None; [high] meaning_drift: None
+120,"00:05:59,940 --> 00:06:01,640",in the late 17th century.,遇悲劇性沉沒。,30,needs_revision,17世紀末。,[high] placeholder: None; [high] meaning_drift: None
+121,"00:06:02,360 --> 00:06:05,140","Unlike the warships often discovered in this region,",與在此區域經常發現的軍艦不同，Mari,84,minor_issues,與在此地區經常發現的軍艦不同，Mari,[low] terminology: None; [low] placeholder: None
+122,"00:06:05,580 --> 00:06:08,180",the Marigold was purely a commercial carrier.,gold 號純粹是一艘商用運載船。,30,needs_revision,金盞花號純粹是一艘商用貨輪。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+123,"00:06:09,060 --> 00:06:11,740","We've analyzed port authority records from Bristol,",我們已分析來自布里斯托的港口管理處,77,minor_issues,,[low] style: None; [medium] terminology: None
+124,"00:06:11,740 --> 00:06:14,300","her home port, and they reveal that she was",紀錄，該處為她的母港，紀錄顯示,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+125,"00:06:14,300 --> 00:06:16,720",originally designed to transport sugar,她最初是設計用來運輸糖的。,45,needs_revision,它最初是設計用來運輸糖的。,[high] meaning_drift: None
+126,"00:06:16,720 --> 00:06:19,400",from the Caribbean colonies back to Britain.,從加勒比海殖民地回到英國。,80,minor_issues,,[medium] terminology: None
+127,"00:06:19,980 --> 00:06:22,940","For centuries, the exact reason for her disappearance",數個世紀以來，她失蹤的確切原因始,45,needs_revision,數個世紀以來，她失蹤的確切原因一直,[high] meaning_drift: None
+128,"00:06:22,940 --> 00:06:24,040",remained a mystery.,終是一個謎。,100,ok,,
+129,"00:06:24,740 --> 00:06:27,580",Local legends suggested she was driven onto rocks,地方傳說認為，她曾遭風暴驅逐至礁,81,minor_issues,地方傳說認為，她曾遭風暴推上至礁石,[low] style: None; [low] collocation: None; [low] collocation: None
+130,"00:06:27,580 --> 00:06:28,260",by a storm.,石上。,45,needs_revision,由一場暴風雨。,[high] meaning_drift: None
+131,"00:06:28,780 --> 00:06:32,440","However, archaeologists recently uncovered a letter written by",然而，考古學家最近發現了一封由少數倖存者,81,minor_issues,然而，考古學家最近發現了一封由,[low] style: None; [low] style: None; [low] style: None
+132,"00:06:32,440 --> 00:06:33,900",one of the few survivors.,之一所寫的信件。,42,needs_revision,少數倖存者之一,[low] style: None; [high] meaning_drift: None
+133,"00:06:34,400 --> 00:06:37,260",This document suggests the cause of sinking was,這份文件指出，沉沒的真正原因其,35,needs_revision,這份文件指出，沉沒的原因是,[medium] terminology: None; [high] meaning_drift: None
+134,"00:06:37,260 --> 00:06:38,460",actually a fire.,實是火災。,100,ok,,
+135,"00:06:39,140 --> 00:06:41,500",It appears a lantern was knocked over in,似乎有一盞燈被碰倒了,87,minor_issues,,[low] style: None
+136,"00:06:41,500 --> 00:06:44,740","the crew's quarters, causing a blaze that spread rapidly,",船員艙室發生火災，火势迅速蔓延，,45,needs_revision,,[high] None: None
+137,"00:06:44,990 --> 00:06:46,740",forcing the crew to abandon ship.,迫使船員棄船逃生。,100,ok,,
+138,"00:06:47,420 --> 00:06:50,540","Moving on to the excavation process, the wreck",接下來介紹發掘過程，這艘殘骸在未經干擾的,35,needs_revision,接著來看發掘過程，這艘殘骸,[medium] terminology: None; [high] meaning_drift: None
+139,"00:06:50,540 --> 00:06:53,560",lay undisturbed for over 300 years.,情況下靜置了超過 300 年。,100,ok,,
+140,"00:06:54,260 --> 00:06:57,680","Interestingly, it wasn't found by a professional survey team.",有趣的是，它並非由專業調查團隊發現。,100,ok,,
+141,"00:06:58,060 --> 00:07:01,500",The site was first identified in 1995 by,該地點於 1995 年首次被一,45,needs_revision,該地點於 1995 年由,[high] meaning_drift: None
+142,"00:07:01,500 --> 00:07:02,840",a group of amateur divers.,組業餘潛水員發現。,45,needs_revision,一群業餘潛水員。,[high] meaning_drift: None
+143,"00:07:03,520 --> 00:07:05,760",These were members of a local club swimming,這些是當時在該區域游泳的當地俱樂,45,needs_revision,這些是當時在該區域游泳的當地俱樂部的成員,[high] meaning_drift: None
+144,"00:07:05,760 --> 00:07:08,880",in the area who noticed unusual timber ribs,部成員，他們注意到有異常的木質肋,30,needs_revision,成員，他們注意到異常的木肋,[medium] terminology: None; [high] meaning_drift: None; [low] collocation: None; [low] style: None
+145,"00:07:08,880 --> 00:07:11,520",perturbing from the sand and reported the find.,骨從沙堆中突出，並通報了這項發現。,42,needs_revision,,[high] meaning_drift: None; [low] register: None
+146,"00:07:12,120 --> 00:07:14,990","When the professional archaeological team arrived,",當專業考古團隊抵達時，他們,100,ok,,
+147,"00:07:14,990 --> 00:07:16,900",they faced a hostile environment.,面臨著惡劣的環境。,100,ok,,
+148,"00:07:17,300 --> 00:07:20,740",They reported that initial surveys were extremely difficult,他們表示，由於該海岸線特定區域,35,needs_revision,他們報告說，初步調查非常困難,[medium] terminology: None; [high] meaning_drift: None
+149,"00:07:20,740 --> 00:07:23,260",due to the strong currents in that specific,的洋流強勁，初步調查極,35,needs_revision,該處強勁的洋流,[medium] terminology: None; [high] meaning_drift: None
+150,"00:07:23,260 --> 00:07:24,520",part of the coastline.,具挑戰性。,45,needs_revision,海岸線的一部分。,[high] meaning_drift: None
+151,"00:07:24,860 --> 00:07:27,600",The water moves with such ferocity that divers,水流湍急，潛水員只能安全,45,needs_revision,水流湍急，潛水員,[high] meaning_drift: None
+152,"00:07:27,600 --> 00:07:29,990","can only safely work for short periods,",地進行短時間作業，使,45,needs_revision,只能安全地短時間工作,[high] meaning_drift: None
+153,"00:07:30,280 --> 00:07:33,920",making traditional visual inspection nearly impossible.,得傳統目視檢查幾乎無法實施。,81,minor_issues,幾乎無法進行傳統的目視檢查。,[low] style: None; [low] grammar: None; [low] collocation: None
+154,"00:07:34,420 --> 00:07:37,300","Usually, in these conditions, we would rely on",通常，在這些情況下，我們會依賴,100,ok,,
+155,"00:07:37,300 --> 00:07:38,420",sonar technology.,聲納技術。,100,ok,,
+156,"00:07:38,940 --> 00:07:40,600","The team did attempt this,",團隊確實嘗試過,100,ok,,
+157,"00:07:40,600 --> 00:07:43,960","but because the wreck was buried deep under dense sand,",，但由於殘骸深埋於濃密的沙層,80,minor_issues,,[medium] terminology: None
+158,"00:07:43,960 --> 00:07:46,940",the sonar waves just bounced off the bottom without,之下，聲波僅從底部反彈，未能,30,needs_revision,,[low] style: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+159,"00:07:46,940 --> 00:07:48,220",revealing the structure.,揭示其結構。,100,ok,,
+160,"00:07:48,660 --> 00:07:51,660",The team needed a way to see through the sand.,團隊需要一種能穿透沙層進行觀察的方法。,100,ok,,
+161,"00:07:52,260 --> 00:07:55,160","Realizing the ship carried heavy iron cannons, the",考古學家發現船隻搭載著沉重的鐵製,45,needs_revision,考古學家發現船隻搭載著沉重的鐵砲,[high] meaning_drift: None
+162,"00:07:55,160 --> 00:07:58,580",archaeologists decided to use a high-powered magnet,砲彈，因此決定在潛水前使用高功率磁,30,needs_revision,考古學家決定使用高功率磁力儀,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+163,"00:07:58,580 --> 00:08:00,420",for site mapping before diving.,鐵進行地點地圖繪製。,87,minor_issues,,[low] style: None
+164,"00:08:01,080 --> 00:08:03,180","By towing this device over the surface,",透過在表面拖曳此裝置，,100,ok,,
+165,"00:08:03,180 --> 00:08:06,680","they detected magnetic anomalies caused by the iron,",他們檢測到由鐵引起的磁異常，,100,ok,,
+166,"00:08:06,680 --> 00:08:09,960",allowing them to draw a precise map of the wreck's layout.,讓他們能夠繪製出沉船佈局的地圖。,100,ok,,
+167,"00:08:17,200 --> 00:08:18,380",Did you get all of them?,你拿到全部了嗎？,100,ok,,
+168,"00:08:18,840 --> 00:08:20,740",Let's listen again with the transcript,讓我們搭配逐字稿再聽一次,100,ok,,
+169,"00:08:20,740 --> 00:08:23,040",to make sure all your answers are correct.,，確保你的答案都是正確的。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+170,"00:08:23,040 --> 00:08:24,440","Good morning, everyone.",大家早安。,80,minor_issues,,[medium] terminology: None
+171,"00:08:24,880 --> 00:08:27,900","In today's lecture, we're going to delve into",在今天的課程中，我們將深入探,45,needs_revision,在今天的課程中，我們將深入探討,[high] meaning_drift: None
+172,"00:08:27,900 --> 00:08:31,299","marine archaeology, looking at how we piece together",討海洋考古學，研究如何根據在海床,45,needs_revision,海洋考古學，探討我們如何拼湊出,[high] meaning_drift: None
+173,"00:08:31,299 --> 00:08:33,720",history from objects found on the seabed.,上發現的受詞來拼湊歷史。,45,needs_revision,從海底發現的物件來拼湊歷史。,[high] meaning_drift: None
+174,"00:08:34,120 --> 00:08:36,820","To illustrate this, I'm going to share a",為了說明這一點，我將分享一,100,ok,,
+175,"00:08:36,820 --> 00:08:39,640","detailed case study of a recent excavation,",個近期挖掘的詳細案例研究，,87,minor_issues,近期挖掘的詳細案例研究,[low] grammar: None
+176,"00:08:39,640 --> 00:08:41,920",the recovery of the Marigold.,金盞花的恢復。,77,minor_issues,金盞花的復原。,[medium] terminology: None; [low] collocation: None
+177,"00:08:42,280 --> 00:08:45,040","Now, let's start with some background information.",現在，讓我們開始一些背景資訊。,77,minor_issues,現在，讓我們開始一些背景資料。,[medium] terminology: None; [low] collocation: None
+178,"00:08:45,760 --> 00:08:48,280",The Marigold was a merchant vessel that met,「金盞花號」是一艘商船，於1,30,needs_revision,,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+179,"00:08:48,280 --> 00:08:50,580",its tragic end off the coast of Wales,7世紀晚期在威爾斯海岸,39,needs_revision,在威爾斯海岸的悲劇結局,[low] style: None; [low] style: None; [high] meaning_drift: None
+180,"00:08:50,580 --> 00:08:52,300",in the late 17th century.,遭遇悲劇性沉沒。,30,needs_revision,17世紀末。,[high] placeholder: None; [high] meaning_drift: None
+181,"00:08:53,160 --> 00:08:55,780","Unlike the warships often discovered in this region,",與經常在該區域發現的戰艦不同，金,45,needs_revision,,[high] meaning_drift: None
+182,"00:08:56,200 --> 00:08:58,760",the Marigold was purely a commercial carrier.,盞花號純粹是一艘商用載運船。,30,needs_revision,金盞花號純粹是一艘商用貨輪。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+183,"00:08:59,400 --> 00:09:02,400","We've analyzed port authority records from Bristol,",我們分析了布里斯托港務局的紀錄，,77,minor_issues,,[low] style: None; [medium] terminology: None
+184,"00:09:02,400 --> 00:09:04,960","her home port, and they reveal that she was",該地為她的母港，紀錄顯示她,74,minor_issues,她的母港，並顯示她,[medium] terminology: None; [low] style: None; [low] collocation: None
+185,"00:09:04,960 --> 00:09:07,440",originally designed to transport sugar,最初是設計用來運輸糖的。,100,ok,,
+186,"00:09:07,440 --> 00:09:09,990",from the Caribbean colonies back to Britain,從加勒比海殖民地回到英國。,80,minor_issues,,[medium] terminology: None
+187,"00:09:10,820 --> 00:09:13,620","For centuries, the exact reason for her disappearance",幾個世紀以來，她失蹤的確切原因,100,ok,,
+188,"00:09:13,620 --> 00:09:14,700",remained a mystery.,一直是個謎。,100,ok,,
+189,"00:09:15,400 --> 00:09:18,220",Local legends suggested she was driven onto rocks,當地傳說指出，她曾遭暴風雨驅趕至,74,minor_issues,,[low] style: None; [medium] terminology: None; [low] style: None
+190,"00:09:18,220 --> 00:09:18,920",by a storm.,岩石上。,45,needs_revision,by a storm.,[high] meaning_drift: None
+191,"00:09:19,460 --> 00:09:23,100","However, archaeologists recently uncovered a letter written by",然而，考古學家最近發現了一封由少數倖存者,81,minor_issues,然而，考古學家最近發現了一封由,[low] style: None; [low] style: None; [low] style: None
+192,"00:09:23,100 --> 00:09:24,340",one of the few survivors.,之一寫下的信件。,42,needs_revision,少數倖存者之一,[low] style: None; [high] meaning_drift: None
+193,"00:09:24,980 --> 00:09:27,920",This document suggests the cause of sinking was,這份文件顯示，沉沒的原因實際上是,80,minor_issues,,[medium] terminology: None
+194,"00:09:27,920 --> 00:09:29,120",actually a fire.,一場火災。,100,ok,,
+195,"00:09:29,820 --> 00:09:32,160",It appears a lantern was knocked over in,看來是有一盞燈被碰倒了,100,ok,,
+196,"00:09:32,160 --> 00:09:35,340","the crew's quarters, causing a blaze that spread rapidly,",船員艙房，引發迅速蔓延的火勢,80,minor_issues,,[medium] terminology: None
+197,"00:09:35,540 --> 00:09:37,420",forcing the crew to abandon ship.,，迫使船員棄船。,100,ok,,
+198,"00:09:38,060 --> 00:09:40,640","Moving on to the excavation process,",接下來進入發掘過程，這艘沉,45,needs_revision,接下來進入發掘過程，。,[high] meaning_drift: None
+199,"00:09:40,640 --> 00:09:44,460",the wreck lay undisturbed for over 300 years.,船在海底靜置了超過 300 年。,80,minor_issues,,[medium] terminology: None
+200,"00:09:44,960 --> 00:09:48,340","Interestingly, it wasn't found by a professional survey team.",有趣的是，它並非由專業測量團隊發現。,80,minor_issues,,[medium] terminology: None
+201,"00:09:48,740 --> 00:09:52,100",The site was first identified in 1995 by,該地點於 1995 年由一群業,45,needs_revision,該地點於 1995 年由,[high] meaning_drift: None
+202,"00:09:52,100 --> 00:09:53,540",a group of amateur divers.,餘潛水員首次發現。,35,needs_revision,一群業餘潛水員。,[medium] terminology: None; [high] meaning_drift: None
+203,"00:09:54,180 --> 00:09:56,420",These were members of a local club swimming,這些是當時在該區域游泳的當地俱樂,45,needs_revision,這些是當時在該區域游泳的當地俱樂部的成員,[high] meaning_drift: None
+204,"00:09:56,420 --> 00:09:59,540",in the area who noticed unusual timber ribs,部成員，他們注意到有異常的木質,30,needs_revision,成員，他們注意到異常的木質肋骨,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+205,"00:09:59,540 --> 00:10:02,180",perturbing from the sand and reported the find.,肋骨從沙中露出，並通報了這項發現。,45,needs_revision,從沙中發現並通報。,[high] meaning_drift: None
+206,"00:10:02,920 --> 00:10:05,600","When the professional archaeological team arrived,",當專業考古團隊抵達時，他們面臨著,45,needs_revision,,[high] meaning_drift: None
+207,"00:10:05,600 --> 00:10:07,520",they faced a hostile environment.,一個充滿敵意的環境。,100,ok,,
+208,"00:10:08,000 --> 00:10:11,380",They reported that initial surveys were extremely difficult,他們表示，由於該海岸線特定區域的,35,needs_revision,他們報告說，初步調查非常困難,[medium] terminology: None; [high] meaning_drift: None
+209,"00:10:11,380 --> 00:10:13,920",due to the strong currents in that specific,水流湍急，初步調查工作,35,needs_revision,該處特定的強水流,[medium] terminology: None; [high] meaning_drift: None
+210,"00:10:13,920 --> 00:10:15,180",part of the coastline.,極具挑戰性。,45,needs_revision,海岸線的一部分。,[high] meaning_drift: None
+211,"00:10:15,520 --> 00:10:18,260",The water moves with such ferocity that divers,水流湍急至潛水員僅能安,45,needs_revision,水流湍急，潛水員,[high] meaning_drift: None
+212,"00:10:18,260 --> 00:10:21,020","can only safely work for short periods,",全作業短時間，使得,45,needs_revision,只能安全地短時間工作,[high] meaning_drift: None
+213,"00:10:21,020 --> 00:10:24,480",making traditional visual inspection nearly impossible.,傳統目視檢查幾乎無法進行。,87,minor_issues,,[low] style: None
+214,"00:10:25,180 --> 00:10:29,080","Usually in these conditions, we would rely on sonar technology.",在這種狀況下，我們通常會依賴聲納技術。,100,ok,,
+215,"00:10:29,640 --> 00:10:31,320","The team did attempt this,",該團隊確實嘗試過，,100,ok,,
+216,"00:10:31,320 --> 00:10:34,660","but because the wreck was buried deep under dense sand,",但由於殘骸深埋於濃密的沙層之,74,minor_issues,但因為殘骸深埋在厚厚的沙層底下,[low] style: None; [medium] terminology: None; [low] register: None
+217,"00:10:34,660 --> 00:10:37,600",the sonar waves just bounced off the bottom without,下，聲納波僅從底部反射，未能,100,ok,,
+218,"00:10:37,600 --> 00:10:38,820",revealing the structure.,顯示出結構。,100,ok,,
+219,"00:10:39,040 --> 00:10:42,320",The team needed a way to see through the sand.,該團隊需要一種能穿透沙層的方法。,100,ok,,
+220,"00:10:42,960 --> 00:10:45,560","Realizing the ship carried heavy iron cannons,",意識到船上載有沉重的鐵砲，,87,minor_issues,意識到船上載有沉重的大炮，,[low] terminology: None
+221,"00:10:45,560 --> 00:10:49,220",the archaeologists decided to use a high-powered magnet,考古學家決定在潛水前使用高功率磁鐵,87,minor_issues,考古學家決定在潛水前使用強力磁鐵,[low] collocation: None
+222,"00:10:49,220 --> 00:10:51,080",for site mapping before diving.,進行遺址地圖繪製。,42,needs_revision,進行網站地圖繪製。,[high] meaning_drift: None; [low] register: None
+223,"00:10:51,700 --> 00:10:53,840","By towing this device over the surface,",透過在表面拖曳此裝置，,100,ok,,
+224,"00:10:53,840 --> 00:10:57,400","they detected magnetic anomalies caused by the iron,",他們偵測到由鐵質引起的磁異常，,100,ok,,
+225,"00:10:57,400 --> 00:11:00,780",allowing them to draw a precise map of the wreck's layout.,從而能夠繪製出沉船結構的精確地圖。,80,minor_issues,,[medium] terminology: None
+226,"00:11:02,160 --> 00:11:03,280",Question 31.,第 31 題。,100,ok,,
+227,"00:11:03,920 --> 00:11:05,960",We need to find what the ship transported.,我們需要找出這艘船運送了什麼。,100,ok,,
+228,"00:11:06,760 --> 00:11:08,840",The speaker uses the start signpost.,演講者使用「start」作為路標詞。,71,minor_issues,演講者使用「開始」作為引導詞。,[low] style: None; [medium] terminology: None; [low] terminology: None; [low] terminology: None
+229,"00:11:09,280 --> 00:11:11,820","Now, let's start with some background information.",現在，我們先來提供一些背景資訊。,80,minor_issues,,[medium] terminology: None
+230,"00:11:12,520 --> 00:11:16,180","Then, he mentions, originally designed to transport sugar",然後，他提到，最初是設計用來運輸糖的,87,minor_issues,,[low] style: None
+231,"00:11:16,180 --> 00:11:18,760",from the Caribbean colonies back to Britain.,從加勒比海殖民地回到英國。,80,minor_issues,,[medium] terminology: None
+232,"00:11:19,600 --> 00:11:21,620","Therefore, the answer is sugar.",因此，答案是糖。,100,ok,,
+233,"00:11:23,040 --> 00:11:24,140",Question 32.,第 32 題。,100,ok,,
+234,"00:11:24,820 --> 00:11:27,060","Here, we need the cause of sinking.",這裡，我們需要找出沉沒的原因。,80,minor_issues,,[medium] terminology: None
+235,"00:11:27,700 --> 00:11:28,700",Be careful here.,請注意這裡。,100,ok,,
+236,"00:11:29,140 --> 00:11:32,500",The speaker mentions local legends suggested it was,講者提到，當地傳說稱它被風,30,needs_revision,說話者提到，當地傳說說它可能是,[low] style: None; [medium] terminology: None; [low] style: None; [high] meaning_drift: None
+237,"00:11:32,500 --> 00:11:34,740",driven onto rocks by a storm.,暴推上了岩石。,45,needs_revision,因風暴擱淺在岩石上。,[high] meaning_drift: None
+238,"00:11:35,320 --> 00:11:37,800","So, many of you might have written rocks",所以，你們中的許多人可能已經在答題卷上寫下,39,needs_revision,所以，你們中的許多人可能已經在答題捲上寫,[high] terminology: None; [low] register: None; [low] style: None
+239,"00:11:37,800 --> 00:11:39,760",or storm into your answer sheet.,了 rocks 或 storm。,35,needs_revision,或衝進你的答題紙。,[medium] terminology: None; [high] meaning_drift: None
+240,"00:11:40,140 --> 00:11:43,300","But then, he uses the contrast signpost.",接著，他使用了對比路標。,77,minor_issues,接著，他使用了對比信號詞。,[medium] terminology: None; [low] terminology: None
+241,"00:11:44,040 --> 00:11:47,140","However, that's the reason why these two answers",然而，這就是這兩個答案不正確,42,needs_revision,不過，這就是為什麼這兩個答案不正確,[low] style: None; [high] meaning_drift: None
+242,"00:11:47,140 --> 00:11:47,780",are incorrect.,的原因。,35,needs_revision,是錯誤的。,[medium] terminology: None; [high] meaning_drift: None
+243,"00:11:48,400 --> 00:11:51,620","He says, this document suggests the cause of",他提到，這份文件顯示，沉沒的原,45,needs_revision,他提到，這份文件顯示，原因,[high] meaning_drift: None
+244,"00:11:51,620 --> 00:11:53,440",sinking was actually a fire.,因實際上是一場火災。,45,needs_revision,沉沒其實是一場火災。,[high] meaning_drift: None
+245,"00:11:53,840 --> 00:11:56,100","So, the correct answer is fire.",所以，正確答案是 fire。,100,ok,,
+246,"00:11:58,300 --> 00:11:59,760",Moving to question 33.,接著來看第33題,100,ok,,
+247,"00:12:00,440 --> 00:12:02,880",We need to know who identified the site.,我們需要知道誰辨識出這個地點,100,ok,,
+248,"00:12:03,540 --> 00:12:06,160","First, notice the transition signpost.",首先，請注意這個轉換提示標記。,80,minor_issues,,[medium] terminology: None
+249,"00:12:06,720 --> 00:12:08,900",Moving on to the excavation process.,接著來看挖掘過程。,80,minor_issues,,[medium] terminology: None
+250,"00:12:09,580 --> 00:12:11,700","This signals a change in topic,",這表示話題有所轉變。,80,minor_issues,,[medium] terminology: None
+251,"00:12:11,700 --> 00:12:13,500",so check your Cornell cues.,檢查你的康奈爾提示。,87,minor_issues,,[low] style: None
+252,"00:12:14,240 --> 00:12:16,900",The speaker mentions it wasn't found by a,講者提到，該處並非由專業,81,minor_issues,說話者提到，這是由於沒有被...發現,[low] style: None; [low] style: None; [low] style: None
+253,"00:12:16,900 --> 00:12:18,240",professional survey team.,測量團隊發現。,35,needs_revision,專業測量團隊。,[medium] terminology: None; [high] meaning_drift: None
+254,"00:12:18,800 --> 00:12:22,260","So, if you wrote survey team, that is incorrect.",所以，如果你寫了「survey team」，那就是錯誤的。,70,minor_issues,所以，如果你寫了「測量團隊」，那就是錯誤的。,[medium] terminology: None; [medium] terminology: None
+255,"00:12:23,160 --> 00:12:26,140","Then, he states, the site was first identified",接著，他指出，該地點最初被發現,100,ok,,
+256,"00:12:26,140 --> 00:12:29,840",in 1995 by a group of amateur divers.,1995年，由一群業餘潛水員發現。,100,ok,,
+257,"00:12:30,640 --> 00:12:32,980","Therefore, the answer is divers.",因此，答案是「divers」。,100,ok,,
+258,"00:12:35,300 --> 00:12:37,220",Next is question 34.,接下來是第 34 題。,100,ok,,
+259,"00:12:37,880 --> 00:12:40,620",We need the reason why surveys were difficult.,我們需要知道調查困難的原因。,100,ok,,
+260,"00:12:41,520 --> 00:12:44,080",Listen for the exact keywords from the question.,聽出問題中的關鍵字。,100,ok,,
+261,"00:12:44,840 --> 00:12:48,540","The speaker says, initial surveys were extremely difficult",講者提到，由於水流湍急，雅思 聽力中的 surv,30,needs_revision,說話者提到，由於水流湍急，雅思 聽力中的 surveys,[low] style: None; [medium] terminology: None; [low] style: None; [high] meaning_drift: None
+262,"00:12:48,540 --> 00:12:49,980",due to the strong currents.,eys（調查）極具挑戰性。,35,needs_revision,due to the strong currents.,[medium] terminology: None; [high] meaning_drift: None
+263,"00:12:50,720 --> 00:12:53,860","Also, notice that the word area in the",另外，請注意問題中的 area 一,45,needs_revision,另外，請注意問題中的 area 這個字,[high] meaning_drift: None
+264,"00:12:53,860 --> 00:12:57,480",question matches part of the coastline in the audio.,詞與音訊中的 coastline 部分相符。,35,needs_revision,題目與音訊中的 coastline 部分相符。,[medium] terminology: None; [high] meaning_drift: None
+265,"00:12:58,220 --> 00:13:00,260","So, the answer is currents.",所以，答案是 currents。,87,minor_issues,所以，答案是 電流。,[low] terminology: None
+266,"00:13:01,720 --> 00:13:04,540","Before we move on, let's clarify the meaning.",在繼續之前，讓我們釐清意思。,77,minor_issues,,[low] style: None; [medium] terminology: None
+267,"00:13:05,260 --> 00:13:09,100","In this context, currents refers to the movement of water.",在此情境中，currents 指的是水流的運動。,100,ok,,
+268,"00:13:09,880 --> 00:13:12,580",Think of it like a river flowing within the ocean.,把它想像成在海洋中流動的河流。,100,ok,,
+269,"00:13:13,160 --> 00:13:15,220","Now, currents might be a new word for",現在，currents 這個詞對在場,45,needs_revision,現在，currents 這個詞對大家來說可能很陌生,[high] meaning_drift: None
+270,"00:13:15,220 --> 00:13:16,860","some of you in this context,",的一些人來說可能是陌生的。,45,needs_revision,在這種情況下，你們有些人可能。,[high] meaning_drift: None
+271,"00:13:17,120 --> 00:13:20,740",but you probably know the word current (adjective),但你應該知道 current（形容詞）或 curren,30,needs_revision,但你應該知道 current（形容詞）,[high] meaning_drift: None; [low] style: None; [high] meaning_drift: None
+272,"00:13:20,920 --> 00:13:23,340","or currently (adverb), right?",tly（副詞）這兩個字，對吧？,87,minor_issues,,[low] style: None
+273,"00:13:23,760 --> 00:13:26,480","So, you actually know how current is spelled.",所以，你其實知道 current 的拼法。,100,ok,,
+274,"00:13:27,200 --> 00:13:29,700","That's why, even if you are unsure of",正因如此，即使你不確定,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+275,"00:13:29,700 --> 00:13:31,860","the meaning, you can still get the point",意思，仍然可以掌握重點。,74,minor_issues,,[low] style: None; [low] style: None; [medium] terminology: None
+276,"00:13:31,860 --> 00:13:33,280",if you follow these steps.,如果你能遵循這些步驟的話。,100,ok,,
+277,"00:13:33,900 --> 00:13:37,360",1. Identify that currents is the word you hear,1. 根據題目和錄音，確認你聽到的,35,needs_revision,1. 1. 確認你聽到的單字是 currents,[medium] terminology: None; [high] meaning_drift: None
+278,"00:13:37,360 --> 00:13:39,900",based on the question and the recording.,是 currents 這個字。,35,needs_revision,基於問題和錄音。,[medium] terminology: None; [high] meaning_drift: None
+279,"00:13:40,740 --> 00:13:44,420","2. Based on the pronunciation, connect it to the",2. 根據發音，將其與你所知的 curren,45,needs_revision,2. 根據發音，將其與你所知的 current account,[high] meaning_drift: None
+280,"00:13:44,420 --> 00:13:47,080","word you know, current plus an s.",t 加上 s 這個字做連結。,45,needs_revision,word 加上 s。,[high] meaning_drift: None
+281,"00:13:47,640 --> 00:13:50,420",3. Write it down on the answer sheet.,3. 將它寫在答題卷上。,45,needs_revision,3. 將它寫在答題捲上。,[high] terminology: None
+282,"00:13:51,040 --> 00:13:54,100","Be careful though, this doesn't always work because",不過要小心，這方法並不一定每次都有效，因為,100,ok,,
+283,"00:13:54,100 --> 00:13:57,080",English has many words that sound similar but,英文中有許多發音相似但拼寫不同的字，,100,ok,,
+284,"00:13:57,080 --> 00:14:01,060","are spelled differently, like pour, poor and pure.",例如 pour、poor 和 pure。,100,ok,,
+285,"00:14:01,600 --> 00:14:04,760","In those cases, you must rely on the context.",在這些情況下，你必須依賴上下文。,100,ok,,
+286,"00:14:05,680 --> 00:14:08,280","However, at difficult points in the test,",不過，在測驗中遇到困難的部,45,needs_revision,不過，在測驗中遇到困難的部分,[high] meaning_drift: None
+287,"00:14:08,460 --> 00:14:11,260",this kind of logical guessing might just get you,分時，這種邏輯猜測法可能剛好能,39,needs_revision,有時候，這種邏輯猜測可能剛好行得通,[high] meaning_drift: None; [low] style: None; [low] collocation: None
+288,"00:14:11,260 --> 00:14:12,820",that one extra point.,幫你多拿一分。,100,ok,,
+289,"00:14:13,100 --> 00:14:15,580","Or else, you don't get minus points if",否則，答錯時也不,32,needs_revision,否則，如果...,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+290,"00:14:15,580 --> 00:14:17,400","you answer incorrectly too, right?",會扣分，對吧？,35,needs_revision,你答錯了，對吧？,[medium] terminology: None; [high] meaning_drift: None
+291,"00:14:19,410 --> 00:14:21,800","Finally, question 35.",最後，第 35 題。,100,ok,,
+292,"00:14:22,230 --> 00:14:24,630",We need the tool used to find the location.,我們需要用於尋找位置的工具。,80,minor_issues,,[medium] terminology: None
+293,"00:14:25,390 --> 00:14:28,630",The speaker first mentions sonar technology.,講者首先提到聲納技術。,84,minor_issues,說話者首先提到聲納技術。,[low] style: None; [low] style: None
+294,"00:14:29,310 --> 00:14:32,690","However, he says the waves just bounced off,",不過，他說波浪只是彈開了，代,45,needs_revision,不過，他說只是彈開而已,[high] meaning_drift: None
+295,"00:14:33,110 --> 00:14:34,170",meaning it failed.,表失敗了。,77,minor_issues,表示失敗了。,[medium] terminology: None; [low] typo: None
+296,"00:14:34,970 --> 00:14:37,170","So, sonar is a distractor.",所以，sonar 是干擾項。,100,ok,,
+297,"00:14:37,910 --> 00:14:39,410",Then he presents the solution.,接著他提出解決方案。,100,ok,,
+298,"00:14:40,310 --> 00:14:43,290",Archaeologists decided to use a high-powered magnet.,考古學家決定使用高功率磁鐵。,100,ok,,
+299,"00:14:44,010 --> 00:14:46,170","So, the correct tool is a magnet.",因此，正確的儀器是磁鐵。,100,ok,,
+300,"00:14:54,040 --> 00:14:56,500","So, how many correct answers have you got?",那麼，你答對了多少題？,80,minor_issues,,[medium] terminology: None
+301,"00:14:57,060 --> 00:15:00,940","Remember, section 4 is a test of concentration.",記住，第4部分是專注力測驗。,80,minor_issues,,[medium] terminology: None
+302,"00:15:01,360 --> 00:15:04,140","In this lesson, we learned about two tools",在這堂課中，我們學習了兩種工具,100,ok,,
+303,"00:15:04,140 --> 00:15:06,160",to help us tackle this final part of,，幫助我們更輕鬆地應對測驗,35,needs_revision,來協助我們處理這最後一部分,[medium] terminology: None; [high] meaning_drift: None
+304,"00:15:06,160 --> 00:15:07,340",the test more easily.,的最後一部分。,35,needs_revision,更容易地測試。,[medium] terminology: None; [high] meaning_drift: None
+305,"00:15:08,000 --> 00:15:10,500",By using the Cornell method as your map,將康乃爾筆記法作為你的地圖來使用,74,minor_issues,,[low] style: None; [low] style: None; [medium] terminology: None
+306,"00:15:10,500 --> 00:15:13,740",to organize details and listening for sign posts,整理細節並聆聽路標，將其作為提示,74,minor_issues,整理細節並聽出重點，作為提示,[medium] terminology: None; [low] collocation: None; [low] style: None
+307,"00:15:13,740 --> 00:15:15,980","as your signals to know when to move,",以掌握轉換時機，即使面對,35,needs_revision,作為你判斷何時該移動的信號,[medium] terminology: None; [high] meaning_drift: None
+308,"00:15:16,400 --> 00:15:19,400",you can navigate even the longest academic lectures,最長的學術講座，你也能從容應對而,74,minor_issues,再長的學術講座，你也能應付自如,[low] style: None; [medium] terminology: None; [low] collocation: None
+309,"00:15:19,400 --> 00:15:20,680",without getting lost.,不會迷失方向。,100,ok,,
+310,"00:15:21,220 --> 00:15:23,260","Alright, that's it for today's lesson.",好，今天的課程就到這裡。,100,ok,,
+311,"00:15:23,640 --> 00:15:26,140",Don't forget to do the exercises and practice,別忘了做練習，並定期,35,needs_revision,別忘了做練習，並多加練習,[medium] terminology: None; [high] meaning_drift: None
+312,"00:15:26,140 --> 00:15:27,760",what you've learned regularly.,複習所學內容。,80,minor_issues,,[medium] terminology: None
+313,"00:15:27,760 --> 00:15:28,300",Goodbye!,再見！,100,ok,,

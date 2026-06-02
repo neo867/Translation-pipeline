@@ -1,0 +1,136 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:05,270 --> 00:00:14,860","(Transcribed by TurboScribe. Go Unlimited to remove this message.) Hey guys, welcome back to our IELTS listening",大家好，歡迎回到我們的 雅思 聽力課程,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+2,"00:00:14,860 --> 00:00:15,320",course.,。,30,needs_revision,課程。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+3,"00:00:15,720 --> 00:00:19,520",Today we'll continue by learning about the diagram labeling question type.,今天我們接著學習圖表標記題的題型。,77,minor_issues,今天我們接著學習圖表標註題的題型。,[medium] terminology: None; [low] terminology: None
+4,"00:00:19,720 --> 00:00:23,340","This question isn't too tricky, but you might find it a bit odd when seeing",這題不算太棘手，但看到陌生的複雜機器、引擎,45,needs_revision,這題不算太難，但看到時可能會覺得有點奇怪,[high] meaning_drift: None
+5,"00:00:23,340 --> 00:00:27,640","unfamiliar and complicated machines, engines, or natural phenomena.",或自然現象時，你可能會覺得有點奇怪。,32,needs_revision,不熟悉的機器、引擎或自然現象。,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+6,"00:00:28,220 --> 00:00:32,180",So what is the most effective strategy for this question?,那麼，這類題型最有效的策略為何？,100,ok,,
+7,"00:00:32,640 --> 00:00:34,260",Let's find out in today's lesson.,讓我們在今天的課程中找出答案。,100,ok,,
+8,"00:00:34,640 --> 00:00:35,200",Let's go.,我們走吧。,80,minor_issues,,[medium] terminology: None
+9,"00:00:35,200 --> 00:00:38,000",Today's lesson is divided into three parts.,今天的課程分為三個部分。,100,ok,,
+10,"00:00:38,280 --> 00:00:42,160","Part one, general introduction to diagram labeling question type.",第一部分：圖表標記題型的一般介紹。,84,minor_issues,第一部分：圖表題型的簡介。,[low] terminology: None; [low] style: None
+11,"00:00:42,480 --> 00:00:45,960","Part two, strategy or steps to handle the question type.",第二部分：應對題型的策略或步驟。,100,ok,,
+12,"00:00:46,200 --> 00:00:48,420","Part three, practice and explanation.",第三部分：練習與說明。,100,ok,,
+13,"00:00:53,260 --> 00:00:57,060","Diagram labeling is a common question type in the IELTS listening test,",圖表標記是雅思聽力測驗中常見的題型，特別,32,needs_revision,圖表標示是雅思聽力測驗中常見的題型，特別,[medium] terminology: None; [low] terminology: None; [high] meaning_drift: None
+14,"00:00:57,480 --> 00:00:58,920",especially in section two.,是在第二部分。,100,ok,,
+15,"00:00:59,620 --> 00:01:04,200","However, many candidates find it confusing and often lose points when they",然而，許多考生覺得這很令人困惑，往往因此失分。,87,minor_issues,,[low] style: None
+16,"00:01:04,200 --> 00:01:05,100",encounter this question.,遇到這個問題。,100,ok,,
+17,"00:01:05,400 --> 00:01:10,000","In this question type, you're required to complete a diagram that describes a",在此題型中，你需要完成描述流程、受詞、結構、,30,needs_revision,在此題型中，你需要完成描述一個,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+18,"00:01:10,000 --> 00:01:16,100","process, object, structure, machine, or natural phenomena, for example,",機器或自然現象（例如 fossils）的圖,30,needs_revision,機器或自然現象（例如 化石）的圖,[low] style: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+19,"00:01:16,520 --> 00:01:16,860",fossils.,表。,45,needs_revision,化石。,[high] meaning_drift: None
+20,"00:01:17,200 --> 00:01:19,380",There are two types of labeling a diagram.,圖表標註有兩種類型。,45,needs_revision,圖表標註有兩種型別。,[high] terminology: None
+21,"00:01:19,880 --> 00:01:24,660","Format one, listen to the recording and fill the correct information in the",表單一：聆聽錄音，並在空白處填入正確資,45,needs_revision,表單一：聆聽錄音，並在空白處填入正確資訊,[high] meaning_drift: None
+22,"00:01:24,660 --> 00:01:25,160",blanks.,訊。,45,needs_revision,空白。,[high] meaning_drift: None
+23,"00:01:25,660 --> 00:01:29,880","Format two, you are given a list of words that need filling in and are",表單二：你會得到一組需要填入的詞彙，並標示為 A,30,needs_revision,格式二：你會得到一組需要填入的詞彙，並標示為 A,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+24,"00:01:29,880 --> 00:01:32,420","labeled as A, B, C, and D.",、B、C 和 D。,35,needs_revision,標記為 A、B、C 和 D。,[medium] terminology: None; [high] meaning_drift: None
+25,"00:01:33,360 --> 00:01:37,360",Then you're required to choose and write the corresponding letters in the,接著，你需要選擇並寫下對應的字母。,100,ok,,
+26,"00:01:37,360 --> 00:01:37,720",diagram.,圖表。,100,ok,,
+27,"00:01:38,560 --> 00:01:43,220",These questions are usually not too challenging because the diagram provides,這些問題通常不太具有挑戰性，因為圖表已經提,45,needs_revision,這些問題通常不太具有挑戰性，因為圖表已經提供,[high] meaning_drift: None
+28,"00:01:43,220 --> 00:01:45,100",much given information already.,供了大量既有資訊。,45,needs_revision,已經提供了很多資訊。,[high] meaning_drift: None
+29,"00:01:45,660 --> 00:01:49,660",This makes it easier for candidates to follow along during the listening test.,這能幫助考生更容易跟上聽力測驗的內容。,80,minor_issues,,[medium] terminology: None
+30,"00:01:50,500 --> 00:01:54,580",So what's the most effective strategy for this question type?,那麼，針對這類題型最有效的策略是什麼？,100,ok,,
+31,"00:01:55,420 --> 00:02:00,060","Let's move on to the second part, strategy or steps to handle the question",接下來進入第二部分，處理這類題型的策略或步驟,80,minor_issues,,[medium] terminology: None
+32,"00:02:00,060 --> 00:02:00,380",type.,。,45,needs_revision,型。,[high] meaning_drift: None
+33,"00:02:04,860 --> 00:02:06,500",Let's take a look at this question.,讓我們來看看這道題目。,100,ok,,
+34,"00:02:07,300 --> 00:02:09,419","For this question, here's what we're going to do.",針對這道題目，我們接下來要這樣做。,80,minor_issues,,[medium] terminology: None
+35,"00:02:10,020 --> 00:02:12,540","Step one, read the instructions carefully.",第一步，仔細閱讀說明。,100,ok,,
+36,"00:02:13,380 --> 00:02:17,880","To note the word limit, this listening activity provides us with a list of",為留意字數限制，這項聽力活動提供了一份單字清,35,needs_revision,為留意字數限制，這項聽力活動提供了一份單字清單,[medium] terminology: None; [high] meaning_drift: None
+37,"00:02:17,880 --> 00:02:18,240",words.,單。,45,needs_revision,單字。,[high] meaning_drift: None
+38,"00:02:18,380 --> 00:02:22,220","So we don't need to worry about the word limit, but careful, make sure when",所以我們不需要擔心字數限制，但請小心,77,minor_issues,所以我們不需要擔心字數限制，但要小心,[medium] terminology: None; [low] style: None
+39,"00:02:22,220 --> 00:02:25,480",you fill in the answers that you write the letter rather than the word.,，填寫答案時請填寫字母而非單字。,100,ok,,
+40,"00:02:26,180 --> 00:02:31,740","Step two, read the title of the diagram and given information, then underline",第二步，閱讀圖表的標題及提供的資訊，然後劃線標記,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+41,"00:02:31,740 --> 00:02:32,360",keywords.,關鍵字。,100,ok,,
+42,"00:02:32,360 --> 00:02:35,340","During this step, we can also predict the answer.",在此步驟中，我們也可以預測答案。,87,minor_issues,,[low] style: None
+43,"00:02:36,000 --> 00:02:41,300","This diagram has the title media headset, meaning we can expect to hear about",此圖表的標題為「media headset」，意味著,70,minor_issues,此圖表的標題為「媒體耳機」，意味著,[medium] terminology: None; [medium] terminology: None; [low] terminology: None
+44,"00:02:41,300 --> 00:02:44,140",the different parts of a headset and their functions.,我們將了解耳機的各個部件及其功能。,45,needs_revision,我們將瞭解耳機的各個部件及其功能。,[high] terminology: None
+45,"00:02:44,440 --> 00:02:48,640","We can also see that many of the words in our word list are nouns,",我們也可以發現，詞彙表中的許多詞彙是名詞，,87,minor_issues,,[low] style: None
+46,"00:02:48,900 --> 00:02:51,120",different parts of the headset itself.,耳機本身的各個部件。,100,ok,,
+47,"00:02:52,420 --> 00:02:56,560","Step three, listen to the recording and choose the correct answer.",第三步驟：聆聽錄音並選擇正確答案。,87,minor_issues,第三步驟：聽錄音並選擇正確答案。,[low] style: None
+48,"00:02:57,100 --> 00:03:01,220","While listening, we need to note down information right on the diagram.",聆聽時，我們需要在圖表上即時記錄資訊。,100,ok,,
+49,"00:03:01,740 --> 00:03:03,140","OK, ready to listen?",好的，準備好聆聽了嗎？,87,minor_issues,好的，準備好聽了嗎？,[low] style: None
+50,"00:03:03,360 --> 00:03:04,080",Let's get started.,我們開始吧。,100,ok,,
+51,"00:03:08,970 --> 00:03:13,610",You will hear a technician named Mark giving instructions about the parts and,接下來你會聽到一位名叫 Mark 的技術人員，在現代媒,45,needs_revision,接下來你會聽到一位名叫 Mark 的技術人員，並說明相關零件,[high] meaning_drift: None
+52,"00:03:13,610 --> 00:03:17,510",functions of a media headset at a modern media centre.,體中心說明媒體耳機的各個部件與功能。,35,needs_revision,現代媒體中心中媒體耳機的功能。,[medium] terminology: None; [high] meaning_drift: None
+53,"00:03:18,330 --> 00:03:22,610",First you have some time to look at questions 11 to 16.,首先，你有時間查看第 11 至 16 題。,35,needs_revision,首先，你有時間檢視第 11 至 16 題。,[high] terminology: None; [medium] terminology: None
+54,"00:03:54,160 --> 00:03:58,380",Now listen and answer questions 11 to 16.,現在請聆聽並回答問題 11 至 16。,87,minor_issues,現在請聽並回答問題 11 至 16。,[low] style: None
+55,"00:03:59,220 --> 00:04:03,340",Good morning everyone and welcome to our modern media centre.,各位早安，歡迎蒞臨我們的現代媒體中心。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+56,"00:04:03,660 --> 00:04:06,540",My name is Mark and I am the technician here.,我是 Mark，我是這裡的技術人員。,100,ok,,
+57,"00:04:07,240 --> 00:04:11,860",Today we are going to learn about a device that we use every single day,今天我們要來學習一種在廣播與錄音室中，我們,35,needs_revision,今天我們要來認識一種我們每天都使用的裝置,[medium] terminology: None; [high] meaning_drift: None
+58,"00:04:11,860 --> 00:04:15,500","in our radio and recording studios, the media headset.",每天都使用的裝置——媒體耳機。,30,needs_revision,我們的廣播與錄音室——媒體耳機。,[medium] terminology: None; [high] meaning_drift: None; [low] terminology: None; [high] meaning_drift: None
+59,"00:04:16,579 --> 00:04:21,280",Now please look at the diagram of the media headset in your information packs.,現在請查看你資料夾中的媒體耳機圖示。,30,needs_revision,現在請檢視你資料夾中的媒體耳機圖表。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None; [high] meaning_drift: None
+60,"00:04:21,860 --> 00:04:23,780",Let's identify the parts together.,讓我們一起來辨識這些部分。,80,minor_issues,,[medium] terminology: None
+61,"00:04:24,600 --> 00:04:27,660",First look at the very top of the device.,首先請觀察裝置的最頂端。,100,ok,,
+62,"00:04:27,660 --> 00:04:32,240",This is the curved part that sits on top of your head to hold the,這是位於你頭頂上方，用於固定裝置的弧,45,needs_revision,這是戴在頭頂上用來固定裝置的弧形部分,[high] meaning_drift: None
+63,"00:04:32,240 --> 00:04:33,180",device in place.,形部件。,45,needs_revision,裝置就位。,[high] meaning_drift: None
+64,"00:04:33,860 --> 00:04:35,440",We call this the band.,我們稱這部分為 band。,77,minor_issues,我們稱這部分為 頭帶。,[medium] terminology: None; [low] terminology: None
+65,"00:04:36,340 --> 00:04:41,000","On our models, this is padded with soft foam so that it doesn't hurt your",我們的模型採用柔軟泡棉包覆，以確保不會壓迫到你的,30,needs_revision,我們的產品採用柔軟泡棉填充，以確保不會磨傷你的,[high] meaning_drift: None; [low] collocation: None; [high] meaning_drift: None
+66,"00:04:41,000 --> 00:04:42,960",head during long recording sessions.,長時間錄音時的頭部,84,minor_issues,長時間錄音時的頭,[low] collocation: None; [low] style: None
+67,"00:04:43,460 --> 00:04:46,560","And it is adjustable, so it can fit anyone comfortably.",而且它是可調整的，所以它可以讓任何人舒適地佩戴,87,minor_issues,,[low] style: None
+68,"00:04:47,440 --> 00:04:50,800",Now look at the circular parts that cover your ears.,現在請看覆蓋你耳朵的圓形部分。,77,minor_issues,,[low] style: None; [medium] terminology: None
+69,"00:04:51,320 --> 00:04:55,540","To make sure the sound from the room doesn't get into your ears, we use",為確保室內的聲音不會進入你的雙耳，我們在兩側各配備,100,ok,,
+70,"00:04:55,540 --> 00:04:58,140",a soft round pad on each side.,了一個柔軟的圓形墊片。,45,needs_revision,兩側各有一個柔軟的圓形墊片。,[high] meaning_drift: None
+71,"00:04:58,700 --> 00:05:03,780","These are very important for noise cancelling, which helps you focus only on",這些對於降噪非常重要，能協助你專注於正,35,needs_revision,這些對於降噪非常重要，能協助你專注於正事,[medium] terminology: None; [high] meaning_drift: None
+72,"00:05:03,780 --> 00:05:05,120",the audio you are recording.,在錄音的音訊。,80,minor_issues,,[medium] terminology: None
+73,"00:05:06,140 --> 00:05:10,300",Attached to the left side of the headset is a long flexible arm.,耳機左側附有一個長而柔韌的支架。,80,minor_issues,,[medium] terminology: None
+74,"00:05:10,840 --> 00:05:12,760",At the end of this arm is the microphone.,該支架末端裝有麥克風。,100,ok,,
+75,"00:05:13,460 --> 00:05:15,380",This is the part you speak into.,這是你說話的部位。,100,ok,,
+76,"00:05:16,020 --> 00:05:20,420",You should always position this about 2 cm away from your mouth.,請務必將麥克風與你的嘴部保持約 2 公分距離。,80,minor_issues,,[medium] terminology: None
+77,"00:05:20,860 --> 00:05:23,640","If it is too close, your voice will be too loud.",如果距離太近，你的聲音會過大。,100,ok,,
+78,"00:05:24,080 --> 00:05:27,160","If it is too far, we won't be able to hear you at all.",如果距離太遠，我們將完全聽不到你的聲音。,80,minor_issues,,[medium] terminology: None
+79,"00:05:28,120 --> 00:05:33,020","This headset is not a Bluetooth connection one, so it has a cable which helps",這款耳機並非藍牙連線型，因此配有線材，可協助你連,84,minor_issues,這款耳機並非藍牙耳機，所以有線材可以幫你連接,[low] register: None; [low] style: None
+80,"00:05:33,020 --> 00:05:36,700","you connect with other devices, such as phones or laptops.",接其他裝置，例如手機或筆記型電腦。,80,minor_issues,,[medium] terminology: None
+81,"00:05:37,380 --> 00:05:41,760","This is about 2 meters long, which gives you plenty of space to move around",這大約是 2 公尺長，讓你在辦公桌前工作時,45,needs_revision,這大約有 2 公尺長，讓你活動的空間很充足,[high] meaning_drift: None
+82,"00:05:41,760 --> 00:05:43,320",your desk while you are working.,有充足的活動空間。,35,needs_revision,your desk while you are working.,[medium] terminology: None; [high] meaning_drift: None
+83,"00:05:43,960 --> 00:05:48,340","If you look a bit down to the cable, you will see a small plastic",如果你往電纜下方看一點，會看到一個帶有滑動,45,needs_revision,如果你往電纜下方看一點，會看到一個塑膠片,[high] meaning_drift: None
+84,"00:05:48,340 --> 00:05:50,140",box with a sliding button.,按鈕的小塑膠盒。,45,needs_revision,,[high] meaning_drift: None
+85,"00:05:50,720 --> 00:05:51,940",This is a switch.,這是一個開關。,100,ok,,
+86,"00:05:51,940 --> 00:05:57,180","We use this to quickly turn the microphone on or off, or to change the",我們使用它來快速開啟或關閉麥克風，或調整你,45,needs_revision,我們使用它來快速開啟或關閉麥克風，或改變設定,[high] meaning_drift: None
+87,"00:05:57,180 --> 00:05:58,860",volume of the music you are hearing.,正在收聽的音樂音量。,80,minor_issues,,[medium] terminology: None
+88,"00:05:59,660 --> 00:06:04,220","Finally, at the very end of the cord, you will see the metal tip.",最後，在電線的末端，你會看到金屬接頭。,80,minor_issues,,[medium] terminology: None
+89,"00:06:04,760 --> 00:06:08,200",This is the part you connect to the computer or the recording machine.,這是你連接電腦或錄音設備的部份。,30,needs_revision,這是你連結電腦或錄音裝置的部份。,[high] terminology: None; [high] terminology: None
+90,"00:06:08,780 --> 00:06:10,440",This is what we call the plug.,我們稱之為插頭。,87,minor_issues,,[low] style: None
+91,"00:06:11,000 --> 00:06:15,320",What's great about this part is that it is compatible with almost all types of,這部分很棒的地方在於，它與幾乎所有類型的裝置都相,30,needs_revision,這部分很棒的地方在於，它與幾乎所有型別的裝置都相容,[high] terminology: None; [low] style: None; [medium] terminology: None; [high] meaning_drift: None
+92,"00:06:15,320 --> 00:06:15,660",devices.,容。,45,needs_revision,設備。,[high] meaning_drift: None
+93,"00:06:16,300 --> 00:06:20,660","When connecting, make sure you push it in all the way until you hear a",連接時，請務必將插頭完全推入，直到聽到輕微的,30,needs_revision,連結時，請務必將插頭完全推入，直到聽到聲響,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+94,"00:06:20,660 --> 00:06:21,400",small click.,卡噠聲。,100,ok,,
+95,"00:06:22,260 --> 00:06:25,140",Does everyone have any questions about...,大家有什麼問題嗎？關於……,87,minor_issues,關於……大家有什麼問題嗎？,[low] collocation: None
+96,"00:06:25,600 --> 00:06:27,300",That's the end of part 2.,這是第二部分的結尾。,45,needs_revision,,[high] placeholder: None
+97,"00:06:27,960 --> 00:06:31,920",You now have half a minute to check your answers to part 2.,你現在有半分鐘的時間檢查第二部分的答案。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+98,"00:06:32,640 --> 00:06:33,620",Question 11.,第 11 題。,100,ok,,
+99,"00:06:33,840 --> 00:06:39,000","The speaker directs us to the very top of the device and explicitly says, we",講者指示我們看向裝置的最頂端，並明確指出我們稱之為,33,needs_revision,說話者讓我們看裝置的最頂端，並明確說，我們,[low] style: None; [low] style: None; [low] style: None; [low] register: None; [high] meaning_drift: None
+100,"00:06:39,000 --> 00:06:40,220",call this the band.,band。,35,needs_revision,頭帶。,[medium] terminology: None; [high] meaning_drift: None
+101,"00:06:40,420 --> 00:06:43,480",Number 11 points to the top arch of the headset.,第 11 項指向耳機的頂部拱形結構。,100,ok,,
+102,"00:06:43,480 --> 00:06:49,320","Looking at our option box, band is option C, so the correct answer is C.",查看我們的選項框，band 是選項 C，因此正確答案是 C。,35,needs_revision,檢視我們的選項框，頭帶 是選項 C，因此正確答案是 C。,[high] terminology: None; [medium] terminology: None
+103,"00:06:49,960 --> 00:06:50,580",Question 12.,第 12 題。,100,ok,,
+104,"00:06:51,100 --> 00:06:56,440","Next, the speaker describes the circular parts and mentions a soft, round pad.",接下來，講者描述了圓形部件，並提到一個柔軟的圓形墊片。,84,minor_issues,接下來，說話者描述了圓形部件，並提到一個柔軟的圓形墊片。,[low] style: None; [low] style: None
+105,"00:06:56,620 --> 00:06:59,820",Number 12 points to the cushioned area on the ear cup.,第 12 項指向耳罩的襯墊區域。,100,ok,,
+106,"00:07:00,100 --> 00:07:02,660","This matches option F, ear pads.",這對應選項 F，ear pads。,87,minor_issues,這對應選項 F，耳罩。,[low] terminology: None
+107,"00:07:02,980 --> 00:07:05,680","Therefore, the answer for 12 is F.",因此，第 12 題的答案是 F。,100,ok,,
+108,"00:07:06,040 --> 00:07:06,880",Question 13.,第 13 題。,100,ok,,
+109,"00:07:07,060 --> 00:07:12,720","The speaker describes a long, flexible arm with a microphone at the end.",講者描述了一隻長長的、靈活的機械臂，末端裝有麥克風。,74,minor_issues,說話者描述了一隻長長的、靈活的機械臂，末端裝有麥克風。,[low] style: None; [medium] terminology: None; [low] style: None
+110,"00:07:12,720 --> 00:07:16,280",Number 13 points directly to this microphone boom.,Number 13 直接指向麥克風懸臂。,100,ok,,
+111,"00:07:16,500 --> 00:07:21,200","Checking our list, microphone is option E, so the answer is E.",檢查我們的清單，microphone 是選項 E，所以答案是 E。,77,minor_issues,檢查我們的清單，麥克風 是選項 E，所以答案是 E。,[medium] terminology: None; [low] terminology: None
+112,"00:07:22,640 --> 00:07:23,560",Question 14.,第 14 題。,100,ok,,
+113,"00:07:23,840 --> 00:07:27,520",The speaker mentions a cable used to connect to devices.,講者提到用於連接裝置的電纜。,39,needs_revision,說話者提到用於連結裝置的電纜。,[high] terminology: None; [low] style: None; [low] style: None
+114,"00:07:27,900 --> 00:07:31,720",Number 14 points to the wire extending from the headset.,Number 14 指向從耳機延伸出的線材。,100,ok,,
+115,"00:07:32,020 --> 00:07:34,580","In the box, cable is option A.",在方框中，cable 是選項 A。,84,minor_issues,方框內，線材 是選項 A。,[low] terminology: None; [low] style: None
+116,"00:07:34,820 --> 00:07:36,560",The correct letter is A.,正確答案為 A。,80,minor_issues,,[medium] terminology: None
+117,"00:07:37,360 --> 00:07:38,320",Question 15.,第 15 題。,100,ok,,
+118,"00:07:38,600 --> 00:07:43,400",We are told to look for a small plastic box on the cable called the,我們被指示尋找連接在 cable 上的一個小型塑膠盒，稱為,39,needs_revision,請大家尋找連結在 電纜 上的一個小型塑膠盒，稱為,[high] terminology: None; [low] terminology: None; [low] register: None
+119,"00:07:43,400 --> 00:07:43,900",switch.,開關。,100,ok,,
+120,"00:07:44,160 --> 00:07:47,060",Number 15 points clearly to this control box.,第 15 題清楚指向這個控制盒。,100,ok,,
+121,"00:07:47,220 --> 00:07:49,760","This corresponds to option D, switch.",這對應到選項 D，switch。,100,ok,,
+122,"00:07:50,040 --> 00:07:51,520",The answer is D.,答案為 D。,80,minor_issues,,[medium] terminology: None
+123,"00:07:52,200 --> 00:07:53,260",Question 16.,第 16 題。,100,ok,,
+124,"00:07:53,600 --> 00:07:57,980","Finally, the speaker points out the metal tip at the end of the cord, calling",最後，講者指出線材末端的金屬接頭，稱之為,71,minor_issues,最後，說話者指出線材末端的金屬接頭，稱之為,[low] style: None; [low] style: None; [medium] terminology: None; [low] style: None
+125,"00:07:57,980 --> 00:07:58,780",it the plug.,插頭。,45,needs_revision,把插頭插好。,[high] meaning_drift: None
+126,"00:07:58,940 --> 00:08:01,320",Number 16 points to the connector jack.,第 16 題指向連接埠插孔。,42,needs_revision,第 16 項標示連接埠插孔。,[high] meaning_drift: None; [low] collocation: None
+127,"00:08:01,420 --> 00:08:03,420","This matches option B, plug.",這符合選項 B，plug。,87,minor_issues,這符合選項 B，插頭。,[low] terminology: None
+128,"00:08:03,580 --> 00:08:05,220",So the final answer is B.,因此最終答案是 B。,100,ok,,
+129,"00:08:10,750 --> 00:08:12,750",Today's lesson has covered three parts.,今天的課程已涵蓋三個部分。,77,minor_issues,,[low] style: None; [medium] terminology: None
+130,"00:08:13,470 --> 00:08:17,050","Part one, general introduction to diagram labeling question type.",第一部分，圖表標記題型的一般介紹。,84,minor_issues,第一部分，圖表題型的簡介。,[low] style: None; [low] style: None
+131,"00:08:17,430 --> 00:08:20,850","Part two, strategy or steps to handle the question type.",第二部分，處理此題型的策略或步驟。,100,ok,,
+132,"00:08:21,270 --> 00:08:23,790","And part three, practice and explanation.",第三部分，練習與說明。,100,ok,,
+133,"00:08:25,190 --> 00:08:27,150","All right, that's it for today's lesson.",好的，今天的課程到此結束。,80,minor_issues,,[medium] terminology: None
+134,"00:08:27,470 --> 00:08:31,150",Don't forget to do the exercises and practice what you've learned regularly.,別忘了完成練習，並定期複習所學內容。,80,minor_issues,,[medium] terminology: None
+135,"00:08:31,630 --> 00:08:31,830",Goodbye.,再見。,100,ok,,

@@ -1,0 +1,67 @@
+﻿file,block,type,detail,text
+zhTW_L10S2_revised.srt,17,leading_comma,"starts with ""，""",，中間有數個步驟。
+zhTW_L10S2_revised.srt,36,cross_block_split,"""s"" → block 37 starts ""seven-step 製造流程。""",碳酸飲料生產出來的，我們看到它描述了一個 s
+zhTW_L10S2_revised.srt,36,trailing_fragment,"ends with ""s""",碳酸飲料生產出來的，我們看到它描述了一個 s
+zhTW_L10S2_revised.srt,44,leading_comma,"starts with ""，""",，其中水經過過濾以去除雜質。
+zhTW_L10S2_revised.srt,70,leading_comma,"starts with ""，""",，並讓我們在事後檢查自己的預測。
+zhTW_L10S2_revised.srt,149,simplified_char,"浆→漿, 后→後, 们→們, 将→將, 处→處, 过→過",糖浆準備好后，我们将其与处理过的水混合。
+zhTW_L10S2_revised.srt,155,simplified_char,"产→產, 气→氣",接著，我們在高壓下加入二氧化碳，使飲料产生气泡。
+zhTW_L10S2_revised.srt,216,cross_block_split,"""fi"" → block 217 starts ""soda drinks，並以 soda """,講者將 碳酸飲料 定義為 fi
+zhTW_L10S2_revised.srt,216,trailing_fragment,"ends with ""fi""",講者將 碳酸飲料 定義為 fi
+zhTW_L10S2_revised.srt,218,cross_block_split,"""sp"" → block 219 starts ""sparkling water 作為第二""",接著，他使用連結詞 or 來引入 sp
+zhTW_L10S2_revised.srt,218,trailing_fragment,"ends with ""sp""",接著，他使用連結詞 or 來引入 sp
+zhTW_L10S2_revised.srt,231,duplicate_phrase,"""他明確指出，"" repeated",他明確指出，他明確指出，他們混合這些原料
+zhTW_L12S2_revised.srt,157,cross_block_split,"""hi"" → block 158 starts ""ghlight，答案為 mountain""",由於題目要求找出最令人愉快的活動，因此需匹配關鍵字如 best part 或 hi
+zhTW_L12S2_revised.srt,157,trailing_fragment,"ends with ""hi""",由於題目要求找出最令人愉快的活動，因此需匹配關鍵字如 best part 或 hi
+zhTW_L14S2_revised.srt,25,leading_comma,"starts with ""，""",，你很可能會聽到說話者談論所有選項。
+zhTW_L14S2_revised.srt,90,leading_comma,"starts with ""，""",，但表示晶片是被禁止的，或是談論另一種晶片。
+zhTW_L14S2_revised.srt,106,trailing_fragment,"ends with ""sem""",常見的改述方式包括 每年兩次 和 sem
+zhTW_L14S2_revised.srt,184,leading_comma,"starts with ""，""",，因為電梯無法通往此區域。
+zhTW_L14S2_revised.srt,308,leading_comma,"starts with ""，""",，由主管收集團隊的回饋意見。
+zhTW_L14S2_revised.srt,314,trailing_fragment,"ends with ""h""",說話者提到員工感到壓力，不過：「We h
+zhTW_L14S2_revised.srt,367,trailing_fragment,"ends with ""C""",因為這是舊系統，所以選 C
+zhTW_L16S2_revised.srt,230,leading_comma,"starts with ""，""",，而不只是待在觀光區或依賴導遊。
+zhTW_L16S2_revised.srt,288,trailing_fragment,"ends with ""A""",我們可以排除 B，因此答案是 A
+zhTW_L16S2_revised.srt,317,trailing_fragment,"ends with ""E""",且效果不佳，排除 E
+zhTW_L18S2_revised.srt,139,leading_comma,"starts with ""，""",，即垂直花園。
+zhTW_L1S1_revised.srt,47,cross_block_split,"""on"" → block 48 starts ""grammatical clues、no""",prediction based on vocabulary groups、prediction based on
+zhTW_L1S1_revised.srt,47,trailing_fragment,"ends with ""on""",prediction based on vocabulary groups、prediction based on
+zhTW_L20S2_revised.srt,7,simplified_char,"来→來, 话→話",用母语来操作的话。
+zhTW_L20S2_revised.srt,32,cross_block_split,"""are"" → block 33 starts ""here、start、firstly 等""",在錄音中，表示起點的引導詞語可能包括 You are
+zhTW_L20S2_revised.srt,32,trailing_fragment,"ends with ""are""",在錄音中，表示起點的引導詞語可能包括 You are
+zhTW_L22S2_revised.srt,48,trailing_fragment,"ends with ""to""",of them to familiarize yourself with how to
+zhTW_L22S2_revised.srt,57,leading_comma,"starts with ""，""",，確認是否需要寫信。
+zhTW_L22S2_revised.srt,60,leading_comma,"starts with ""，""",，並將答案寫在紙上。
+zhTW_L22S2_revised.srt,73,leading_comma,"starts with ""，""",，擺滿了你可以帶回家閱讀的科學書籍和套件
+zhTW_L22S2_revised.srt,145,trailing_fragment,"ends with ""I""",我們可以在地圖上看到選項 I
+zhTW_L24S2_revised.srt,23,trailing_fragment,"ends with ""A""",格式二：你會得到一組需要填入的詞彙，並標示為 A
+zhTW_L24S2_revised.srt,39,leading_comma,"starts with ""，""",，填寫答案時請填寫字母而非單字。
+zhTW_L26S1_revised.srt,26,leading_comma,"starts with ""，""",，或是複習所學內容。
+zhTW_L26S1_revised.srt,67,leading_comma,"starts with ""，""",，依此類推。
+zhTW_L26S1_revised.srt,127,simplified_char,"后→後, 将→將",写下你最好的猜测，然后立刻将注意力放在下一問題。
+zhTW_L26S2_revised.srt,176,simplified_char,"这→這, 样→樣",但你不能就这样走開。
+zhTW_L26S2_revised.srt,209,duplicate_phrase,"""，因為"" repeated",哦，我的一個朋友用了她自己寫的一篇論文，因為，因為她認為這完全沒問題。
+zhTW_L27S1_revised.srt,113,leading_comma,"starts with ""，""",，你可能會遇到關於科技、太空探索，甚至是心理學的主題。
+zhTW_L27S2_revised.srt,157,leading_comma,"starts with ""，""",，但由於殘骸深埋於濃密的沙層
+zhTW_L27S2_revised.srt,169,leading_comma,"starts with ""，""",，確保你的答案都是正確的。
+zhTW_L27S2_revised.srt,197,leading_comma,"starts with ""，""",，迫使船員棄船。
+zhTW_L2S1_revised.srt,98,duplicate_phrase,"""是的，"" repeated",是的，是的，我知道。
+zhTW_L3S1_revised.srt,18,simplified_char,问→問,要型別的问题中聽數位。
+zhTW_L3S1_revised.srt,39,leading_comma,"starts with ""，""",，並將其寫入答題卷中，以避
+zhTW_L3S1_revised.srt,82,leading_comma,"starts with ""，""",，你應始終將月份首字母大寫。
+zhTW_L3S1_revised.srt,90,leading_comma,"starts with ""，""",，則不應包含 a.m
+zhTW_L3S1_revised.srt,117,trailing_fragment,"ends with ""A""","8, H 和 A"
+zhTW_L3S1_revised.srt,118,trailing_fragment,"ends with ""P""",E 和 I，B 和 P
+zhTW_L3S1_revised.srt,119,trailing_fragment,"ends with ""J""",T 和 D，G 和 J
+zhTW_L3S1_revised.srt,120,trailing_fragment,"ends with ""N""",M 和 N
+zhTW_L3S1_revised.srt,121,trailing_fragment,"ends with ""X""",S 和 X
+zhTW_L4S2_revised.srt,43,leading_comma,"starts with ""，""",，包含街道或道路的英文名稱。
+zhTW_L4S2_revised.srt,68,leading_comma,"starts with ""，""",，別忘了檢查拼字。
+zhTW_L4S2_revised.srt,168,cross_block_split,"""o"" → block 169 starts ""ne 中所見，答案已為你寫明。""",如你在 question o
+zhTW_L4S2_revised.srt,168,trailing_fragment,"ends with ""o""",如你在 question o
+zhTW_L4S2_revised.srt,176,trailing_fragment,"ends with ""C""",根據發音，我們可以將道路名稱拼寫為 C
+zhTW_L4S2_revised.srt,187,leading_comma,"starts with ""，""",，對某些學生來說可能有點棘手。
+zhTW_L6S2_revised.srt,124,leading_comma,"starts with ""，""",，逐一查看它們在對話中究竟藏在哪裡。
+zhTW_L8S2_revised.srt,177,leading_comma,"starts with ""，""",，若有需要則協助醫療照護。
+zhTW_L8S2_revised.srt,213,trailing_fragment,"ends with ""the""",這句話將庇護所描述為一群人，which the
+zhTW_L8S2_revised.srt,219,trailing_fragment,"ends with ""to""",講者使用現在完成進行式「I've been 志願服務 there for to

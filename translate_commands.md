@@ -222,7 +222,7 @@ python3 scripts/translate_srt.py \
   --context "IELTS course"
 ```
 
-### Queue (up to 10 files)
+### Queue (up to 20 files)
 ```bash
 python3 scripts/translate_srt.py \
   --input "IE Intermediate 2.6/Listening Int/L1S1.srt" \
@@ -232,7 +232,7 @@ python3 scripts/translate_srt.py \
   --context "IELTS course"
 ```
 
-Maximum 10 files per run. Split into multiple runs if you have more.
+Maximum 20 files per run. Split into multiple runs if you have more.
 
 ### Whole folder
 ```bash
@@ -280,70 +280,92 @@ Resume-safe by default — re-run the same command to continue from where it lef
 
 ---
 
-## SRT Review Queue — batch_review.py
+## SRT Full Pipeline — review_and_finalize.py
 
-Review all translated SRTs in `output/` in one go.
+Runs review (step 2) and applies corrections (step 4) in one pass. No human review step.
+Skips files whose `_revised.srt` already exists in `final/`.
 
-### Review everything pending
+### Standard usage
 ```bash
-python3 scripts/batch_review.py
-```
-
-### Filter by language
-```bash
-python3 scripts/batch_review.py --target zhTW
-```
-
-### Filter by folder
-```bash
-python3 scripts/batch_review.py --folder "IE Intermediate 2.6/Listening Int"
+python3 scripts/review_and_finalize.py --target zhTW --folder "IE Intermediate 2.6/Listening Int"
 ```
 
 ### Preview queue without running
 ```bash
-python3 scripts/batch_review.py --dry-run
+python3 scripts/review_and_finalize.py --target zhTW --folder "IE Intermediate 2.6/Listening Int" --dry-run
 ```
 
-### Force re-review already-done files
+### Force re-process already-finalized files
 ```bash
-python3 scripts/batch_review.py --force
+python3 scripts/review_and_finalize.py --target zhTW --folder "IE Intermediate 2.6/Listening Int" --force
 ```
 
-### Stricter review (flags unnatural phrasing)
+### Stricter review
 ```bash
-python3 scripts/batch_review.py --strictness linguist
+python3 scripts/review_and_finalize.py --target zhTW --folder "IE Intermediate 2.6/Listening Int" --strictness linguist
 ```
 
-Auto-detects translated files from `output/`, skips files that already have a review CSV, resumes mid-file if interrupted. Prints a summary table with avg score, ok/warning/reject counts per file when done.
+**Output per file:**
+- Review CSV → `output/.../drafts/review_zhTW_L1S1.csv`
+- Final SRT → `output/.../final/zhTW_L1S1_revised.srt`
 
-Review CSVs are saved alongside the translated file:
-`output/IE Intermediate 2.6/Listening Int/review_zhTW_L1S1.csv`
+Prints a summary table with avg score, ok/warning/reject counts when done.
 
 ---
 
-## SRT Review — review_srt.py
+## SRT Pipeline — Full Flow
 
-Score a translated SRT against the source using the `/review/batch` API endpoint.
-
-### Basic usage
-```bash
-python3 scripts/review_srt.py \
-  "IE Intermediate 2.6/Listening Int/L1S1.srt" \
-  --target zhTW
+**All languages:**
+```
+source .srt
+    ↓  translate_srt.py
+drafts/<lang>_L1S1.srt
+    ↓  review_and_finalize.py   ← review + apply corrections
+final/<lang>_L1S1_revised.srt  ✅
 ```
 
-Auto-detects the translated file from `output/`. Outputs a CSV report to the same output folder:
-`output/IE Intermediate 2.6/Listening Int/review_zhTW_L1S1.csv`
-
-### Stricter review (flags unnatural phrasing)
-```bash
-python3 scripts/review_srt.py \
-  "IE Intermediate 2.6/Listening Int/L1S1.srt" \
-  --target zhTW \
-  --strictness linguist
+**zhTW only** (extra pre-fix step runs automatically inside `review_and_finalize.py`, followed by a structural QA pass):
+```
+source .srt
+    ↓  translate_srt.py
+drafts/zhTW_L1S1.srt
+    ↓  review_and_finalize.py
+        ├─ pre-fix (deterministic, no API cost):
+        │    • IELTS → 雅思  (except IELTS Academic / General Training)
+        │    • 您 → 你
+        │    • 『』→ 「」
+        └─ review API + apply corrections → _revised.srt
+final/zhTW_L1S1_revised.srt
+    ↓  qa_srt.py            ← structural QA scan
+    ↓  fix_srt_issues.py    ← auto-fix (deterministic + API)
+        ├─ Phase 1 — deterministic:
+        │    • Simplified Chinese chars → Traditional (40-char map)
+        │    • Leading ，/、 at block start → strip
+        │    • Trailing English fragment (1–3 chars) at block end → strip
+        │    • Duplicate consecutive phrases within a block → remove second
+        └─ Phase 2 — API-assisted:
+             • Cross-block English word split → /review/batch to retranslate
+             • Fully untranslated English block → /translate/batch
+    ↓  qa_srt.py            ← confirm 0 issues
+final/zhTW_L1S1_revised.srt  ✅
 ```
 
-### Report columns
+**When human review is needed** (edit `corrected` column before finalizing):
+
+```bash
+# Step 2 only — review and save CSVs
+python3 scripts/batch_review.py --target zhTW --folder "IE Intermediate 2.6/Listening Int"
+
+# (open CSVs, edit corrected column)
+
+# Step 4 only — apply corrections from edited CSVs
+python3 scripts/apply_review_corrections.py \
+  "output/IE Intermediate 2.6/Listening Int/zhTW/drafts/review_zhTW_L1S1.csv"
+```
+
+---
+
+## Review CSV columns
 
 | Column | Notes |
 |---|---|
@@ -353,7 +375,7 @@ python3 scripts/review_srt.py \
 | `translation` | Translated text |
 | `score` | 0–100 (≥90 shippable, 70–89 usable, <70 rework) |
 | `verdict` | `ok` / `warning` / `reject` |
-| `corrected` | Suggested fix (when verdict ≠ ok) |
+| `corrected` | Suggested fix (when verdict ≠ ok) — edit this column for human review |
 | `issues` | List of flagged issues with severity and category |
 
 ---

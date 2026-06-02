@@ -1,0 +1,372 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:12,040 --> 00:00:15,320","Hey guys, welcome back to our IELTS Listening course.",大家好，歡迎回到我們的 雅思 聽力課程。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+2,"00:00:15,680 --> 00:00:17,680","In the previous lesson, we learned how to",在上一堂課中，我們學習了如,45,needs_revision,在上一堂課中，我們學習了如何,[high] meaning_drift: None
+3,"00:00:17,680 --> 00:00:19,500",do multiple choice questions.,何作答多項選擇題。,45,needs_revision,請回答多項選擇題。,[high] meaning_drift: None
+4,"00:00:19,980 --> 00:00:23,500","In today's lesson, we'll continue practicing listening skills",今天的課程中，我們將繼續練習聽力技巧，從選,45,needs_revision,今天的課程中，我們將繼續練習聽力技巧，。,[high] meaning_drift: None
+5,"00:00:23,500 --> 00:00:26,560",with pick from a list of questions or,項中挑選答案的題目，或是,35,needs_revision,從題目列表中挑選，或是,[medium] terminology: None; [high] meaning_drift: None
+6,"00:00:26,560 --> 00:00:30,120",multiple choice questions with more than one correct answer.,多項選擇題，且有多個正確答案。,77,minor_issues,,[low] style: None; [medium] terminology: None
+7,"00:00:30,820 --> 00:00:33,680",Candidates can be easily tricked when they're given,當提供一長串選項（通常為,35,needs_revision,當他們被提供,[medium] terminology: None; [high] meaning_drift: None
+8,"00:00:33,680 --> 00:00:37,060","a long list of possible answers, typically ranging",四到五個選擇）時，考生很,35,needs_revision,一長串可能的答案，通常範圍從,[medium] terminology: None; [high] meaning_drift: None
+9,"00:00:37,060 --> 00:00:38,680",from four to five choices.,容易被誤導。,45,needs_revision,從四個到五個選項。,[high] meaning_drift: None
+10,"00:00:39,460 --> 00:00:42,470","Therefore, we should be highly focused when doing the test.",因此，進行測驗時我們必須高度專注。,100,ok,,
+11,"00:00:43,080 --> 00:00:45,280",Today's lesson is divided into three parts.,今天的課程分為三個部分。,100,ok,,
+12,"00:00:45,880 --> 00:00:49,400",Part 1. General introduction to pick from a list of questions.,第一部分：從題目中選擇回答的通用介紹。,30,needs_revision,第一部分：從問題中作答的基本介紹。,[medium] terminology: None; [medium] terminology: None; [high] placeholder: None; [low] style: None; [low] collocation: None
+13,"00:00:49,820 --> 00:00:53,320",Part 2. Strategy or steps to handle the question type.,第二部分。處理題型的策略或步驟。,45,needs_revision,,[high] placeholder: None
+14,"00:00:53,860 --> 00:00:56,870",And part 3. Practice and explanation.,第三部分：練習與說明。,45,needs_revision,,[high] placeholder: None
+15,"00:00:57,600 --> 00:01:00,400","Let's come to the first part, general introduction",讓我們進入第一部分，general introduction,77,minor_issues,讓我們進入第一部分，一般介紹,[medium] terminology: None; [low] terminology: None
+16,"00:01:00,400 --> 00:01:02,300",to pick from a list of questions.,從問題列表中選擇。,35,needs_revision,從問題清單中選擇。,[high] terminology: None; [medium] terminology: None
+17,"00:01:06,660 --> 00:01:08,660","In pick from a list of question types,",在從題型列表中選擇的題,30,needs_revision,在從題型清單中選擇的題,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+18,"00:01:09,080 --> 00:01:12,230",you are given a longer list of possible answers,型中，你會看到一組較長的候選,30,needs_revision,你會看到一組更長的候選答案,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+19,"00:01:12,230 --> 00:01:14,380",and required to choose more than one,答案，並需要為每組問題,35,needs_revision,並需選擇多項,[medium] terminology: None; [high] meaning_drift: None
+20,"00:01:14,380 --> 00:01:16,760",correct answer for each pair of questions.,選出多於一個的正確答案。,35,needs_revision,每組問題選出正確答案。,[medium] terminology: None; [high] meaning_drift: None
+21,"00:01:17,700 --> 00:01:20,600","Normally, there are two or three correct answers.",通常有兩到三個正確答案。,100,ok,,
+22,"00:01:21,500 --> 00:01:23,280","In a pick from a list of questions,",在「從問題列表中選擇」,35,needs_revision,在「從問題清單中選擇」,[high] terminology: None; [medium] terminology: None
+23,"00:01:23,760 --> 00:01:26,800",you can hear students and their teachers discuss,的題型中，你可以聽到學生與老師,35,needs_revision,你可以聽到學生和老師討論,[medium] terminology: None; [high] meaning_drift: None
+24,"00:01:26,800 --> 00:01:29,920","classroom work, group assignments, or projects.",討論課堂作業、小組任務或專案。,100,ok,,
+25,"00:01:30,580 --> 00:01:33,580",This question type usually appears in section two,此題型通常出現在第二部。,87,minor_issues,此題型通常出現在第二部分。,[low] terminology: None
+26,"00:01:33,580 --> 00:01:35,920",or three of the IELTS Listening test.,或是雅思聽力測驗中的三題。,80,minor_issues,,[medium] terminology: None
+27,"00:01:36,660 --> 00:01:39,110","Now, let's move on to part 2.",現在，我們進入第二部分。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+28,"00:01:39,110 --> 00:01:42,100",Strategy or steps to handle the question type.,處理題型的策略或步驟。,100,ok,,
+29,"00:01:46,760 --> 00:01:48,710",Let's take a look at this question.,讓我們來看看這道題目。,100,ok,,
+30,"00:01:48,710 --> 00:01:51,350","For this question type, here's what we're going to do.",針對此題型，我們將採取以下做法。,100,ok,,
+31,"00:01:52,200 --> 00:01:56,080","Step one, read the instructions carefully to note",第一步，仔細閱讀說明，記下,80,minor_issues,,[medium] terminology: None
+32,"00:01:56,080 --> 00:01:58,340",the number of correct answers you need to find.,你需要找到的正確答案數量,100,ok,,
+33,"00:01:59,030 --> 00:02:01,840","For today's listening test, you're required to choose",在今天的聽力測驗中，每道題目你,35,needs_revision,今天的聽力測驗，你需要選擇,[medium] terminology: None; [high] meaning_drift: None
+34,"00:02:01,840 --> 00:02:04,520",two correct answers for each question.,需要選出兩項正確答案。,100,ok,,
+35,"00:02:05,360 --> 00:02:07,280","Step two, underline keywords.",第二步，劃下關鍵字。,74,minor_issues,第二步，標記關鍵詞。,[medium] terminology: None; [low] collocation: None; [low] terminology: None
+36,"00:02:08,160 --> 00:02:10,620","In step two, we need to underline keywords",第二步，我們需要在問題與選,35,needs_revision,第二步，我們需要在標出關鍵字,[medium] terminology: None; [high] meaning_drift: None
+37,"00:02:10,620 --> 00:02:12,800",in the questions and options.,項中劃下關鍵字。,35,needs_revision,的問題和選項中。,[medium] terminology: None; [high] meaning_drift: None
+38,"00:02:13,580 --> 00:02:16,500","A key thing to remember, just because you",要記住的一點很重要，就算你,87,minor_issues,不過有一點要記住，就算你,[low] style: None
+39,"00:02:16,500 --> 00:02:19,190",hear the keywords of an option in the recording,在錄音中聽到選項的關鍵字，也,84,minor_issues,在錄音中聽到選項的關鍵字，。,[low] style: None; [low] grammar: None
+40,"00:02:19,430 --> 00:02:21,420",doesn't mean it's the correct answer.,不代表那就是正確答案。,100,ok,,
+41,"00:02:21,900 --> 00:02:24,470",Speakers often mention only certain keywords,講者通常只會提到選項中的某,30,needs_revision,說話者通常只會提到某些關鍵字,[low] style: None; [medium] terminology: None; [low] style: None; [high] meaning_drift: None
+42,"00:02:24,470 --> 00:02:27,350",of an option to trick candidates into thinking,些關鍵字，藉此誘使考生認為,45,needs_revision,或選項，讓考生誤以為,[high] meaning_drift: None
+43,"00:02:27,350 --> 00:02:28,790",it's the correct answer.,那是正確答案。,100,ok,,
+44,"00:02:29,020 --> 00:02:32,380",So be extra careful when answering this question.,因此，回答這道題目時請格外小心。,100,ok,,
+45,"00:02:33,040 --> 00:02:35,580",Let's see what keywords these questions contain.,來看看這些題目包含哪些關鍵字。,80,minor_issues,,[medium] terminology: None
+46,"00:02:35,780 --> 00:02:38,040","For the first pair of questions, the keywords",前兩題的關鍵字為原因,35,needs_revision,前兩題的關鍵字為是,[medium] terminology: None; [high] meaning_drift: None
+47,"00:02:38,040 --> 00:02:42,420","are reasons, learning a language, identify, and most common.",、學習語言、識別以及最常見。,77,minor_issues,原因、學習語言、識別以及最常見。,[medium] terminology: None; [low] style: None
+48,"00:02:42,660 --> 00:02:44,870","In the options, the keywords are",選項中的關鍵字為,100,ok,,
+49,"00:02:44,870 --> 00:02:46,550","A, foreign films",A、foreign films,87,minor_issues,A、外國電影,[low] style: None
+50,"00:02:46,550 --> 00:02:48,710","B, career prospects",B、career prospects,45,needs_revision,B、職業前景,[high] meaning_drift: None
+51,"00:02:48,710 --> 00:02:50,390","C, please parents",C，請家長,100,ok,,
+52,"00:02:50,390 --> 00:02:52,310","D, traveling easier",D、使旅遊更輕鬆,100,ok,,
+53,"00:02:52,310 --> 00:02:53,880","E, foreign music.",E、foreign music,87,minor_issues,E、外國音樂,[low] style: None
+54,"00:02:54,710 --> 00:02:58,310","For the second pair of questions, 23 and 24,",針對第二組問題，即第 23 題與第 24 題，關鍵字為,45,needs_revision,針對第二組問題，即第 23 題與第 24 題，重點是,[high] meaning_drift: None
+55,"00:02:58,310 --> 00:03:02,320","the keywords are things, find, most difficult,",things、find、most difficult，,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+56,"00:03:02,740 --> 00:03:04,070",and learning a language.,以及學習語言,100,ok,,
+57,"00:03:04,280 --> 00:03:06,470","In the options, the keywords are",在選項中，關鍵字是,100,ok,,
+58,"00:03:06,710 --> 00:03:08,630","A, fast speech",A，快速語速,80,minor_issues,,[medium] terminology: None
+59,"00:03:08,630 --> 00:03:10,790","B, complex grammar",B，複雜文法,100,ok,,
+60,"00:03:10,790 --> 00:03:13,790","C, remembering new vocabulary",C，記住新詞彙,100,ok,,
+61,"00:03:14,060 --> 00:03:15,830","D, pronunciation",D，發音,100,ok,,
+62,"00:03:15,830 --> 00:03:18,830","E, writing essays",E，寫作論文 對於第,45,needs_revision,E，寫作論文,[high] meaning_drift: None
+63,"00:03:19,060 --> 00:03:22,280","For the third pair of questions, the keywords",三組問題，關鍵字為 learning tools、m,42,needs_revision,第三組問題，關鍵字為 learning tools、m,[high] meaning_drift: None; [low] placeholder: None
+64,"00:03:22,280 --> 00:03:27,080","are learning tools, most popular, and students, surveyed.",ost popular 和 students、surveyed。,35,needs_revision,ost popular 和 學員、surveyed。,[medium] terminology: None; [high] meaning_drift: None
+65,"00:03:27,110 --> 00:03:29,030","In the options, the keywords are",在選項中，關鍵字為,100,ok,,
+66,"00:03:29,030 --> 00:03:30,460","A, textbooks",A、課本,80,minor_issues,,[medium] terminology: None
+67,"00:03:30,460 --> 00:03:31,670","B, movies",B、電影,100,ok,,
+68,"00:03:31,670 --> 00:03:33,590","C, television series",C、影集,80,minor_issues,,[medium] terminology: None
+69,"00:03:33,590 --> 00:03:35,440","D, exchange apps",D、兌換應用程式,100,ok,,
+70,"00:03:35,440 --> 00:03:36,600","E, dictionaries.",E、字典。,100,ok,,
+71,"00:03:37,670 --> 00:03:41,510","For the final pair of questions, 27 and 28.",最後兩題，第 27 題和第 28 題。,80,minor_issues,,[medium] terminology: None
+72,"00:03:41,510 --> 00:03:44,630","the keywords are tasks, Leo and Mia,",關鍵字包括任務、Leo 和 Mia、同,45,needs_revision,關鍵字包括任務、Leo 和 Mia、等,[high] meaning_drift: None
+73,"00:03:44,630 --> 00:03:45,820","agree, and next.",意，以及下一個。,42,needs_revision,同意，還有下一個。,[high] meaning_drift: None; [low] register: None
+74,"00:03:45,820 --> 00:03:48,230","In the options, the keywords are",在選項中，關鍵字為,100,ok,,
+75,"00:03:48,230 --> 00:03:49,910","A, write a report",A，寫一份報告,100,ok,,
+76,"00:03:49,910 --> 00:03:52,070","B, interview a teacher",B、採訪老師,80,minor_issues,,[medium] terminology: None
+77,"00:03:52,070 --> 00:03:53,980","C, record a video",C、錄製影片,80,minor_issues,,[medium] terminology: None
+78,"00:03:53,980 --> 00:03:55,430","D, buy books",D、買書,80,minor_issues,,[medium] terminology: None
+79,"00:03:55,430 --> 00:03:57,350","E, create a poster.",E、製作海報,100,ok,,
+80,"00:03:58,060 --> 00:04:00,710","Step three, listen to the recording",第三步，聆聽錄音,87,minor_issues,第三步，聽錄音,[low] register: None
+81,"00:04:00,710 --> 00:04:03,100",and choose the correct answers.,並選擇正確答案。,100,ok,,
+82,"00:04:03,100 --> 00:04:05,220",The first important thing you should remember is,你應該記住的第一個重要事項是,100,ok,,
+83,"00:04:05,220 --> 00:04:08,060",that the options might not come in order,，選項的出現順序可能與,30,needs_revision,選項可能不是依順序出現,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+84,"00:04:08,060 --> 00:04:11,220","as the information in the recording, which can",錄音中的資訊順序不同，這很,35,needs_revision,如錄音中的資訊所示，這可以,[medium] terminology: None; [high] meaning_drift: None
+85,"00:04:11,220 --> 00:04:12,640",easily lead to confusion.,容易造成混淆。,100,ok,,
+86,"00:04:13,260 --> 00:04:16,550","So, we need to remember as many options as possible.",因此，我們需要盡可能記住更多的選項。,80,minor_issues,,[medium] terminology: None
+87,"00:04:17,000 --> 00:04:19,959","Secondly, keep in mind that the speaker might",其次，請留意演講者可能會使,32,needs_revision,其次，請留意演講者可能會說,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+88,"00:04:19,960 --> 00:04:22,550","use words similar to the ones in the options,",用與選項中相似的詞彙，這,87,minor_issues,用與選項中相似的詞彙，。,[low] grammar: None
+89,"00:04:23,030 --> 00:04:24,710",which could be a distraction.,可能會造成干擾。,100,ok,,
+90,"00:04:24,710 --> 00:04:26,800",So watch out for such cases.,因此，請注意這類情況。,100,ok,,
+91,"00:04:27,520 --> 00:04:29,920","Finally, the options can come in the form",最後，選項可能以同義詞或,35,needs_revision,最後，選項可能以...的形式出現,[medium] terminology: None; [high] meaning_drift: None
+92,"00:04:29,920 --> 00:04:31,700",of synonyms or paraphrases.,轉述的形式出現。,30,needs_revision,同義詞或改寫。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+93,"00:04:32,620 --> 00:04:35,280","For example, instead of food, we can hear",例如，我們可能會聽到 dishes 這個詞，,87,minor_issues,,[low] style: None
+94,"00:04:35,280 --> 00:04:36,710",the word dishes.,而不是 food。,45,needs_revision,而是指 dishes。,[high] meaning_drift: None
+95,"00:04:37,080 --> 00:04:40,760","So, mastering synonyms is crucial for success in",因此，精通同義詞對於成功至關重要，,100,ok,,
+96,"00:04:40,760 --> 00:04:43,800","the IELTS Listening test, especially when dealing with",雅思聽力測驗，尤其是在處理這,80,minor_issues,,[medium] terminology: None
+97,"00:04:43,800 --> 00:04:44,870",this type of question.,類題目時。,35,needs_revision,這類問題。,[medium] terminology: None; [high] meaning_drift: None
+98,"00:04:45,280 --> 00:04:48,440","Step four, choose and write the correct answers.",第四步，選出並寫下正確答案。,80,minor_issues,,[medium] terminology: None
+99,"00:04:49,160 --> 00:04:51,110",Many candidates can make a mistake,許多考生在書寫答案,45,needs_revision,許多考生可能會犯錯,[high] meaning_drift: None
+100,"00:04:51,110 --> 00:04:52,550",when writing the answers.,時可能會犯錯。,35,needs_revision,寫答案時。,[medium] terminology: None; [high] meaning_drift: None
+101,"00:04:52,760 --> 00:04:54,230",It's crucial to remember that,務必記住，針對這,35,needs_revision,務必記住，這一點,[medium] terminology: None; [high] meaning_drift: None
+102,"00:04:54,230 --> 00:04:57,590","for this question type, you don't write out the whole answer.",種題型，你不需要寫出完整答案。,87,minor_issues,這種題型，你不需要寫出完整答案。,[low] grammar: None
+103,"00:04:58,040 --> 00:05:01,580","Instead, you only select two letters corresponding to",相反地，你只需選出對應兩個正確答案,30,needs_revision,不過，你只需選出對應的兩個字母,[medium] terminology: None; [medium] terminology: None; [low] register: None; [high] meaning_drift: None
+104,"00:05:01,580 --> 00:05:02,640",two correct answers.,的兩個字母。,35,needs_revision,兩個正確答案。,[medium] terminology: None; [high] meaning_drift: None
+105,"00:05:06,480 --> 00:05:09,940",Let's choose the correct answers to these questions.,讓我們選擇這些問題的答案。,77,minor_issues,請選出這些問題的答案。,[medium] terminology: None; [low] register: None
+106,"00:05:10,540 --> 00:05:14,840","Part three, you will hear two university students,",第三部分，你將聽到兩位大學學生的對話，,35,needs_revision,第三部分，你將聽到兩位大學生，,[medium] terminology: None; [high] meaning_drift: None
+107,"00:05:15,240 --> 00:05:19,180","Bob and Mia, discussing a research project for",Bob 和 Mia 正在討論他們,35,needs_revision,Bob 和 Mia 正在討論一個研究計畫,[medium] terminology: None; [high] meaning_drift: None
+108,"00:05:19,180 --> 00:05:21,940",their language and communication module.,語言與溝通課程的研究計畫。,35,needs_revision,其語言與溝通模組。,[medium] terminology: None; [high] meaning_drift: None
+109,"00:05:22,780 --> 00:05:25,520","First, you have some time to look at",首先，你有時間查看第 21,30,needs_revision,首先，你有時間檢視第 21 頁,[high] terminology: None; [high] meaning_drift: None
+110,"00:05:25,520 --> 00:05:27,880",questions 21 to 28.,至 28 題。,30,needs_revision,第 21 至 28 題。,[medium] terminology: None; [high] placeholder: None; [high] meaning_drift: None
+111,"00:06:01,390 --> 00:06:06,230","Now, listen and answer questions 21 to 28.",現在，請聽錄音並回答第 21 至 28 題。,80,minor_issues,,[medium] terminology: None
+112,"00:06:07,910 --> 00:06:09,570","Hi Mia, thanks for meeting me.",嗨，Mia，謝謝你與我會面。,100,ok,,
+113,"00:06:09,990 --> 00:06:11,610",We really need to catch up on our,我們確實需要趕上,100,ok,,
+114,"00:06:11,610 --> 00:06:15,110",research project for the language and communication module.,語言與溝通課程的研究計畫進度。,80,minor_issues,,[medium] terminology: None
+115,"00:06:15,210 --> 00:06:17,030",How is the data analysis going?,資料分析進行得如何？,100,ok,,
+116,"00:06:17,630 --> 00:06:20,070","It's going well, but it's a lot of work.",進行得還不錯，但工作量很大。,100,ok,,
+117,"00:06:20,530 --> 00:06:23,270",I've been looking at the survey results all morning.,我整個早上都在看調查結果。,80,minor_issues,,[medium] terminology: None
+118,"00:06:23,510 --> 00:06:25,910",How's the first draft of our paper coming along?,我們的論文初稿進度如何？,100,ok,,
+119,"00:06:26,560 --> 00:06:27,130",It's okay.,沒關係。,100,ok,,
+120,"00:06:27,610 --> 00:06:31,010","I've actually just finished writing the introduction, and",我剛剛其實已經寫完引言，並且,77,minor_issues,,[low] style: None; [medium] terminology: None
+121,"00:06:31,010 --> 00:06:32,990","in the next part, we need to explain",接下來，我們需要說明我,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+122,"00:06:32,990 --> 00:06:36,630","our main focus, the reasons why university students",們的主要重點，以及當代大學生選,35,needs_revision,我們的主要重點，以及大學生,[medium] terminology: None; [high] meaning_drift: None
+123,"00:06:36,630 --> 00:06:38,810",today choose to learn a second language.,擇學習第二語言的原因。,35,needs_revision,今天選擇學習第二語言。,[medium] terminology: None; [high] meaning_drift: None
+124,"00:06:39,430 --> 00:06:39,750",Great!,太棒了！,100,ok,,
+125,"00:06:40,250 --> 00:06:43,070","From my interviews, the most common reason was",根據我的訪談結果，最常見的原因是,100,ok,,
+126,"00:06:43,070 --> 00:06:44,850",definitely for future careers.,絕對有助於未來的職業發展。,80,minor_issues,,[medium] terminology: None
+127,"00:06:45,530 --> 00:06:48,430",Most students feel that being bilingual is essential,大多數學生認為，在當今社會，具備雙語能力對,35,needs_revision,大多數學生認為，在當今社會，具備雙語能力很重要,[medium] terminology: None; [high] meaning_drift: None
+128,"00:06:48,430 --> 00:06:50,190",to secure a good job these days.,於找到一份好工作至關重要。,30,needs_revision,現在要找到一份好工作。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+129,"00:06:50,610 --> 00:06:51,870",I found that too.,我也發現了。,87,minor_issues,,[low] style: None
+130,"00:06:52,230 --> 00:06:54,810",I also noticed that many people are motivated,我也注意到，許多人受到激勵,87,minor_issues,,[low] style: None
+131,"00:06:54,810 --> 00:06:55,510",by travel.,由旅遊業者提供。,87,minor_issues,,[low] style: None
+132,"00:06:56,070 --> 00:06:59,330","Many now solo travel across countries, and they",現在許多人單獨跨國旅行，他,87,minor_issues,現在許多人單獨跨國旅行，他們,[low] grammar: None
+133,"00:06:59,330 --> 00:07:01,910","want to be able to talk to locals on their own,",們希望能靠自己與當地人溝通，,87,minor_issues,他們希望能靠自己與當地人溝通，,[low] grammar: None
+134,"00:07:01,910 --> 00:07:03,830",not just stay in tourist areas,而不只是待在觀光,45,needs_revision,而不只是待在觀光區,[high] meaning_drift: None
+135,"00:07:03,830 --> 00:07:05,290",or depend on tour guides.,區或依賴導遊。,45,needs_revision,或依賴導遊。,[high] meaning_drift: None
+136,"00:07:06,010 --> 00:07:08,650","Yeah, and I expected many would say they",沒錯，我原本預期許多人會說他,45,needs_revision,沒錯，我原本預期許多人會說他們,[high] meaning_drift: None
+137,"00:07:08,650 --> 00:07:11,030","do it because of their parents' wants, but",們這麼做是順從父母的期望，但這,87,minor_issues,他們這麼做是順從父母的期望，但這,[low] grammar: None
+138,"00:07:11,030 --> 00:07:13,330",that wasn't a very common answer in my group.,在我的小組中並不是很常見的回答。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+139,"00:07:13,910 --> 00:07:16,070",It's a good thing to learn that their motivation,了解他們的語言學習動機來,30,needs_revision,瞭解他們的語言學習動機來,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+140,"00:07:16,070 --> 00:07:19,050","for language learning comes from inside, not outside.",自內部而非外部，是一件好事。,35,needs_revision,語言學習的動力來自內在，而非外在。,[medium] terminology: None; [high] meaning_drift: None
+141,"00:07:19,610 --> 00:07:22,670","And surprisingly, very few said they chose a",令人驚訝的是，幾乎沒有人說他,42,needs_revision,令人驚訝的是，很少人表示他們選擇了,[low] style: None; [high] meaning_drift: None
+142,"00:07:22,670 --> 00:07:25,150",language just because they liked the music or,們選擇某門語言只是因為喜歡該,45,needs_revision,只是因為喜歡音樂或,[high] meaning_drift: None
+143,"00:07:25,150 --> 00:07:26,630",films from that country.,國的音樂或電影。,35,needs_revision,該國的電影。,[medium] terminology: None; [high] meaning_drift: None
+144,"00:07:27,010 --> 00:07:29,070","Actually, it's quite predictable for me.",其實，這對我來說相當合乎預期。,100,ok,,
+145,"00:07:29,590 --> 00:07:31,670","Anyway, we also need to discuss",不過，我們也必須討論,87,minor_issues,,[low] style: None
+146,"00:07:31,670 --> 00:07:34,070",the hardest parts of the learning process.,學習過程中最艱難的部分。,100,ok,,
+147,"00:07:34,470 --> 00:07:38,150","Most students said that while their pronunciation isn't perfect,",大多數學生表示，雖然他們的發音並非完美，,77,minor_issues,,[low] style: None; [medium] terminology: None
+148,"00:07:38,150 --> 00:07:39,590",they don't really worry about it,但只要對方能理解，他,45,needs_revision,他們其實不太擔心,[high] meaning_drift: None
+149,"00:07:39,590 --> 00:07:41,370",as long as people understand them.,們並不太擔心這個問題。,35,needs_revision,只要人們了解它們。,[medium] terminology: None; [high] meaning_drift: None
+150,"00:07:41,930 --> 00:07:44,150","Yeah, because they only consider language",是啊，因為他們只把語言視為,87,minor_issues,是啊，因為他們只把語言當作,[low] style: None
+151,"00:07:44,150 --> 00:07:45,830",as a tool for communication.,作為一種溝通工具。,100,ok,,
+152,"00:07:46,350 --> 00:07:49,270",What really makes students struggle is the speed,真正讓學生感到困難的是自,35,needs_revision,真正讓學生感到困難的是速度,[medium] terminology: None; [high] meaning_drift: None
+153,"00:07:49,270 --> 00:07:50,310",of natural speech.,然語速。,42,needs_revision,的自然語音。,[low] style: None; [high] meaning_drift: None
+154,"00:07:50,690 --> 00:07:53,510","When you hear native speakers talking to each other,",當你聽到母語人士彼此交談時，很難,45,needs_revision,當你聽到母語人士彼此交談時，時,[high] meaning_drift: None
+155,"00:07:53,510 --> 00:07:54,750",it's so hard to follow.,跟上他們的話。,35,needs_revision,真的跟不上。,[medium] terminology: None; [high] meaning_drift: None
+156,"00:07:55,370 --> 00:07:55,810",Agree.,同意。,100,ok,,
+157,"00:07:55,810 --> 00:07:57,890",And it was a bit of a surprise,當人們表示他們覺,45,needs_revision,這有點讓人驚訝,[high] meaning_drift: None
+158,"00:07:57,890 --> 00:08:00,710",when people said they find learning vocabulary,得學習詞彙比學習語法規則更,30,needs_revision,得學習詞彙比學習文法規則更,[high] terminology: None; [high] meaning_drift: None
+159,"00:08:00,710 --> 00:08:03,590",much more frustrating than learning grammar rules.,令人挫敗時，這有點讓人驚訝。,30,needs_revision,比學習語法規則更令人挫敗。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+160,"00:08:03,950 --> 00:08:06,430","Actually, it's quite logical once you study them.",其實，一旦你開始學習它們，就會發現它們相當有邏輯。,100,ok,,
+161,"00:08:06,850 --> 00:08:09,210",There are just so many words to memorize.,要背誦的單詞實在太多了。,42,needs_revision,要背誦的單字實在太多了。,[high] terminology: None; [low] style: None
+162,"00:08:09,830 --> 00:08:12,950","Now, let's look at what actually helps students",現在，讓我們來看看什麼真正能幫助學,35,needs_revision,現在，讓我們來看看什麼真正能幫助學生,[medium] terminology: None; [high] meaning_drift: None
+163,"00:08:12,950 --> 00:08:14,630",in their language learning journey.,生在他們的學習旅程中進步。,35,needs_revision,在他們的語言學習旅程中。,[medium] terminology: None; [high] meaning_drift: None
+164,"00:08:14,910 --> 00:08:17,670",Many of them complain that textbooks are usually,許多人抱怨課本通常很無聊，,80,minor_issues,,[medium] terminology: None
+165,"00:08:17,670 --> 00:08:19,830",boring and do not provide much help.,也無法提供太多幫助。,87,minor_issues,,[low] style: None
+166,"00:08:19,830 --> 00:08:23,830","Instead, they highly recommended using language exchange apps",他們強烈建議使用語言交換應用程式，與,45,needs_revision,,[high] meaning_drift: None
+167,"00:08:23,830 --> 00:08:26,670",to text or voice call someone in another country.,國外的人進行文字或語音通話。,32,needs_revision,打給國外的人發訊息或語音通話。,[medium] terminology: None; [low] collocation: None; [high] meaning_drift: None
+168,"00:08:27,170 --> 00:08:29,270",I also realized that they prefer,我也發現他們更傾向,87,minor_issues,,[low] style: None
+169,"00:08:29,270 --> 00:08:31,910",to exchange language with someone their own age.,於與同齡的人進行語言交流。,100,ok,,
+170,"00:08:32,290 --> 00:08:35,270",Another popular method was watching television series,另一種受歡迎的方法是觀看電視劇,80,minor_issues,,[medium] terminology: None
+171,"00:08:35,270 --> 00:08:36,470",in the target language.,雅思 課程,35,needs_revision,in the target language.,[medium] terminology: None; [high] meaning_drift: None
+172,"00:08:36,730 --> 00:08:38,390",They said it's better than movies,他們說這比看電影好，,100,ok,,
+173,"00:08:38,390 --> 00:08:41,030",because you get used to the same characters' voices,因為你會習慣同一批角色在許多集,35,needs_revision,因為你會習慣同一批角色的聲音,[medium] terminology: None; [high] meaning_drift: None
+174,"00:08:41,030 --> 00:08:42,190",over many episodes.,數中的聲音。,45,needs_revision,在許多集數中。,[high] meaning_drift: None
+175,"00:08:42,809 --> 00:08:46,550","I also tried suggesting dictionaries, but most students",我也曾建議使用字典，但大多數學生,74,minor_issues,,[low] style: None; [low] style: None; [medium] terminology: None
+176,"00:08:46,550 --> 00:08:49,490",said those felt a bit old-fashioned and not effective.,表示這些感覺有點過時且效果不佳。,87,minor_issues,,[low] style: None
+177,"00:08:50,210 --> 00:08:50,470",Yeah.,是啊。,100,ok,,
+178,"00:08:51,030 --> 00:08:53,750","So, what should we do next for our presentation?",那麼，我們接下來該怎麼進行簡報呢？,100,ok,,
+179,"00:08:53,950 --> 00:08:55,350",We have all our data now.,我們現在已經收集到所有資料了。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+180,"00:08:55,950 --> 00:08:57,970","Well, our professor said we should get a",那麼，我們的教授說我們應該去,100,ok,,
+181,"00:08:57,970 --> 00:08:59,510",professional opinion.,專業意見。,100,ok,,
+182,"00:08:59,510 --> 00:09:01,670",How about we interview Professor Duncan,我們去採訪語言系的,30,needs_revision,我們來採訪鄧教授吧,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+183,"00:09:01,670 --> 00:09:03,430",from the language department?,鄧肯教授如何？,35,needs_revision,來自語言系嗎？,[medium] terminology: None; [high] meaning_drift: None
+184,"00:09:03,430 --> 00:09:04,530",That's a great idea.,好主意。,100,ok,,
+185,"00:09:04,830 --> 00:09:06,940",He can give us a different perspective.,他可以給我們不同的觀點。,100,ok,,
+186,"00:09:07,110 --> 00:09:10,070","Oh, and let's conduct the interview face-to-face",另外，讓我們進行面對面的面試，這樣,77,minor_issues,另外，我們就當面面試吧,[medium] terminology: None; [low] register: None
+187,"00:09:10,070 --> 00:09:11,470",so we don't need to video it.,就不需要錄製影片了。,80,minor_issues,,[medium] terminology: None
+188,"00:09:11,870 --> 00:09:12,710",That's okay.,沒關係。,100,ok,,
+189,"00:09:12,750 --> 00:09:14,390",I will email the professor soon,我稍後會發送電子信箱給教,30,needs_revision,我稍後會傳送電子信箱給教授,[high] terminology: None; [high] meaning_drift: None; [low] typo: None
+190,"00:09:14,390 --> 00:09:16,410",to make sure he can have some time for us.,授，以確認他是否有時間給我們。,35,needs_revision,確保，以確認他是否有時間給我們。,[medium] terminology: None; [high] meaning_drift: None
+191,"00:09:16,410 --> 00:09:17,250",Hmm.,嗯。,100,ok,,
+192,"00:09:17,510 --> 00:09:19,430","We don't need more books, right?",我們不需要更多書了，對吧？,80,minor_issues,,[medium] terminology: None
+193,"00:09:19,790 --> 00:09:20,310",That's right.,沒錯。,100,ok,,
+194,"00:09:20,470 --> 00:09:22,530",I think we have been provided enough sources,我認為我們已經提供了足夠的來源供研,42,needs_revision,我認為我們已經提供了足夠的的資料供研究,[high] meaning_drift: None; [low] collocation: None
+195,"00:09:22,530 --> 00:09:24,810","for the research, but we need to think",究使用，但我們需要再想一想。,45,needs_revision,研究，但我們需要再想一想。,[high] meaning_drift: None
+196,"00:09:24,810 --> 00:09:26,730",about how to show our results.,關於如何呈現我們的結果。,100,ok,,
+197,"00:09:27,410 --> 00:09:29,270","Instead of just a long report,",與其只寫一份長篇報告，,100,ok,,
+198,"00:09:29,270 --> 00:09:31,430",why don't we design a large poster?,我們不如設計一張大型海報？,100,ok,,
+199,"00:09:31,570 --> 00:09:33,830",We can put all our graphs and charts on it,我們可以將所有的圖表和統計圖都放在上,77,minor_issues,我們可以將所有的圖表和統計圖都放在上面,[medium] terminology: None; [low] grammar: None
+200,"00:09:33,830 --> 00:09:35,710",so it's easy for the class to see.,面，讓班上的同學都能輕鬆看到。,45,needs_revision,這樣，讓班上的同學都能輕鬆看到。,[high] meaning_drift: None
+201,"00:09:36,110 --> 00:09:37,330",That sounds perfect.,聽起來很完美。,100,ok,,
+202,"00:09:38,750 --> 00:09:40,990",That is the end of part three.,這是第三部分的最後內容。,100,ok,,
+203,"00:09:41,510 --> 00:09:44,210",You now have half a minute to check,你現在有半分鐘的時間來檢,35,needs_revision,你現在有半分鐘的時間來檢查,[medium] terminology: None; [high] meaning_drift: None
+204,"00:09:44,210 --> 00:09:45,990",your answers to part three.,查第三部分的答案。,35,needs_revision,你第三部分的答案。,[medium] terminology: None; [high] meaning_drift: None
+205,"00:09:46,830 --> 00:09:47,710",Time's up.,時間到了。,100,ok,,
+206,"00:09:47,990 --> 00:09:49,670",Let's check the answers with me.,讓我帶你們一起檢查答案。,100,ok,,
+207,"00:09:50,870 --> 00:09:51,610","Hi, Mia.",嗨，Mia。,100,ok,,
+208,"00:09:51,610 --> 00:09:52,670",Thanks for meeting me.,感謝你撥冗與我會面。,87,minor_issues,感謝你見個面。,[low] register: None
+209,"00:09:53,090 --> 00:09:54,730",We really need to catch up on our,我們真的需要補上,45,needs_revision,我們真的需要補上進度,[high] meaning_drift: None
+210,"00:09:54,730 --> 00:09:57,970",research project for the language and communication module.,語言與溝通模組的研究計畫進度。,100,ok,,
+211,"00:09:58,530 --> 00:10:00,130",How is the data analysis going?,資料分析進行得如何？,100,ok,,
+212,"00:10:00,730 --> 00:10:03,170","It's going well, but it's a lot of work.",進行得很順利，但工作量相當大。,100,ok,,
+213,"00:10:03,590 --> 00:10:06,230",I've been looking at the survey results all morning.,我整個早上都在查看調查結果。,35,needs_revision,我整個早上都在檢視調查結果。,[high] terminology: None; [medium] terminology: None
+214,"00:10:06,690 --> 00:10:09,350",How's the first draft of our paper coming along?,我們的論文初稿寫得怎麼樣了？,100,ok,,
+215,"00:10:09,630 --> 00:10:10,270",It's okay.,沒關係。,100,ok,,
+216,"00:10:10,270 --> 00:10:14,090","I've actually just finished writing the introduction, and",我剛剛其實已經寫完引言部分，接下,80,minor_issues,,[medium] terminology: None
+217,"00:10:14,090 --> 00:10:16,090",in the next part we need to explain,來我們需要解釋主要的,35,needs_revision,接下來我們需要解釋,[medium] terminology: None; [high] meaning_drift: None
+218,"00:10:16,090 --> 00:10:19,730","our main focus, the reasons why university students",重點，也就是為什麼現在的的大,32,needs_revision,我們的重點，也就是為什麼大學生,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+219,"00:10:19,730 --> 00:10:21,910",today choose to learn a second language.,學生選擇學習第二語言。,45,needs_revision,你選擇學習第二語言。,[high] meaning_drift: None
+220,"00:10:22,550 --> 00:10:22,870",Great.,太好了。,100,ok,,
+221,"00:10:23,350 --> 00:10:26,170","From my interviews, the most common reason was",根據我的訪談，最常見的原因絕對是,87,minor_issues,根據我的訪談，最常見的原因是,[low] register: None
+222,"00:10:26,170 --> 00:10:27,990",definitely for future careers.,為了未來的職涯發展。,100,ok,,
+223,"00:10:28,650 --> 00:10:31,530",Most students feel that being bilingual is essential,大多數學生認為，在當今社會，具備雙語能力對,35,needs_revision,大多數學生認為，在當今社會，具備雙語能力很重要,[medium] terminology: None; [high] meaning_drift: None
+224,"00:10:31,530 --> 00:10:33,270",to secure a good job these days.,於獲得一份好工作至關重要。,35,needs_revision,現在要找到好工作很重要。,[medium] terminology: None; [high] meaning_drift: None
+225,"00:10:33,670 --> 00:10:34,990",I found that too.,我也有同感。,87,minor_issues,,[low] style: None
+226,"00:10:35,310 --> 00:10:37,890",I also noticed that many people are motivated,我也注意到，許多人受到旅遊的,42,needs_revision,,[low] style: None; [high] meaning_drift: None
+227,"00:10:37,890 --> 00:10:38,630",by travel.,激勵。,45,needs_revision,by travel.,[high] meaning_drift: None
+228,"00:10:39,110 --> 00:10:41,990","Many now solo travel across countries,",現在很多人選擇獨自出國,100,ok,,
+229,"00:10:41,990 --> 00:10:44,870","and they want to be able to talk to locals on their own,",旅行，他們希望能夠自行與當地人溝通,45,needs_revision,他們，他們希望能夠自行與當地人溝通,[high] meaning_drift: None
+230,"00:10:44,870 --> 00:10:48,710",not just stay in tourist areas or depend on tour guides.,，而不只是待在觀光區或依賴導遊。,100,ok,,
+231,"00:10:49,030 --> 00:10:51,750","Yeah, and I expected many would say they",沒錯，我原本預期很多人會說,100,ok,,
+232,"00:10:51,750 --> 00:10:54,130","do it because of their parents' wants, but",是因為父母的要求，但這在我的訪,45,needs_revision,是因為父母的要求，但這在我的訪談,[high] meaning_drift: None
+233,"00:10:54,130 --> 00:10:56,430",that wasn't a very common answer in my,談中並不是個常見的答案。,35,needs_revision,這在我不太常見。,[medium] terminology: None; [high] meaning_drift: None
+234,"00:10:56,930 --> 00:10:58,310",It's a good thing to learn that,了解他們學習語言,30,needs_revision,瞭解他們學習語言,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+235,"00:10:58,510 --> 00:11:01,430","their motivation for language learning comes from inside,",的動力來自內心，這是一件好事。,35,needs_revision,他們學習語言的動力來自內在,[medium] terminology: None; [high] meaning_drift: None
+236,"00:11:01,430 --> 00:11:02,390",not outside.,不在外面。,100,ok,,
+237,"00:11:02,670 --> 00:11:05,770","And, surprisingly, very few said they chose a",而且，令人驚訝的是，很少有人的理,42,needs_revision,而且，令人驚訝的是，很少有人的人選擇,[low] style: None; [high] meaning_drift: None
+238,"00:11:05,770 --> 00:11:08,210",language just because they liked the music or,由是他們因為喜歡該國的音樂或電影而,35,needs_revision,只是因為他們喜歡那裡的音樂或,[medium] terminology: None; [high] meaning_drift: None
+239,"00:11:08,210 --> 00:11:09,490",films from that country.,選擇學習該語言。,35,needs_revision,該國的電影。,[medium] terminology: None; [high] meaning_drift: None
+240,"00:11:09,810 --> 00:11:13,130",Take a look at question 21 and 22.,請看一下 question 21 和 question 22。,81,minor_issues,請看一下 第 21 題和第 22 題。,[low] terminology: None; [low] terminology: None; [low] terminology: None
+241,"00:11:13,430 --> 00:11:16,410",Let's pay attention to the discussion on reasons.,讓我們關注一下關於原因的討論。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+242,"00:11:16,730 --> 00:11:19,570",Mia mentions that the most common reason was,Mia 提到，最常見的原因是,100,ok,,
+243,"00:11:19,570 --> 00:11:23,950","for future careers, and specifically says students feel",為了未來的職涯，並明確指出學生認為,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+244,"00:11:23,950 --> 00:11:27,430",it is essential to secure a good job.,獲得一份好工作至關重要。,100,ok,,
+245,"00:11:27,610 --> 00:11:31,290","This matches option B, to improve career prospects.",這符合選項 B，即改善職涯前景。,100,ok,,
+246,"00:11:31,810 --> 00:11:35,170","Then, Bob adds that many people are motivated",接著，Bob 補充說，許多人受到旅,45,needs_revision,接著，Bob 補充說，許多人受到到,[high] meaning_drift: None
+247,"00:11:35,170 --> 00:11:37,770",by travel and want to talk to locals,遊的動機驅動，並希望與當地人,45,needs_revision,因為想旅遊，所以希望和當地人,[high] meaning_drift: None
+248,"00:11:37,770 --> 00:11:38,450",on their own.,自行交流。,45,needs_revision,各自。,[high] meaning_drift: None
+249,"00:11:38,890 --> 00:11:42,630","This matches option D, to make traveling easier.",這符合選項 D，即讓旅遊更輕鬆。,100,ok,,
+250,"00:11:43,750 --> 00:11:47,590","Notice that Mia mentions parents' wants, but she",注意，Mia 提到了父母的期望，但她,100,ok,,
+251,"00:11:47,590 --> 00:11:50,970","explicitly says that wasn't a very common answer,",明確指出這不是個很常見的答案，因此我們,77,minor_issues,明確指出這不是個很常見的答案，所以我們,[medium] terminology: None; [low] register: None
+252,"00:11:51,230 --> 00:11:52,630",so we eliminate C.,排除選項 C。,100,ok,,
+253,"00:11:52,830 --> 00:11:56,450","Bob also mentions music or films, but notes",Bob 也提到了音樂或電影，但備註選擇,42,needs_revision,Bob 也提到了音樂或電影，但並指出,[low] style: None; [high] meaning_drift: None
+254,"00:11:56,450 --> 00:11:59,430","that very few chose that reason, so we",這個理由的人非常少，因此我們排除選,42,needs_revision,選擇這個理由的人很少，所以我們就排除了,[high] meaning_drift: None; [low] grammar: None
+255,"00:11:59,430 --> 00:12:00,970",eliminate A and E.,項 A 和 E。,45,needs_revision,排除 A 和 E。,[high] meaning_drift: None
+256,"00:12:00,970 --> 00:12:03,210",So the answers are B and D.,所以答案是 B 和 D。,100,ok,,
+257,"00:12:04,210 --> 00:12:06,330","Actually, it's quite predictable for me.",實際上，這對我來說相當容易預測。,100,ok,,
+258,"00:12:07,010 --> 00:12:09,450","Anyway, we also need to discuss the hardest",總之，我們還需要討論學習過,42,needs_revision,總之，我們還需要討論最難的部分,[low] style: None; [high] meaning_drift: None
+259,"00:12:09,450 --> 00:12:11,070",parts of the learning process.,程中最困難的部分。,45,needs_revision,學習過程的一部分。,[high] meaning_drift: None
+260,"00:12:11,710 --> 00:12:15,350","Most students said that while their pronunciation isn't perfect,",大多數學生表示，雖然他們的 pronunciation 並不完美，,74,minor_issues,大多數學生表示，雖然他們的 發音 並不完美，,[low] style: None; [medium] terminology: None; [low] terminology: None
+261,"00:12:15,350 --> 00:12:16,790","they don't really worry about it,",他們其實不太擔心這一點，只要,45,needs_revision,他們其實不太擔心這一點，OK,[high] meaning_drift: None
+262,"00:12:16,790 --> 00:12:18,710",as long as people understand them.,大家能理解他們的意思就好。,80,minor_issues,,[medium] terminology: None
+263,"00:12:19,130 --> 00:12:21,350","Yeah, because they only consider language",是啊，因為他們只把語言,45,needs_revision,對，因為他們只考慮語言,[high] meaning_drift: None
+264,"00:12:21,350 --> 00:12:22,870",as a tool for communication.,視為溝通的工具。,80,minor_issues,,[medium] terminology: None
+265,"00:12:23,570 --> 00:12:26,530",What really makes students struggle is the speed,讓學生感到困難的，其實是語速。,80,minor_issues,,[medium] terminology: None
+266,"00:12:26,530 --> 00:12:27,570",of natural speech.,一般口語。,100,ok,,
+267,"00:12:27,890 --> 00:12:30,470","When you hear native speakers talking to each other,",當你聽到 native speakers 彼此交,74,minor_issues,當你聽到 母語人士 彼此交談,[medium] terminology: None; [low] style: None; [low] style: None
+268,"00:12:30,710 --> 00:12:32,050",it's so hard to follow.,談時，根本很難跟上。,87,minor_issues,,[low] style: None
+269,"00:12:32,630 --> 00:12:33,050",Agree.,同意。,100,ok,,
+270,"00:12:33,610 --> 00:12:35,270",And it was a bit of a surprise,這有點令人驚訝。,100,ok,,
+271,"00:12:35,270 --> 00:12:38,630",when people said they find learning vocabulary much more,當人們說他們覺得學習 vocabulary 比學習 gr,32,needs_revision,當人們說他們覺得學習 單字 比學習 其他內容,[medium] terminology: None; [low] terminology: None; [high] meaning_drift: None
+272,"00:12:38,630 --> 00:12:40,790",frustrating than learning grammar rules.,ammar rules 更令人挫折時。,32,needs_revision,語法規則 更令人挫折。,[medium] terminology: None; [high] meaning_drift: None; [low] grammar: None
+273,"00:12:41,090 --> 00:12:43,690","Actually, it's quite logical once you study them.",其實，只要你深入研究，它們其實相當有邏輯。,100,ok,,
+274,"00:12:44,050 --> 00:12:46,470",There are just so many words to memorize.,要背誦的單詞實在太多了。,42,needs_revision,要背誦的單字實在太多了。,[high] terminology: None; [low] style: None
+275,"00:12:47,190 --> 00:12:49,650",Now let's turn to the next set of questions.,接下來讓我們看看下一組問題。,100,ok,,
+276,"00:12:49,970 --> 00:12:52,990","Here, the speakers discuss the hardest parts.",在這裡，講者們討論最難的部分。,84,minor_issues,在這裡，說話者討論最難的部分。,[low] style: None; [low] style: None
+277,"00:12:52,990 --> 00:12:56,730","Bob mentions pronunciation, but he says students don't",鮑伯提到發音，但他說學生其實並不擔心這,35,needs_revision,鮑伯提到發音，但他說學生卻沒有提到,[medium] terminology: None; [high] meaning_drift: None
+278,"00:12:56,730 --> 00:12:59,550","really worry about it, so D is incorrect.",個問題，因此 D 選項不正確。,84,minor_issues,這個問題，所以 D 選項不正確。,[low] grammar: None; [low] register: None
+279,"00:12:59,870 --> 00:13:02,850","Then, Mia states that what makes students struggle",接著，Mia 表示，讓學生感到,35,needs_revision,接著，Mia 表示，讓學生感到困難,[medium] terminology: None; [high] meaning_drift: None
+280,"00:13:02,850 --> 00:13:07,010","is the speed of natural speech, and that",困難的是自然語速，而且,39,needs_revision,是自然語速，而,[low] style: None; [low] style: None; [high] meaning_drift: None
+281,"00:13:07,010 --> 00:13:09,370",native speakers are hard to follow.,母語人士的說法很難跟上。,100,ok,,
+282,"00:13:09,890 --> 00:13:14,970","This corresponds to A, understanding fast speech.",這對應到 A，理解快速語音。,100,ok,,
+283,"00:13:15,830 --> 00:13:19,910","Next, Bob notes that students find learning vocabulary",接下來，鮑伯提到，學生覺得學習詞,30,needs_revision,接下來，鮑伯提到，學生覺得學習單字,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+284,"00:13:19,910 --> 00:13:23,470",much more frustrating than learning grammar rules.,彙比學習語法規則更令人挫折。,42,needs_revision,彙比學習文法規則更令人挫折。,[high] terminology: None; [low] style: None
+285,"00:13:23,770 --> 00:13:25,910","Since they find vocabulary harder,",由於他們覺得學習詞彙比較困難，,100,ok,,
+286,"00:13:25,910 --> 00:13:28,550","C, remembering new vocabulary,",C，記住新詞彙，,100,ok,,
+287,"00:13:28,550 --> 00:13:29,950",is the correct answer.,是正確答案。,100,ok,,
+288,"00:13:29,950 --> 00:13:32,710","And we can eliminate B, so the answers",我們可以排除 B，因此答案是 A,100,ok,,
+289,"00:13:32,710 --> 00:13:34,430",are A and C.,和 C。,45,needs_revision,是 A 和 C。,[high] meaning_drift: None
+290,"00:13:36,230 --> 00:13:39,350","Now, let's look at what actually helps students",現在，讓我們來看看究竟什麼對學生有幫助。,100,ok,,
+291,"00:13:39,350 --> 00:13:40,790",in their language learning journey.,在他們的學習旅程中。,80,minor_issues,,[medium] terminology: None
+292,"00:13:41,190 --> 00:13:43,970",Many of them complain that textbooks are usually,許多人抱怨教科書通常很無聊，,100,ok,,
+293,"00:13:43,970 --> 00:13:46,110",boring and do not provide much help.,也無法提供太多幫助。,87,minor_issues,,[low] style: None
+294,"00:13:46,610 --> 00:13:50,090","Instead, they highly recommended using language exchange apps",相反，他們強烈建議使用語言交換應用程式，與,36,needs_revision,不過，他們很推薦使用語言交換App，與,[low] register: None; [low] register: None; [low] style: None; [high] meaning_drift: None
+295,"00:13:50,090 --> 00:13:52,970",to text or voice call someone in another country.,另一個國家的人進行文字或語音通話。,100,ok,,
+296,"00:13:53,610 --> 00:13:56,870",I also realized that they prefer to exchange language,我也意識到，他們更傾向於與同齡的,32,needs_revision,我也意識到，他們更喜歡交換語言,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+297,"00:13:56,870 --> 00:13:58,310",with someone their own age.,人進行語言交換。,35,needs_revision,和同齡的人。,[medium] terminology: None; [high] meaning_drift: None
+298,"00:13:58,570 --> 00:14:01,430",Another popular method was watching television series,另一種流行的方法是觀看目標語言,35,needs_revision,另一種流行的方法是觀看電視影集,[medium] terminology: None; [high] meaning_drift: None
+299,"00:14:01,430 --> 00:14:02,630",in the target language.,的電視影集。,35,needs_revision,in the target language.,[medium] terminology: None; [high] meaning_drift: None
+300,"00:14:02,990 --> 00:14:05,070",They said it's better than movies because you,他們說這比看電影更好，因為你,100,ok,,
+301,"00:14:05,070 --> 00:14:07,590",get used to the same characters' voices over,習慣相同角色的聲音,80,minor_issues,,[medium] terminology: None
+302,"00:14:07,590 --> 00:14:08,470",many episodes.,many episodes,45,needs_revision,許多集數,[high] meaning_drift: None
+303,"00:14:09,030 --> 00:14:12,810","I also tried suggesting dictionaries, but most students",我也曾建議使用字典，但大多數學生表,71,minor_issues,我也曾建議使用字典，但大多數學生們,[low] style: None; [low] style: None; [medium] terminology: None; [low] typo: None
+304,"00:14:12,810 --> 00:14:15,670",said those felt a bit old-fashioned and not effective.,示那些感覺有點過時，而且效果不佳。,42,needs_revision,說那些感覺有點過時，而且效果不佳。,[low] style: None; [high] meaning_drift: None
+305,"00:14:16,410 --> 00:14:19,790",Up next are questions 25 and 26.,接下來是第 25 題與第 26 題。,80,minor_issues,,[medium] terminology: None
+306,"00:14:19,790 --> 00:14:23,850","Bob mentions that students complain about textbooks, so",Bob 提到學生抱怨教科書，所以,80,minor_issues,,[medium] terminology: None
+307,"00:14:23,850 --> 00:14:25,130",A is wrong.,A 是錯的。,100,ok,,
+308,"00:14:25,310 --> 00:14:28,310","However, he says they highly recommended",不過，他表示他們強烈建議使,45,needs_revision,不過，他表示他們強烈建議他們,[high] meaning_drift: None
+309,"00:14:28,310 --> 00:14:30,410",using language exchange apps.,用語言交換應用程式。,100,ok,,
+310,"00:14:30,670 --> 00:14:34,050","This points us to D, language exchange apps.",這將我們指向選項 D，語言交換應用程式。,100,ok,,
+311,"00:14:34,990 --> 00:14:37,910",Mia adds that another popular method,Mia 補充說，另一個受歡迎,45,needs_revision,Mia 補充說，另一個受歡迎的方法,[high] meaning_drift: None
+312,"00:14:37,910 --> 00:14:40,310",was watching television series.,的方法是觀看電視影集。,45,needs_revision,是在看電視劇。,[high] meaning_drift: None
+313,"00:14:40,430 --> 00:14:44,150","She explicitly compares this to movies, stating students",她明確地將此與電影進行比較，指出學生,80,minor_issues,,[medium] terminology: None
+314,"00:14:44,150 --> 00:14:47,730",said TV series are better than movies.,表示電視影集比電影更好。,100,ok,,
+315,"00:14:47,730 --> 00:14:51,570",This means C is correct and B is incorrect.,這表示選項 C 正確，選項 B 錯誤。,80,minor_issues,,[medium] terminology: None
+316,"00:14:52,050 --> 00:14:55,950","Finally, Bob mentions dictionaries were considered old-fashioned",最後，Bob 提到字典被認為是過時且無效的，因,39,needs_revision,最後，Bob 提到字典被認為是過時且的，。,[low] style: None; [high] meaning_drift: None; [low] typo: None
+317,"00:14:55,950 --> 00:14:58,310","and not effective, ruling out E,",此排除了選項 E，所以,35,needs_revision,且效果不佳，排除 E,[medium] terminology: None; [high] meaning_drift: None
+318,"00:14:58,310 --> 00:15:00,230",so the answers are C and D.,答案是 C 和 D。,100,ok,,
+319,"00:15:01,190 --> 00:15:04,470","Yeah, so what should we do next for our presentation?",好的，那我們的簡報接下來該怎麼做呢？,100,ok,,
+320,"00:15:04,990 --> 00:15:06,390",We have all our data now.,我們現在已經收集到所有資料了。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+321,"00:15:06,750 --> 00:15:09,970","Well, our professor said we should get a professional opinion.",嗯，我們的教授說我們應該取得專業意見,100,ok,,
+322,"00:15:10,530 --> 00:15:12,710",How about we interview Professor Duncan,不如我們採訪語言學,30,needs_revision,不如我們採訪鄧肯教授,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+323,"00:15:12,710 --> 00:15:14,150",from the language department?,系的鄧肯教授,35,needs_revision,來自語言系的嗎？,[medium] terminology: None; [high] meaning_drift: None
+324,"00:15:14,450 --> 00:15:15,550",That's a great idea.,這是個好主意。,100,ok,,
+325,"00:15:15,550 --> 00:15:17,490",He can give us a different perspective.,他可以給我們不同的觀點。,100,ok,,
+326,"00:15:18,250 --> 00:15:21,110","Oh, and let's conduct the interview face-to-face",另外，我們面對面進行採訪，這樣就,70,minor_issues,另外，我們面對面進行採訪，就好,[medium] terminology: None; [medium] terminology: None; [low] style: None
+327,"00:15:21,110 --> 00:15:22,550",so we don't need to video it.,不需要拍攝影片了。,80,minor_issues,,[medium] terminology: None
+328,"00:15:23,110 --> 00:15:23,750",That's okay.,沒關係。,100,ok,,
+329,"00:15:23,850 --> 00:15:25,870",I will email the professor soon to make,我很快會用電子信箱通知教授，,87,minor_issues,我很快會寄信給教授，,[low] collocation: None
+330,"00:15:25,870 --> 00:15:27,470",sure he can have some time for us.,確認他是否有時間給我們。,100,ok,,
+331,"00:15:27,930 --> 00:15:30,210","Hmm, we don't need more books, right?",嗯，我們不需要更多書了，對吧？,80,minor_issues,,[medium] terminology: None
+332,"00:15:30,790 --> 00:15:31,350",That's right.,沒錯。,100,ok,,
+333,"00:15:31,550 --> 00:15:33,570",I think we have been provided enough sources,我認為我們已經獲得了足夠的,35,needs_revision,我認為我們已經獲得了足夠的資源,[medium] terminology: None; [high] meaning_drift: None
+334,"00:15:33,570 --> 00:15:34,450",for the research.,研究來源。,45,needs_revision,的研究。,[high] meaning_drift: None
+335,"00:15:34,650 --> 00:15:36,630",But we need to think about how to,但我們需要思考該如何,100,ok,,
+336,"00:15:36,630 --> 00:15:37,770",show our results.,顯示我們的成績。,87,minor_issues,顯示我們的結果。,[low] terminology: None
+337,"00:15:38,450 --> 00:15:40,750","Instead of just a long report, why don't",與其寫一份冗長的報告，我們何不設,35,needs_revision,與其寫一份冗長的報告，我們何不,[medium] terminology: None; [high] meaning_drift: None
+338,"00:15:40,750 --> 00:15:42,210",we design a large poster?,計一張大型海報呢？,45,needs_revision,要設計一張大型海報嗎？,[high] meaning_drift: None
+339,"00:15:42,210 --> 00:15:44,590",We can put all our graphs and charts,我們可以把所有圖表和圖表放在,30,needs_revision,我們可以把所有圖表和圖表放好,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] register: None
+340,"00:15:44,590 --> 00:15:46,770",on it so it's easy for the class to see.,上面，讓全班同學都能輕鬆查看。,45,needs_revision,上面，讓全班同學都能輕鬆檢視。,[high] terminology: None
+341,"00:15:47,050 --> 00:15:48,370",That sounds perfect.,聽起來很棒。,100,ok,,
+342,"00:15:49,210 --> 00:15:53,570","Last but not least, let's look at 27 and 28.",最後，讓我們來看看第 27 題和第 28 題。,100,ok,,
+343,"00:15:53,810 --> 00:15:56,730",Bob suggests they interview Professor Duncan.,Bob 建議他們採訪鄧肯教授。,80,minor_issues,,[medium] terminology: None
+344,"00:15:57,030 --> 00:15:59,310","Mia agrees, saying that's a great idea.",Mia 表示同意，認為這是個好主意。,100,ok,,
+345,"00:15:59,570 --> 00:16:02,570","This matches B, interview a language teacher.",這符合選項 B，即採訪一位語言教師。,80,minor_issues,,[medium] terminology: None
+346,"00:16:02,850 --> 00:16:05,230",Mia suggests doing it face-to-face so,Mia 建議面對面進行，這樣,80,minor_issues,,[medium] terminology: None
+347,"00:16:05,230 --> 00:16:08,910","they don't need to video it, so C is incorrect.",就不需要錄影，因此選項 C 不正確。,100,ok,,
+348,"00:16:09,590 --> 00:16:14,870","Bob confirms they don't need more books, eliminating D.",Bob 確認他們不需要更多書籍，因此排除選項 D。,100,ok,,
+349,"00:16:15,230 --> 00:16:18,490","Finally, Bob suggests that instead of just a",最後，Bob 建議他們不只撰寫,42,needs_revision,最後，Bob 建議你不只寫,[high] meaning_drift: None; [low] style: None
+350,"00:16:18,490 --> 00:16:21,270","long report, they should design a large poster.",長篇報告，而是設計一張大型海報。,45,needs_revision,他們應該設計一張大型海報。,[high] meaning_drift: None
+351,"00:16:21,590 --> 00:16:23,610",And Mia thinks that sounds perfect.,Mia 覺得這樣聽起來很完美。,100,ok,,
+352,"00:16:23,610 --> 00:16:26,410","This matches E, create a visual poster.",這符合選項 E，建立一張視覺海報。,100,ok,,
+353,"00:16:26,690 --> 00:16:29,010",So the answers are B and E.,所以答案是 B 和 E。,100,ok,,
+354,"00:16:30,070 --> 00:16:32,890","So, how many correct answers have you got?",那麼，你拿到了幾題正確答案？,100,ok,,
+355,"00:16:33,390 --> 00:16:35,510","I believe with frequent practice,",我認為透過反覆練習，,100,ok,,
+356,"00:16:35,750 --> 00:16:38,390",this will no longer be challenging anymore.,這將不再具有挑戰性。,100,ok,,
+357,"00:16:38,630 --> 00:16:40,910","Now, let's review what we've learned.",現在，讓我們複習一下所學的內容。,100,ok,,
+358,"00:16:45,220 --> 00:16:47,680",Today's lesson was divided into three parts.,今天的課程分為三個部分。,100,ok,,
+359,"00:16:48,400 --> 00:16:52,880",Part 1. General introduction to pick from a list of questions.,第一部分。從問題列表中選擇進行一般性介紹。,30,needs_revision,第一部分。從問題清單中選擇進行一般性介紹。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] placeholder: None; [low] style: None
+360,"00:16:53,340 --> 00:16:56,900",Part 2. Strategy or steps to handle the question type.,第二部分。處理題型的策略或步驟。,45,needs_revision,,[high] placeholder: None
+361,"00:16:57,440 --> 00:17:00,560",And Part 3. Practice and explanation.,第三部分。練習與解說。,45,needs_revision,,[high] placeholder: None
+362,"00:17:01,180 --> 00:17:04,700","Also, please memorize some notes for this question type.",此外，請記住這個題型的相關備註。,100,ok,,
+363,"00:17:04,790 --> 00:17:08,390","First, speakers often mention only certain keywords",首先，講者通常僅提及某些關鍵字,84,minor_issues,首先，說話者通常僅提及某些關鍵字,[low] style: None; [low] style: None
+364,"00:17:08,390 --> 00:17:11,510",as an option to trick candidates into thinking,作為選項，以此誘導考生誤以為,100,ok,,
+365,"00:17:11,510 --> 00:17:12,660",it's the correct answer.,那是正確答案。,100,ok,,
+366,"00:17:13,400 --> 00:17:16,859","Secondly, you should read the instructions carefully to",其次，你應該仔細閱讀說明，,80,minor_issues,,[medium] terminology: None
+367,"00:17:16,860 --> 00:17:18,710",note the way of writing the answers.,以了解作答的方式。,30,needs_revision,以瞭解作答的方式。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+368,"00:17:19,640 --> 00:17:21,660","Alright, that's it for today's lesson.",好了，今天的課程到此結束。,100,ok,,
+369,"00:17:22,079 --> 00:17:24,660",Don't forget to do the exercises and practice,別忘了完成練習，並定期,77,minor_issues,,[medium] terminology: None; [low] style: None
+370,"00:17:24,950 --> 00:17:26,630",what you've learned regularly.,複習所學內容。,80,minor_issues,,[medium] terminology: None
+371,"00:17:26,900 --> 00:17:28,790",Goodbye and see you in the next lesson.,再見，下一堂課見。,100,ok,,

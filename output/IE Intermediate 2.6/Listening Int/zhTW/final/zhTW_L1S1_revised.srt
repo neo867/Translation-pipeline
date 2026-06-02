@@ -184,11 +184,11 @@
 
 47
 00:04:05,220 --> 00:04:10,680
-prediction based on vocabulary groups、prediction based on
+prediction based on vocabulary groups、prediction based
 
 48
 00:04:10,680 --> 00:04:15,820
-grammatical clues、note-taking key information，以及 signposting language。
+grammatical 線索、note-taking key information，以及 語篇標誌語言。
 
 49
 00:04:20,510 --> 00:04:23,240

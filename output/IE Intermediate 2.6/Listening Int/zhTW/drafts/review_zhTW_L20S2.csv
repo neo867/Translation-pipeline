@@ -1,0 +1,177 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:05,290 --> 00:00:15,030","(Transcribed by TurboScribe. Go Unlimited to remove this message.) Hey guys, welcome back to our IELTS listening",嗨，大家好！歡迎回到我們的 雅思 聽力課程,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+2,"00:00:15,030 --> 00:00:15,470",course.,。,30,needs_revision,課程。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+3,"00:00:15,830 --> 00:00:21,090",Today we're diving into a bit more challenging type of question in the IELTS,今天我們來深入探討雅思聽力測驗中較具挑戰性,45,needs_revision,今天我們來深入探討雅思聽力測驗中的問題,[high] meaning_drift: None
+4,"00:00:21,090 --> 00:00:23,710","listening test, labeling a map.",的題型：地圖標記。,30,needs_revision,的題型：地圖示記。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+5,"00:00:24,090 --> 00:00:28,910",It seems a bit confusing for many candidates because understanding directions,這對許多考生來說似乎有點令人困惑，因為理解指示,71,minor_issues,這對許多考生來說似乎有點令人困惑，因為理解說明,[low] style: None; [medium] terminology: None; [low] terminology: None; [low] style: None
+6,"00:00:28,910 --> 00:00:34,090","in English on a map can feel overwhelming, especially if you're used to doing",在地图上找英文可能会让人感到不知所措，特别是如果你已经习惯,30,needs_revision,,[medium] terminology: None; [high] None: None; [high] None: None; [high] None: None; [high] None: None; [high] None: None; [high] None: None; [high] None: None
+7,"00:00:34,090 --> 00:00:35,390",it in your mother tongue.,用母语来操作的话。,30,needs_revision,,[high] None: None; [high] None: None; [high] None: None
+8,"00:00:35,390 --> 00:00:40,950","Don't worry, our lesson today will make it all clear and easy for you.",別擔心，今天的課程會讓你覺得清晰易懂。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+9,"00:00:41,470 --> 00:00:44,070",Today's lesson is divided into four parts.,今天的課程分為四個部分。,80,minor_issues,,[medium] terminology: None
+10,"00:00:44,730 --> 00:00:48,570","Part one, general introduction to labeling a map question type.",第一部分，地圖標記題型的一般介紹。,35,needs_revision,第一部分，地圖示記題型的一般介紹。,[high] terminology: None; [medium] terminology: None
+11,"00:00:48,850 --> 00:00:52,430","Part two, strategy or steps to handle the question type.",第二部分，處理此題型的策略或步驟。,100,ok,,
+12,"00:00:52,750 --> 00:00:55,250","Part three, practice and explanation.",第三部分，練習與說明。,100,ok,,
+13,"00:00:56,190 --> 00:00:59,450","Part four, vocabulary for labeling a map questions.",第四部分，地圖標記題型的詞彙。,30,needs_revision,第四部分，地圖示記題型的詞彙。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+14,"00:01:04,830 --> 00:01:09,570","Labeling a map questions usually appear in section two of the listening test,",地圖標記題型通常出現在聽力測驗的第二部分，且被,30,needs_revision,地圖示記題型通常出現在聽力測驗的第二部分，且被,[high] terminology: None; [low] style: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None; [high] meaning_drift: None
+15,"00:01:09,690 --> 00:01:15,630","and it's considered to be a challenging question type, so we need to practice",認為是具有挑戰性的題型，因此我們需要進行練習。,84,minor_issues,認為是具有挑戰性的題型，所以我們需要練習。,[low] register: None; [low] style: None
+16,"00:01:15,630 --> 00:01:19,850","carefully because if we make a lot of mistakes in this section, it's easy to",請注意，如果在這個部分犯太多錯誤，等到進入第三,35,needs_revision,請注意，如果這部分錯太多，很容易就,[medium] terminology: None; [high] meaning_drift: None
+17,"00:01:19,850 --> 00:01:22,370",lose confidence when we move on to section three.,部分時，很容易就會失去信心。,30,needs_revision,進入第三部分時，很容易就會失去信心。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+18,"00:01:22,890 --> 00:01:27,810","The information comes very quickly, so if we miss one detail, it can confuse us",資訊傳遞得很快，因此如果錯過一個細節，可能會讓我們在,45,needs_revision,資訊傳遞得很快，因此如果錯過一個細節，可能會讓我們困惑,[high] meaning_drift: None
+19,"00:01:27,810 --> 00:01:28,990",for the rest of the questions.,後續的題目感到困惑。,35,needs_revision,其餘問題。,[medium] terminology: None; [high] meaning_drift: None
+20,"00:01:28,990 --> 00:01:33,370",We have to stay focused or we might end up losing direction.,我們必須保持專注，否則可能會迷失方向。,100,ok,,
+21,"00:01:33,950 --> 00:01:38,750","In this question type, you are often given a list of locations and are required",在此題型中，你通常會得到一組地點清單，並需要在地,35,needs_revision,在此題型中，你通常會得到一組地點清單，並需要去,[medium] terminology: None; [high] meaning_drift: None
+22,"00:01:38,750 --> 00:01:41,130",to fill in the blanks for locations on a map.,圖上的空白處填入對應的地點。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+23,"00:01:45,560 --> 00:01:48,260","So for this question type, here's what we're going to do.",因此，針對這種題型，我們接下來要這樣做。,80,minor_issues,,[medium] terminology: None
+24,"00:01:48,860 --> 00:01:53,840","Step one, read the instructions carefully to note whether you're required to",第一步，仔細閱讀說明，確認你是需填寫地點名稱，,35,needs_revision,第一步，仔細閱讀說明，確認是否需填寫地點名稱，,[medium] terminology: None; [high] meaning_drift: None
+25,"00:01:53,840 --> 00:01:58,700","write the locations or fill in the letter A, B, C, or D.",還是填入選項 A、B、C 或 D。,35,needs_revision,請寫下地點，或填入選項 A、B、C 或 D。,[medium] terminology: None; [high] meaning_drift: None
+26,"00:01:59,300 --> 00:02:01,120","Step two, read the map.",第二步，閱讀地圖。,100,ok,,
+27,"00:02:01,120 --> 00:02:05,140","You should note that you only have a few seconds to read the map, so",你應注意，閱讀地圖的時間只有幾秒,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+28,"00:02:05,140 --> 00:02:10,320","quickly read the given locations, especially paying close attention to the",，因此請快速瀏覽所給的地點，並特別留,30,needs_revision,快速閱讀以下地點，特別注意,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+29,"00:02:10,320 --> 00:02:13,780",directions and names of locations needed to be found.,意需尋找地點的方向與名稱。,87,minor_issues,需要找出地點的方向和名稱。,[low] style: None
+30,"00:02:14,880 --> 00:02:19,760","Step three, identify the starting point and the order of directions and",第三步，確認起點以及方向與順序，並,80,minor_issues,,[medium] terminology: None
+31,"00:02:19,760 --> 00:02:20,180",locations.,地點。,100,ok,,
+32,"00:02:20,860 --> 00:02:24,580",The signposting language that indicates the starting point used in the,在錄音中，表示起點的引導詞語可能包括 You are,77,minor_issues,,[medium] terminology: None; [low] style: None
+33,"00:02:24,580 --> 00:02:31,120","recording can be You are here, start, firstly, and so on.",here、start、firstly 等。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None
+34,"00:02:31,540 --> 00:02:35,600",One important thing in this question type is that we need to know the,在這種題型中，有一項重點是我們需要知道方位的縮寫，例如,35,needs_revision,在這種題型中，有一項重點是我們需要知道關鍵詞的縮寫，例如,[medium] terminology: None; [high] meaning_drift: None
+35,"00:02:35,600 --> 00:02:42,160","abbreviation of the compass directions, N for North, NE for Northeast, E for",N 代表 North、NE 代表 Northeast、E 代表,80,minor_issues,,[medium] terminology: None
+36,"00:02:42,160 --> 00:02:52,340","East, SE for Southeast, S for South, SW for Southwest, W for West, NW",East 代表 East、SE 代表 Southeast、S 代表 South、SW 代表 Southwest、W 代表 West、NW,87,minor_issues,東 (East)、東南 (SE)、南 (S)、西南 (SW)、西 (W)、西北 (NW),[low] style: None
+37,"00:02:52,340 --> 00:02:53,080",for Northwest.,代表 Northwest。,100,ok,,
+38,"00:02:53,760 --> 00:02:58,600","Before listening, it's helpful to note down the compass directions on the map",在聽力之前，將地圖上的方位標記下來會很有幫助，建,36,needs_revision,聽之前，在地圖上標記方位會比較有帮助，建議議,[low] style: None; [low] style: None; [high] meaning_drift: None; [low] typo: None
+39,"00:02:58,600 --> 00:03:00,860",in a way that's easy for you to understand.,議以你容易理解的方式記錄。,45,needs_revision,用你容易理解的方式。,[high] meaning_drift: None
+40,"00:03:01,420 --> 00:03:04,260",I usually draw a compass to make sure I don't get confused.,我通常會畫一個指南針，以確保自己不會搞混。,100,ok,,
+41,"00:03:04,700 --> 00:03:08,780","Whether the topic mentions these directions or not, it's a good tip to follow.",無論題目是否提及這些方位，這都是一個值得遵循的好建議。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+42,"00:03:09,380 --> 00:03:13,860","Moreover, practicing this question type frequently will help us get used to the",此外，多加練習這類題型能幫助我們熟悉地圖,45,needs_revision,此外，多加練習這類題型能幫助我們熟悉到某種程度,[high] meaning_drift: None
+43,"00:03:13,860 --> 00:03:15,200",directions on the map.,上的指示。,30,needs_revision,地圖上的指示。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+44,"00:03:16,300 --> 00:03:18,960","Step four, listen and fill in the blanks.",第四步，聽力填空。,80,minor_issues,,[medium] terminology: None
+45,"00:03:19,500 --> 00:03:23,300","While listening, we should also keep an eye on the surroundings of the place",在聽力過程中，我們也應留意該地點周遭的環境。,30,needs_revision,在聽力過程中，我們也應留意該地點週遭的環境。,[high] terminology: None; [low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+46,"00:03:23,300 --> 00:03:24,040",we're seeking.,我們正在尋找。,100,ok,,
+47,"00:03:24,540 --> 00:03:28,860","If we miss a piece of information, quickly catch the keyword to move on to",如果我們遺漏了某些資訊，請快速捕捉關鍵字，以便前往,80,minor_issues,,[medium] terminology: None
+48,"00:03:28,860 --> 00:03:29,640",the next location.,下一個地點。,100,ok,,
+49,"00:03:30,420 --> 00:03:32,560","Step five, write the correct answers.",第五步，寫下正確答案。,100,ok,,
+50,"00:03:33,520 --> 00:03:37,800","Finally, don't forget to revisit the instructions to check whether we need to",最後，別忘了重新檢視 instructions，以確認我們是否需要,70,minor_issues,最後，別忘了重新檢視 說明，以確認我們是否需要,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] placeholder: None
+51,"00:03:37,800 --> 00:03:41,720","write the letter A, B, C, or D or the full name of the location.",請寫下字母 A、B、C 或 D，或是地點的全名。,80,minor_issues,,[medium] terminology: None
+52,"00:03:53,730 --> 00:03:55,050",Part two.,第二部分。,100,ok,,
+53,"00:03:56,390 --> 00:04:02,210","You will hear a talk given by the manager of Green Valley Farm Park, providing",你將聽到由綠谷農場公園經理所發表的演講，,81,minor_issues,你會聽到由綠谷農場公園經理的演講，,[low] terminology: None; [low] style: None; [low] register: None
+54,"00:04:02,210 --> 00:04:06,330",visitors with an overview of the park's layout and facilities.,為訪客提供公園佈局與設施的概覽。,100,ok,,
+55,"00:04:07,550 --> 00:04:12,010","First, you have some time to look at questions 11 to 17.",首先，你有時間查看第 11 至 17 題。,30,needs_revision,首先，你有時間檢視第 11 至 17 題。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+56,"00:04:45,790 --> 00:04:50,050","Now, listen and answer questions 11 to 17.",現在，請聆聽並回答第 11 至 17 題。,70,minor_issues,現在，請聽並回答第 11 至 17 題。,[medium] terminology: None; [medium] terminology: None; [low] register: None
+57,"00:04:50,790 --> 00:04:52,290","Good morning, everyone.",大家早安。,80,minor_issues,,[medium] terminology: None
+58,"00:04:52,930 --> 00:04:55,230",Welcome to Green Valley Farm Park.,歡迎來到綠谷農場公園。,100,ok,,
+59,"00:04:55,690 --> 00:04:58,270",My name is Sarah and I am the manager here.,我是 Sarah，也是這裡的經理。,87,minor_issues,,[low] style: None
+60,"00:04:58,890 --> 00:05:04,010","Before we begin our walking tour, I would like to show you an overview of",在我們開始步行導覽之前，我想先為你介紹整體概況。,87,minor_issues,,[low] style: None
+61,"00:05:04,010 --> 00:05:04,550",our park.,我們的公園。,100,ok,,
+62,"00:05:05,190 --> 00:05:09,690",Please look at the maps in your visitor packs to make it easier to visualize.,請查看你手中資料夾內的導覽地圖，以便更容易掌握整體規劃。,30,needs_revision,請檢視你手中小冊子內的導覽地圖，以便更容易清楚位置。,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+63,"00:05:10,550 --> 00:05:13,390",We are currently standing at the South Gate.,我們現在站在南門。,100,ok,,
+64,"00:05:13,890 --> 00:05:19,050",If you follow the main path straight ahead and keep heading north into the,如果你沿著正前方的主路一直往北走，進入,100,ok,,
+65,"00:05:19,050 --> 00:05:23,050","center of the park, you will see the ticket office on your right.",公園中心，你會看到售票處在右側。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+66,"00:05:23,610 --> 00:05:27,250",This is where you can buy your tickets to enter some special places.,你可以在這裡購買門票，進入一些特別景點。,100,ok,,
+67,"00:05:28,050 --> 00:05:33,250","After buying the tickets, walk a short distance east of the entrance, following",購票後，請往入口東側步行一小段距離，並沿著右側,45,needs_revision,購票後，請往入口東側步行一小段距離，並沿著右側走,[high] meaning_drift: None
+68,"00:05:33,250 --> 00:05:34,390",the path on your right.,的小路前行。,35,needs_revision,右邊的路。,[medium] terminology: None; [high] meaning_drift: None
+69,"00:05:34,930 --> 00:05:37,010",You will see a small coffee shop.,你會看到一家小咖啡館。,100,ok,,
+70,"00:05:37,490 --> 00:05:42,790","We sold a wide range of drinks and cakes here, so if anyone hasn't had",我們這裡販售各種飲品和蛋糕，所以如果還沒有人吃過,80,minor_issues,,[medium] terminology: None
+71,"00:05:42,790 --> 00:05:46,170","breakfast, go grab something there before you start the tour.",早餐，在開始導覽之前，去那裡吃點東西。,87,minor_issues,,[low] style: None
+72,"00:05:47,050 --> 00:05:52,150","Moving further into the park, passing the East Gate, then turn left.",繼續往公園深處走，經過東門後，請向左轉。,100,ok,,
+73,"00:05:52,710 --> 00:05:55,890",You will see two buildings on either side of the path.,你會看到兩棟建築物位於小徑的兩側。,100,ok,,
+74,"00:05:56,550 --> 00:06:01,450","On your left is the Educational Center, where we hold daily workshops on",你的左側是教育中心，我們在此舉辦不同主題的每,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [low] style: None
+75,"00:06:01,450 --> 00:06:02,370",different topics.,日工作坊。,87,minor_issues,,[low] style: None
+76,"00:06:03,010 --> 00:06:07,810","Yesterday, we taught how to raise chickens at home, but today's workshop is",昨天，我們教導如何在家養雞，但今天的工作,74,minor_issues,昨天，我們教如何在家養雞，但今天的工作坊,[medium] terminology: None; [low] style: None; [low] style: None
+77,"00:06:07,810 --> 00:06:10,750",about making salad from different types of fruit.,坊主題是製作各式水果沙拉。,35,needs_revision,關於如何製作各式水果沙拉。,[medium] terminology: None; [high] meaning_drift: None
+78,"00:06:11,710 --> 00:06:14,450",Opposite this building is the Animal Shelter.,這棟建築物的對面是動物收容所。,100,ok,,
+79,"00:06:15,050 --> 00:06:20,030","During the winter, this is where we keep our cows, sheep, and so on, to",冬天時，我們會把牛、羊等動物關在這裡，讓它們,100,ok,,
+80,"00:06:20,030 --> 00:06:21,430",keep them warm and dry.,保持溫暖乾燥。,100,ok,,
+81,"00:06:22,070 --> 00:06:25,330","It's summer now, so you rarely see animals here.",現在是夏天，所以這裡很少看到動物。,100,ok,,
+82,"00:06:25,870 --> 00:06:30,610","Instead, you can go to the area behind it where there are outdoor areas for",相反地，你可以前往後方的區域，那裡有供所有人使用的戶,35,needs_revision,相反地，你可以前往後方的區域，那裡有供所有人使用的戶外空間,[medium] terminology: None; [high] meaning_drift: None
+83,"00:06:30,610 --> 00:06:31,130",all of them.,外空間。,35,needs_revision,它們全部。,[medium] terminology: None; [high] meaning_drift: None
+84,"00:06:31,870 --> 00:06:36,210","It would be midday after visiting these two points, so you should go to our",參觀完這兩個景點後，時間大約是中午，請前往我們的,80,minor_issues,,[medium] terminology: None
+85,"00:06:36,210 --> 00:06:38,590",picnic area and have lunch you packed.,野餐區享用你自備的午餐。,100,ok,,
+86,"00:06:39,290 --> 00:06:43,150","Many big trees provide shade, so don't worry about the sun.",許多大樹提供蔭涼，因此無需擔心陽光。,87,minor_issues,許多大樹提供蔭涼，所以無需擔心陽光。,[low] register: None
+87,"00:06:43,830 --> 00:06:47,030","Also, it has a really good view of the Blue Lake.",此外，這裡的藍湖景色也非常優美。,77,minor_issues,,[low] style: None; [medium] terminology: None
+88,"00:06:47,550 --> 00:06:50,810",You can see some fishing boats and some ducks swimming there.,你可以看到一些漁船和在那裡游泳的鴨子。,100,ok,,
+89,"00:06:51,670 --> 00:06:55,210",Take a good rest before you are ready to continue the tour.,在準備繼續行程前，請好好休息。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+90,"00:06:55,910 --> 00:06:59,870",The next place is really interesting and requires the ticket you bought,下一個景點非常有趣，而且需要你購買的門票。,87,minor_issues,,[low] style: None
+91,"00:06:59,870 --> 00:07:00,290",earlier.,之前。,87,minor_issues,,[low] style: None
+92,"00:07:00,850 --> 00:07:03,930","It's the Fruit Garden, located on your left.",這是果園，位於你的左側。,80,minor_issues,,[medium] terminology: None
+93,"00:07:04,510 --> 00:07:09,350","It's apple season, so you can enjoy as many as you want with no extra",現在是蘋果產季，你可以無限暢享，無需額外付,77,minor_issues,現在是蘋果產季，你可以無限暢享，不用額外加錢,[medium] terminology: None; [low] register: None
+94,"00:07:09,350 --> 00:07:09,790",charge.,費。,45,needs_revision,費用。,[high] meaning_drift: None
+95,"00:07:09,790 --> 00:07:14,850","But if you're going to take some home with you, it costs $5 per kilo.",不過，如果你打算帶一些回家，每公斤需收取 5 美元。,80,minor_issues,,[medium] terminology: None
+96,"00:07:15,690 --> 00:07:18,250","Okay, we are almost finished with the tour.",好的，我們的導覽即將結束。,100,ok,,
+97,"00:07:18,910 --> 00:07:23,390","As you walk towards the South Gate, you will see the Farm Museum on your",當你走向南門時，你會在右側看到農場博物,30,needs_revision,當你走向南門時，你會在右側看到農場博物館,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+98,"00:07:23,390 --> 00:07:23,650",right.,館。,45,needs_revision,對。,[high] meaning_drift: None
+99,"00:07:24,230 --> 00:07:28,810",This building contains all the old tractors and wooden tools that my,這棟建築物展示了祖父多年前在農場上使用過,35,needs_revision,這棟建築物收藏了祖父多年前在農場使用的,[medium] terminology: None; [high] meaning_drift: None
+100,"00:07:28,810 --> 00:07:32,030",grandfather used on the farm many years ago.,的所有舊拖拉機和木製工具。,45,needs_revision,多年前在農場使用的拖拉機。,[high] meaning_drift: None
+101,"00:07:32,710 --> 00:07:34,230",Opposite it is the Gift Shop.,對面是禮品店（Gift Shop）。,100,ok,,
+102,"00:07:34,230 --> 00:07:39,750",It's the perfect place to buy our organic honey and fresh eggs before you leave,在你今天稍後離開前，這裡是購買我們有機蜂蜜和鮮蛋的最,45,needs_revision,在你今天稍後離開前，這裡是購買我們有機蜂蜜和鮮蛋的最佳選擇,[high] meaning_drift: None
+103,"00:07:39,750 --> 00:07:40,310",later today.,佳去處。,45,needs_revision,今天晚些時候。,[high] meaning_drift: None
+104,"00:07:41,190 --> 00:07:43,450","Alright, that's an overview of the park.",好的，這就是公園的概覽。,100,ok,,
+105,"00:07:43,790 --> 00:07:47,630",I hope you have a wonderful day of discovery here at Green Valley.,祝你在綠谷度過美好的一天，探索發現無限樂趣。,87,minor_issues,祝你在綠谷度過美好的一天，享受探索與發現的樂趣。,[low] style: None
+106,"00:07:48,170 --> 00:07:49,110",Let's start the tour.,我們開始導覽吧。,80,minor_issues,,[medium] terminology: None
+107,"00:07:50,510 --> 00:07:52,370",That's the end of part two.,第二部分的內容到此結束。,100,ok,,
+108,"00:07:53,050 --> 00:07:57,430",You now have half a minute to check your answers to part two.,你現在有半分鐘的時間來檢查第二部分的答案。,80,minor_issues,,[medium] terminology: None
+109,"00:07:58,450 --> 00:07:59,410",Are you done?,你完成了嗎？,100,ok,,
+110,"00:07:59,650 --> 00:08:01,150",Let's move on and check the answers.,我們繼續，檢查答案。,100,ok,,
+111,"00:08:02,390 --> 00:08:04,330",Question 11 and 12.,第 11 題和第 12 題。,100,ok,,
+112,"00:08:04,710 --> 00:08:08,510","First, the speaker establishes our starting point at the South Gate.",首先，講者將我們的起點設定在南門。,84,minor_issues,首先，說話者將我們的起點設定在南門。,[low] style: None; [low] style: None
+113,"00:08:08,710 --> 00:08:11,810","To find the first location, we head north into the center.",要找到第一個地點，我們向北前往中心。,100,ok,,
+114,"00:08:12,070 --> 00:08:13,990",The speaker says it is on your right.,講者說它在你右邊。,74,minor_issues,說話者說它在你右邊。,[low] style: None; [medium] terminology: None; [low] style: None
+115,"00:08:14,190 --> 00:08:16,670",This corresponds to the first blank on the map.,這對應於地圖上的第一個空白處。,100,ok,,
+116,"00:08:16,850 --> 00:08:19,430",So the answer for 11 is Ticket Office.,因此第 11 題的答案是售票處。,100,ok,,
+117,"00:08:20,710 --> 00:08:25,390","Next, we are told to walk a short distance east of the entrance, following the",接下來，我們被告知要從入口向東走一小段距離，沿著右側,45,needs_revision,接下來，我們被告知要從入口向東走一小段距離，沿著,[high] meaning_drift: None
+118,"00:08:25,390 --> 00:08:26,310",path on the right.,的小徑前行。,45,needs_revision,右邊的路。,[high] meaning_drift: None
+119,"00:08:26,510 --> 00:08:29,470",The speaker mentions a place to get drinks and cakes.,講者提到一個可以購買飲料和蛋糕的地方。,84,minor_issues,說話者提到一個可以購買飲料和蛋糕的地方。,[low] style: None; [low] style: None
+120,"00:08:29,470 --> 00:08:32,030",So the answer for 12 is Coffee Shop.,因此第 12 題的答案是 Coffee Shop。,100,ok,,
+121,"00:08:33,370 --> 00:08:35,309",Question 13 and 14.,第 13 題與第 14 題。,100,ok,,
+122,"00:08:35,570 --> 00:08:39,210","The tour continues past the East Gate, where you turn left.",導覽繼續經過東門，在那裡你可以向左轉。,100,ok,,
+123,"00:08:39,390 --> 00:08:41,730",You will see two buildings on either side.,你會在兩側看到兩棟建築物。,100,ok,,
+124,"00:08:41,950 --> 00:08:46,430",The speaker specifies that on your left is the place for daily workshops.,講者指出，你的左側是每日工作坊的場地。,71,minor_issues,說話者指出，你的左手邊是每日工作坊的場地。,[low] style: None; [medium] terminology: None; [low] style: None; [low] collocation: None
+125,"00:08:46,830 --> 00:08:49,890",So the answer for 13 is Educational Center.,因此第 13 題的答案是 Educational Center。,80,minor_issues,因此第 13 題的答案是 教育中心。,[medium] terminology: None
+126,"00:08:51,090 --> 00:08:55,710","Then, the speaker mentions the building opposite this building is where they",接著，講者提到這棟建築物對面的建築物是他們在冬天飼,39,needs_revision,接著，說話者提到這棟建築物對面的建築物是他們,[low] style: None; [low] style: None; [high] meaning_drift: None
+127,"00:08:55,710 --> 00:08:57,510",keep cows and sheep in winter.,養牛隻和綿羊的地方。,100,ok,,
+128,"00:08:57,510 --> 00:09:00,810",So the answer for 14 is Animal Shelter.,因此第 14 題的答案是 Animal Shelter。,80,minor_issues,因此第 14 題的答案是 動物收容所。,[medium] terminology: None
+129,"00:09:02,170 --> 00:09:03,090",Question 15.,第 15 題。,100,ok,,
+130,"00:09:03,450 --> 00:09:06,190",The speaker suggests having lunch at midday.,講者建議在中午用餐。,84,minor_issues,說話者建議在中午用餐。,[low] style: None; [low] style: None
+131,"00:09:06,430 --> 00:09:09,190",The key clue here is the location's surroundings.,這裡的關鍵線索是該地點周圍的環境。,100,ok,,
+132,"00:09:09,510 --> 00:09:11,990",It has a really good view of the Blue Lake.,這裡可以欣賞到藍湖的絕佳景致。,35,needs_revision,這裡可以欣賞到藍湖的絕佳景緻。,[high] terminology: None; [medium] terminology: None
+133,"00:09:12,190 --> 00:09:16,010","Looking at the map, the location right next to the Blue Lake must be the",查看地圖，緊鄰藍湖的位置應該是正確,30,needs_revision,檢視地圖，緊鄰藍湖的位置應該是地點,[high] terminology: None; [high] meaning_drift: None
+134,"00:09:16,010 --> 00:09:16,710",correct spot.,地點。,35,needs_revision,正確位置。,[medium] terminology: None; [high] meaning_drift: None
+135,"00:09:16,850 --> 00:09:19,690",So the answer for 15 is Picnic Area.,因此第 15 題的答案是野餐區。,100,ok,,
+136,"00:09:20,890 --> 00:09:22,050",Question 16.,第 16 題。,100,ok,,
+137,"00:09:22,390 --> 00:09:25,510","After the break, the tour moves to the next location.",休息結束後，行程將前往下一個地點。,100,ok,,
+138,"00:09:25,510 --> 00:09:30,990",The speaker explicitly states it is located on your left and mentions apple,講者明確指出它位於你的左側，並提到了蘋果季,30,needs_revision,說話者明確指出它位於你的左側，並提到蘋果,[low] style: None; [medium] terminology: None; [low] style: None; [high] meaning_drift: None
+139,"00:09:30,990 --> 00:09:31,450",season.,節。,45,needs_revision,季節。,[high] meaning_drift: None
+140,"00:09:31,650 --> 00:09:35,910","Looking at the path continuing from the lake, the location on the left side is",觀察從湖泊延伸出的路線，左側的地點是,100,ok,,
+141,"00:09:35,910 --> 00:09:36,510",our answer.,我們的解答。,100,ok,,
+142,"00:09:36,790 --> 00:09:39,550",So the answer for 16 is Fruit Garden.,因此第 16 題的答案是 Fruit Garden。,80,minor_issues,因此第 16 題的答案是 果園。,[medium] terminology: None
+143,"00:09:40,890 --> 00:09:41,870",Question 17.,第 17 題。,100,ok,,
+144,"00:09:42,330 --> 00:09:46,770","Finally, the speaker guides us as we walk towards the South Gate.",最後，講者帶領我們走向 South Gate。,70,minor_issues,最後，說話者帶領我們走向 南門。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] style: None
+145,"00:09:46,950 --> 00:09:49,250",We are looking for the building on your right.,我們正在尋找你右側的建築。,80,minor_issues,,[medium] terminology: None
+146,"00:09:49,430 --> 00:09:53,550",The speaker also mentions it contains old tractors and tools.,講者還提到裡面有舊拖拉機和工具。,87,minor_issues,,[low] style: None
+147,"00:09:53,550 --> 00:09:58,270",Note that the speaker also mentions the gift shop but clarifies that the gift,備註：說話者雖然也提到了 gift shop，但澄清了該 gift s,70,minor_issues,備註：說話者雖然也提到了 禮品店，但澄清了該 gift shop,[low] style: None; [low] style: None; [low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None
+148,"00:09:58,270 --> 00:10:01,490",shop is opposite our target building.,hop 位於我們目標建築物的對面。,45,needs_revision,商店 位於我們目標建築物的對面。,[high] meaning_drift: None
+149,"00:10:01,730 --> 00:10:05,530",So the answer for 17 is Farm Museum.,因此第 17 題的答案是 Farm Museum。,80,minor_issues,因此第 17 題的答案是 農場博物館。,[medium] terminology: None
+150,"00:10:07,310 --> 00:10:11,830","After finishing the listening test, we can clearly see that it's important to",完成聽力測驗後，我們可以清楚看到，這非常重要，,45,needs_revision,完成聽力測驗後，我們可以清楚看出，重要的是,[high] meaning_drift: None
+151,"00:10:11,830 --> 00:10:13,650",have good vocabulary of directions.,擁有豐富的方位詞彙。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+152,"00:10:14,330 --> 00:10:17,790","Without this, we might feel lost and unsure where to begin.",沒有這些，我們可能會感到迷失，不知道該從何處開始。,100,ok,,
+153,"00:10:18,230 --> 00:10:20,750","Now, let's move on to an important section.",接下來，讓我們進入一個重要的部分。,80,minor_issues,,[medium] terminology: None
+154,"00:10:21,350 --> 00:10:23,850",Vocabulary for labeling a map questions.,用於標註地圖的詞彙測驗。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+155,"00:10:28,320 --> 00:10:31,560",We should grasp the basic vocabulary as follows.,我們應掌握以下基本詞彙。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+156,"00:10:32,480 --> 00:10:35,540","Let's start with the first group, compass directions.",我們先從第一組開始，即方位。,80,minor_issues,,[medium] terminology: None
+157,"00:10:36,160 --> 00:10:44,760","North, South, East, West, Northeast, Northwest, Southeast, Southwest.",North、South、East、West、Northeast、Northwest、Southeast、Southwest。,45,needs_revision,北、南、東、西、東北、西北、東南、西南。,[high] meaning_drift: None
+158,"00:10:45,340 --> 00:10:48,840",The second group is general vocabulary of directions.,第二組是方向相關的通用詞彙。,100,ok,,
+159,"00:10:49,360 --> 00:10:59,100","In the middle, center of, behind, between, next to, by, in front of, left-hand",中間、中央、後面、之間、旁邊、沿著、前面、左,87,minor_issues,,[low] style: None
+160,"00:10:59,100 --> 00:11:06,600","side, right-hand side, turn right, to your right, pass through, on the other",側、右側、向右轉、在你的右側、穿過、在另一邊,100,ok,,
+161,"00:11:06,600 --> 00:11:10,700","side, behind, along, and corner.",side、behind、along 和 corner。,45,needs_revision,側面、後面、沿著和角落。,[high] meaning_drift: None
+162,"00:11:11,880 --> 00:11:14,020",Some collocations in giving directions.,提供方向時的一些常用搭配。,100,ok,,
+163,"00:11:14,580 --> 00:11:21,120","To the north, to the south, in the northeast, in the southwest, north side,",north、south、northeast、southwest、north side、east side、west,45,needs_revision,北邊、南邊、東北、西南、北側、東邊、西邊,[high] meaning_drift: None
+164,"00:11:21,300 --> 00:11:27,180","east side, west side, south side, heading east, slightly west of, just",side、south side、heading east、slightly west of、just sou,45,needs_revision,東邊、西邊、南邊、往東、偏西、只是,[high] meaning_drift: None
+165,"00:11:27,180 --> 00:11:28,140",southeast of.,theast of。,45,needs_revision,southeast of。,[high] meaning_drift: None
+166,"00:11:28,800 --> 00:11:32,840",So we've covered the challenging labeling of a map question type in the IELTS,那麼，我們已經講解了 雅思 聽力中具挑戰性的地圖,35,needs_revision,那麼，我們已經講解了 雅思 聽力中具挑戰性的地圖題,[medium] terminology: None; [high] meaning_drift: None
+167,"00:11:32,840 --> 00:11:33,120",listening.,標示題型,45,needs_revision,聽力,[high] meaning_drift: None
+168,"00:11:33,760 --> 00:11:35,580",Feeling more confident now?,現在感覺更有信心了嗎？,100,ok,,
+169,"00:11:36,360 --> 00:11:38,480",Today's lesson has covered four parts.,今天的課程涵蓋了四個部分。,77,minor_issues,,[low] style: None; [medium] terminology: None
+170,"00:11:38,960 --> 00:11:42,700","Part one, general introduction to labeling a map question type.",第一部分，地圖標示題型的一般介紹。,45,needs_revision,第一部分，地圖示示題型的一般介紹。,[high] terminology: None
+171,"00:11:42,700 --> 00:11:46,480","Part two, strategy or steps to handle the question type.",第二部分，應對題型的策略或步驟。,100,ok,,
+172,"00:11:46,820 --> 00:11:49,080","Part three, practice and explanation.",第三部分，練習與說明。,100,ok,,
+173,"00:11:49,900 --> 00:11:53,140","Part four, vocabulary for labeling a map questions.",第四部分，地圖標示題型的詞彙。,35,needs_revision,第四部分，地圖示示題型的詞彙。,[high] terminology: None; [medium] terminology: None
+174,"00:11:54,040 --> 00:11:55,740","All right, that's it for today's lesson.",好，今天的課程到這裡。,80,minor_issues,,[medium] terminology: None
+175,"00:11:56,040 --> 00:11:59,740",Don't forget to do the exercises and practice what you've learned regularly.,別忘了完成練習，並定期複習所學內容。,80,minor_issues,,[medium] terminology: None
+176,"00:12:00,200 --> 00:12:02,000",Goodbye and see you in the next lesson.,再見，下一堂課見。,100,ok,,

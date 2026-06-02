@@ -1,0 +1,238 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:06,240 --> 00:00:15,500","Hey guys, welcome back to our IELTS listening course.",各位同學，歡迎回到我們的 雅思 聽力課程。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+2,"00:00:15,880 --> 00:00:25,040","In the previous video, we learned about the characteristics of Section 3 and why tracking multiple speakers is one of the biggest challenges.",在前面的影片中，我們學習了第 3 部分的特性，以及為什麼追蹤多位說話者是一大挑戰。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+3,"00:00:25,400 --> 00:00:30,900","Today, we're going to put that knowledge into practice with a real listening exercise.",今天，我們將透過一項真實的聽力練習來將這些知識應用於練習。,84,minor_issues,今天，我們將透過一個實際的聽力練習來把這些知識用在練習上。,[low] style: None; [low] collocation: None
+4,"00:00:31,210 --> 00:00:39,231","By the end of this video, you'll be able to distinguish speakers by voice and gender, follow the natural flow of conversation,",看完這段影片後，你將能夠辨識說話者的聲 音與性別，並掌握對話的自然流暢度，,70,minor_issues,,[low] style: None; [low] style: None; [medium] terminology: None; [medium] terminology: None
+5,"00:00:39,255 --> 00:00:49,580","identify exactly who says what, and most importantly, track each speaker's opinions using a simple but powerful note-taking technique.",辨識出誰說了什麼，最重要的是，運用簡單卻強大的筆記技巧，記錄每位發言者的觀點,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+6,"00:00:49,860 --> 00:00:50,480",Let's begin.,我們開始吧。,100,ok,,
+7,"00:00:55,410 --> 00:00:58,620",Here is our listening exercise today.,這是今天的聽力練習。,100,ok,,
+8,"00:00:58,620 --> 00:01:01,680",There are two question types in this exercise.,在此練習中有兩種題型。,100,ok,,
+9,"00:01:01,980 --> 00:01:05,380",Multiple choice with multiple answers and matching.,包含複選題與配對題。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+10,"00:01:05,660 --> 00:01:10,120","Before we listen, let's do what you should always do in the exam.",在開始聽力之前，讓我們先做一下考試時應該先做的準備。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+11,"00:01:10,400 --> 00:01:13,740",Analyze the questions carefully and underline the keywords.,仔細分析問題並劃出關鍵字。,80,minor_issues,,[medium] terminology: None
+12,"00:01:14,600 --> 00:01:16,500",You'll have about 30 seconds to read the questions.,你有約30秒的時間來閱讀問題。,80,minor_issues,,[medium] terminology: None
+13,"00:01:16,920 --> 00:01:17,900",30 seconds begin.,30 秒開始。,100,ok,,
+14,"00:01:50,790 --> 00:02:05,050","For questions 21 to 24, we need to select two correct answers in the options A to E, and for questions 25 to 30, we need to match each question with A, B, or C.",第 21 至 24 題，請從選項 A 中選擇兩個正確答案 到 E，而第 25 至 30 題，請將每道題目與 A、B 或 C 進行配對。,30,needs_revision,第 21 至 24 題，請從選項 A 至 E 中選擇兩個正確答案，而第 25 至 30 題，請將每道題目與 A、B 或 C 配對。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] style: None
+15,"00:02:05,270 --> 00:02:07,229",Now here are the keywords that I found.,以下是我找到的關鍵字。,100,ok,,
+16,"00:02:07,550 --> 00:02:15,850","In questions 21 to 22, the key phrase is two reasons and updating the rules this year.",在第 21 至 22 題中，關鍵語 句為兩個原因以及今年更新規則。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+17,"00:02:16,210 --> 00:02:20,430",So we need to listen for why the university changed their rules.,所以我們需要聽聽看為什麼大學更改了他們的規定。,100,ok,,
+18,"00:02:20,710 --> 00:02:22,950",Let me highlight the keywords in each option.,讓我標示出每個選項中的關鍵字。,100,ok,,
+19,"00:02:22,950 --> 00:02:30,330","For questions 23 to 24, the key phrase is first-time cheating and penalties.",在第 23 至 24 題中，關鍵語句為初次作弊及處罰。,80,minor_issues,,[medium] terminology: None
+20,"00:02:30,810 --> 00:02:33,690",We need punishments for first offense only.,我們只需對初犯者進行處罰。,87,minor_issues,,[low] style: None
+21,"00:02:34,030 --> 00:02:38,630","For questions 25 to 30, we match each type of work with a rule.",在第 25 至 30 題中，我們將每種工作類型與對應規則進行配對。,35,needs_revision,在第 25 至 30 題中，我們將每種工作型別與對應規則進行配對。,[high] terminology: None; [medium] terminology: None
+22,"00:02:38,850 --> 00:02:47,710","The keywords are the types of work themselves, and we need to determine if each is allowed freely, allowed with citation, or completely banned.",關鍵字是工作類型本身，我們需要判定 如果允許自由使用、允許註明出處使用，或完全禁止使用。,36,needs_revision,關鍵字是工作型別本身，我們需要確認 是否允許自由使用、允許註明出處使用，或完全禁止使用。,[high] terminology: None; [low] grammar: None; [low] collocation: None; [low] register: None
+23,"00:02:48,130 --> 00:02:52,370","Now, from these keywords, what can we predict about the audio?",現在，從這些關鍵字來看，我們可以對錄音內容做出什麼預測？,80,minor_issues,,[medium] terminology: None
+24,"00:02:52,370 --> 00:02:53,770","First, the topic.",首先，主題。,100,ok,,
+25,"00:02:53,910 --> 00:02:59,610","This is clearly about academic integrity, plagiarism rules, cheating, and proper referencing.",這顯然涉及 academic integrity、plagiari sm rules、cheating 以及 proper referencing。,70,minor_issues,這顯然涉及 學術誠信、抄襲規則、作弊 以及 正確引用。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None; [low] style: None; [low] style: None
+26,"00:02:59,950 --> 00:03:01,090","Second, the speakers.",第二，說話者。,87,minor_issues,,[low] style: None
+27,"00:03:01,430 --> 00:03:06,570","The question says, the students mention. So we're listening to students discussing this topic.","題目會指出是學生。所以我們會 聽到學生討論這個主題。""",30,needs_revision,"問題提到是學生。所以我們正在聽學生討論這個主題。""",[medium] terminology: None; [high] meaning_drift: None; [low] terminology: None; [low] register: None
+28,"00:03:07,330 --> 00:03:10,590",We can expect two or possibly three student voices.,我們預計會有兩到三位學生的聲音。,100,ok,,
+29,"00:03:11,310 --> 00:03:12,670","Third, the structure.",第三，結構。,100,ok,,
+30,"00:03:13,170 --> 00:03:14,910",Notice how the questions are grouped.,請注意這些問題的分組方式。,100,ok,,
+31,"00:03:15,470 --> 00:03:20,130",Questions 21 to 24 seem to be about general rules and punishments.,第 21 至 24 題似乎涉及一般規則與處罰。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+32,"00:03:20,750 --> 00:03:24,050",Questions 25 to 30 are about specific types of work.,第 25 至 30 題關於特定類型的工作。,30,needs_revision,第 25 至 30 題關於特定型別的工作。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+33,"00:03:24,570 --> 00:03:27,670",This tells us the conversation will likely have two parts.,這表示對話可能會分為兩個部分。,100,ok,,
+34,"00:03:29,130 --> 00:03:33,830","Before we listen, let me show you a technique to track each speaker in the recording.",在開始聆聽之前，讓我為你介紹一項技巧。 追蹤錄音中每位講者的內容。,33,needs_revision,在開始聽之前，讓我為你介紹一項技巧。 追蹤錄音中每位說話者的內容。,[low] style: None; [low] style: None; [low] style: None; [low] style: None; [high] meaning_drift: None
+35,"00:03:34,030 --> 00:03:37,050",Draw a simple table with columns for each speaker.,畫一個簡單的表格，每個說話者各有一欄。,77,minor_issues,,[low] style: None; [medium] terminology: None
+36,"00:03:37,350 --> 00:03:40,390","Since we predicted two students, we'll create two columns.",因為我們預設有兩位學生，所以我們會建立兩個欄位。,80,minor_issues,,[medium] terminology: None
+37,"00:03:40,670 --> 00:03:43,890",Leave space on the left for question numbers or topics.,左側請留白，以便填寫題號或主題。,80,minor_issues,,[medium] terminology: None
+38,"00:03:44,150 --> 00:03:47,270","As you listen, write brief notes in each speaker's column.",聽力時，請在每位說話者的欄位中撰寫簡短備註。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+39,"00:03:47,270 --> 00:03:53,270","We'll also use arrows to show when speakers agree, disagree, or build on each other's points.",我們也會使用箭頭來標示對話 者同意、反對或延續彼此的觀點。,84,minor_issues,,[low] style: None; [low] style: None
+40,"00:03:53,950 --> 00:03:56,150","Now, let's listen to the first part of the audio.",現在，讓我們來聽音檔的第一部分。,80,minor_issues,,[medium] terminology: None
+41,"00:03:56,650 --> 00:04:00,390","During this first listen, focus on three things.",在這次初次聆聽時，請著重於以下三件事。,84,minor_issues,在這次第一次聽時，請注意以下三件事。,[low] style: None; [low] style: None
+42,"00:04:01,390 --> 00:04:10,710","Identifying each speaker's name, noting their voice characteristics, and getting a general sense of the conversation flow.",辨識每位講者的姓名，並記錄其聲音特徵， 並對對話流程有整體的掌握。,81,minor_issues,辨識每位說話者的姓名，並記錄其聲音特徵， 並掌握對話流程的大致走向。,[low] style: None; [low] style: None; [low] style: None
+43,"00:04:11,130 --> 00:04:14,010",Don't worry about answering every question yet.,不用急著回答所有問題。,100,ok,,
+44,"00:04:16,100 --> 00:04:25,180","Part 3. You will hear two students, Mark and Anna, talking about the new university rules on plagiarism and cheating.",第 3 部分。你將聽到兩位學生 Mark 和 Anna 討論大學關於抄襲和作弊的新規定。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+45,"00:04:25,940 --> 00:04:31,280","Before you listen, you have some time to look at questions 21 to 24.",在開始聆聽之前，你有時間查看第 21 至 24 題的題目。,30,needs_revision,在開始聆聽之前，你有時間檢視第 21 至 24 題的題目。,[high] terminology: None; [low] style: None; [medium] terminology: None; [medium] terminology: None
+46,"00:04:51,000 --> 00:04:55,440",Now listen and answer questions 21 to 24.,現在請聽並回答第 21 至 24 題。,80,minor_issues,,[medium] terminology: None
+47,"00:04:56,880 --> 00:04:57,840","Hi, Anna.",嗨，Anna。,100,ok,,
+48,"00:04:58,340 --> 00:05:01,500",Did you go to the academic governance workshop this morning?,你今天早上有去參加學術治理研討會嗎？,80,minor_issues,,[medium] terminology: None
+49,"00:05:01,800 --> 00:05:03,960",The one about the new university rules?,關於大學新規定那個呢？,80,minor_issues,,[medium] terminology: None
+50,"00:05:04,640 --> 00:05:05,300","Hi, Mark.",嗨，Mark。,100,ok,,
+51,"00:05:05,300 --> 00:05:06,680","Yes, I was there.",對，我有在場。,100,ok,,
+52,"00:05:07,080 --> 00:05:08,680",It was actually quite important.,其實這相當重要。,100,ok,,
+53,"00:05:09,160 --> 00:05:13,960",I didn't realize they had changed so many regulations regarding plagiarism and cheating.,我沒意識到他們在抄襲和 作弊方面修訂了這麼多規定。,80,minor_issues,,[medium] terminology: None
+54,"00:05:14,640 --> 00:05:15,180",Me neither.,我也不會。,87,minor_issues,,[low] style: None
+55,"00:05:15,640 --> 00:05:19,560",I was trying to figure out why they decided to change everything now.,我試著想搞清楚他們為什麼現在決定要改變一切。,100,ok,,
+56,"00:05:19,960 --> 00:05:22,000",Was it because of the new government laws?,是因為新的政府法規嗎？,100,ok,,
+57,"00:05:22,300 --> 00:05:25,080","Okay, let's identify our speakers.",好的，讓我們來確認一下我們的講者。,74,minor_issues,好的，讓我們來確認一下我們的說話者。,[low] style: None; [medium] terminology: None; [low] style: None
+58,"00:05:25,500 --> 00:05:26,660",Did you catch their names?,你有記到他們的名字嗎？,100,ok,,
+59,"00:05:27,120 --> 00:05:29,700","Speaker 1 is Mark, male voice.",講者 1 是馬克，男聲。,84,minor_issues,說話者 1 是馬克，男聲。,[low] style: None; [low] style: None
+60,"00:05:30,060 --> 00:05:33,320","Speaker 2 is Anna, female voice.",Speaker 2 是 Anna，女聲。,80,minor_issues,,[medium] terminology: None
+61,"00:05:34,080 --> 00:05:38,880","Now, let's listen to the audio and write down your answers on paper.",現在，讓我們聆聽錄音，並將答案寫在紙上。,70,minor_issues,現在，讓我們聽錄音，並將答案寫在紙上。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] register: None
+62,"00:05:39,520 --> 00:05:40,400","Hi, Anna.",嗨，Anna。,100,ok,,
+63,"00:05:40,900 --> 00:05:44,060",Did you go to the academic governance workshop this morning?,你今天早上有去參加學術治理工作坊嗎？,100,ok,,
+64,"00:05:44,400 --> 00:05:46,540",The one about the new university rules?,關於新大學規則的那件事？,87,minor_issues,關於新大學規定的那件事？,[low] style: None
+65,"00:05:47,240 --> 00:05:47,860","Hi, Mark.",嗨，Mark。,100,ok,,
+66,"00:05:48,240 --> 00:05:49,240","Yes, I was there.",是的，我有去。,100,ok,,
+67,"00:05:49,640 --> 00:05:51,220",It was actually quite important.,其實還滿重要的。,100,ok,,
+68,"00:05:51,720 --> 00:05:56,520",I didn't realize they had changed so many regulations regarding plagiarism and cheating.,我沒意識到他們修改了這 麼多關於抄襲和作弊的規定。,80,minor_issues,,[medium] terminology: None
+69,"00:05:57,200 --> 00:05:57,740",Me neither.,我也不會。,87,minor_issues,,[low] style: None
+70,"00:05:58,080 --> 00:06:02,120",I was trying to figure out why they decided to change everything now.,我一直在想，為什麼他們決定現在改變一切。,100,ok,,
+71,"00:06:02,120 --> 00:06:04,540",Was it because of the new government laws?,是因為新的政府法規嗎？,100,ok,,
+72,"00:06:05,300 --> 00:06:09,740","I thought so too, but the presenter said the government laws haven't changed in 10 years.",我也是這麼想，但講者表示政 府法規已經十年沒有變動了。,30,needs_revision,我也是這麼想，但說話者表示政 府法規已經十年沒有變動了。,[low] style: None; [low] style: None; [medium] terminology: None; [high] placeholder: None; [low] style: None
+73,"00:06:10,280 --> 00:06:15,180","The main reason was actually the technology, you know, AI and chatbots.",主要原因其實是科技，你知道的，AI 和聊天機器人。,80,minor_issues,,[medium] terminology: None
+74,"00:06:15,860 --> 00:06:16,960","Ah, right.",啊，沒錯。,100,ok,,
+75,"00:06:17,460 --> 00:06:19,660",Because computers can write essays now.,因為電腦現在也能寫文章了。,87,minor_issues,,[low] style: None
+76,"00:06:20,300 --> 00:06:20,940",Exactly.,沒錯。,100,ok,,
+77,"00:06:21,380 --> 00:06:27,640","And I think some students were complaining because the old rules didn't mention computers, so they had to update them.",我認為有些學生抱怨，因為舊的 規則中沒有提到電腦，所以他們必須更新它們。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+78,"00:06:28,140 --> 00:06:29,380",Actually not.,其實不是。,100,ok,,
+79,"00:06:29,640 --> 00:06:33,460",The reason was that the professors didn't know how to handle these cases.,原因是教授們不知道該如何處理這些情況。,100,ok,,
+80,"00:06:34,080 --> 00:06:39,040","Every teacher used different ways or criteria when giving marks, which was confusing.",每位老師在給分時使用的標準或方法 都不盡相同，這讓人感到困惑。,100,ok,,
+81,"00:06:39,780 --> 00:06:43,880","Oh, this improvement process may take some time and money.",喔，這個改善過程可能需要一些時間和金錢。,100,ok,,
+82,"00:06:44,260 --> 00:06:45,200",That's true.,沒錯。,100,ok,,
+83,"00:06:45,920 --> 00:06:48,600","Anyway, did you catch the part about the punishments?",總之，你有聽到關於懲罰的部分嗎？,87,minor_issues,,[low] style: None
+84,"00:06:48,860 --> 00:06:50,460",It sounded pretty scary.,聽起來相當嚇人。,100,ok,,
+85,"00:06:51,140 --> 00:06:51,940",It depends.,視情況而定。,100,ok,,
+86,"00:06:52,300 --> 00:06:55,420","If it's your first time breaking the rules, it's not too bad.",如果是第一次違規，其實也沒那麼糟。,87,minor_issues,,[low] style: None
+87,"00:06:55,720 --> 00:06:57,580",You don't get kicked out of university.,你不會被大學退學。,100,ok,,
+88,"00:06:57,580 --> 00:06:59,360",That's only for the third time.,這只是第三次。,100,ok,,
+89,"00:07:00,180 --> 00:07:01,280",Do they tell your parents?,他們有告訴你的父母嗎？,100,ok,,
+90,"00:07:02,020 --> 00:07:03,460","No, we're adults.",不，我們是成年人。,100,ok,,
+91,"00:07:03,640 --> 00:07:04,980",They don't call our parents.,他們不會告訴我們的父母。,45,needs_revision,他們不會打電話給我們的父母。,[high] meaning_drift: None
+92,"00:07:05,340 --> 00:07:07,100",But you do fail the assignment.,不過，你確實沒完成作業。,80,minor_issues,,[medium] terminology: None
+93,"00:07:07,380 --> 00:07:09,040",You get zero marks automatically.,系統會自動給零分。,100,ok,,
+94,"00:07:09,500 --> 00:07:10,520",That hurts.,好痛。,100,ok,,
+95,"00:07:10,920 --> 00:07:11,920",Is there a fine?,會有罰款嗎？,100,ok,,
+96,"00:07:12,180 --> 00:07:13,420",Do we have to pay money?,我們需要付錢嗎？,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+97,"00:07:14,000 --> 00:07:15,060",No fines.,不會有罰款。,100,ok,,
+98,"00:07:15,320 --> 00:07:17,000",But you can't just walk away.,但你不能就這樣走開。,100,ok,,
+99,"00:07:17,360 --> 00:07:20,780",You have to sign up for a special class on academic writing.,你必須報名參加一門學術寫作特別課程。,80,minor_issues,,[medium] terminology: None
+100,"00:07:21,180 --> 00:07:24,920",You have to sit there for three hours and learn how to reference correctly.,你必須坐在座位上三個小時，學習如何正確引用資料。,80,minor_issues,,[medium] terminology: None
+101,"00:07:25,600 --> 00:07:27,720","Ugh, a mandatory workshop.",糟了，是強制參加的研習會。,80,minor_issues,,[medium] terminology: None
+102,"00:07:28,160 --> 00:07:29,360",That sounds boring.,聽起來很無聊。,100,ok,,
+103,"00:07:29,800 --> 00:07:31,740",But it's still better than being expelled.,但還是比被退學好。,100,ok,,
+104,"00:07:32,220 --> 00:07:34,320",And at least students can learn something.,至少學生可以學到一些東西。,80,minor_issues,,[medium] terminology: None
+105,"00:07:34,940 --> 00:07:35,500",Exactly.,沒錯。,100,ok,,
+106,"00:07:36,720 --> 00:07:43,300","Before you hear the rest of the discussion, you have some time to look at questions 25 to 30.",在聆聽剩餘討論之前，你有時間 查看題目 25 至 30。,36,needs_revision,在聽剩餘討論之前，你有時間 檢視題目 25 至 30。,[high] terminology: None; [low] style: None; [low] register: None; [low] style: None
+107,"00:07:45,280 --> 00:07:48,980","Anyway, I took some notes on what is allowed and what isn't.",反正，我記下了一些允許和不允許的事項。,100,ok,,
+108,"00:07:49,100 --> 00:07:51,100",We should review them for our next essay.,我們應該為下一次的論文複習這些內容。,77,minor_issues,,[medium] terminology: None; [low] collocation: None
+109,"00:07:51,580 --> 00:07:52,120",Good idea.,好主意。,80,minor_issues,,[medium] terminology: None
+110,"00:07:52,400 --> 00:07:53,220",Let's look at the list.,我們來看看這份清單。,100,ok,,
+111,"00:07:53,880 --> 00:07:56,000",We have common knowledge.,我們有共同的知識。,100,ok,,
+112,"00:07:56,520 --> 00:08:02,040",Things like Paris is the capital of France or World War II ended in 1945.,諸如巴黎是法國的首都，或第二次世界大戰於 1945 年結束等事。,87,minor_issues,,[low] style: None
+113,"00:08:02,940 --> 00:08:07,200","The rule says that for basic facts like that, you don't need a citation.",規則指出，對於這類基本事實，你不需要引用來源。,100,ok,,
+114,"00:08:07,720 --> 00:08:10,940","In other words, you don't need to write a reference or source.",換句話說，你不需要寫出參考文獻或來源。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+115,"00:08:11,340 --> 00:08:12,120",Everyone knows it.,大家都知道了。,100,ok,,
+116,"00:08:12,540 --> 00:08:13,880",What about paraphrasing?,那麼 paraphrasing（改寫）呢？,87,minor_issues,那麼 同義改寫（改寫）呢？,[low] style: None
+117,"00:08:14,340 --> 00:08:17,860",If I read a book and then write the idea in my own words?,如果我讀了一本書，然後用自己的話寫下其中的想法呢？,87,minor_issues,,[low] style: None
+118,"00:08:18,360 --> 00:08:24,200","A lot of people get this wrong, and they would argue that in this case, a reference is not necessary.",很多人會搞錯，他們會辯稱在這種情況下 ，不需要寫出 reference。,70,minor_issues,很多人會搞錯，他們會辯稱在這種情況下 ，不需要列出 引用來源。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] collocation: None
+119,"00:08:24,640 --> 00:08:32,960","But the thing is, even if you change the words, the idea belongs to the author, so it is allowed as long as the reference is provided.",但問題是，即使你更換了用詞，這個想法仍然屬於原作者 ，因此只要提供 reference 就是被允許的。,70,minor_issues,但問題是，即使你更換了用詞，這個想法仍然屬於原作者 ，因此只要提供 引用來源 就是被允許的。,[low] style: None; [low] style: None; [low] style: None; [medium] terminology: None; [medium] terminology: None; [low] placeholder: None
+120,"00:08:33,580 --> 00:08:39,580","Many groups and even individuals are providing essay writing services, and many students have signed up for that.",許多團體甚至個人提供論文寫 作服務，許多學生已報名參加。,74,minor_issues,許多團體甚至個人提供論文撰寫服務，許多學生已報名。,[medium] terminology: None; [low] typo: None; [low] collocation: None
+121,"00:08:40,120 --> 00:08:44,020","I've heard about that, but this is obviously the worst type of cheating.",我有聽過這個，但這明顯是最糟糕的作弊方式。,100,ok,,
+122,"00:08:44,300 --> 00:08:47,760","And of course, under no circumstance is cheating allowed.",當然，在任何情況下都不允許作弊。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+123,"00:08:48,100 --> 00:08:48,760",That's right.,沒錯。,100,ok,,
+124,"00:08:49,000 --> 00:08:52,520","And I think the same rule applies for copying a friend, doesn't it?",我覺得對抄襲朋友也適用同樣的規則，對吧？,87,minor_issues,,[low] style: None
+125,"00:08:53,040 --> 00:08:53,340",True.,沒錯。,100,ok,,
+126,"00:08:53,680 --> 00:08:57,680","Both students will get in trouble, the one who copied and the one who shared.",兩位學生都會惹上麻煩，包括抄襲的人和分享答案的人。,80,minor_issues,,[medium] terminology: None
+127,"00:08:58,240 --> 00:08:59,920","Next, data and graphs.",接下來，是資料與圖表。,100,ok,,
+128,"00:09:00,640 --> 00:09:06,340","In my previous assignment, I used a table taken from an official website, but I couldn't get a full mark for the reference.",在上一份作業中，我引用了官方網站的表 格，但參考資料部分未能獲得滿分。,80,minor_issues,,[medium] terminology: None
+129,"00:09:06,980 --> 00:09:10,360",I thought this kind of information could be used without mentioning the sources.,我認為這類資訊可 以不用標註來源。,100,ok,,
+130,"00:09:11,060 --> 00:09:14,180","No. The fact is, you have to treat it like a quote.",不。事實是，你 必須將其視為引用。,80,minor_issues,,[medium] terminology: None
+131,"00:09:14,560 --> 00:09:17,180",You must cite the source under the image.,你必須在圖片下方標註來源。,100,ok,,
+132,"00:09:17,760 --> 00:09:27,440","Oh, one of my friends used a paper she wrote herself last semester because she thought it was totally acceptable, but whatever the reason is, she got a zero mark for it.",喔，我的一位朋友用了她上學期自己寫的一篇論文，因為她 認為這完全沒問題，但不管原因為何，她因此得了零分。,100,ok,,
+133,"00:09:27,920 --> 00:09:28,480",That's a pity.,真可惜。,100,ok,,
+134,"00:09:28,820 --> 00:09:30,540",It's called self-plagiarism.,這稱為 self-plagiarism。,77,minor_issues,這稱為 自我抄襲。,[medium] terminology: None; [low] terminology: None
+135,"00:09:30,920 --> 00:09:31,820",You can't do it.,你做不到。,100,ok,,
+136,"00:09:32,040 --> 00:09:34,060",You have to write something new every time.,你每次都要寫一些新的東西。,80,minor_issues,,[medium] terminology: None
+137,"00:09:34,520 --> 00:09:38,220","Mmm, there's a lot to consider when doing our next assignments, then.",嗯，接下來要完成作業時，有很多事情需要考慮。,80,minor_issues,,[medium] terminology: None
+138,"00:09:38,580 --> 00:09:38,980",Right.,沒錯。,100,ok,,
+139,"00:09:39,880 --> 00:09:48,080","Now, let's listen one more time, but this time I will show you the script and my tracking table that highlights what each speaker says.",現在，讓我們再聽一次，這次我會顯示講稿 以及我的追蹤表格，標示每位講者所說的話。,74,minor_issues,現在，讓我們再聽一次，這次我會顯示講稿 以及我的追蹤表格，標示每位說話者所說的話。,[low] style: None; [medium] terminology: None; [low] style: None
+140,"00:09:48,240 --> 00:09:50,660",Listen carefully to see how I took my notes.,仔細聆聽，看看我是如何記筆記的。,100,ok,,
+141,"00:09:51,480 --> 00:09:52,380","Hi, Anna.",嗨，Anna。,100,ok,,
+142,"00:09:52,800 --> 00:09:56,060",Did you go to the academic governance workshop this morning?,你今天早上有去參加學術治理工作坊嗎？,100,ok,,
+143,"00:09:56,400 --> 00:09:58,540",The one about the new university rules?,關於大學新規則的那個？,80,minor_issues,,[medium] terminology: None
+144,"00:09:59,260 --> 00:09:59,840","Hi, Mark.",嗨，Mark。,100,ok,,
+145,"00:10:00,200 --> 00:10:01,240","Yes, I was there.",是的，我有去那裡。,100,ok,,
+146,"00:10:01,640 --> 00:10:03,240",It was actually quite important.,實際上這相當重要。,100,ok,,
+147,"00:10:03,700 --> 00:10:08,520",I didn't realize they had changed so many regulations regarding plagiarism and cheating.,我沒意識到他們針對抄襲 和作弊修改了這麼多規定。,80,minor_issues,,[medium] terminology: None
+148,"00:10:09,240 --> 00:10:09,740",Me neither.,我也不。,87,minor_issues,,[low] style: None
+149,"00:10:10,220 --> 00:10:14,120",I was trying to figure out why they decided to change everything now.,我試圖搞清楚他們為什麼決定現在改變一切。,100,ok,,
+150,"00:10:14,520 --> 00:10:16,540",Was it because of the new government laws?,是因為新的政府法規嗎？,100,ok,,
+151,"00:10:17,060 --> 00:10:21,740","I thought so too, but the presenter said the government laws haven't changed in ten years.",我也這麼認為，但講師說政 府法規已經十年沒有變動了。,70,minor_issues,我也這麼認為，但講者說政府法律十年來都沒有改變。,[low] style: None; [medium] terminology: None; [low] typo: None; [low] terminology: None; [low] register: None; [low] style: None
+152,"00:10:22,280 --> 00:10:24,500",The main reason was actually the technology.,主要原因其實是技術。,100,ok,,
+153,"00:10:25,100 --> 00:10:27,740","You know, AI and chatbots.",你知道，AI 和聊天機器人。,80,minor_issues,,[medium] terminology: None
+154,"00:10:27,860 --> 00:10:28,900","Ah, right.",啊，沒錯。,100,ok,,
+155,"00:10:29,320 --> 00:10:31,660",Because computers can write essays now.,因為電腦現在可以寫文章了。,100,ok,,
+156,"00:10:32,300 --> 00:10:39,640","Exactly. And I think some students were complaining because the old rules didn't mention computers, so they had to update them.",沒錯。我認為有些學生抱怨，因為舊規定 沒有提到電腦，所以他們必須更新規定。,80,minor_issues,,[medium] terminology: None
+157,"00:10:40,240 --> 00:10:45,440",Actually not. The reason was that the professors didn't know how to handle these cases.,其實不是。原因是教授們不知道 該如何處理這些情況。,100,ok,,
+158,"00:10:45,440 --> 00:10:51,040","Every teacher used different ways or criteria when giving marks, which was confusing.",每位教師在評分時採用的方式或標準 各不相同，這讓人感到困惑。,100,ok,,
+159,"00:10:51,860 --> 00:10:55,880","Oh, this improvement process may take some time and money.",噢，這個改善過程可能需要一些時間和金錢。,100,ok,,
+160,"00:10:56,300 --> 00:10:57,200",That's true.,沒錯。,100,ok,,
+161,"00:10:57,900 --> 00:11:00,600","Anyway, did you catch the part about the punishments?",不過，你有聽到關於懲罰的那部分嗎？,100,ok,,
+162,"00:11:00,840 --> 00:11:02,460",It sounded pretty scary.,聽起來相當嚇人。,100,ok,,
+163,"00:11:03,140 --> 00:11:03,920",It depends.,這取決於情況。,100,ok,,
+164,"00:11:04,300 --> 00:11:07,420","If it's your first time breaking the rules, it's not too bad.",如果是你第一次打破規則，其實也沒那麼糟。,77,minor_issues,,[low] style: None; [medium] terminology: None
+165,"00:11:07,740 --> 00:11:09,580",You don't get kicked out of university.,你不會被大學退學。,100,ok,,
+166,"00:11:09,820 --> 00:11:11,320",That's only for the third time.,這只適用於第三次。,100,ok,,
+167,"00:11:11,720 --> 00:11:13,140",Do they tell your parents?,他們有告訴你父母嗎？,100,ok,,
+168,"00:11:13,960 --> 00:11:15,480","No, we're adults.",不，我們是成年人。,100,ok,,
+169,"00:11:15,640 --> 00:11:16,860",They don't call our parents.,他們不會告訴我們父母。,45,needs_revision,他們不會打電話給我們的父母。,[high] meaning_drift: None
+170,"00:11:17,420 --> 00:11:19,120",But you do fail the assignment.,但你確實沒有通過這項作業。,35,needs_revision,但你確實沒有透過這項作業。,[high] terminology: None; [medium] terminology: None
+171,"00:11:19,360 --> 00:11:21,060",You get zero marks automatically.,系統會自動給零分。,100,ok,,
+172,"00:11:21,820 --> 00:11:22,520",That hurts.,好痛。,100,ok,,
+173,"00:11:22,920 --> 00:11:23,920",Is there a fine?,有罰款嗎？,100,ok,,
+174,"00:11:24,240 --> 00:11:25,420",Do we have to pay money?,我們必須付錢嗎？,80,minor_issues,,[medium] terminology: None
+175,"00:11:26,060 --> 00:11:27,060",No fines.,沒有罰款。,100,ok,,
+176,"00:11:27,340 --> 00:11:28,980",But you can't just walk away.,但你不能就这样走開。,30,needs_revision,,[high] None: None; [high] None: None
+177,"00:11:29,400 --> 00:11:32,800",You have to sign up for a special class on academic writing.,你必須報名參加一門學術寫作課程。,80,minor_issues,,[medium] terminology: None
+178,"00:11:33,180 --> 00:11:36,920",You have to sit there for three hours and learn how to reference correctly.,你必須坐在那裡三個小時，學習如何正確引用。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+179,"00:11:37,640 --> 00:11:39,700","Ah, a mandatory workshop.",啊，一場必修工作坊。,80,minor_issues,,[medium] terminology: None
+180,"00:11:40,080 --> 00:11:41,380",That sounds boring.,聽起來很無聊。,100,ok,,
+181,"00:11:41,380 --> 00:11:46,340","But it's still better than being expelled, and at least students can learn something.",不過還是比被退學好。 而且至少學生可以學到一些東西。,77,minor_issues,,[low] style: None; [medium] terminology: None
+182,"00:11:46,980 --> 00:11:47,500",Exactly.,沒錯。,100,ok,,
+183,"00:11:48,800 --> 00:11:55,320","Before you hear the rest of the discussion, you have some time to look at questions 25 to 30.",在聽完討論的其餘部分之前，你有時 間查看第 25 至 30 題。,30,needs_revision,在聽完討論的其餘部分之前，你有時 間檢視第 25 至 30 題。,[high] terminology: None; [low] style: None; [medium] terminology: None; [medium] terminology: None
+184,"00:11:57,660 --> 00:12:01,320","Anyway, I took some notes on what is allowed and what isn't.",反正，我記下了一些允許和禁止的備註。,39,needs_revision,反正，我記下了一些允許和不允許的筆記。,[high] meaning_drift: None; [low] collocation: None; [low] terminology: None
+185,"00:12:01,460 --> 00:12:03,460",We should review them for our next essay.,我們應該為下一篇作文複習這些內容。,74,minor_issues,我們應該為下一篇文章複習這些。,[medium] terminology: None; [low] terminology: None; [low] style: None
+186,"00:12:03,960 --> 00:12:04,480",Good idea.,好主意。,80,minor_issues,,[medium] terminology: None
+187,"00:12:04,740 --> 00:12:05,600",Let's look at the list.,我們來看看這份清單。,100,ok,,
+188,"00:12:06,220 --> 00:12:08,340",We have common knowledge.,我們有共同知識。,100,ok,,
+189,"00:12:08,860 --> 00:12:14,420","Things like Paris is the capital of France, or World War II ended in 1945.",諸如巴黎是法國首都，或第二次世界大戰於 1945 年結束這類事項。,87,minor_issues,,[low] style: None
+190,"00:12:15,280 --> 00:12:19,540","The rule says that for basic facts like that, you don't need a citation.",規則指出，對於這類基本事實，你不需要引用來源。,100,ok,,
+191,"00:12:20,040 --> 00:12:23,280","In other words, you don't need to write a reference or source.",換句話說，你不需要寫出參考文獻或來源。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+192,"00:12:23,660 --> 00:12:24,480",Everyone knows it.,大家都知道了。,100,ok,,
+193,"00:12:24,880 --> 00:12:26,220",What about paraphrasing?,那改寫呢？,100,ok,,
+194,"00:12:26,640 --> 00:12:30,200",If I read a book and then write the idea in my own words?,如果我讀了一本書，然後用自己的話寫下其中的概念呢？,87,minor_issues,,[low] style: None
+195,"00:12:30,700 --> 00:12:36,560","A lot of people get this wrong, and they would argue that in this case, a reference is not necessary.",很多人會搞錯，他們會主張在這種情況下 不需要提供 reference。,70,minor_issues,很多人會搞錯，他們會主張在這種情況下 不需要提供 引用來源。,[medium] terminology: None; [medium] terminology: None
+196,"00:12:37,040 --> 00:12:41,800","But the thing is, even if you change the words, the idea belongs to the author,",但問題是，即使你改變了用詞，這個想法仍然屬於作者，因此,78,minor_issues,但問題是，即使你改變了用詞，這個想法仍然屬於作者，所以,[low] style: None; [low] style: None; [low] style: None; [low] register: None
+197,"00:12:42,040 --> 00:12:45,320",so it is allowed as long as the reference is provided.,只要提供 reference 即可。,70,minor_issues,只要提供 引用來源 即可。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None
+198,"00:12:45,940 --> 00:12:51,960","Many groups and even individuals are providing essay writing services, and many students have signed up for that.",許多團體甚至個人都在提供 essay 代寫服務，許多學生已經報名參加。,74,minor_issues,許多團體甚至個人都在提供 論文代寫服務，許多學生已經報名。,[medium] terminology: None; [low] terminology: None; [low] collocation: None
+199,"00:12:52,500 --> 00:13:00,120","I've heard about that, but this is obviously the worst type of cheating, and of course under no circumstance is cheating allowed.",我聽過這件事，但這無疑是最嚴重的作弊 類型，當然在任何情況下都不允許作弊。,30,needs_revision,我聽過這件事，但這無疑是最嚴重的作弊 型別，當然在任何情況下都不允許作弊。,[high] terminology: None; [low] style: None; [medium] terminology: None; [medium] terminology: None
+200,"00:13:00,600 --> 00:13:01,120",That's right.,沒錯。,100,ok,,
+201,"00:13:01,120 --> 00:13:04,880","And I think the same rule applies for copying a friend, doesn't it?",我認為複製朋友的規則也適用，對吧？,87,minor_issues,,[low] style: None
+202,"00:13:05,340 --> 00:13:05,740",True.,沒錯。,100,ok,,
+203,"00:13:06,040 --> 00:13:10,040","Both students will get in trouble, the one who copied and the one who shared.",這兩位學生都會惹上麻煩，一位是抄襲的人，另一位是分享的人。,80,minor_issues,,[medium] terminology: None
+204,"00:13:10,600 --> 00:13:12,260","Next, data and graphs.",接下來是資料與圖表。,100,ok,,
+205,"00:13:12,960 --> 00:13:18,700","In my previous assignment, I used a table taken from an official website, but I couldn't get a full mark for the reference.",在上一份作業中，我使用了來自官方網站的表 格，但我在參考資料部分未能獲得滿分。,80,minor_issues,,[medium] terminology: None
+206,"00:13:19,340 --> 00:13:22,700",I thought this kind of information could be used without mentioning the sources.,我認為這類資訊可以不 提及來源而直接使用。,80,minor_issues,,[medium] terminology: None
+207,"00:13:23,360 --> 00:13:26,540","No, the fact is you have to treat it like a quote.",不，事實是你必須把它當作引用來處理。,80,minor_issues,,[medium] terminology: None
+208,"00:13:26,860 --> 00:13:29,520",You must cite the source under the image.,你必須在圖片下方引用來源。,80,minor_issues,,[medium] terminology: None
+209,"00:13:30,060 --> 00:13:36,020","Oh, one of my friends used a paper she wrote herself last semester because she thought it was totally acceptable.",哦，我的一個朋友用了她自己寫的一篇論文。 學期，因為她認為這完全沒問題。,45,needs_revision,哦，我的一個朋友用了她自己寫的一篇論文，因為，因為她認為這完全沒問題。,[high] meaning_drift: None
+210,"00:13:36,520 --> 00:13:39,800","But whatever the reason is, she got a zero mark for it.",但無論原因為何，她因此得了零分。,100,ok,,
+211,"00:13:40,260 --> 00:13:40,840",That's a pity.,真可惜。,100,ok,,
+212,"00:13:41,180 --> 00:13:42,880",It's called self-plagiarism.,這被稱為自我抄襲。,100,ok,,
+213,"00:13:43,320 --> 00:13:44,140",You can't do it.,你做不到。,100,ok,,
+214,"00:13:44,420 --> 00:13:46,380",You have to write something new every time.,每次你都要寫些新的內容。,80,minor_issues,,[medium] terminology: None
+215,"00:13:47,180 --> 00:13:50,560",There's a lot to consider when doing our next assignments then.,接下來要進行作業時，有許多事項需要考慮。,80,minor_issues,,[medium] terminology: None
+216,"00:13:50,840 --> 00:13:51,320",Right.,對。,100,ok,,
+217,"00:13:51,720 --> 00:13:56,140",Did you see how I used the arrows to show the direction of the conversation?,你有看到我如何使用箭頭來顯示對話的方向嗎？,100,ok,,
+218,"00:13:56,140 --> 00:14:00,500",This zigzag pattern is typical of academic discussions.,這種交錯的模式在學術討論中很常見。,100,ok,,
+219,"00:14:00,900 --> 00:14:05,380","One person raises a point, the other responds, then the first person reacts.",一人提出觀點，另一人回應，接著第一人做出反應。,100,ok,,
+220,"00:14:06,040 --> 00:14:10,160","In the recording, we also notice the signposting languages that help us",在錄音中，我們也注意到用於引導對話走向的標誌性,32,needs_revision,,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+221,"00:14:10,160 --> 00:14:16,020","navigate the conversation, such as, I thought so too, but actually not.",語言，例如：我也這麼認為，但實際上並非如此。,30,needs_revision,對話，例如：我也這麼認為，但實際上並非如此。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+222,"00:14:16,520 --> 00:14:19,260","No fines, but you can't just walk away.",沒有罰款，但你不能就這樣離開。,100,ok,,
+223,"00:14:19,840 --> 00:14:23,740","But the thing is, we finished another listening exercise today.",但重點是，我們今天完成了一個聽力練習。,100,ok,,
+224,"00:14:23,980 --> 00:14:24,980","Great job, everyone.",大家做得很好。,100,ok,,
+225,"00:14:29,720 --> 00:14:33,360",Let's wrap up with the key takeaways from today's practice.,讓我們總結今天練習的重點。,100,ok,,
+226,"00:14:33,700 --> 00:14:36,400","First, always identify speakers early.",首先，務必先確認說話者。,87,minor_issues,,[low] style: None
+227,"00:14:36,760 --> 00:14:39,000",Listen for names in the opening seconds.,在開頭幾秒內注意聽名字。,100,ok,,
+228,"00:14:39,260 --> 00:14:41,340",Note gender and voice characteristics.,備註性別與聲音特徵。,100,ok,,
+229,"00:14:41,700 --> 00:14:43,860","Second, use the speaker tracking table.",接著，使用說話者追蹤表。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+230,"00:14:44,160 --> 00:14:48,480",Create columns for each speaker and use arrows to show conversation flow.,為每位講者建立欄位，並使用箭頭顯示對話流程。,84,minor_issues,為每位說話者建立欄位，並使用箭頭顯示對話流程。,[low] style: None; [low] style: None
+231,"00:14:48,820 --> 00:14:52,800",This keeps your notes organized and helps you attribute information correctly.,這能讓你整理的備註井然有序，並協助你正確歸屬資訊來源。,84,minor_issues,這能讓你整理的備註井然有序，並協助你正確標註資訊來源。,[low] style: None; [low] collocation: None
+232,"00:14:53,400 --> 00:14:55,920","Third, watch for the zigzag pattern.",第三，注意看之字形的模式。,77,minor_issues,,[low] style: None; [medium] terminology: None
+233,"00:14:55,920 --> 00:14:58,860",Academic discussions bounce back and forth.,學術討論不斷交鋒。,80,minor_issues,,[medium] terminology: None
+234,"00:14:59,000 --> 00:15:03,780","The answer might come from a correction or response, not the original statement.",答案可能來自修正或回 應，而非原始陳述。,80,minor_issues,,[medium] terminology: None
+235,"00:15:04,060 --> 00:15:07,720","Fourth, listen for signposting that eliminates options.",第四，聆聽路標提示以排除選項。,74,minor_issues,第四，聽路標詞以排除選項。,[medium] terminology: None; [low] register: None; [low] terminology: None
+236,"00:15:07,960 --> 00:15:08,880",Great work today.,今天表現得很好。,100,ok,,
+237,"00:15:09,140 --> 00:15:12,320",Don't forget to practice and I will see you in the next lesson.,別忘了練習，我們下一堂課見。,100,ok,,

@@ -1,0 +1,132 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:12,420 --> 00:00:15,390","Hey guys, welcome back to our IELTS Listening course.",嗨，大家好，歡迎回到我們的 雅思 聽力課程。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+2,"00:00:16,570 --> 00:00:18,300",Let's take a look at these questions.,讓我們來看看這些問題。,100,ok,,
+3,"00:00:18,490 --> 00:00:19,850",What are they asking us to do?,他們要求我們做什麼？,100,ok,,
+4,"00:00:22,740 --> 00:00:25,360","As you can see, they require details involving",如你所見，他們要求提供包含數字的,30,needs_revision,如你所見，他們要求提供包含數位的,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+5,"00:00:25,360 --> 00:00:29,440","numbers, such as dates, prices, and quantities, or",詳細資訊，例如日期、價格和數量，或,35,needs_revision,數字，例如日期、價格和數量，或,[medium] terminology: None; [high] meaning_drift: None
+6,"00:00:29,440 --> 00:00:32,740","spelling, like phone numbers, names, and postal codes.",拼字（spelling），例如電話號碼、姓名和郵遞區號。,100,ok,,
+7,"00:00:33,720 --> 00:00:35,380",Many of you think that these are easy.,在座的許多人都認為這些很簡單。,100,ok,,
+8,"00:00:35,380 --> 00:00:37,980","However, we are here today to make sure",不過，我們今天在此是要確,35,needs_revision,不過，我們今天在此是要確定,[medium] terminology: None; [high] meaning_drift: None
+9,"00:00:37,980 --> 00:00:40,260",that you will never lose any points for,保你們在這種類型的題目上,30,needs_revision,保你們在這種型別的題目上,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+10,"00:00:40,260 --> 00:00:41,280",this type of question.,不會被扣分。,35,needs_revision,這種問題。,[medium] terminology: None; [high] meaning_drift: None
+11,"00:00:42,600 --> 00:00:44,900",Today's lesson is divided into two parts.,今天的課程分為兩個部分。,80,minor_issues,,[medium] terminology: None
+12,"00:00:45,520 --> 00:00:47,460","First, we will learn about how to listen",首先，我們將學習如何獨,45,needs_revision,首先，我們將學習如何聽,[high] meaning_drift: None
+13,"00:00:47,460 --> 00:00:48,740",for numbers on their own.,立辨識數字。,30,needs_revision,立辨識數位。,[high] terminology: None; [high] meaning_drift: None
+14,"00:00:49,320 --> 00:00:51,320","And second, we will learn about how to",其次，我們將學習如何,100,ok,,
+15,"00:00:51,320 --> 00:00:53,780",handle combinations of numbers and letters.,處理數字與字母的組合。,45,needs_revision,處理數位與字母的組合。,[high] terminology: None
+16,"00:00:54,340 --> 00:00:56,540","Without further ado, let's begin.",話不多說，我們開始吧。,100,ok,,
+17,"00:01:01,470 --> 00:01:03,370","Normally, you will be asked to listen to",通常，你會被要求在兩種主,45,needs_revision,通常，你會被要求在你聽,[high] meaning_drift: None
+18,"00:01:03,370 --> 00:01:05,530",numbers in two main types of questions.,要類型的问题中聽數字。,30,needs_revision,要型別的问题中聽數位。,[high] terminology: None; [high] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] None: None; [high] None: None
+19,"00:01:06,050 --> 00:01:10,790","First, completion tasks, like form completion in part 1,",首先，是完成題型，例如第一部分的表單填寫、,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+20,"00:01:10,790 --> 00:01:13,410","table or flowchart completion in part 2,",第二部分的表格或流程圖填寫，,45,needs_revision,,[high] placeholder: None
+21,"00:01:13,830 --> 00:01:16,010",and summary completion in part 4.,以及第 4 部分的摘要填空。,80,minor_issues,,[medium] terminology: None
+22,"00:01:16,870 --> 00:01:20,410","Second, multiple choice questions with one correct answer",其次，第二部分的多項選擇題僅有一個正確答,35,needs_revision,其次，第二部分的多項選擇題僅有一個正確答案,[medium] terminology: None; [high] meaning_drift: None
+23,"00:01:20,410 --> 00:01:23,170","in part 2, and some other rare cases",案，此外在聽力測驗的其他部,30,needs_revision,部分，以及其他一些罕見情況,[medium] terminology: None; [medium] terminology: None; [high] placeholder: None; [high] meaning_drift: None
+24,"00:01:23,170 --> 00:01:25,030",in other parts of the listening test.,分也有一些其他罕見的題型。,32,needs_revision,聽力測驗的其他部分。,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+25,"00:01:25,750 --> 00:01:27,130",So what is your task here?,那麼，你這裡的任務是什麼？,100,ok,,
+26,"00:01:27,390 --> 00:01:28,470",It is very simple.,這非常簡單。,100,ok,,
+27,"00:01:29,070 --> 00:01:31,250","Listen to the recording and find the answers,",聆聽錄音並找出答案，此處答案以數字,30,needs_revision,聆聽錄音並找出答案，此處答案以數位,[high] terminology: None; [high] meaning_drift: None
+28,"00:01:31,610 --> 00:01:37,330","which here are in the number form, such as 150 or 4:30 pm.",形式呈現，例如 150 或下午 4:30。,80,minor_issues,,[medium] terminology: None
+29,"00:01:38,510 --> 00:01:40,970",Then the main challenge for this question type,接下來，此題型的主要挑戰,100,ok,,
+30,"00:01:40,970 --> 00:01:43,410",is simply how to listen to numbers correctly.,在於如何正確聽懂數字。,35,needs_revision,在於如何正確聽懂數位。,[high] terminology: None; [medium] terminology: None
+31,"00:01:44,050 --> 00:01:46,350",So let's get to how to deal with this.,那麼，我們來看看該如何應對這個問題。,80,minor_issues,,[medium] terminology: None
+32,"00:01:46,950 --> 00:01:48,590","For listening to numbers alone,",僅就聽懂數字而言，,45,needs_revision,僅就聽懂數位而言，,[high] terminology: None
+33,"00:01:48,590 --> 00:01:50,190",there are two main scenarios.,主要有兩種情境。,100,ok,,
+34,"00:01:50,870 --> 00:01:53,990","The easier scenario involves quantities or prices,",較簡單的情境涉及數量或價格，,100,ok,,
+35,"00:01:54,160 --> 00:01:55,790",where the answer is shorter.,此時答案較短。,80,minor_issues,,[medium] terminology: None
+36,"00:01:56,010 --> 00:01:59,010",The harder scenario involves times and dates.,較困難的情境涉及時間與日期。,100,ok,,
+37,"00:01:59,010 --> 00:02:02,040","To handle these scenarios perfectly,",要完美應對這些情境,100,ok,,
+38,"00:02:02,040 --> 00:02:04,190",there are four things you need to understand,，你必須理解並掌握四件事,45,needs_revision,有四件事你需要了解,[high] meaning_drift: None
+39,"00:02:04,190 --> 00:02:07,250",and master how to write them in your answer sheet to,，並將其寫入答題卷中，以避,100,ok,,
+40,"00:02:07,250 --> 00:02:09,770",prevent losing points in easy questions.,免在簡單題目上失分。,80,minor_issues,,[medium] terminology: None
+41,"00:02:10,490 --> 00:02:11,990",1. Punctuation,1. 標點符號,100,ok,,
+42,"00:02:11,990 --> 00:02:13,790",2. Currency,2. 貨幣,100,ok,,
+43,"00:02:13,980 --> 00:02:15,900",3. Dates,3. 日期,100,ok,,
+44,"00:02:16,190 --> 00:02:17,990",4. Time,4. 時間,100,ok,,
+45,"00:02:17,990 --> 00:02:19,790",1. Punctuation,1. 標點符號,100,ok,,
+46,"00:02:20,120 --> 00:02:22,780","In English, when separating thousands,",在英文中，分隔千位數時,100,ok,,
+47,"00:02:22,790 --> 00:02:25,390",you can use a comma or you don't have to,可以使用逗號，或者完全不,42,needs_revision,可以使用逗號，或者也行,[low] style: None; [high] meaning_drift: None
+48,"00:02:25,390 --> 00:02:28,030",write down any punctuation with the number at all.,需要在數字上寫下任何標點符號。,30,needs_revision,需要在數位上寫下任何標點符號。,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+49,"00:02:28,750 --> 00:02:30,950","However, you should not put a full stop",不過，你不應該在這裡加上,30,needs_revision,不過，你不應該句末加上,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+50,"00:02:30,950 --> 00:02:32,270",or an apostrophe here.,句號或撇號。,45,needs_revision,引號或撇號。,[high] meaning_drift: None
+51,"00:02:32,950 --> 00:02:36,110","For example, one thousand is written as this",例如，一千寫作這個或這個，而,35,needs_revision,例如，一千寫作如下,[medium] terminology: None; [high] meaning_drift: None
+52,"00:02:36,110 --> 00:02:38,450","or this, not this.",不是這個。,100,ok,,
+53,"00:02:39,390 --> 00:02:42,050","However, for decimal numbers, we use a full",不過，對於小數，我們使用句,45,needs_revision,不過，對於小數，我們使用全形字元,[high] meaning_drift: None
+54,"00:02:42,050 --> 00:02:43,470",stop or a period.,號或點號。,80,minor_issues,,[medium] terminology: None
+55,"00:02:44,370 --> 00:02:48,350",Four and a half or 4.5 is written as this.,四又二分之一或 4.5 寫作這個。,74,minor_issues,四又二分之一或 4.5 寫成這樣。,[low] style: None; [medium] terminology: None; [low] style: None
+56,"00:02:49,010 --> 00:02:50,410",Never write this.,雅思 課程,45,needs_revision,Never write this.,[high] meaning_drift: None
+57,"00:02:51,190 --> 00:02:55,130","Just remember, comma for thousands, dot for decimals.",只要記住，千位數用逗號，小數點用句點。,100,ok,,
+58,"00:02:55,850 --> 00:02:58,190",2. Currency,2. 貨幣,100,ok,,
+59,"00:02:58,190 --> 00:03:01,190","Usually, you will hear dollars or pounds.",通常，你會聽到的是 dollars 或 pounds。,84,minor_issues,通常，你會聽到的是 美元 或 英鎊。,[low] terminology: None; [low] terminology: None
+60,"00:03:01,550 --> 00:03:04,310","Normally, the question will provide the symbol, so",通常，題目會提供符號，因此,100,ok,,
+61,"00:03:04,310 --> 00:03:06,670",you must not write the currency symbol again.,你不需要再寫出貨幣符號。,100,ok,,
+62,"00:03:07,630 --> 00:03:09,990","In rare cases, if the question does not",在罕見的情況下，如果,100,ok,,
+63,"00:03:09,990 --> 00:03:12,770","provide the symbol, please remember that the symbol",題目未提供符號，請記住符號始,45,needs_revision,請提供符號，並記住該符號,[high] meaning_drift: None
+64,"00:03:12,770 --> 00:03:14,550",always goes before the number.,終位於數字之前。,42,needs_revision,終位於數位之前。,[high] terminology: None; [low] style: None
+65,"00:03:15,330 --> 00:03:17,630","And just like before, use a full stop",如同先前所述，請使用句號。,100,ok,,
+66,"00:03:17,630 --> 00:03:18,390",for the cents.,以分為單位。,100,ok,,
+67,"00:03:18,860 --> 00:03:20,990",3. Dates,3. 日期,100,ok,,
+68,"00:03:20,990 --> 00:03:23,290",This can be confusing because the format,這可能會令人困惑，因為,100,ok,,
+69,"00:03:23,290 --> 00:03:25,190",changes depending on the country.,格式會因國家而異。,100,ok,,
+70,"00:03:25,730 --> 00:03:28,570","In the UK, they use day, month, year,",在英國，他們使用的順序是日、月、年，,100,ok,,
+71,"00:03:28,870 --> 00:03:30,330",like 18th May.,例如 5月18日。,100,ok,,
+72,"00:03:31,050 --> 00:03:34,290","In the US, they use month, day, year,",在美國，他們使用的順序是月、日、年，例如,100,ok,,
+73,"00:03:34,810 --> 00:03:36,570",like May 18th.,5月18日。,100,ok,,
+74,"00:03:37,070 --> 00:03:41,390","The good news is that for IELTS, both formats are acceptable.",好消息是，在 雅思 中，這兩種形式都是可接受的。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+75,"00:03:41,570 --> 00:03:43,620","However, remember to follow the word",不過，請記得要遵循字數限制。,100,ok,,
+76,"00:03:43,620 --> 00:03:45,840",and number limits from the instructions.,以及指示中的字數限制。,80,minor_issues,,[medium] terminology: None
+77,"00:03:46,190 --> 00:03:49,050","For instance, the 18th of May is counted",例如，5月18日計為三個,45,needs_revision,例如，5月18日被計算,[high] meaning_drift: None
+78,"00:03:49,050 --> 00:03:51,050",as three words and one number.,字詞和一個數字。,30,needs_revision,三個字和一個數位。,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+79,"00:03:51,790 --> 00:03:55,950",But 18th May or 18 May is just,但 5 月 18 日或 18 May,42,needs_revision,但 5 月 18 日或 5月18日,[high] meaning_drift: None; [low] script: None
+80,"00:03:55,950 --> 00:03:57,550",one word and one number.,僅算作一個字詞和一個數字。,45,needs_revision,僅算作一個字詞和一個數位。,[high] terminology: None
+81,"00:03:59,570 --> 00:04:01,190","Also, when writing dates,",此外，在書寫日期時,100,ok,,
+82,"00:04:01,190 --> 00:04:03,590",you should always capitalize the month.,，你應始終將月份首字母大寫。,80,minor_issues,,[medium] terminology: None
+83,"00:04:03,830 --> 00:04:07,250","Write April with a big A, never a small a.",April 的 A 要大寫，絕不能小寫。,100,ok,,
+84,"00:04:10,000 --> 00:04:11,600",4. Time,4. 時間,100,ok,,
+85,"00:04:11,990 --> 00:04:13,800",You can use either a colon or,你可以使用冒號或,100,ok,,
+86,"00:04:13,800 --> 00:04:16,279",a full stop to separate hours and minutes.,句號，用於分隔時與分。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+87,"00:04:16,279 --> 00:04:19,000",7:00 can be 7.00,7:00 可以寫成 7.00,100,ok,,
+88,"00:04:19,000 --> 00:04:20,480",or 7 o'clock.,或 7 o'clock。,87,minor_issues,或 7點。,[low] language_mix: None
+89,"00:04:21,260 --> 00:04:25,420","Also, if the recording mentions a.m or p.m like this,",此外，如果錄音提到像這樣的 a.m 或 p.m,100,ok,,
+90,"00:04:25,420 --> 00:04:27,360",you must not include a.m,，則不應包含 a.m,100,ok,,
+91,"00:04:27,360 --> 00:04:29,820",because it is already mentioned in the question.,因為題目已提及。,45,needs_revision,,[high] meaning_drift: None
+92,"00:04:32,190 --> 00:04:35,490","Finally, we should not forget our friend, distractors.",最後，我們不應該忘記我們的「朋友」——干擾選項。,100,ok,,
+93,"00:04:36,250 --> 00:04:38,850","First, the recording might provide a wrong answer",首先，錄音可能會先提供錯誤的答案或,45,needs_revision,首先，錄音可能會給出錯誤的答案,[high] meaning_drift: None
+94,"00:04:38,850 --> 00:04:41,390","or an unselected option first,",一個未選的選項，然後,42,needs_revision,或先選取未選取的選項,[low] style: None; [high] meaning_drift: None
+95,"00:04:41,390 --> 00:04:43,190",then the correct one after.,再提供正確的答案。,35,needs_revision,接著才是正確的答案。,[medium] terminology: None; [high] meaning_drift: None
+96,"00:04:43,390 --> 00:04:46,540","In this case, all you need is to listen closely.",在這種情況下，你只需要仔細聆聽。,77,minor_issues,在這種情況下，你只需要仔細聽。,[medium] terminology: None; [low] style: None
+97,"00:04:47,390 --> 00:04:50,990","Second, the recording might provide a seemingly right answer,",其次，錄音可能會提供一個看似正確的答,35,needs_revision,其次，錄音可能會提供一個看似正確的答案,[medium] terminology: None; [high] meaning_drift: None
+98,"00:04:50,990 --> 00:04:53,510",but then the speaker corrects it by themselves.,案，但隨後講者會自行糾正。,36,needs_revision,不過，但隨後說話者會自己糾正。,[low] style: None; [high] meaning_drift: None; [low] register: None; [low] style: None
+99,"00:04:54,290 --> 00:04:55,610",This one is a bit trickier.,這部分比較棘手。,100,ok,,
+100,"00:04:56,230 --> 00:04:59,090","For example, one could say, My phone number",例如，有人會說，My phone number,30,needs_revision,例如，有人會說，My 電話號碼,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+101,"00:04:59,090 --> 00:05:05,910","is 01234990 and then correct it by saying,",是 01234990 然後更正它說,74,minor_issues,是 01234990 然後更正說,[low] style: None; [medium] terminology: None; [low] style: None
+102,"00:05:06,430 --> 00:05:08,990","My mistake, the last two numbers are 09,",我的錯，最後兩個數字是 09，不是,30,needs_revision,我的錯，最後兩個數位是 09，。,[high] terminology: None; [high] meaning_drift: None
+103,"00:05:09,570 --> 00:05:10,630",not 90.,90。,45,needs_revision,不是 90。,[high] meaning_drift: None
+104,"00:05:11,510 --> 00:05:14,070","Here, you need to correct the number by yourself.",這裡需要由你自行修正數字。,35,needs_revision,這裡需要由你自行修正數位。,[high] terminology: None; [medium] terminology: None
+105,"00:05:18,380 --> 00:05:20,720","Now, let's move to the second part.",現在，我們進入第二部分。,80,minor_issues,,[medium] terminology: None
+106,"00:05:20,990 --> 00:05:22,790",Listening to numbers and letters.,聽寫數字與英文字母。,45,needs_revision,聽寫數位與英文字母。,[high] terminology: None
+107,"00:05:23,620 --> 00:05:27,620","Number combinations like postal codes, license plates, emails,",郵遞區號、車牌、電子信箱以及房間或門牌號碼等,100,ok,,
+108,"00:05:28,000 --> 00:05:31,700",and room or house numbers often mix digits and letters.,數字組合，通常會混合使用數字與英文字母。,30,needs_revision,房號或門牌號碼常會混用數字和英文字母。,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+109,"00:05:32,520 --> 00:05:34,380",The golden rule here is accuracy.,這裡的原則是準確性。,80,minor_issues,,[medium] terminology: None
+110,"00:05:35,160 --> 00:05:37,380",Do not add hyphens or spaces,請勿添加連字號或空格,45,needs_revision,請勿新增連字號或空格,[high] terminology: None
+111,"00:05:37,380 --> 00:05:38,920",unless you clearly hear them.,除非你聽得清楚。,100,ok,,
+112,"00:05:39,340 --> 00:05:41,840","If you have mastered listening to numbers only,",如果你已經精通只聽數字的部分，,42,needs_revision,如果你已經精通只聽數位的部分，,[high] terminology: None; [low] style: None
+113,"00:05:42,320 --> 00:05:44,220",this part is not challenging at all.,這部分根本一點也不難。,77,minor_issues,,[low] style: None; [medium] terminology: None
+114,"00:05:44,220 --> 00:05:47,460","However, please be cautious of letters that sound",不過，請小心那些聽起來與數字,30,needs_revision,不過，請小心那些聽起來與數位,[high] terminology: None; [high] meaning_drift: None
+115,"00:05:47,460 --> 00:05:50,040",very similar to numbers or to other letters.,或其他字母非常相似的字母。,45,needs_revision,與其他數字或其他字母非常相似的字母。,[high] meaning_drift: None
+116,"00:05:50,820 --> 00:05:52,160",Watch out for these pairs.,請注意以下這組。,100,ok,,
+117,"00:05:52,160 --> 00:05:55,160","8, H and A","8, H 和 A",100,ok,,
+118,"00:05:55,160 --> 00:05:58,160","E and I, B and P",E 和 I，B 和 P,100,ok,,
+119,"00:05:58,790 --> 00:06:02,390","T and D, G and J",T 和 D，G 和 J,100,ok,,
+120,"00:06:02,390 --> 00:06:04,060",M and N,M 和 N,100,ok,,
+121,"00:06:04,190 --> 00:06:05,390",S and X,S 和 X,100,ok,,
+122,"00:06:05,990 --> 00:06:08,820","Also, be careful with numbers that sound alike,",此外，要留意發音相似的數字，特別是「,45,needs_revision,此外，要留意發音相似的數位，特別是「,[high] terminology: None
+123,"00:06:08,990 --> 00:06:13,540","specifically the ""-teen"" versus the ""-ty"", such as",-teen」與「-ty」的區別，例如：,77,minor_issues,,[medium] terminology: None; [low] script: None
+124,"00:06:13,540 --> 00:06:16,140",15 versus 50.,15 和 50 的區別。,100,ok,,
+125,"00:06:16,920 --> 00:06:19,720","But don't worry, we have already prepared many",不過別擔心，我們已經準備好了許多,100,ok,,
+126,"00:06:19,720 --> 00:06:22,380",listening practice questions for you after this lesson,本課後的聽力練習題，幫助,32,needs_revision,本課後的聽力練習題,[medium] terminology: None; [high] meaning_drift: None; [low] style: None
+127,"00:06:22,380 --> 00:06:24,620",to help you master these distinctions.,你掌握這些區別。,45,needs_revision,幫助你掌握這些區別。,[high] meaning_drift: None
+128,"00:06:25,020 --> 00:06:26,300",That's it for today's lesson.,今天的課程到此結束。,80,minor_issues,,[medium] terminology: None
+129,"00:06:26,600 --> 00:06:29,240",Don't forget to do the exercises and practice,別忘了完成練習，並定期,77,minor_issues,,[medium] terminology: None; [low] style: None
+130,"00:06:29,240 --> 00:06:30,740",what you've learned regularly.,複習所學內容。,80,minor_issues,,[medium] terminology: None
+131,"00:06:31,240 --> 00:06:33,180",Goodbye and see you in the next lesson.,再見，下一堂課見。,100,ok,,

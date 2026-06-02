@@ -1,0 +1,190 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:05,630 --> 00:00:15,239","Hey guys, welcome back to IELTS listening course.",大家好，歡迎回到 IELTS 聽力課程。,100,ok,,
+2,"00:00:15,720 --> 00:00:21,980","Today we'll learn about short answer questions, which is a common question type in the IELTS listening test.",今天我們將學習簡答題，這是 IELTS 聽力測驗中常見的題型。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+3,"00:00:22,500 --> 00:00:29,680",This question type isn't too tricky and candidates can usually do well if they have an effective strategy.,這類題型並不難，考生通常只要策略得當，就能取得好成績。,80,minor_issues,,[medium] terminology: None
+4,"00:00:30,320 --> 00:00:36,000","So, what do we need to know about this question type, and how can we answer it?",那麼，關於這類題型我們需要了解什麼？又該如何作答呢？,45,needs_revision,那麼，關於這類題型我們需要瞭解什麼？又該如何作答呢？,[high] terminology: None
+5,"00:00:36,560 --> 00:00:38,160",Let's get into the lesson now.,現在開始上課。,100,ok,,
+6,"00:00:38,780 --> 00:00:41,000",Today's lesson is divided into three parts.,今天的課程分為三個部分。,100,ok,,
+7,"00:00:41,600 --> 00:00:44,920","Part one, general introduction to short answer questions.",第一部分，簡答題的一般介紹。,100,ok,,
+8,"00:00:45,580 --> 00:00:49,160","Part two, strategy or steps to handle the question type.",第二部分，處理題型的策略或步驟。,100,ok,,
+9,"00:00:49,560 --> 00:00:51,960","And part three, practice and explanation.",第三部分，練習與解說。,100,ok,,
+10,"00:00:52,840 --> 00:00:57,080","Let's come to the first part, general introduction to short answer questions.",我們進入第一部分，簡答題的一般介紹。,100,ok,,
+11,"00:01:01,600 --> 00:01:06,730","In the short answer question type, candidates are required to write a short answer",在簡答題題型中，考生需根據錄音內容，,45,needs_revision,在簡答題中，考生需撰寫簡短答案,[high] meaning_drift: None
+12,"00:01:06,730 --> 00:01:10,260",for each question using information from the recording.,為每道題目撰寫簡短答案。,30,needs_revision,使用錄音中的資訊回答每道題目。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+13,"00:01:11,560 --> 00:01:15,600","Candidates will not be given options in advance to choose, but they",考生不會事先獲得選項以供選擇，而是,80,minor_issues,,[medium] terminology: None
+14,"00:01:15,600 --> 00:01:20,560",have to listen carefully and find the correct information to write down the answer they hear.,必須仔細聆聽，並找出正確資訊以寫下所聽到的答案。,80,minor_issues,,[medium] terminology: None
+15,"00:01:21,100 --> 00:01:27,260",This question type isn't too tricky because the question is in the same order as the information in the recording.,這類題型並不算太棘手，因為題目的順序與錄音中的資訊順序一致。,80,minor_issues,,[medium] terminology: None
+16,"00:01:27,260 --> 00:01:31,160","In addition, the answer are the words that appear in the recording.",此外，答案就是錄音中出現的詞彙。,100,ok,,
+17,"00:01:31,800 --> 00:01:35,420","So, candidates need to write the exact words they hear.",因此，考生必須寫下他們聽到的確切字詞。,80,minor_issues,,[medium] terminology: None
+18,"00:01:36,080 --> 00:01:37,780","Alright, ready to ace these questions?",好了，準備好輕鬆搞定這些題目了嗎？,80,minor_issues,,[medium] terminology: None
+19,"00:01:38,380 --> 00:01:40,660",Let's handle it with an effective strategy.,讓我們用有效的策略來應對。,100,ok,,
+20,"00:01:41,480 --> 00:01:45,420","Let's come to the second part, strategy or steps to handle the question type.",接下來進入第二部分，處理題型的策略或步驟。,100,ok,,
+21,"00:01:49,180 --> 00:01:52,380","For this type of question, here is what we're going to do.",針對這類題目，我們將採取以下做法。,80,minor_issues,,[medium] terminology: None
+22,"00:01:52,820 --> 00:01:56,860","Step one, read the instructions carefully and note the word limit.",第一步，仔細閱讀說明並注意字數限制。,100,ok,,
+23,"00:01:57,430 --> 00:02:03,900",This question requires us to write no more than two words and or a number for each answer.,此題要求每個答案填寫不超過兩個字詞或一個數字。,45,needs_revision,此題要求每個答案填寫不超過兩個字詞或一個數位。,[high] terminology: None
+24,"00:02:04,540 --> 00:02:10,520","This means you can write one word, two words, or a number combined with up to two words.",這表示您可以填寫一個字詞、兩個字詞，或一個數字搭配最多兩個字詞。,35,needs_revision,這表示您可以填寫一個字詞、兩個字詞，或一個數位搭配最多兩個字詞。,[high] terminology: None; [medium] terminology: None
+25,"00:02:11,100 --> 00:02:17,200","However, if you write three words, your answer will be marked wrong, even if the information is correct.",然而，如果您填寫三個字詞，即使資訊正確，您的答案仍會被標記為錯誤。,84,minor_issues,,[low] style: None; [low] style: None
+26,"00:02:17,720 --> 00:02:21,000","Step two, read the questions and underline keywords.",第二步，閱讀題目並劃出關鍵字。,100,ok,,
+27,"00:02:21,680 --> 00:02:26,200",You should note that the questions are in the same order as the information in the recording.,請注意，題目的順序與錄音中的資訊順序相同。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+28,"00:02:27,120 --> 00:02:32,600","This means you will hear the answer to question one first, then to question two, and so on.",這表示您將先聽到第一題的答案，接著是第二題，以此類推。,100,ok,,
+29,"00:02:32,940 --> 00:02:37,740","In today's listening test, we have a total of four questions with the following keywords.",在今天的聽力測驗中，我們總共有四道題目，以下為相關的關鍵字。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+30,"00:02:38,500 --> 00:02:44,380","Question one, the keywords are which city, exchange program, and organized.",第一題，關鍵字為哪座城市、交換學生計畫以及有組織的。,100,ok,,
+31,"00:02:45,140 --> 00:02:49,700","For this question, we have to find the specific location where the event took place.",這道題目要求我們找出活動舉辦的確切地點。,80,minor_issues,,[medium] terminology: None
+32,"00:02:50,280 --> 00:02:55,740","Question two, the keywords are what, most enjoyable, and activity.",第二題，關鍵字為何、最愉快以及活動。,100,ok,,
+33,"00:02:56,380 --> 00:02:57,260",Be careful here.,這裡請小心。,100,ok,,
+34,"00:02:57,760 --> 00:03:01,200","The speaker might mention several activities, but we need to listen for",講者可能會提到多項活動，但我們需要專注聆聽，,87,minor_issues,,[low] style: None
+35,"00:03:01,200 --> 00:03:04,440",the one described as the most enjoyable or the favorite.,找出被描述為最愉快或最喜愛的活動。,80,minor_issues,,[medium] terminology: None
+36,"00:03:05,020 --> 00:03:09,220","Question three, the keywords are what topic and report.",第三題，關鍵字為何、topic 以及 report。,80,minor_issues,,[medium] terminology: None
+37,"00:03:10,000 --> 00:03:13,680",We need to identify the specific subject matter of the report mentioned.,我們需要找出該 report 的具體主題。,70,minor_issues,我們需要找出該 報告 的具體主題。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None
+38,"00:03:14,160 --> 00:03:18,460","Question four, the keywords are when and last day.",第四題，關鍵字為何、last day。,80,minor_issues,第四題，關鍵字為何、最後一天。,[medium] terminology: None
+39,"00:03:19,000 --> 00:03:23,180",We need to find the specific point in time that marks the end of the program.,我們需要找出標示課程結束的具體時間點。,100,ok,,
+40,"00:03:23,880 --> 00:03:25,680","Step three, predict the answer.",第三步，預測答案。,100,ok,,
+41,"00:03:26,400 --> 00:03:29,980","Normally, we'll take step one and step two at the same time.",通常我們會同時進行第一步和第二步。,100,ok,,
+42,"00:03:30,740 --> 00:03:35,200","This means that when we find a question's keywords, we'll also predict its answer.",這表示當我們找到題目的關鍵字時，也會預測其答案。,87,minor_issues,,[low] style: None
+43,"00:03:35,680 --> 00:03:43,080","Question one, the question asks in which city, so the answer must be a proper noun, a name of a city.",第一題，問題詢問的是哪個城市，因此答案必須是專有名詞，即城市名稱。,100,ok,,
+44,"00:03:43,500 --> 00:03:48,700","Question two, the question asks what activity, so the answer will likely",第二題，問題詢問的是哪項活動，因此答案很可能是,100,ok,,
+45,"00:03:48,700 --> 00:03:51,660",be a noun phrase describing an action or event.,一個描述動作或活動的名詞片語。,100,ok,,
+46,"00:03:52,220 --> 00:03:55,280","For example, sightseeing or playing football.",例如觀光或踢足球。,100,ok,,
+47,"00:03:55,860 --> 00:04:00,860","Question three, the question asks what topic, so the answer will be",第三題，問題詢問的是哪個主題，因此答案必,45,needs_revision,第三題，問題詢問的是哪個主題，因此答案應該是,[high] meaning_drift: None
+48,"00:04:00,860 --> 00:04:05,380",a noun or noun phrase related to an academic or professional subject.,須是與學術或專業領域相關的名詞或名詞片語。,80,minor_issues,,[medium] terminology: None
+49,"00:04:05,820 --> 00:04:11,500","Question four, the question asks when, and specifically about the last day,",第四題，問題詢問的是時間，並特別指出是最后一天，因此,77,minor_issues,第四題，問題詢問的是時間，並特別指出是最後一天，因此,[medium] terminology: None; [low] script: None
+50,"00:04:12,040 --> 00:04:17,380","so the answer will be a date, for example, Monday or July 15th.",答案將是一個日期，例如星期一或七月十五日。,45,needs_revision,,[high] placeholder: None
+51,"00:04:17,440 --> 00:04:20,940","Step four, listen to the recording and write down the answer.",第四步，聆聽錄音並寫下答案。,100,ok,,
+52,"00:04:21,680 --> 00:04:26,020","For this question type, it's important to apply note-taking skills while listening.",針對此題型，聆聽時應用筆記技巧非常重要。,80,minor_issues,,[medium] terminology: None
+53,"00:04:26,800 --> 00:04:30,560",This ensures we get all the necessary information for all questions.,這能確保我們獲得所有題目所需的全部資訊。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+54,"00:04:31,240 --> 00:04:35,880",The key to effective note-taking is to try not to write down everything you hear.,有效的筆記技巧在於盡量不要寫下所聽到的每一件事。,100,ok,,
+55,"00:04:36,560 --> 00:04:40,600","Remember that in the IELTS listening test, the recordings are played once",請記住，在雅思聽力測驗中，錄音僅播放一次。,80,minor_issues,,[medium] terminology: None
+56,"00:04:40,600 --> 00:04:46,900","only, so we only write down the keywords that are often nouns, verbs, or adjectives.",因此，我們只寫下通常是名詞、動詞或形容詞的關鍵字。,100,ok,,
+57,"00:04:47,460 --> 00:04:52,280","Besides, we can also write numbers that refer to dates, times, or quantities.",此外，我們也可以寫下代表日期、時間或數量的數字。,42,needs_revision,此外，我們也可以寫下代表日期、時間或數量的數位。,[high] terminology: None; [low] style: None
+58,"00:04:53,260 --> 00:04:56,080",Let's listen to the recording and answer the questions.,讓我們聆聽錄音並回答問題。,87,minor_issues,,[low] style: None
+59,"00:04:58,100 --> 00:04:59,920","Hey Lucas, how's it going?",嘿，Lucas，最近過得怎樣？,100,ok,,
+60,"00:05:00,300 --> 00:05:02,380",I haven't seen you for so long.,好久不見。,45,needs_revision,,[high] meaning_drift: None
+61,"00:05:02,760 --> 00:05:04,820","Yeah, I've been quite busy lately.",是啊，我最近很忙。,100,ok,,
+62,"00:05:05,340 --> 00:05:09,560","Last time I heard, my mom said you went on a cultural exchange program.",我上次聽到的消息，是我媽說你去參加文化交流計畫。,45,needs_revision,我上次聽到的訊息，是我媽說你去參加文化交流計畫。,[high] terminology: None
+63,"00:05:09,980 --> 00:05:10,980",What was that like?,感覺如何？,100,ok,,
+64,"00:05:11,200 --> 00:05:11,940",Where was it organized?,它是在哪裡舉辦的？,100,ok,,
+65,"00:05:12,460 --> 00:05:14,920",It was a bit of a roller coaster getting there.,去那裡的過程有點像坐雲霄飛輪，起伏不定。,100,ok,,
+66,"00:05:15,380 --> 00:05:19,220","Initially, I applied for a spot in Manchester because I like the football team.",起初，我申請了曼徹斯特的名額，因為我喜歡那裡的足球隊。,87,minor_issues,,[low] style: None
+67,"00:05:19,760 --> 00:05:21,840","Oh, Manchester's a great city.",哦，曼徹斯特是一座很棒的城市。,87,minor_issues,,[low] style: None
+68,"00:05:22,200 --> 00:05:28,120","It is, but then I found another program that was nearer to where my aunt lived, which suited me better.",確實如此，不過後來我找到另一個離我阿姨住的地方比較近的程式，更適合我。,100,ok,,
+69,"00:05:28,540 --> 00:05:31,300",I asked the organizers if I could change the location.,我詢問主辦單位是否可以更改地點。,100,ok,,
+70,"00:05:31,920 --> 00:05:37,340","It took them a while, but my request was approved at the very last minute, so I ended up in London.",他們花了一些時間，但我的請求在最後一刻獲得了批准，所以我最後去了倫敦。,80,minor_issues,,[medium] terminology: None
+71,"00:05:37,880 --> 00:05:39,700","Wow, that sounds exciting.",哇，聽起來很令人興奮。,100,ok,,
+72,"00:05:40,060 --> 00:05:41,800",Did you get to do a lot of sightseeing?,你有去參觀很多景點嗎？,100,ok,,
+73,"00:05:42,260 --> 00:05:43,680","We did, but you know what?",有啊，但你知道嗎？,100,ok,,
+74,"00:05:43,880 --> 00:05:45,780",The best part wasn't the city tours.,最棒的部分不是城市導覽。,100,ok,,
+75,"00:05:46,160 --> 00:05:46,620",Really?,真的嗎？,100,ok,,
+76,"00:05:46,880 --> 00:05:48,960",What was the most enjoyable activity then?,那麼，最有趣的活動是什麼？,45,needs_revision,那麼，最愉快的活動是什麼？,[high] meaning_drift: None
+77,"00:05:49,340 --> 00:05:53,940","Well, the school organized a weekend trip away from the city to the national park.",學校舉辦了週末校外教學，前往國家公園。,80,minor_issues,,[medium] terminology: None
+78,"00:05:54,220 --> 00:05:55,380",We went mountain hiking.,我們去登山了。,100,ok,,
+79,"00:05:55,640 --> 00:05:56,620",Mountain hiking?,登山？,100,ok,,
+80,"00:05:56,900 --> 00:05:59,060",I didn't know you were the outdoorsy type.,我不知道你是喜歡戶外活動的那種人。,100,ok,,
+81,"00:05:59,340 --> 00:06:02,960","I'm not usually, but the view from the summit was incredible.",我平常不會這樣，但從山頂看到的景色令人驚嘆。,100,ok,,
+82,"00:06:03,360 --> 00:06:05,220",It was definitely the highlight of the trip.,這絕對是這次旅行的亮點。,100,ok,,
+83,"00:06:05,520 --> 00:06:09,240","That sounds lovely, but I assume you had to do some work too.",聽起來很不錯，不過我想你肯定也花了不少心思。,42,needs_revision,聽起來很不錯，不過我想你肯定也做了些工作。,[low] style: None; [high] meaning_drift: None
+84,"00:06:09,240 --> 00:06:10,600",Did you have to write a report?,你必須寫報告嗎？,80,minor_issues,,[medium] terminology: None
+85,"00:06:11,180 --> 00:06:13,340","Yes, we had to submit a final project.",是的，我們必須提交期末專題。,80,minor_issues,,[medium] terminology: None
+86,"00:06:13,800 --> 00:06:15,480",What topic was the report about?,報告的主題是什麼？,100,ok,,
+87,"00:06:15,840 --> 00:06:19,540","Well, at first I thought of writing about English literature, since we",嗯，一開始我想寫關於 English literatur,70,minor_issues,嗯，一開始我想寫關於 English literature,[medium] terminology: None; [medium] terminology: None; [low] typo: None
+88,"00:06:19,540 --> 00:06:26,200","visited so many museums, but eventually I wanted to do something more practical, so I wrote about architecture.",e 的內容，因為我們參觀了許多博物館，但最後我想做點更實際的東西，所以我寫了關於建築。,30,needs_revision,我，因為我們參觀了許多博物館，但最後我想做點更實際的東西，所以我寫了關於建築。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+89,"00:06:26,860 --> 00:06:27,420",Architecture?,建築？,100,ok,,
+90,"00:06:27,800 --> 00:06:29,060",That sounds difficult.,聽起來好難。,100,ok,,
+91,"00:06:29,560 --> 00:06:35,020","It was challenging, especially focusing on the mix of modern and old buildings, but I learned a lot.",這很有挑戰性，特別是著重於現代與古老建築的融合，但我學到了很多。,100,ok,,
+92,"00:06:35,400 --> 00:06:36,460",And you're back now.,你回來了。,80,minor_issues,,[medium] terminology: None
+93,"00:06:36,560 --> 00:06:37,340",When did you finish?,你什麼時候完成的？,100,ok,,
+94,"00:06:37,340 --> 00:06:39,040",When was the last day of the program?,課程的最後一天是什麼時候？,100,ok,,
+95,"00:06:39,460 --> 00:06:40,780",I just got back yesterday.,我昨天才剛回來。,80,minor_issues,,[medium] terminology: None
+96,"00:06:41,460 --> 00:06:44,680","The program was supposed to finish earlier on the 12th of June,",這個課程原本預計在6月12日結束，但我們,42,needs_revision,這個程式原本預計在6月12日結束，。,[low] terminology: None; [high] meaning_drift: None
+97,"00:06:44,840 --> 00:06:49,220","but we had a farewell ceremony, so the last day was the 14th of June.",舉辦了告別儀式，所以最後一天是6月14日。,100,ok,,
+98,"00:06:49,460 --> 00:06:51,160","Well, I'm glad you're back safe.",太好了，你平安回來就好。,80,minor_issues,,[medium] terminology: None
+99,"00:06:54,940 --> 00:06:56,100",Did you get all of them?,你都拿到了嗎？,80,minor_issues,,[medium] terminology: None
+100,"00:06:57,040 --> 00:07:01,500",Let's listen again with the transcript to make sure all your answers are correct.,讓我們再次聆聽逐字稿，以確保您的所有答案都正確無誤。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+101,"00:07:02,980 --> 00:07:04,480","Hey Lucas, how's it going?",嘿，Lucas，最近好嗎？,100,ok,,
+102,"00:07:04,780 --> 00:07:06,900",I haven't seen you for so long.,好久不見了。,45,needs_revision,,[high] meaning_drift: None
+103,"00:07:07,380 --> 00:07:09,300","Yeah, I've been quite busy lately.",是啊，我最近很忙。,100,ok,,
+104,"00:07:09,300 --> 00:07:14,080","Last time I heard, my mom said you went on a cultural exchange program.",上次我聽我媽說，你去參加文化交流計畫了。,100,ok,,
+105,"00:07:14,580 --> 00:07:15,520",What was that like?,那樣的感覺如何？,100,ok,,
+106,"00:07:15,720 --> 00:07:16,500",Where was it organized?,它是怎麼舉辦的？,45,needs_revision,它在哪裡舉辦的？,[high] meaning_drift: None
+107,"00:07:17,120 --> 00:07:19,440",It was a bit of a rollercoaster getting there.,去那裡的過程有點像坐雲霄飛輪，起伏不定。,100,ok,,
+108,"00:07:19,840 --> 00:07:23,760","Initially, I applied for a spot in Manchester because I like the football team.",起初，我申請了曼徹斯特的一個名額，因為我喜歡那裡的足球隊。,87,minor_issues,,[low] style: None
+109,"00:07:24,280 --> 00:07:26,360","Oh, Manchester's a great city.",哦，曼徹斯特是個很棒的 city。,84,minor_issues,哦，曼徹斯特是個很棒的 城市。,[low] style: None; [low] collocation: None
+110,"00:07:26,740 --> 00:07:27,300",It is.,是的。,100,ok,,
+111,"00:07:27,800 --> 00:07:32,680","But then I found another program that was nearer to where my aunt lived, which suited me better.",後來我找到另一個程式，離我阿姨住的地方比較近，對我來說更合適。,100,ok,,
+112,"00:07:33,120 --> 00:07:35,840",I asked the organizers if I could change the location.,我詢問主辦單位是否可以更改地點。,100,ok,,
+113,"00:07:35,840 --> 00:07:41,900","It took them a while, but my request was approved at the very last minute, so I ended up in London.",他們花了一段時間，但我的請求在最後一刻才獲得批准，所以我最後到了倫敦。,100,ok,,
+114,"00:07:42,400 --> 00:07:44,220","Wow, that sounds exciting.",哇，那聽起來很令人興奮。,100,ok,,
+115,"00:07:44,720 --> 00:07:46,320",Did you get to do a lot of sightseeing?,你有去很多地方觀光嗎？,100,ok,,
+116,"00:07:46,780 --> 00:07:48,220","We did, but you know what?",有啊，但你知道嗎？,100,ok,,
+117,"00:07:48,360 --> 00:07:50,300",The best part wasn't the city tours.,最棒的部分不是城市導覽。,100,ok,,
+118,"00:07:50,720 --> 00:07:51,160",Really?,真的嗎？,100,ok,,
+119,"00:07:51,420 --> 00:07:53,500",What was the most enjoyable activity then?,那麼最有趣的活動是什麼？,100,ok,,
+120,"00:07:53,920 --> 00:07:58,480","Well, the school organized a weekend trip away from the city to the national park.",學校安排了一個週末的校外旅行，離開城市前往國家公園。,80,minor_issues,,[medium] terminology: None
+121,"00:07:58,760 --> 00:07:59,920",We went mountain hiking.,我們去登山了。,100,ok,,
+122,"00:08:00,200 --> 00:08:01,160",Mountain hiking?,登山？,100,ok,,
+123,"00:08:01,440 --> 00:08:03,580",I didn't know you were the outdoorsy type.,我沒想到你是個喜歡戶外活動的人。,100,ok,,
+124,"00:08:03,580 --> 00:08:07,560","I'm not usually, but the view from the summit was incredible.",我平常不會這樣，但從山頂看到的景色令人驚嘆。,100,ok,,
+125,"00:08:07,940 --> 00:08:09,780",It was definitely the highlight of the trip.,那絕對是這趟旅程的亮點。,80,minor_issues,,[medium] terminology: None
+126,"00:08:10,160 --> 00:08:11,100",That sounds lovely.,聽起來很棒。,100,ok,,
+127,"00:08:11,680 --> 00:08:13,800","But I assume you had to do some work, too.",但我猜你也得做一些功課。,42,needs_revision,但我猜你也得做一些工作。,[low] style: None; [high] meaning_drift: None
+128,"00:08:14,040 --> 00:08:15,100",Did you have to write a report?,你必須寫一份報告嗎？,80,minor_issues,,[medium] terminology: None
+129,"00:08:15,620 --> 00:08:17,860","Yes, we had to submit a final project.",是的，我們必須提交期末專題。,80,minor_issues,,[medium] terminology: None
+130,"00:08:18,220 --> 00:08:20,020",What topic was the report about?,報告的主題是什麼？,100,ok,,
+131,"00:08:20,380 --> 00:08:25,420","Well, at first I thought of writing about English literature, since we visited so many museums.",嗯，起初我想寫關於英國文學，因為我們參觀了好多博物館。,100,ok,,
+132,"00:08:26,020 --> 00:08:30,720","But eventually I wanted to do something more practical, so I wrote about architecture.",但最後我想做些更實際的事，所以我寫了關於建築的文章。,80,minor_issues,,[medium] terminology: None
+133,"00:08:31,460 --> 00:08:32,260",Architecture?,建築？,100,ok,,
+134,"00:08:32,400 --> 00:08:33,640",That sounds difficult.,聽起來很難。,100,ok,,
+135,"00:08:34,159 --> 00:08:37,980","It was challenging, especially focusing on the mix of modern and old",這很有挑戰性，特別是著重於現代與傳統的結合。,100,ok,,
+136,"00:08:37,980 --> 00:08:39,580","buildings, but I learned a lot.",建築物，但我學到了很多。,100,ok,,
+137,"00:08:39,940 --> 00:08:41,000",And you're back now.,你回來了。,80,minor_issues,,[medium] terminology: None
+138,"00:08:41,120 --> 00:08:42,020",When did you finish?,你什麼時候完成的？,100,ok,,
+139,"00:08:42,179 --> 00:08:43,540",When was the last day of the program?,課程的最後一天是什麼時候？,100,ok,,
+140,"00:08:43,880 --> 00:08:45,320",I just got back yesterday.,我昨天剛回來。,80,minor_issues,,[medium] terminology: None
+141,"00:08:45,980 --> 00:08:49,220","The program was supposed to finish earlier on the 12th of June,",該課程原訂於6月12日結束，但我們舉行,87,minor_issues,該計畫原訂於6月12日結束，但我們舉行,[low] terminology: None
+142,"00:08:49,300 --> 00:08:53,760","but we had a farewell ceremony, so the last day was the 14th of June.",了一場告別儀式，因此最後一天是6月14日。,45,needs_revision,我們舉辦了一場告別儀式，因此最後一天是6月14日。,[high] meaning_drift: None
+143,"00:08:54,020 --> 00:08:55,700","Well, I'm glad you're back safe.",嗯，很高興你平安回來。,80,minor_issues,,[medium] terminology: None
+144,"00:08:59,880 --> 00:09:03,880",Question 1. In which city was the exchange program organized?,問題 1：該交換學生計畫是在哪個城市舉辦的？,100,ok,,
+145,"00:09:04,620 --> 00:09:08,700","At the beginning of the conversation, Lucas mentions applying for a spot",對話一開始，Lucas 提到要申請一個名額。,100,ok,,
+146,"00:09:08,700 --> 00:09:11,480",in Manchester because he likes the football team.,在曼徹斯特，因為他喜歡那支足球隊。,87,minor_issues,,[low] style: None
+147,"00:09:12,160 --> 00:09:17,380","However, he then explains that he asked to change the location to be nearer to his aunt.",然而，他隨後解釋說，他要求將地點改為離他的阿姨更近的地方。,77,minor_issues,,[low] style: None; [medium] terminology: None
+148,"00:09:18,060 --> 00:09:22,060","He confirms that his request was approved, and he ended up in London.",他確認他的申請已獲批准，最後去了倫敦。,100,ok,,
+149,"00:09:22,700 --> 00:09:25,320",So Manchester is just a distractor.,所以曼徹斯特只是個干擾項。,87,minor_issues,,[low] style: None
+150,"00:09:25,900 --> 00:09:27,360",The correct answer is London.,正確答案是倫敦。,100,ok,,
+151,"00:09:27,980 --> 00:09:32,380","Remember, as this is a proper noun, you must capitalize the first letter.",記住，因為這是專有名詞，你必須將首字母大寫。,80,minor_issues,,[medium] terminology: None
+152,"00:09:32,800 --> 00:09:37,940",The answer London in lowercase is not accepted due to this grammatical error.,由於這項文法錯誤，小寫的 London 答案將不被接受。,80,minor_issues,,[medium] terminology: None
+153,"00:09:39,080 --> 00:09:42,860",Question 2. What was the most enjoyable activity of the program?,Question 2. 該課程中最令人愉快的活動是什麼？,80,minor_issues,,[medium] terminology: None
+154,"00:09:43,680 --> 00:09:50,540","Anna asks if Lucas did a lot of sightseeing, but Lucas explicitly says the best part wasn't the city tours.",Anna 問 Lucas 是否有進行大量的觀光活動，但 Lucas 明確表示，最精彩的部分並非城市導覽。,100,ok,,
+155,"00:09:51,300 --> 00:09:55,440",He then describes a weekend trip where they went mountain hiking and,接著他描述了一次週末旅行，他們去登山健行，並且,77,minor_issues,,[low] style: None; [medium] terminology: None
+156,"00:09:55,440 --> 00:09:57,560",calls it the highlight of the trip.,稱之為此次旅行的精華。,77,minor_issues,,[low] style: None; [medium] terminology: None
+157,"00:09:58,180 --> 00:10:02,980","Since the question asks for the most enjoyable activity, matching keywords like",由於題目要求找出最令人愉快的活動，因此需匹配關鍵字如 best part 或 hi,45,needs_revision,,[high] meaning_drift: None
+158,"00:10:02,980 --> 00:10:07,420","best part or highlight, the answer is mountain hiking.",ghlight，答案為 mountain hiking。,77,minor_issues,,[medium] terminology: None; [low] style: None
+159,"00:10:08,300 --> 00:10:11,380",Question 3. What topic was the report about?,Question 3. 該簡報的主題為何？,80,minor_issues,,[medium] terminology: None
+160,"00:10:12,100 --> 00:10:14,320",Lucas mentions two potential subjects.,Lucas 提到兩個潛在的主詞。,100,ok,,
+161,"00:10:14,860 --> 00:10:18,580","He says, at first, I thought of writing about English literature.",他說，起初我本想寫關於英國文學的內容。,100,ok,,
+162,"00:10:19,300 --> 00:10:24,040","However, listen for the contrast word but or eventually.",不過，請留意對比詞 but 或 eventually。,100,ok,,
+163,"00:10:24,680 --> 00:10:30,680","He states, eventually, I wanted to do something more practical, so I wrote about architecture.",他表示，最後我希望能做點更實際的事，所以我寫了關於建築的內容。,80,minor_issues,,[medium] terminology: None
+164,"00:10:31,260 --> 00:10:33,780","Therefore, English literature is incorrect.",因此，English literature 是不正確的。,77,minor_issues,因此，英國文學 是不正確的。,[medium] terminology: None; [low] terminology: None
+165,"00:10:34,400 --> 00:10:36,200",The final topic is architecture.,最後的主題是 architecture。,87,minor_issues,最後的主題是 建築。,[low] terminology: None
+166,"00:10:37,600 --> 00:10:40,640",Question 4. When was the last day of the program?,Question 4. 該課程的最後一天是哪一天？,80,minor_issues,,[medium] terminology: None
+167,"00:10:41,220 --> 00:10:42,960",There are two dates mentioned here.,這裡提到了兩個日期。,100,ok,,
+168,"00:10:43,640 --> 00:10:47,440",Lucas says the program was supposed to finish earlier on the 12th,Lucas 表示該課程原訂於 6 月 12,42,needs_revision,Lucas 表示該程式原訂於 12 日,[low] terminology: None; [high] meaning_drift: None
+169,"00:10:47,440 --> 00:10:52,720","of June, but because of the farewell ceremony, the last day was the 14th of June.",日結束，但由於告別儀式，最後一天改在 6 月 14 日。,100,ok,,
+170,"00:10:52,720 --> 00:10:56,580","We need the actual last day, not the scheduled one.",我們需要的是實際的最後一天，而非預定的日期。,100,ok,,
+171,"00:10:57,220 --> 00:10:59,440",A note for the word and number limits here.,此處關於字數與數字限制的備註。,45,needs_revision,此處關於字數與數位限制的備註。,[high] terminology: None
+172,"00:11:00,060 --> 00:11:05,760",The instruction is no more than two words and slash or a number.,指示內容不超過兩個字詞與斜線或數字。,30,needs_revision,指示內容不超過兩個字元或斜線或數位。,[high] terminology: None; [low] terminology: None; [high] meaning_drift: None
+173,"00:11:06,280 --> 00:11:10,020","If you write the 14th of June, it will be marked as",如果您寫下「14th of June」，系統會,30,needs_revision,如果您寫下「6月14日」，系統會將其標記為,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+174,"00:11:10,020 --> 00:11:14,940","incorrect with three words and one number, so you must shorten it to fit the limit.",判定為錯誤（因為包含三個字詞和一個數字），因此您必須縮短內容以符合限制。,35,needs_revision,判定為錯誤（因為包含三個字詞和一個數位），因此您必須縮短內容以符合限制。,[high] terminology: None; [medium] terminology: None
+175,"00:11:15,340 --> 00:11:21,740",The correct answer could be 14th June or 14th June for better clarity.,正確答案可以是 6 月 14 日或 14th June，以獲得更好的清晰度。,84,minor_issues,正確答案可以是 6 月 14 日或 6月14日，以增進清晰度。,[low] style: None; [low] collocation: None
+176,"00:11:23,060 --> 00:11:26,380","So, how many correct answers have you got?",那麼，你答對幾題了？,80,minor_issues,,[medium] terminology: None
+177,"00:11:27,260 --> 00:11:31,040",Short answer questions aren't too tricky because the questions are in the,簡答題並不難，因為題目順序與錄,35,needs_revision,簡答題並不難，因為因為題目在,[medium] terminology: None; [high] meaning_drift: None
+178,"00:11:31,040 --> 00:11:33,800",same order as the information in the recording.,音中的資訊順序相同。,30,needs_revision,與錄音中的資訊順序相同。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+179,"00:11:34,800 --> 00:11:38,920","And the answers are words that appear in the recording, so to",答案為錄音中出現的字詞，因此要在這類,45,needs_revision,答案就是錄音中出現的字詞，所以,[high] meaning_drift: None
+180,"00:11:38,920 --> 00:11:44,140","excel in this question type, keep practicing note-taking skills thoroughly to",題型中取得優異成績，務必徹底練習筆記技巧，以,30,needs_revision,掌握此題型，應徹底練習筆記技巧，以,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] register: None; [low] style: None
+181,"00:11:44,140 --> 00:11:47,080",help you answer the questions more efficiently.,幫助您更有效地回答問題。,100,ok,,
+182,"00:11:48,040 --> 00:11:50,020","Now, let's review what we've learned today.",現在，讓我們複習一下今天所學的內容。,100,ok,,
+183,"00:11:54,800 --> 00:11:57,480",Today's lesson is divided into three parts.,今天的課程分為三個部分。,100,ok,,
+184,"00:11:57,980 --> 00:12:00,960",Part 1. General introduction to short answer questions.,第一部分。簡答題的一般介紹。,45,needs_revision,,[high] placeholder: None
+185,"00:12:01,680 --> 00:12:05,060",Part 2. Strategy or steps to handle the question type.,第二部分。處理題型的策略或步驟。,45,needs_revision,,[high] placeholder: None
+186,"00:12:05,600 --> 00:12:07,980",And part 3. Practice and explanation.,第三部分。練習與說明。,45,needs_revision,,[high] placeholder: None
+187,"00:12:08,990 --> 00:12:10,260",That's it for today's lesson.,今天的課程到此結束。,80,minor_issues,,[medium] terminology: None
+188,"00:12:10,260 --> 00:12:14,240",Don't forget to do the exercises and practice what you've learned regularly.,別忘了做練習，並定期複習所學的內容。,80,minor_issues,,[medium] terminology: None
+189,"00:12:14,800 --> 00:12:16,700",Goodbye and see you in the next lesson.,再見，下一堂課見。,100,ok,,

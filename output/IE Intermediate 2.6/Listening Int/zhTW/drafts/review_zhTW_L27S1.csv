@@ -1,0 +1,120 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:11,760 --> 00:00:15,079","Hey guys, welcome back to our listening course.",大家好，歡迎回到我們的聽力課程。,100,ok,,
+2,"00:00:15,400 --> 00:00:23,900","We have journeyed together through the social conversations of parts 1 and 2, and we've navigated the academic discussions of part 3.",我們已共同走過社交會話的各章節。 第一部分與第二部分，我們已探討完第三部分的學術討論。,30,needs_revision,我們已共同走過第一部分和第二部分的社交對話，並走過了第三部分的學術討論。,[high] placeholder: None; [high] meaning_drift: None; [low] collocation: None
+3,"00:00:24,420 --> 00:00:30,740","But today we arrive at the destination, the final challenge, the IELTS listening part 4.",但今天我們抵達了目的地，也就是最後的挑戰：雅思 聽力第 4 部分。,77,minor_issues,,[low] style: None; [medium] terminology: None
+4,"00:00:31,540 --> 00:00:34,720",So what is waiting for us in this part of the test?,那麼，在這個測驗的這一部分中，有什麼在等著我們呢？,80,minor_issues,,[medium] terminology: None
+5,"00:00:35,100 --> 00:00:37,680",We will find out together in this lesson.,我們將在這堂課中一起發現。,84,minor_issues,我們將在這堂課裡一起了解。,[low] collocation: None; [low] style: None
+6,"00:00:38,260 --> 00:00:40,120",This lesson aims to help you.,本課程旨在協助你。,100,ok,,
+7,"00:00:40,560 --> 00:00:48,760","First, understand the overview of the IELTS listening part four, highlighting exactly how it is different from the previous parts.",首先，請了解 雅思 聽力第四部分的概況，並清楚了解它與前幾個部分有何不同。,35,needs_revision,,[high] terminology: None; [medium] terminology: None
+8,"00:00:49,300 --> 00:00:58,280","Second, learn how to prepare for this part of the test, specifically focusing on the vocabulary and mindset you need to survive.",其次，學習如何為測驗的這個部分做準備，特別是要掌握你能夠勝任所需的詞彙與心態。,100,ok,,
+9,"00:01:02,710 --> 00:01:05,990",I want you to look at the question sheet on the screen right now.,請你現在查看螢幕上的題目卷。,45,needs_revision,請你現在檢視螢幕上的題目卷。,[high] terminology: None
+10,"00:01:06,570 --> 00:01:09,990","Visually, it looks surprisingly friendly, doesn't it?",從視覺上看，它看起來出奇地親切，不是嗎？,100,ok,,
+11,"00:01:10,710 --> 00:01:12,770",It is a note completion task.,這是備註填空題。,80,minor_issues,,[medium] terminology: None
+12,"00:01:13,290 --> 00:01:17,510","It has clear headings, bullet points and simple gaps to fill.",它具有明確的標題、項目符號以及簡單的填空題。,45,needs_revision,它具有明確的標題、專案符號以及簡單的填空題。,[high] terminology: None
+13,"00:01:18,270 --> 00:01:23,390","You might look at this and think, oh, this is great. It looks exactly like part one.",你可能會看著它想說：喔，這太棒了。它看起來跟第一部分一模一樣。,100,ok,,
+14,"00:01:23,810 --> 00:01:26,090",I just need to catch a noun or a number.,我只需要捕捉名詞或數字。,45,needs_revision,我只需要捕捉名詞或數位。,[high] terminology: None
+15,"00:01:26,570 --> 00:01:27,950",Easy. But be careful.,很簡單。但要小心。,100,ok,,
+16,"00:01:28,430 --> 00:01:29,630",This is a trap.,這是個陷阱。,100,ok,,
+17,"00:01:30,390 --> 00:01:33,930","First of all, let's take a look at these two question sets.",首先，讓我們來看看這兩組題目。,80,minor_issues,,[medium] terminology: None
+18,"00:01:34,490 --> 00:01:37,390",One from part one and one from part four.,其中一個來自第一部分，另一個來自第四部分。,100,ok,,
+19,"00:01:38,310 --> 00:01:43,590",I will give you 20 seconds to spot the differences in how the information is presented.,我將給你 20 秒鐘的時間，來找出資訊呈現方式上的差異。,100,ok,,
+20,"00:01:44,110 --> 00:01:45,610",Don't just look at the words.,不要只看文字。,100,ok,,
+21,"00:01:45,930 --> 00:01:47,430",You should look at their structuring.,你應該參考他們的結構安排。,100,ok,,
+22,"00:01:47,830 --> 00:01:48,390",Let's do it.,我們來做吧。,100,ok,,
+23,"00:02:11,570 --> 00:02:13,770","Starting from the top, they look similar.",由上往下觀察，它們看起來很相似。,100,ok,,
+24,"00:02:14,450 --> 00:02:17,190",Both are gap filling tasks with a word limit.,這兩項都是填空題，並有字數限制。,100,ok,,
+25,"00:02:18,070 --> 00:02:22,830","But as we look closer at the content, we can see four drastic changes.",但當我們更仔細地檢視內容時，可以看到四個顯著的變化。,80,minor_issues,,[medium] terminology: None
+26,"00:02:23,710 --> 00:02:25,550","Number one, the format.",第一點，形式。,100,ok,,
+27,"00:02:26,630 --> 00:02:29,190","Look closely at the left side, section one.",請仔細看左側，第一節。,80,minor_issues,,[medium] terminology: None
+28,"00:02:30,030 --> 00:02:36,050","We see fields like applicant name, Sarah, contact phone and preferred team.",我們會看到申請人姓名（Sarah）、聯絡電話和首選團隊等欄位。,100,ok,,
+29,"00:02:37,050 --> 00:02:38,990",When do you see a form like this?,你什麼時候會看到這種形式的表格？,100,ok,,
+30,"00:02:39,810 --> 00:02:45,070","You see it when two people are talking, one person asking and the other answering.",當兩人對話時，一人提問，另一人回答，就會看到這種情況。,100,ok,,
+31,"00:02:45,930 --> 00:02:48,950","From this, we know the general rule for part one.",由此可知，第一部分的一般規則。,100,ok,,
+32,"00:02:49,450 --> 00:02:51,210",It is always a dialogue.,這始終是一段對話。,100,ok,,
+33,"00:02:52,120 --> 00:02:56,250","It relies on turn taking, which gives your brain a moment to process.",它依賴於「turn taking」，這讓你的大腦有片刻時間進行處理。,74,minor_issues,它靠「輪流發言」，這讓你的大腦有片刻時間進行處理。,[medium] terminology: None; [low] terminology: None; [low] style: None
+34,"00:02:57,230 --> 00:02:59,970","Now look at the right side, section four.",現在請看右側，第四部分。,100,ok,,
+35,"00:03:00,710 --> 00:03:02,190",Does this look like a conversation?,這看起來像是一段對話嗎？,100,ok,,
+36,"00:03:03,290 --> 00:03:11,270","No, it has headings like background information, the excavation process and significance of the find.",不，它具有標題，例如背景資訊、挖掘過程以及發現的重要性。,80,minor_issues,,[medium] terminology: None
+37,"00:03:12,070 --> 00:03:16,870",This looks like a page from a textbook or a student's notebook during a class.,這看起來像是課堂上教科書的一頁或學生的筆記本。,80,minor_issues,,[medium] terminology: None
+38,"00:03:17,710 --> 00:03:21,170",This leads us to the format for the IELTS listening part four.,這引導我們進入 雅思 listening 第四部分的形式。,74,minor_issues,這讓我們進入 雅思聽力 第四部分的形式。,[medium] terminology: None; [low] terminology: None; [low] style: None
+39,"00:03:21,850 --> 00:03:22,730",It is a monologue.,這是一個獨白。,100,ok,,
+40,"00:03:23,530 --> 00:03:24,750",There is no Q&A.,沒有問答。,100,ok,,
+41,"00:03:25,370 --> 00:03:32,770","It is just one speaker, usually a professor, delivering a long speech for five to seven minutes without interruption.",只有一位講者，通常是教授，發表一段長達五到七分鐘且沒有任何中斷的長篇演說,78,minor_issues,只有一位說話者，通常是教授，發表一段長達五到七分鐘且中途不打斷的長篇演說,[low] style: None; [low] style: None; [low] style: None; [low] collocation: None
+42,"00:03:33,970 --> 00:03:35,570","Number two, the context.",第二點，上下文。,100,ok,,
+43,"00:03:36,630 --> 00:03:38,330",Look at the vocabulary on the left.,請看左邊的詞彙。,100,ok,,
+44,"00:03:39,010 --> 00:03:42,550","Volunteer, weekends, evenings, festival.",志工，週末，傍晚，節慶。,100,ok,,
+45,"00:03:43,210 --> 00:03:45,650",These are words you use in daily life.,這些是你在日常生活中會使用的單字。,100,ok,,
+46,"00:03:46,210 --> 00:03:49,990",So part one focuses on social survival English.,因此，第一部分專注於社交生存英語。,100,ok,,
+47,"00:03:50,950 --> 00:03:55,590",It tests if you can survive in an English speaking country doing everyday tasks.,這將測驗你是否能在講英語的國家中，透過完成日常任務來生存。,87,minor_issues,這是在測試你在講英語的國家裡，能不能靠日常任務生存下去。,[low] register: None
+48,"00:03:56,570 --> 00:03:59,790",Now contrast that with the vocabulary on the right.,現在請對照右邊的 vocabulary。,87,minor_issues,現在請對照右邊的 單字。,[low] terminology: None
+49,"00:04:00,810 --> 00:04:06,430","Marine archaeology, 17th century, excavation, artefacts.",Marine archaeology、17th century、excavation、artefacts。,33,needs_revision,海洋考古、17世紀、挖掘、文物。,[high] meaning_drift: None; [low] script: None; [low] script: None; [low] script: None; [low] script: None
+50,"00:04:07,090 --> 00:04:09,490",These are not words you use at the supermarket.,這些不是你在 supermarket 會用到的詞。,87,minor_issues,這些不是你在 超市 會用到的詞。,[low] terminology: None
+51,"00:04:10,310 --> 00:04:14,630",These are words you hear in a university lecture hall during a history lesson.,這些是你在歷史課的大教室裡會聽到的詞彙。,100,ok,,
+52,"00:04:15,470 --> 00:04:20,310","Therefore, the language used in part four is strictly academic English.",因此，第四部分使用的語言是嚴格的 academic English。,87,minor_issues,因此，第四部分使用的語言是嚴格的 學術英語。,[low] terminology: None
+53,"00:04:21,270 --> 00:04:26,870","You are expected to understand educational content, even if you are not an expert in that field.",即使你不是該領域的專家，也應具備理解教育內容的能力。,77,minor_issues,,[low] style: None; [medium] terminology: None
+54,"00:04:27,610 --> 00:04:37,310","Some of the most common topics you will face include archaeology, which is simply the study of human history through digging up old sites and artefacts,",你將面臨的最常見主題包括考古學，這只是透過挖掘舊遺址和文物來研究人類歷史的學科，,100,ok,,
+55,"00:04:37,630 --> 00:04:40,390",or broader ones like history and environment.,或是更廣泛的主題，例如歷史和環境。,100,ok,,
+56,"00:04:41,050 --> 00:04:45,950","You don't need to be a scientist, but you must be ready for this academic style.",你不需要是科學家，但你必須做好面對這種 academic style 的準備。,87,minor_issues,你不需要是科學家，但你必須做好面對這種 學術風格 的準備。,[low] style: None
+57,"00:04:47,230 --> 00:04:49,130","Number three, the questions.",第三點，問題。,100,ok,,
+58,"00:04:50,150 --> 00:04:52,910",Let's look at the questions and answers you need to find.,讓我們來看看你需要找尋的問題與答案。,100,ok,,
+59,"00:04:53,790 --> 00:04:56,890","In section one, question one asks for a surname.",在第一部分，第一題要求提供姓氏。,100,ok,,
+60,"00:04:57,670 --> 00:05:00,050",Question two asks for a phone number.,第二題要求提供電話號碼。,100,ok,,
+61,"00:05:00,910 --> 00:05:04,030","Question six asks for an address number, 86.",第六題要求提供門牌號碼，86。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+62,"00:05:05,190 --> 00:05:07,850",So part one asks for general information.,因此，第一部分要求提供一般資訊。,100,ok,,
+63,"00:05:08,370 --> 00:05:14,710","You are listening for specific, isolated details like names, numbers or standard nouns.",請聆聽特定的、獨立的細節，例如人名、數字或標準名詞。,30,needs_revision,請聽特定且獨立的細節，例如人名、數位或標準名詞。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None; [low] collocation: None
+64,"00:05:15,650 --> 00:05:16,810",But look at section four.,但請看第四部分。,100,ok,,
+65,"00:05:17,670 --> 00:05:20,490",Question 32 asks for the cause of sinking.,第 32 題要求說明沉沒的原因。,80,minor_issues,,[medium] terminology: None
+66,"00:05:21,310 --> 00:05:25,670",Question 40 asks how the discovery changed historical understanding.,第 40 題要求說明這項發現如何改變了對歷史的認知。,100,ok,,
+67,"00:05:26,590 --> 00:05:31,090","These aren't just facts, they are reasons, explanations and impacts.",這些不僅是事實，更是原因、解釋與影響。,100,ok,,
+68,"00:05:32,030 --> 00:05:38,270","That's why in part four, we need to listen to and find the answers that are also abstract ideas.",這就是為什麼在第四部分，我們需要聆聽並找出同樣屬於抽象概念的答案。,84,minor_issues,所以在第四部分，我們需要聽並找出同樣屬於抽象概念的答案。,[low] register: None; [low] style: None
+69,"00:05:39,090 --> 00:05:46,010","You aren't just catching a word, you are following the speaker's logic, their theories and the connections between ideas.",你不僅僅是在捕捉單字，更是在追蹤講者的邏輯、理論，以及概念之間的關聯。,74,minor_issues,,[low] style: None; [low] style: None; [medium] terminology: None
+70,"00:05:47,310 --> 00:05:51,370","Finally, last but not least, number four, the timing.",最後，最後一點，第四點，時機。,100,ok,,
+71,"00:05:52,130 --> 00:05:54,510",Let's look at the structure of the question numbers.,讓我們來看看題目編號的結構。,100,ok,,
+72,"00:05:55,190 --> 00:05:57,990","In section one, we typically see a split.",在第一部分，我們通常會看到分段。,100,ok,,
+73,"00:05:58,580 --> 00:06:02,450",You answer questions one to five and then the audio stops.,你回答第一至第五題，然後音訊停止。,77,minor_issues,,[low] style: None; [medium] terminology: None
+74,"00:06:03,350 --> 00:06:05,770",You get a break to read questions six to ten.,你可以休息一下，閱讀第六至第十題。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+75,"00:06:06,690 --> 00:06:13,810","So in part one, you will get a short break between the two given question sets, which makes this part generally easier.",因此在第一部分，你會在兩組指定題目之間獲得短暫休息，這使得這部分通常較容易。,87,minor_issues,,[low] style: None
+76,"00:06:14,730 --> 00:06:16,410",Now look at section four.,現在請看第四部分。,100,ok,,
+77,"00:06:17,230 --> 00:06:24,630",The headings flow directly from background to excavation to findings without any visual break or pause line.,標題從背景、發掘到發現，內容連貫，中間沒有任何視覺間隔或分隔線。,100,ok,,
+78,"00:06:25,330 --> 00:06:29,490",It flows from question 31 straight through to question 40.,它從第 31 題一路延續到第 40 題。,100,ok,,
+79,"00:06:30,530 --> 00:06:34,310",This means you must maintain intense focus for the entire duration.,這表示你必須在整個期間保持高度專注。,100,ok,,
+80,"00:06:34,990 --> 00:06:41,250","If you zone out for five seconds, you might miss the transition to the next heading and lose track completely.",如果你發呆五秒鐘，可能會錯過轉入下一個標題的時機，從而完全失去脈絡。,100,ok,,
+81,"00:06:45,520 --> 00:06:49,040",So how do we survive this continuous academic monologue?,那麼我們該如何應對這持續不斷的學術獨白呢？,100,ok,,
+82,"00:06:49,700 --> 00:06:55,300","Now, I can hear you asking if the recording is continuous and there is not a single break.",現在，我聽得到你們在問：錄音是否是連續的，中間沒有任何停頓？,100,ok,,
+83,"00:06:55,300 --> 00:07:00,420",How do I know where the speaker is or whether or not they have moved to the next question?,我怎麼知道講者目前的位置，或者他們是否已經進入下一題？,84,minor_issues,我怎麼知道說話者目前的位置，或者他們是否已經進入下一題？,[low] style: None; [low] style: None
+84,"00:07:00,940 --> 00:07:03,440",The answer lies in signposting language.,答案在於路標語言。,77,minor_issues,答案在於引導詞。,[medium] terminology: None; [low] terminology: None
+85,"00:07:04,000 --> 00:07:10,600","For example, they might say, now turning to the issue of this tells you we are moving to a new section.",例如，他們可能會說：「現在轉向討論此議題」，這表示我們正在進入新的章節。,100,ok,,
+86,"00:07:11,000 --> 00:07:15,840","Or they might say, to conclude, this warns you that the summary is coming.",或者他們可能會說：「最後總結」，這表示即將進入摘要部分。,39,needs_revision,或者他們可能會說：「總結來說」，這是在提醒你摘要即將出現。,[low] style: None; [low] style: None; [high] meaning_drift: None
+87,"00:07:16,400 --> 00:07:19,700","However, we will focus more deeply on these in the next video.",不過，我們將在下一部影片中更深入地探討這些內容。,80,minor_issues,,[medium] terminology: None
+88,"00:07:19,700 --> 00:07:25,340","On the other hand, however, knowing where you are doesn't help if you don't understand what they are saying.",不過，另一方面，如果你聽不懂他們在說什麼，知道自己在哪兒也沒用。,77,minor_issues,,[low] style: None; [medium] terminology: None
+89,"00:07:26,060 --> 00:07:28,340",Part four relies heavily on context.,第四部分高度依賴語境。,100,ok,,
+90,"00:07:29,000 --> 00:07:37,800","So we are going to look at the three most common topics you will face, which are environment, nature and wildlife, and history and archaeology.",因此，我們將探討你將面臨的三個最常見主題，分別是環境、自然與野生動物，以及歷史與考古。,87,minor_issues,,[low] style: None
+91,"00:07:38,200 --> 00:07:42,920",Break them down into subtopics and identify the vocabulary you must know.,將其拆解為次主題，並識別你必須掌握的詞彙。,80,minor_issues,,[medium] terminology: None
+92,"00:07:43,480 --> 00:07:46,760","Let's start with one of the most popular themes, environment.",我們先從最熱門的主題之一「environment」開始。,70,minor_issues,我們先從最熱門的主題之一「環境」開始。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None
+93,"00:07:47,760 --> 00:07:51,260",This usually focuses on global issues and the planet's health.,這部分通常著重於全球議題與地球的健康狀況。,100,ok,,
+94,"00:07:52,000 --> 00:07:58,020","The subtopics here are specific things like pollution, natural disasters or energy sources.",這裡的次主題是具體的事物，例如 pollution、natural disasters 或 energy sources。,70,minor_issues,這裡的次主題是具體的事物，例如 污染、天然災害 或 energy 來源。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] terminology: None; [low] terminology: None
+95,"00:07:58,880 --> 00:08:07,720","Therefore, the vocabulary you need includes words like sustainability, contamination, erosion, drought or renewable energy.",因此，你需要的詞彙包括 sustainability、contamination、erosion、drought 或 renewable energy。,70,minor_issues,因此，你需要的詞彙包括 永續性、污染、侵蝕、乾旱 或 可再生能源。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+96,"00:08:08,860 --> 00:08:13,040","Next, we have a similar but distinct category, nature and wildlife.",接下來，我們有一個相似但不同的類別，那就是自然與野生動物。,87,minor_issues,,[low] style: None
+97,"00:08:13,770 --> 00:08:17,660","This is often confused with the environment, but it is different.",這常與環境混淆，但它們是不同的。,100,ok,,
+98,"00:08:18,320 --> 00:08:21,900","It focuses specifically on animals, plants and ecosystems.",它專門針對動物、植物和生態系統。,100,ok,,
+99,"00:08:22,880 --> 00:08:30,440","You might hear a lecture about migration patterns of different species, the life cycle of a plant or food chains of a specific forest.",你可能會聽到關於不同物種遷徙模式、植物生長週期或特定森林食物鏈的講座。,100,ok,,
+100,"00:08:31,020 --> 00:08:37,919","And you need to recognize words like habitat, predator, hibernation, nocturnal or extinction.",你需要認出 habitat、predator、hibernation、nocturnal 或 extinction 等單字。,100,ok,,
+101,"00:08:38,640 --> 00:08:45,180","And finally, let's look at one more challenging theme, history and archaeology, which we have analyzed above.",最後，讓我們再看一個更具挑戰性的主題：歷史與考古學，我們已在上述內容中進行了分析。,100,ok,,
+102,"00:08:46,080 --> 00:08:49,780","To sum up, this often confuses students because it is so specific.",總結來說，這經常讓學生感到困惑，因為它過於具體。,80,minor_issues,,[medium] terminology: None
+103,"00:08:50,540 --> 00:08:55,260","The subtopics usually involve ancient civilizations, meaning societies that",子主題通常涉及古代文明，意指數千年前存在的社會，例如,30,needs_revision,子主題通常涉及古代文明，指的是,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+104,"00:08:55,260 --> 00:08:59,000","existed thousands of years ago, like ancient Egypt or Rome.",ancient Egypt 或 Rome。,45,needs_revision,存在於數千年前，例如古埃及或羅馬。,[high] meaning_drift: None
+105,"00:08:59,740 --> 00:09:07,540","Excavations, which is simply the act of digging up the ground to find buried buildings or objects, or the details of a historical event.",挖掘，這純粹是指挖掘地面以尋找埋藏的建築或受詞，或是歷史事件的細節。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+106,"00:09:08,400 --> 00:09:10,200",The keywords here can be quite technical.,這裡的關鍵字可能相當專業。,100,ok,,
+107,"00:09:11,020 --> 00:09:17,740","You will hear words like sediment, hierarchy, vartifacts, chronological order or era.",你將聽到諸如 sediment、hierarchy、vartifacts、chronological order 或 era 等詞彙。,87,minor_issues,,[low] style: None
+108,"00:09:18,520 --> 00:09:24,820",These words might not appear as the answers due to the fact that they are quite complex and too difficult for normal students.,這些詞彙可能不會作為答案出現，因為它們相當複雜且對一般學生來說過於困難。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+109,"00:09:25,500 --> 00:09:32,260","However, knowing their meanings helps you understand the context much more quickly, which eventually boosts your listening score.",然而，了解它們的意義能幫助你更快地掌握上下文，進而提升你的聽力分數。,42,needs_revision,然而，瞭解它們的意義能幫助你更快地掌握上下文，進而提升你的聽力分數。,[high] terminology: None; [low] style: None
+110,"00:09:32,260 --> 00:09:35,580","However, are these the only topics you will face?",然而，這些是你會面臨的唯一主題嗎？,81,minor_issues,不過，這些是你會面臨的唯一題目嗎？,[low] style: None; [low] register: None; [low] terminology: None
+111,"00:09:36,100 --> 00:09:37,440",The answer is no.,答案是否定的。,100,ok,,
+112,"00:09:38,200 --> 00:09:39,400",IELTS is unpredictable.,雅思 是無法預測的,100,ok,,
+113,"00:09:40,160 --> 00:09:45,020","You may find topics about technology, space exploration or even psychology.",，你可能會遇到關於科技、太空探索，甚至是心理學的主題。,100,ok,,
+114,"00:09:45,780 --> 00:09:48,760","Therefore, the best strategy is not just memorizing lists.",因此，最好的策略不只是死背單字列表。,45,needs_revision,因此，最好的策略不只是死背單字清單。,[high] terminology: None
+115,"00:09:49,420 --> 00:09:57,840",You must continuously cultivate your knowledge by reading news and listening to English materials every day alongside your structured lessons here at PrEP.,你必須透過每日閱讀新聞、聆聽英語材料，並結合你在 PrEP 這裡的結構化課程，持續培養你的知識。,71,minor_issues,你必須透過每日閱讀新聞、聽英語材料，並結合你在 PrEP 這裡的系統化課程，持續累積知識。,[medium] terminology: None; [low] style: None; [low] style: None; [low] collocation: None
+116,"00:09:58,480 --> 00:10:03,420",Combining real-world practice with our exam techniques is the fastest way to improve.,將實作練習與考試技巧結合，是提升能力最快的方法。,100,ok,,
+117,"00:10:03,940 --> 00:10:05,220",That's it for today's lesson.,今天的課程就到這裡。,100,ok,,
+118,"00:10:05,500 --> 00:10:09,700",Don't forget to do the exercises and practice what you've learned regularly.,別忘了完成練習，並定期複習所學內容。,80,minor_issues,,[medium] terminology: None
+119,"00:10:10,260 --> 00:10:11,980",Goodbye and see you in the next lesson.,再見，下一堂課見。,100,ok,,

@@ -1,0 +1,142 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:11,830 --> 00:00:15,510","Hey guys, welcome back to our IELTS listening course.",嗨，大家好，歡迎回到我們的 雅思 聽力課程。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+2,"00:00:15,930 --> 00:00:22,370","Today we're diving deep into Section 3, the section that many students find the most intimidating.",今天我們將深入探討第 3 部分，這部 分是許多學生認為最具挑戰性的。,100,ok,,
+3,"00:00:22,590 --> 00:00:27,570","But here's the good news, once you understand how this section works and what",但好消息是，一旦你了解這部分的運作方式以及應該注意聽,30,needs_revision,但好消息是，一旦你瞭解這部分的運作方式以及以及它,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+4,"00:00:27,570 --> 00:00:30,470","to listen for, it becomes much more manageable.",的內容，它就會變得容易掌握得多。,45,needs_revision,去聽，就會容易掌握得多。,[high] meaning_drift: None
+5,"00:00:30,470 --> 00:00:36,850","In this lesson, we will cover Format and Common Scenarios of Section 3,",在這堂課中，我們將涵蓋第 3 部分的 Format 和 Common Scenarios。,81,minor_issues,在這堂課中，我們將涵蓋第 3 部分的 格式 和 常見情境。,[low] style: None; [low] terminology: None; [low] terminology: None
+6,"00:00:37,610 --> 00:00:42,370","Difficulties of Section 3, Strategies for Section 3.",第 3 部分的難點與應對策略,100,ok,,
+7,"00:00:43,010 --> 00:00:48,730","By the end of this lesson, you'll understand exactly what makes Part 3 unique,",在這堂課結束時，你將完全了解第 3 部分為何獨特、為何,30,needs_revision,在這堂課結束時，你將完全瞭解第 3 部分為何獨特,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+8,"00:00:49,110 --> 00:00:56,830","why it's challenging, and most importantly, how to approach it strategically.",具有挑戰性，以及最重要的是，如何採取策略性方法來應對。,80,minor_issues,,[medium] terminology: None
+9,"00:00:57,750 --> 00:00:58,110",Ready?,準備好了嗎？,100,ok,,
+10,"00:00:58,910 --> 00:00:59,770",Let's get started.,讓我們開始吧。,100,ok,,
+11,"00:01:04,480 --> 00:01:05,900",Let's start with the basics.,讓我們從基礎開始。,80,minor_issues,,[medium] terminology: None
+12,"00:01:06,180 --> 00:01:13,060","The IELTS listening test has four parts, and Section 3 is the third section you'll encounter.",雅思 聽力測驗共有四個部分，而 第 3 部分是你將遇到的第三個部分。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+13,"00:01:13,360 --> 00:01:15,480",But what makes it different from the others?,但它與其他的差異何在？,100,ok,,
+14,"00:01:15,800 --> 00:01:20,200","In Sections 1 and 2, you're in everyday social situations.",在 Sections 1 和 2 中，你會處於日常社交情境。,100,ok,,
+15,"00:01:20,580 --> 00:01:27,440","Section 1 is a conversation between two people, maybe someone booking a hotel room or asking for directions.",Section 1 是一段兩人之間的對話 ，內容可能是某人預訂飯店房間或詢問路線。,77,minor_issues,,[low] style: None; [medium] terminology: None
+16,"00:01:28,120 --> 00:01:34,580","Section 2 is a monologue about a general topic, like a tour guide describing a museum.",第 2 部分是一段關於一般主 題的獨白，例如導覽員介紹博物館。,100,ok,,
+17,"00:01:35,080 --> 00:01:38,500",But Section 3 is about an academic context.,但第 3 部分是關於學術情境。,100,ok,,
+18,"00:01:38,800 --> 00:01:40,960",Here are the key features of Section 3.,以下是第 3 部分的重點特色。,80,minor_issues,,[medium] terminology: None
+19,"00:01:41,220 --> 00:01:47,280",It is usually a conversation in an academic or educational setting between two to three speakers.,通常是在學術或教育情境中， 由兩至三位講者進行的對話。,74,minor_issues,通常是在學術或教育情境中， 由兩至三位說話者進行的對話。,[low] style: None; [medium] terminology: None; [low] style: None
+20,"00:01:47,540 --> 00:01:54,012","Unlike Section 4, which is also academic but features just one lecturer speaking, Section 3 involves",與第 4 部分不同，第 4 部分同樣屬於學術性質，但內容涵蓋 只有一位講師在講解，第 3 部分,36,needs_revision,與第 4 部分不同，第 3 部分則有，第 3 部分,[low] style: None; [high] meaning_drift: None; [low] collocation: None; [low] style: None
+21,"00:01:54,036 --> 00:02:00,180","multiple people exchanging ideas, agreeing, disagreeing, and building on each other's points.",涉及多人交換意見、表達同意或反 對，並基於彼此的觀點進一步闡述。,100,ok,,
+22,"00:02:01,380 --> 00:02:04,820","So, what kind of conversations will you hear?",那麼，你會聽到哪種類型的對話呢？,45,needs_revision,那麼，你會聽到哪種型別的對話呢？,[high] terminology: None
+23,"00:02:05,020 --> 00:02:09,600",There are some common scenarios that you might listen for in Section 3.,在第 3 部分中，你可能會聽到一些常見的對話情境。,100,ok,,
+24,"00:02:09,880 --> 00:02:14,500","First scenario, two or three students discussing a group project or assignment.",情境一：兩到三名學生討論小組專題或作業。,80,minor_issues,,[medium] terminology: None
+25,"00:02:14,740 --> 00:02:17,342","Maybe they're planning their research, dividing tasks,",也許他們正在規劃研究、分配任務,87,minor_issues,,[low] style: None
+26,"00:02:17,366 --> 00:02:19,740",or reviewing what they've learned.,，或是複習所學內容。,100,ok,,
+27,"00:02:19,740 --> 00:02:23,700","Second scenario, a student meeting with their tutor or professor.",情境二：學生與導師或教授會面。,45,needs_revision,情境二：學生與指導教授或教授會面。,[high] terminology: None
+28,"00:02:24,040 --> 00:02:28,260","They might be discussing feedback on an essay, getting advice about a research topic,",他們可能會討論作文的回饋，或尋求研究主題的建議，,100,ok,,
+29,"00:02:28,260 --> 00:02:30,240",or planning their dissertation.,或規劃他們的論文。,100,ok,,
+30,"00:02:30,620 --> 00:02:38,300","Third scenario, a seminar discussion where a tutor and students explore an",情境三：研討會討論，導師與學生共同探討,35,needs_revision,情境三：研討會討論，指導教授與學生共同探討,[high] terminology: None; [medium] terminology: None
+31,"00:02:38,300 --> 00:02:45,300","academic topic together, perhaps debating different theories or analyzing a case study.",學術主題，或許會辯論不 同的理論或分析個案研究。,80,minor_issues,,[medium] terminology: None
+32,"00:02:45,500 --> 00:02:50,800","For the topic of this lesson, law and governance, you might hear students",本課的主題是 law and governance（法律與治理），你可能會聽到學生,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+33,"00:02:50,800 --> 00:02:56,320","discussing legal case studies, comparing different policy reforms with their professor.",討論法律個案研究，與教 授比較不同的政策改革形式。,39,needs_revision,討論法律案例，與教授比較不同的政策改革。,[low] typo: None; [high] meaning_drift: None; [low] style: None
+34,"00:03:01,920 --> 00:03:08,820","Many students find Section 3 particularly difficult, and there are very specific reasons for this.",許多學生覺得第 3 部分特別困難， 而這樣做是有非常具體的原因。,45,needs_revision,許多學生覺得第 3 部分特別困難， 原因在於此。,[high] meaning_drift: None
+35,"00:03:09,080 --> 00:03:11,440",Let me break down the five main challenges.,讓我來拆解這五項主要挑戰。,100,ok,,
+36,"00:03:11,780 --> 00:03:14,720",The first challenge is tracking multiple speakers.,第一個挑戰是追蹤多位講者。,74,minor_issues,第一個挑戰是追蹤多位說話者。,[low] style: None; [medium] terminology: None; [low] style: None
+37,"00:03:14,720 --> 00:03:19,420","Unlike Sections 1 and 2, where you're mostly following one or two voices,",與第 Sections 1 和第 2 節不同，在這些章節中，你主要遵循一兩個人的說法，,39,needs_revision,與第 第 1 節 和第 2 節不同，在這些章節中，你主要遵循一兩個人的聲音，,[low] placeholder: None; [low] placeholder: None; [high] meaning_drift: None
+38,"00:03:20,120 --> 00:03:23,280",Section 3 can have up to four different people talking.,第 3 部分最多可安排四位不同的講者發言。,84,minor_issues,第 3 部分最多可安排四位不同的說話者發言。,[low] style: None; [low] style: None
+39,"00:03:23,560 --> 00:03:24,560",Why is this hard?,為什麼這很難？,100,ok,,
+40,"00:03:24,840 --> 00:03:30,020","Each speaker may have different accents, speaking speeds, and communication styles.",每位講者可能有不同的口音， 說話速度，以及溝通方式。,84,minor_issues,每位說話者可能有不同的口音， 說話速度，以及溝通方式。,[low] style: None; [low] style: None
+41,"00:03:30,320 --> 00:03:34,600","Sometimes, speakers interrupt each other or finish each other's sentences.",有時候，說話者會打斷彼此，或是幫對方把話說完。,87,minor_issues,,[low] style: None
+42,"00:03:35,080 --> 00:03:35,940",And here's the tricky part.,而這就是棘手的地方。,80,minor_issues,,[medium] terminology: None
+43,"00:03:36,100 --> 00:03:39,300","The answer you need might come from a speaker you weren't focusing on, so",你需要的答案可能來自於你未專心聆聽的講者，因此在第 3,81,minor_issues,你需要的答案可能來自於你未專心聆聽的說話者，所以在第 3,[low] style: None; [low] style: None; [low] style: None
+44,"00:03:39,300 --> 00:03:42,440",you should always stay alert to all speakers in Section 3.,部分中，你應該隨時保持警覺，留意所有講者。,30,needs_revision,第三部分中，你應該隨時保持警覺，留意所有說話者。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] placeholder: None; [low] style: None; [high] meaning_drift: None
+45,"00:03:42,960 --> 00:03:46,880",The second challenge is the complexity of ideas.,第二個挑戰在於概念的複雜性。,100,ok,,
+46,"00:03:47,240 --> 00:03:52,320","While Sections 1 and 2 use more conversational, simple language in daily",第 1 部分與第 2 部分在日常生活情境中多使用較為口語、簡,35,needs_revision,第 1 部分與第 2 部分在日常生活情境中多使用較為口語、簡潔的語言,[medium] terminology: None; [high] meaning_drift: None
+47,"00:03:52,320 --> 00:03:58,140","contexts, Section 3 deals with opinions, theories, comparisons, and evaluations.",潔的語言，而 Section 3 則探討意見、理論、比較與評估。,30,needs_revision,suggested fix，而 Section 3 則探討意見、理論、比較與評估。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+48,"00:03:58,580 --> 00:04:04,440","The ideas are more abstract, and the language used to express them is more sophisticated.",概念較為抽象，且語言 用來表達他們的方式更為複雜。,81,minor_issues,概念較為抽象，且語言 用來表達它們的方式更為複雜。,[low] style: None; [low] grammar: None; [low] style: None
+49,"00:04:05,380 --> 00:04:10,320","Here's challenge number three, and this one catches many students.",這是第三個挑戰，許多學生都會在這裡遇到困難。,100,ok,,
+50,"00:04:10,320 --> 00:04:15,880","In academic discussions, people often change their minds, express uncertainty,",在學術討論中，人們經常會改變想法、表達不確定性，,100,ok,,
+51,"00:04:16,260 --> 00:04:18,300",or partially agree with something.,或部分同意某種觀點。,100,ok,,
+52,"00:04:18,500 --> 00:04:22,900","For example, a speaker may shift their opinion during a conversation, or",例如，說話者可能會在對話中改變其觀點，或,77,minor_issues,,[low] style: None; [medium] terminology: None
+53,"00:04:22,900 --> 00:04:26,060",correct a misunderstanding that another speaker has.,糾正另一位說話者的誤解。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+54,"00:04:26,400 --> 00:04:30,680","In the IELTS listening, these are called distractors, and tracking multiple",在 雅思 聽力中，這些被稱為干擾選項，而追蹤多位說,30,needs_revision,在 雅思 聽力中，這些被稱為干擾項，而追蹤多個,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] terminology: None
+55,"00:04:30,680 --> 00:04:34,160",speakers to avoid distractors is a very important skill.,話者並避開干擾選項是一項非常重要的技巧。,84,minor_issues,,[low] style: None; [low] style: None
+56,"00:04:34,880 --> 00:04:38,220","And finally, challenge four, the pace.",最後是第四個挑戰：節奏。,100,ok,,
+57,"00:04:38,970 --> 00:04:43,600",Section 3 conversations tend to move faster than Parts 1 and 2.,第 3 部分的對話速度通常比第 1 和第 2 部分來得快。,87,minor_issues,第 3 部分的對話速度通常比第 1 和第 2 部分快。,[low] style: None
+58,"00:04:43,880 --> 00:04:48,340","Speakers are engaged, excited about their topic, and they pack a lot of",講者投入且興奮地討論他們的主題，並在短時間,30,needs_revision,說話者投入且興奮地分享他們的主題，並充滿了,[low] style: None; [low] style: None; [low] style: None; [high] meaning_drift: None; [high] meaning_drift: None
+59,"00:04:48,340 --> 00:04:50,260",information into a short time.,內匯集了大量資訊。,45,needs_revision,在短時間內。,[high] meaning_drift: None
+60,"00:04:55,160 --> 00:04:58,600","So, how can we tackle the challenging Section 3?",那麼，我們該如何應對具有挑戰性的第 3 部分呢？,80,minor_issues,,[medium] terminology: None
+61,"00:04:58,800 --> 00:05:01,060","Don't worry, because I am here to help.",別擔心，因為我會來協助你。,100,ok,,
+62,"00:05:01,340 --> 00:05:06,160","Section 3 discussions aren't random, but they follow predictable patterns.",第 3 部分的討論並非隨機，而是遵循可預測的模式。,100,ok,,
+63,"00:05:06,420 --> 00:05:09,440",Understanding the flow gives you a huge advantage.,掌握流程的脈絡能讓你具備巨大的優勢。,100,ok,,
+64,"00:05:09,440 --> 00:05:13,500",Most Section 3 conversations follow a structure like this.,大多數第 3 部分的對話都遵循這樣的結構。,100,ok,,
+65,"00:05:14,100 --> 00:05:18,100",Notice how questions in Section 3 are designed to follow this structure.,注意觀察，第 3 部分的問題設計是遵循此結構的。,80,minor_issues,,[medium] terminology: None
+66,"00:05:18,680 --> 00:05:25,360","Questions 21 to 23 might be about the first topic, 24 to 26 about the second,",Questions 21 to 23 可能涉及第一個主題，24 to 26 可能涉及第二個主題,74,minor_issues,第21至23題 可能涉及第一個主題，第24至26題 可能涉及第二個主題,[medium] terminology: None; [low] style: None; [low] style: None
+67,"00:05:25,540 --> 00:05:26,320",and so on.,，依此類推。,100,ok,,
+68,"00:05:26,920 --> 00:05:33,720","This is why reading the questions before listening is so crucial, as it helps",這就是為什麼在聽力前先閱讀題目非常關鍵，因為這能幫,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+69,"00:05:33,720 --> 00:05:36,080",you predict the conversation's path.,助你預測對話的發展脈絡。,100,ok,,
+70,"00:05:36,630 --> 00:05:40,240","Strategy 2, look out for a signposting language.",策略二：留意表示路標的語言。,32,needs_revision,策略二：留意路標性語言。,[medium] terminology: None; [high] placeholder: None; [low] collocation: None
+71,"00:05:40,700 --> 00:05:46,360",Think of these as verbal road signs that tell you exactly where the conversation is going.,將這些視為口語路標，它們 能明確指出對話的走向。,80,minor_issues,,[medium] terminology: None
+72,"00:05:46,600 --> 00:05:51,500",Let me introduce you to the main categories of signposting you'll hear in Part 3.,讓我為你介紹在 Part 3 中 會聽到的主要路標詞彙類別。,70,minor_issues,讓我為你介紹在 Part 3 中 會聽到的主要引導詞類別。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None
+73,"00:05:52,100 --> 00:05:54,380","Category 1, agreement signals.",第一類：同意信號。,30,needs_revision,第一類：同意訊號。,[high] terminology: None; [medium] terminology: None; [high] placeholder: None
+74,"00:05:54,580 --> 00:05:58,480","When you hear phrases like, that's a good point, I completely agree.",當你聽到「that's a good point」、「I completely agree」等類似的說法時，,80,minor_issues,,[medium] terminology: None
+75,"00:05:59,000 --> 00:06:01,760","Or exactly, and what's more.",或者更精確地說，而且更重要的是。,84,minor_issues,,[low] style: None; [low] style: None
+76,"00:06:02,260 --> 00:06:04,720",The speaker is building on the previous idea.,說話者正在延續前一個觀點。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+77,"00:06:05,040 --> 00:06:07,920",The answer may continue in the same direction.,答案可能會朝相同的方向繼續。,100,ok,,
+78,"00:06:08,760 --> 00:06:13,820","Phrases like, however, you know, but don't you think, on the other hand, or",像是「however」、「you know」、「but don't you think」、「on the other hand」之類的片語，或,70,minor_issues,像是「however」、「you know」、「but don't you think」、「另一方面」之類的片語，或,[low] style: None; [medium] terminology: None; [medium] terminology: None
+79,"00:06:13,820 --> 00:06:17,280","I'm not so sure about that, tell you an opposing view is coming.",我不太確定，告訴你，接下來會聽到不同的觀點。,87,minor_issues,我不太確定，跟你們說，接下來會聽到不同的觀點。,[low] register: None
+80,"00:06:17,540 --> 00:06:20,440",This is often where the correct answer hides.,正確答案往往就藏在這裡。,100,ok,,
+81,"00:06:20,940 --> 00:06:23,240","Category 3, topic change signals.",第三類：話題轉換信號。,30,needs_revision,第三類：話題轉換訊號。,[high] terminology: None; [high] placeholder: None
+82,"00:06:23,560 --> 00:06:27,100",Moving on to another aspect we should consider.,接下來考慮另一個面向。,100,ok,,
+83,"00:06:27,620 --> 00:06:29,660","Let's talk about, what about.",我們來談談，或是討論一下。,100,ok,,
+84,"00:06:30,380 --> 00:06:33,540",These signal you're entering new question territory.,這表示你正在進入新的題目領域。,100,ok,,
+85,"00:06:33,540 --> 00:06:36,000",Look down at your next set of questions.,請看下一組題目。,80,minor_issues,,[medium] terminology: None
+86,"00:06:36,700 --> 00:06:40,220","Category 4, example and clarification signals.",第四類：舉例與釐清信號。,30,needs_revision,第四類：舉例與釐清訊號。,[high] terminology: None; [high] placeholder: None
+87,"00:06:40,720 --> 00:06:46,220","For instance, take the case of, what I mean is, to put it another way.",舉例來說，我的意思是，換句話說。,100,ok,,
+88,"00:06:46,800 --> 00:06:51,600","An example or explanation is coming, which often contains the specific detail",接下來會提供範例或說明，通常其中包含作答所,45,needs_revision,接下來會提供範例或說明，通常其中包含具體細節,[high] meaning_drift: None
+89,"00:06:51,600 --> 00:06:52,820",you need for the answer.,需的具體細節。,45,needs_revision,你需要的答案。,[high] meaning_drift: None
+90,"00:06:53,740 --> 00:06:57,320","Category 5, conclusion and summary signals.",Category 5，結論與總結信號。,45,needs_revision,Category 5，結論與總結訊號。,[high] terminology: None
+91,"00:06:58,250 --> 00:07:03,693","So basically, in conclusion, the main point is",所以基本上，總結來說，,100,ok,,
+92,"00:07:03,717 --> 00:07:09,160","what it comes down to is, pay special attention.",重點在於，請特別留意。,80,minor_issues,,[medium] terminology: None
+93,"00:07:09,780 --> 00:07:12,600",This often summarizes the key point you need.,這通常會總結你需要知道的重點。,100,ok,,
+94,"00:07:13,180 --> 00:07:16,000","Strategy 3, tracking the speakers.",策略三：追蹤說話者。,42,needs_revision,,[low] style: None; [high] placeholder: None
+95,"00:07:16,540 --> 00:07:21,800","Within the first few seconds of the audio, you need to identify the speakers.",在音訊的前幾秒內，你必須辨識出說話者。,77,minor_issues,,[low] style: None; [medium] terminology: None
+96,"00:07:21,800 --> 00:07:27,000",The recording almost always introduces the speakers by name at the beginning.,錄音通常會在開頭以姓名介紹發言者。,87,minor_issues,,[low] style: None
+97,"00:07:27,340 --> 00:07:32,980","You might hear something like, so, Sarah and Tom, let's discuss your research project.",你可能會聽到類似這樣的內容，所以，Sarah 和 Tom，我們來討論一下你的研究計畫。,45,needs_revision,你可能會聽到類似這樣的內容，所以，Sarah 和 Tom，我們來討論一下你們的研究計畫。,[high] meaning_drift: None
+98,"00:07:33,520 --> 00:07:36,780","Or Professor Williams, we wanted to ask you about.",威廉斯教授，我們想向你請教。,87,minor_issues,,[low] style: None
+99,"00:07:37,300 --> 00:07:41,000",Write these names down quickly in the margin of your question paper.,請在考卷的頁邊空白處快速寫下這些名字。,80,minor_issues,,[medium] terminology: None
+100,"00:07:41,580 --> 00:07:45,720",Understanding who each person is helps you predict what they might say.,了解每個人的背景，有助於你預測他們可能會說些什麼。,45,needs_revision,瞭解每個人的背景，有助於你預測他們可能會說些什麼。,[high] terminology: None
+101,"00:07:45,940 --> 00:07:49,360","In Section 3, you'll typically encounter these roles.",在第 3 部分中，你通常會遇到這些角色。,100,ok,,
+102,"00:07:49,360 --> 00:07:51,820","First, the tutor or professor.",首先，是導師或教授。,45,needs_revision,首先，是指導教授或教授。,[high] terminology: None
+103,"00:07:52,180 --> 00:07:56,900","This person usually guides the discussion, asks probing questions, offers",此人通常負責引導討論、提出深入的問題、提,45,needs_revision,,[high] meaning_drift: None
+104,"00:07:56,900 --> 00:07:59,620","expert opinions, and summarizes key points.",供專業見解，並總結重點。,42,needs_revision,提供專業見解，並總結重點。,[low] grammar: None; [high] meaning_drift: None
+105,"00:08:00,340 --> 00:08:02,720",Their voice often sounds more authoritative and measured.,他們的聲音通常聽起來更具權威性且更穩重。,87,minor_issues,,[low] style: None
+106,"00:08:03,620 --> 00:08:05,000","Second, the students.",第二，是學生。,80,minor_issues,,[medium] terminology: None
+107,"00:08:05,260 --> 00:08:09,880","They share their findings, express opinions that may change, ask questions, and",他們分享研究成果、表達可能改變的意見、提出問題，,100,ok,,
+108,"00:08:09,880 --> 00:08:10,960",respond to feedback.,並回應回饋。,100,ok,,
+109,"00:08:11,240 --> 00:08:12,160",Why does this matter?,為什麼這很重要？,100,ok,,
+110,"00:08:12,340 --> 00:08:16,560",Because questions often ask specifically about what one person thinks.,因為問題經常會具體詢問某人的想法。,100,ok,,
+111,"00:08:16,560 --> 00:08:20,940","If you hear, what does the tutor suggest about the research methodology?",如果你聽到：導師對研究方法有什麼建議？,45,needs_revision,如果你聽到：指導教授對研究方法有什麼建議？,[high] terminology: None
+112,"00:08:21,740 --> 00:08:26,880",You need to filter out what the student said and focus only on the tutor's words.,你需要篩選掉學生的話 ，只著重於導師的內容。,45,needs_revision,你需要篩選掉學生的話 ，只著重於指導教授的內容。,[high] terminology: None
+113,"00:08:27,680 --> 00:08:33,340","In Section 3, different speakers often have different opinions about the same topic.",在第 3 部分中，不同的講者經常會 針對同一主題的不同看法。,39,needs_revision,在第 3 部分中，不同的說話者經常會 對同一主題常有不同看法。,[low] style: None; [high] meaning_drift: None; [low] register: None
+114,"00:08:33,539 --> 00:08:38,299",Your questions might ask specifically whose opinion something is.,你的問題可能會具體詢問某項意見屬於誰。,87,minor_issues,你的問題可能會具體詢問這項意見是誰的。,[low] collocation: None
+115,"00:08:38,500 --> 00:08:43,039","Academic discussions have natural turn-taking patterns, but they also have",學術討論具有自然的輪替模式，但也會出現,84,minor_issues,,[low] style: None; [low] style: None
+116,"00:08:43,039 --> 00:08:45,160",interruptions and quick exchanges.,插話與快速交談。,100,ok,,
+117,"00:08:45,900 --> 00:08:49,340",Train yourself to notice these switch signals.,訓練自己留意這些轉換訊號。,100,ok,,
+118,"00:08:50,320 --> 00:08:53,140","Direct address, when someone uses a name.",直接稱呼，當有人使用姓名時。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+119,"00:08:53,400 --> 00:08:55,360","For example, what do you think, Sarah?",例如，Sarah，你怎麼想？,100,ok,,
+120,"00:08:55,620 --> 00:08:57,500",Now you know Sarah will speak next.,現在你知道了，接下來會由 Sarah 發言。,100,ok,,
+121,"00:08:57,980 --> 00:08:59,980",Agreement or disagreement phrases.,同意或不同意用語。,80,minor_issues,,[medium] terminology: None
+122,"00:09:00,420 --> 00:09:04,760","For example, I agree with Tom tells you the current speaker is not Tom.",例如，我同意。Tom 告訴你，目前的發言人不是 Tom。,80,minor_issues,,[medium] terminology: None
+123,"00:09:05,160 --> 00:09:11,520","Finally, questions from the tutor or the professor often redirect to another speaker.",最後，導師或教授的提問通 常會引導至另一位學員發言。,30,needs_revision,最後，指導教授或教授的提問通 常會引導至另一位考生發言。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] style: None
+124,"00:09:11,520 --> 00:09:14,760","Like, and how about you Tom, do you see it the same way?",那麼，Tom，你怎麼看？你也這樣認為嗎？,87,minor_issues,,[low] style: None
+125,"00:09:15,160 --> 00:09:19,460","Finally, the last strategy is don't panic at missed answers.",最後，最後一個策略是：面對答錯的問題不要慌張。,80,minor_issues,,[medium] terminology: None
+126,"00:09:19,740 --> 00:09:21,780","If you miss an answer, let it go.",如果答錯，就讓它過去吧。,100,ok,,
+127,"00:09:22,040 --> 00:09:26,220",Write your best guess and immediately refocus on the next question.,写下你最好的猜测，然后立刻将注意力著重於下一題。,30,needs_revision,写下你最好的猜测，然后立刻将注意力放在下一問題。,[low] style: None; [low] collocation: None; [low] style: None; [high] None: None; [high] None: None; [high] None: None
+128,"00:09:26,460 --> 00:09:29,660",One missed question should not cost you three or four more.,錯過一題不該讓你再錯三四題。,80,minor_issues,,[medium] terminology: None
+129,"00:09:29,880 --> 00:09:32,240","The audio keeps moving, and so must you.",錄音持續播放，你也必須跟上。,77,minor_issues,,[low] style: None; [medium] terminology: None
+130,"00:09:32,860 --> 00:09:35,080",Now let's review our lesson today through some exercises.,現在讓我們透過一些練習來複習今天的課程。,100,ok,,
+131,"00:09:40,450 --> 00:09:43,250",Let's quickly recap what we've covered today.,讓我們快速複習一下今天所學的內容。,100,ok,,
+132,"00:09:43,250 --> 00:09:48,150",Section 3 is an academic discussion with two to four speakers.,第 3 部分為學術討論，由兩至四位講者參與。,84,minor_issues,第 3 部分為學術討論，由兩至四位說話者參與。,[low] style: None; [low] style: None
+133,"00:09:48,590 --> 00:09:54,050","It's challenging because of multiple voices, abstract ideas, changing opinions,",這很有挑戰性，因為有多重語音、抽象概念、觀點變化、大,39,needs_revision,這很有挑戰性，因為有多種聲音、抽象概念、意見改變、大,[high] meaning_drift: None; [low] collocation: None; [low] collocation: None
+134,"00:09:54,410 --> 00:09:56,850","heavy paraphrasing, and faster pacing.",量的改寫，以及較快的節奏。,87,minor_issues,大量改寫，以及較快的節奏。,[low] style: None
+135,"00:09:57,290 --> 00:10:00,450",We have the strategies for Section 3 as follow.,以下是第 3 部分的策略。,80,minor_issues,,[medium] terminology: None
+136,"00:10:00,850 --> 00:10:03,930","Strategy 1, understand the conversation structure.",策略一：了解對話結構。,30,needs_revision,策略一：瞭解對話結構。,[high] terminology: None; [high] placeholder: None
+137,"00:10:04,490 --> 00:10:08,050","Strategy 2, listen for signposting language.",策略二：注意聽取提示性語言。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+138,"00:10:08,530 --> 00:10:11,290","Strategy 3, track multiple speakers.",策略三：追蹤多位說話者。,32,needs_revision,,[low] style: None; [medium] terminology: None; [high] placeholder: None
+139,"00:10:11,290 --> 00:10:15,050","Strategy 4, don't panic at missed answers.",策略 4：遇到漏答的題目別驚慌。,80,minor_issues,,[medium] terminology: None
+140,"00:10:15,470 --> 00:10:18,570","In our next lesson, we'll put this knowledge into practice.",在下一堂課中，我們將把這些知識應用於練習。,42,needs_revision,下一堂課，我們將把這些知識實際操作。,[high] meaning_drift: None; [low] style: None
+141,"00:10:18,710 --> 00:10:20,490","Goodbye, and see you in the next lesson.",再見，我們下一堂課見。,100,ok,,

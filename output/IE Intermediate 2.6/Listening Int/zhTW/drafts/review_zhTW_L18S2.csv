@@ -1,0 +1,258 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:12,240 --> 00:00:15,490","Hey guys, welcome back to our IELTS Listening course.",嗨，大家，歡迎回到我們的 雅思 聽力課程。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+2,"00:00:15,750 --> 00:00:19,350","In today's lesson, we'll continue practicing listening skills",今天的課程中，我們將繼續練習聽力技巧，,100,ok,,
+3,"00:00:19,350 --> 00:00:21,720",with another common question type,針對雅思聽力測驗中另,35,needs_revision,針對另一種常見題型,[medium] terminology: None; [high] meaning_drift: None
+4,"00:00:21,720 --> 00:00:25,350","in the IELTS Listening test, which is matching questions.",一個常見的題型——配對題進行練習。,30,needs_revision,雅思聽力考試中的配對題。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+5,"00:00:26,030 --> 00:00:28,590","Many of you might be wondering, is this",在座的各位可能會想問，這是,100,ok,,
+6,"00:00:28,590 --> 00:00:31,130",question type difficult or easy?,題型難或簡單？,100,ok,,
+7,"00:00:31,790 --> 00:00:34,370","Personally, I find it to be a bit of both.",就我個人來說，我覺得兩者兼具。,87,minor_issues,,[low] style: None
+8,"00:00:34,970 --> 00:00:35,890",Why is that?,為什麼會這樣呢？,100,ok,,
+9,"00:00:36,370 --> 00:00:39,040","Well, because this is one of those question types",因為這是雅思聽力測驗中,35,needs_revision,因為這是其中一種題型,[medium] terminology: None; [high] meaning_drift: None
+10,"00:00:39,280 --> 00:00:42,350",that has the most distractors in the IELTS Listening test.,干擾選項最多的題型之一。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+11,"00:00:42,690 --> 00:00:44,590",So how do we handle this?,那麼我們該如何應對呢？,100,ok,,
+12,"00:00:45,150 --> 00:00:47,130",Let's dive into the lesson together.,讓我們一起開始這堂課。,80,minor_issues,,[medium] terminology: None
+13,"00:00:47,750 --> 00:00:49,870",Today's lesson is divided into three parts.,今天的課程分為三個部分。,100,ok,,
+14,"00:00:50,470 --> 00:00:53,550",Part 1. General introduction to matching questions.,第一部分。配對題型的一般介紹。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+15,"00:00:54,010 --> 00:00:57,530",Part 2. Strategy or steps to handle the question type.,第二部分。應對題型的策略或步驟。,45,needs_revision,,[high] placeholder: None
+16,"00:00:57,970 --> 00:01:00,740",Part 3. Practice and explanation.,第三部分。練習與說明。,45,needs_revision,,[high] placeholder: None
+17,"00:01:04,760 --> 00:01:07,310",Matching questions is a very common question type,配對題是 雅思 聽力測驗,30,needs_revision,配對題是非常常見的題型,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+18,"00:01:07,310 --> 00:01:08,810",in the IELTS Listening test.,中非常常見的題型。,30,needs_revision,在雅思聽力測驗中。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+19,"00:01:09,450 --> 00:01:12,730",So you're likely to counter one during any test.,因此，你在任何測驗中很可能都會遇到反方論點。,100,ok,,
+20,"00:01:13,230 --> 00:01:15,890",This question type often appears in section one,此題型常出現在第一部分。,100,ok,,
+21,"00:01:15,890 --> 00:01:18,490","and section three, and the recording is often",第三部分，錄音通常至,45,needs_revision,第三部分，錄音通常是,[high] meaning_drift: None
+22,"00:01:18,490 --> 00:01:21,130",a conversation between at least two people.,少包含兩人的對話。,35,needs_revision,至少兩人的對話。,[medium] terminology: None; [high] meaning_drift: None
+23,"00:01:21,770 --> 00:01:25,210","Matching questions contain two groups of information, and",配對題包含兩組資訊，考,30,needs_revision,配對題包含兩組資訊，並且,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+24,"00:01:25,210 --> 00:01:28,200",candidates need to match the appropriate information,生需根據錄音內容將適當,35,needs_revision,考生需匹配適當資訊,[medium] terminology: None; [high] meaning_drift: None
+25,"00:01:28,200 --> 00:01:30,820",based on what they hear from the recording.,的資訊進行配對。,30,needs_revision,根據他們從錄音中聽到的內容。,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+26,"00:01:30,980 --> 00:01:34,310",The two groups of information are questions numbered,這兩組資訊是編號為 1、2、3,35,needs_revision,這兩組資訊是編號為 1 和 2,[medium] terminology: None; [high] meaning_drift: None
+27,"00:01:34,310 --> 00:01:36,430","with 1, 2, 3, etc.",等的問題。,30,needs_revision,等。,[high] placeholder: None; [high] meaning_drift: None
+28,"00:01:36,990 --> 00:01:40,790","and answers labeled with A, B, C, etc.",並標示為 A、B、C 等的選項。,80,minor_issues,,[medium] terminology: None
+29,"00:01:41,270 --> 00:01:44,020",Here are some notes of what you need to memorize.,以下是你需要記憶的重點備註。,100,ok,,
+30,"00:01:44,390 --> 00:01:46,370",The questions come in the same order as,問題的順序與,30,needs_revision,問題會依相同順序出現，就像,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+31,"00:01:46,370 --> 00:01:49,090","the recording, but the options A, B, C,",錄音部分，但選項 A、B、C,100,ok,,
+32,"00:01:49,150 --> 00:01:51,190",and D don't come in any set order.,和 D 並沒有固定的順序。,100,ok,,
+33,"00:01:51,730 --> 00:01:53,970","For example, the recording will play from questions",例如，錄音會從問題開始播放,100,ok,,
+34,"00:01:53,970 --> 00:01:56,870","1 to 4, or questions 26 to 30,",第 1 至 4 題，或第 26 至 30,35,needs_revision,第 1 至 4 題，或第 26 至 30 題,[medium] terminology: None; [high] meaning_drift: None
+35,"00:01:57,310 --> 00:02:00,270","but options A, B, C, and D aren't",題，但選項 A、B、C 和 D 並非固定順序。,45,needs_revision,但選項 A、B、C 和 D 不是,[high] meaning_drift: None
+36,"00:02:00,270 --> 00:02:01,350",in any set order.,任何固定順序。,100,ok,,
+37,"00:02:01,890 --> 00:02:05,440",So stay alert when handling this type of question.,因此，在處理這類題目時請保持警覺。,80,minor_issues,,[medium] terminology: None
+38,"00:02:05,810 --> 00:02:08,509","During listening, the speaker may give an answer",在聽力測驗中，說話者可能會給出一,30,needs_revision,聽力時，講者可能會給出答案,[low] style: None; [medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None; [high] meaning_drift: None
+39,"00:02:08,510 --> 00:02:10,240","which sounds like the correct one,",個聽起來正確的答案，但隨,30,needs_revision,聽起來是正確的,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+40,"00:02:10,240 --> 00:02:12,010",but then denies that answer.,後又否定了該答案。,100,ok,,
+41,"00:02:12,010 --> 00:02:14,110",Be careful if you hear the words like,如果聽到 not、but、or 或 howe,32,needs_revision,如果聽到 not、but、or 或 howeverver,[medium] terminology: None; [high] meaning_drift: None; [low] typo: None
+42,"00:02:14,110 --> 00:02:16,530","not, but, or, however.",ver 等詞，請務必小心。,30,needs_revision,等 等詞，請務必小心。,[high] meaning_drift: None; [high] meaning_drift: None
+43,"00:02:16,970 --> 00:02:18,910",This often means that the speaker is going,這通常表示講者將否,42,needs_revision,這通常表示說話者正在,[low] style: None; [high] meaning_drift: None
+44,"00:02:18,910 --> 00:02:20,310",to deny the previous statement.,定前一句話。,30,needs_revision,否定前一句話。,[high] meaning_drift: None; [high] meaning_drift: None
+45,"00:02:20,990 --> 00:02:23,790","Usually, the recording is a conversation between at",通常，錄音是兩位人士之間的對話，其中一,87,minor_issues,,[low] style: None
+46,"00:02:23,790 --> 00:02:26,570","least two people, so it's important to pay",至少兩個人，因此務必,77,minor_issues,至少兩個人，所以務必,[medium] terminology: None; [low] register: None
+47,"00:02:26,570 --> 00:02:30,510",attention to who is speaking and avoid getting,注意是誰在說話，避免在,100,ok,,
+48,"00:02:30,510 --> 00:02:32,270",confused between different speakers.,不同講者之間混淆。,81,minor_issues,不同說話者之間混淆。,[low] style: None; [low] style: None; [low] style: None
+49,"00:02:32,690 --> 00:02:34,660","Alright, let's move on to part 2.",好了，我們接著進入第二部分。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+50,"00:02:34,660 --> 00:02:37,210",Strategy or steps to handle the question type.,處理題型的策略或步驟。,100,ok,,
+51,"00:02:41,900 --> 00:02:43,920",Here's today's listening test.,這是今天的聽力測驗。,100,ok,,
+52,"00:02:44,100 --> 00:02:47,160","Looking at this question, what should we do first?",針對這道題目，我們應該先做什麼？,100,ok,,
+53,"00:02:47,540 --> 00:02:51,380","Step 1, always read the instructions carefully.",步驟 1：仔細閱讀說明。,100,ok,,
+54,"00:02:51,980 --> 00:02:55,800","Here, the instruction says, you may choose any",此處的說明指出，你可以重複選,35,needs_revision,此處的說明指出，你可以選擇任何,[medium] terminology: None; [high] meaning_drift: None
+55,"00:02:55,800 --> 00:02:57,620",letter more than once.,擇任一選項。,45,needs_revision,letter more than once.,[high] meaning_drift: None
+56,"00:02:58,020 --> 00:03:00,960","This means you can write each answer A,",這表示你可以針對每個題目填寫 A，,80,minor_issues,,[medium] terminology: None
+57,"00:03:01,100 --> 00:03:05,660","B, C, D, or E for more than one time.",B、C、D 或 E 可重複選擇多次。,100,ok,,
+58,"00:03:06,920 --> 00:03:10,920","Step 2, read the questions and underline keywords.",步驟 2：閱讀題目並劃線標示關鍵字。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+59,"00:03:11,800 --> 00:03:15,960","The question asks, which city is responsible for",題目詢問，以下社會創新,45,needs_revision,題目詢問，哪個城市負責,[high] meaning_drift: None
+60,"00:03:15,960 --> 00:03:18,080",the following social innovations?,由哪座城市負責？,35,needs_revision,以下社會創新？,[medium] terminology: None; [high] meaning_drift: None
+61,"00:03:18,700 --> 00:03:24,200","Here, the keywords are city, responsible, and social innovations.",此處的關鍵字為 city、responsible 和 social innovations。,71,minor_issues,此處的關鍵字為 城市、負責 和 社會創新。,[medium] terminology: None; [low] style: None; [low] style: None; [low] style: None
+62,"00:03:25,080 --> 00:03:29,360","Step 3, read the groups of information.",步驟 3：閱讀資訊群組。,100,ok,,
+63,"00:03:29,520 --> 00:03:33,000","This question type contains two groups of information,",此題型包含兩組資訊，考生需,45,needs_revision,,[high] meaning_drift: None
+64,"00:03:33,380 --> 00:03:36,820",and candidates need to match the appropriate information,根據從錄音中聽到的內容，將,35,needs_revision,且候選人需符合相關資訊,[medium] terminology: None; [high] meaning_drift: None
+65,"00:03:36,820 --> 00:03:39,660",based on what they hear from the recording.,適當的資訊進行配對。,35,needs_revision,根據他們從錄音中聽到的內容。,[medium] terminology: None; [high] meaning_drift: None
+66,"00:03:39,980 --> 00:03:43,840",We'll read each group of information and underline keywords.,我們將閱讀每一組資訊並劃出關鍵字。,100,ok,,
+67,"00:03:44,340 --> 00:03:47,560",The first group of information is a list of cities,第一組資訊為城市清單。,100,ok,,
+68,"00:03:47,800 --> 00:03:52,280","Amsterdam, Curitiba, Copenhagen, Medellin, Singapore.",阿姆斯特丹、庫里蒂巴、哥本哈根、麥德林、新加坡。,87,minor_issues,,[low] style: None
+69,"00:03:52,890 --> 00:03:56,660",The second group of information is social innovations.,第二組資訊為社會創新形式。,100,ok,,
+70,"00:03:58,180 --> 00:04:00,800","Let's move on to step 4, listen to",我們繼續進行第 4 步，請聆聽,77,minor_issues,我們繼續進行第 4 步，請聽,[medium] terminology: None; [low] register: None
+71,"00:04:00,800 --> 00:04:03,200",the recording and choose the correct answers.,請聆聽錄音並選擇正確答案。,100,ok,,
+72,"00:04:05,130 --> 00:04:09,320",Now listen and answer questions 21 to 27.,現在請聆聽並回答問題 21 至 27。,100,ok,,
+73,"00:04:10,700 --> 00:04:13,020","Hi Sarah, I've been working on the final",嗨，Sarah，我正在為我們的 Posit,45,needs_revision,嗨，Sarah，我正在為我們的 雅思,[high] meaning_drift: None
+74,"00:04:13,020 --> 00:04:15,700",parts for our Positive Society presentation.,ive Society 簡報製作最後的部分。,30,needs_revision,Positive Society 簡報的其中一部分。,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+75,"00:04:16,339 --> 00:04:18,760",I think focusing on how cities are actually,我認為應該著重於城市實際上的情況,100,ok,,
+76,"00:04:18,760 --> 00:04:21,620",improving people's lives is much more interesting than,改善人們的生活比單純檢視問,45,needs_revision,改善人們的生活比...有趣,[high] meaning_drift: None
+77,"00:04:21,620 --> 00:04:22,920",just looking at problems.,題有趣得多。,45,needs_revision,只是在看問題。,[high] meaning_drift: None
+78,"00:04:23,500 --> 00:04:24,380","I agree, Liam.",我同意，Liam。,100,ok,,
+79,"00:04:24,720 --> 00:04:28,260",It's inspiring to see how different societies solve their issues.,看到不同社會如何解決自身問題，令人深受啟發。,100,ok,,
+80,"00:04:28,820 --> 00:04:32,200",We've selected five cities that have done something special.,我們已選擇五個做出特別貢獻的城市。,42,needs_revision,我們挑了五個有做點特別的事的城市。,[high] meaning_drift: None; [low] register: None
+81,"00:04:32,200 --> 00:04:34,060",We just need to make sure we match,我們只需要確保將正確的,45,needs_revision,我們只需要確保符合,[high] meaning_drift: None
+82,"00:04:34,060 --> 00:04:36,220",the right innovation to the right city.,創新與正確的城市的匹配。,87,minor_issues,把正確的創新給對的城市。,[low] style: None
+83,"00:04:36,740 --> 00:04:38,200",Let's start with recycling.,我們先從資源回收開始。,80,minor_issues,,[medium] terminology: None
+84,"00:04:38,800 --> 00:04:41,440","I remember reading that in one city, residents",我記得讀過，在某個城市，居民會,80,minor_issues,,[medium] terminology: None
+85,"00:04:41,440 --> 00:04:44,160",get vouchers for food or bus tickets when,獲得食品或公車車票的券，當,81,minor_issues,拿到食物或公車車票的券，在...時,[low] register: None; [low] register: None; [low] grammar: None
+86,"00:04:44,160 --> 00:04:45,560",they recycle their plastic.,他們會回收塑膠。,100,ok,,
+87,"00:04:45,800 --> 00:04:47,980",I thought it was Copenhagen at first.,我剛開始以為是哥本哈根。,80,minor_issues,,[medium] terminology: None
+88,"00:04:47,980 --> 00:04:52,560","Actually, it's Amsterdam that started that specific reward program.",事實上，阿姆斯特丹才是那個特定獎勵計畫的發起者。,84,minor_issues,,[low] style: None; [low] style: None
+89,"00:04:52,980 --> 00:04:55,100",They wanted to encourage people to keep the,他們希望鼓勵人們保持河道,45,needs_revision,他們希望鼓勵人們保持,[high] meaning_drift: None
+90,"00:04:55,100 --> 00:04:58,260","canals clean, so they turned recycling into a",整潔，因此將回收變成了一種,35,needs_revision,水道變乾淨了，所以他們把回收變成了一種,[medium] terminology: None; [high] meaning_drift: None
+91,"00:04:58,260 --> 00:05:00,140",game where you get points that you can,一種可以在當地商店消費以獲,45,needs_revision,可以累積分數並,[high] meaning_drift: None
+92,"00:05:00,140 --> 00:05:01,520",spend in local shops.,得分數的遊戲。,35,needs_revision,在當地商店消費。,[medium] terminology: None; [high] meaning_drift: None
+93,"00:05:01,920 --> 00:05:04,080",It's been a huge success for the community.,對社區來說，這是巨大的成功。,45,needs_revision,對社群來說，這是巨大的成功。,[high] terminology: None
+94,"00:05:04,620 --> 00:05:07,360","That's great, but I'm more impressed with the",這很棒，但讓我更驚豔的是,100,ok,,
+95,"00:05:07,360 --> 00:05:08,820",networks of bicycle paths.,自行車道網絡。,30,needs_revision,腳踏車道網路。,[high] terminology: None; [high] terminology: None
+96,"00:05:09,280 --> 00:05:12,240","That means bicycle highways are built, allowing people",這表示自行車高速公路已建成，讓,45,needs_revision,這表示腳踏車高速公路已建成，讓,[high] terminology: None
+97,"00:05:12,240 --> 00:05:14,360",to commute from the suburbs into the center,人們可以從郊區通勤至市中,80,minor_issues,,[medium] terminology: None
+98,"00:05:14,360 --> 00:05:16,680",without ever having to worry about traffic.,心，且無需擔心交通問題。,42,needs_revision,不用擔心交通問題。,[low] style: None; [high] meaning_drift: None
+99,"00:05:17,280 --> 00:05:19,280",That's the idea of Copenhagen.,這就是哥本哈根的理念。,100,ok,,
+100,"00:05:19,600 --> 00:05:22,440",It has really made the population much healthier,這確實讓人口的健康狀況大幅改善。,100,ok,,
+101,"00:05:22,440 --> 00:05:23,980",and the air much cleaner.,空氣也變得更加清新。,87,minor_issues,,[low] style: None
+102,"00:05:24,580 --> 00:05:27,520",And as a person who uses public transport,身為經常使用大眾運輸,80,minor_issues,,[medium] terminology: None
+103,"00:05:27,520 --> 00:05:30,320","on a regular basis, I'm interested in the",的人，我對公車運輸系統,45,needs_revision,定期，我有興趣了解,[high] meaning_drift: None
+104,"00:05:30,320 --> 00:05:31,720",bus transit systems.,很感興趣。,45,needs_revision,巴士交通系統。,[high] meaning_drift: None
+105,"00:05:32,230 --> 00:05:34,480","This was introduced by Medellin, right?",這是麥德林引進的，對吧？,100,ok,,
+106,"00:05:35,080 --> 00:05:36,140",Not quite.,不完全是。,100,ok,,
+107,"00:05:36,680 --> 00:05:38,300",Medellin did something else.,麥德林做了別的事。,100,ok,,
+108,"00:05:38,740 --> 00:05:41,480",The city that invented the system is Curitiba.,發明該系統的城市是库里蒂巴。,32,needs_revision,發明該系統的城市是庫里蒂巴。,[medium] terminology: None; [low] script: None; [high] None: None
+109,"00:05:41,940 --> 00:05:44,980","Instead of building an expensive underground train,",他們沒有建造昂貴的地下捷運，而,100,ok,,
+110,"00:05:44,980 --> 00:05:48,540",they created special lanes for very long buses.,是為超長公車設置了專用車道。,45,needs_revision,是為超長公車設定了專用車道。,[high] terminology: None
+111,"00:05:48,700 --> 00:05:51,360","It works just like a subway, but on the road.",它運作起來就像捷運，只是在地上行駛。,100,ok,,
+112,"00:05:51,720 --> 00:05:54,800",It's so efficient that almost everyone there prefers,它的效率極高，以至於當地幾乎所有人都選擇搭,39,needs_revision,它的效率極高，所以當地幾乎所有人都喜歡搭,[low] style: None; [low] style: None; [high] meaning_drift: None
+113,"00:05:54,800 --> 00:05:56,080",the bus to driving.,乘公車而非開車。,100,ok,,
+114,"00:05:56,720 --> 00:05:58,640","Oh, I'll fix that in the notes.",哦，我會備註裡修正。,87,minor_issues,哦，我會把筆記補上。,[low] collocation: None
+115,"00:05:59,100 --> 00:06:01,060",Let's see what's next to consider.,讓我們來看看接下來要考慮什麼。,100,ok,,
+116,"00:06:01,060 --> 00:06:02,220",It's wind power.,這是風力發電。,100,ok,,
+117,"00:06:02,720 --> 00:06:05,380",I had spent two hours reading about this,我花了兩個小時閱讀相關資料，,80,minor_issues,,[medium] terminology: None
+118,"00:06:05,380 --> 00:06:07,780",and knew that it was invented by Copenhagen.,並知道這是由哥本哈根發明的。,100,ok,,
+119,"00:06:08,320 --> 00:06:11,440","Oh, I thought Curitiba was where the idea comes from.",噢，我以為這個構想是源自庫里蒂巴。,100,ok,,
+120,"00:06:12,020 --> 00:06:14,820","I thought so at first, but Curitiba only",我起初也是這麼想，但庫里蒂巴僅,42,needs_revision,我起初也是這麼想，但庫里蒂巴只有,[low] style: None; [high] meaning_drift: None
+121,"00:06:14,820 --> 00:06:17,480","borrowed the idea, not really created it.",借鑒了這個想法，而非真正原創。,100,ok,,
+122,"00:06:18,000 --> 00:06:20,900",Copenhagen has invested so much in wind farms,哥本哈根在海上風力發電場投,45,needs_revision,哥本哈根在海上風力發電場投資了,[high] meaning_drift: None
+123,"00:06:20,900 --> 00:06:23,400",in the ocean that they now produce more,入了大量資源，如今其發電,45,needs_revision,in the ocean that they now produce more,[high] meaning_drift: None
+124,"00:06:23,400 --> 00:06:25,760",electricity than the city actually needs.,量已超過該市的實際需求。,100,ok,,
+125,"00:06:26,160 --> 00:06:28,040",They even have a power plant with a,他們甚至擁有一座發電廠，其,100,ok,,
+126,"00:06:28,040 --> 00:06:29,320",ski slope on the roof.,屋頂上的滑雪坡。,100,ok,,
+127,"00:06:29,940 --> 00:06:30,300",Hmm.,嗯。,100,ok,,
+128,"00:06:30,520 --> 00:06:33,000",I noted here the urban farm.,我在這裡備註了這座都市農場。,100,ok,,
+129,"00:06:33,600 --> 00:06:36,720","Actually, this doesn't sound very interesting, isn't it?",實際上，這聽起來不太有趣，對吧？,100,ok,,
+130,"00:06:36,720 --> 00:06:40,480",People just turned empty land into places to grow food.,人們只是將空地變成種植食物的場所。,100,ok,,
+131,"00:06:40,960 --> 00:06:44,000","Yeah, it was an initiative of Medellin, but",是的，這是麥德林的一項倡議，但,100,ok,,
+132,"00:06:44,000 --> 00:06:45,980",maybe it could be adopted further,或許阿姆斯特丹這樣的城,42,needs_revision,或許可以進一步採用,[low] style: None; [high] meaning_drift: None
+133,"00:06:45,980 --> 00:06:47,860",by such a city as Amsterdam.,市也能夠跟進採用。,30,needs_revision,by such a city as Amsterdam.,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+134,"00:06:48,180 --> 00:06:50,740",What's special about this innovation is that these,這項創新的特別之處在於，這些,87,minor_issues,,[low] style: None
+135,"00:06:50,740 --> 00:06:53,480",urban farms are looked after by neighbors.,都市農場由鄰居們照料。,100,ok,,
+136,"00:06:53,740 --> 00:06:55,760","They work together to grow vegetables,",他們合作種植蔬菜，,100,ok,,
+137,"00:06:55,760 --> 00:06:59,140",which has really improved the social bond in those neighborhoods.,這大大增進了那些社區的凝聚力,45,needs_revision,這大大增進了那些社群的凝聚力,[high] terminology: None
+138,"00:06:59,600 --> 00:07:03,680","As regards agriculture, Singapore proposed a creative method",關於農業，新加坡提出了一項創新的方法,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+139,"00:07:03,680 --> 00:07:05,580",which is vertical gardens.,，即垂直花園。,100,ok,,
+140,"00:07:05,580 --> 00:07:07,489","Because they don't have much land,",因為他們沒有太多土地，,100,ok,,
+141,"00:07:07,490 --> 00:07:08,780",they build upwards.,他們向高處發展。,100,ok,,
+142,"00:07:09,020 --> 00:07:11,540",These super trees collect rainwater,這些超級樹收集雨水，並,45,needs_revision,,[high] meaning_drift: None
+143,"00:07:11,540 --> 00:07:13,900",and have thousands of plants growing on them.,且有成千上萬的植物生長其上。,87,minor_issues,,[low] style: None
+144,"00:07:14,220 --> 00:07:15,560",It is so advanced.,這非常先進。,100,ok,,
+145,"00:07:15,920 --> 00:07:17,560",It helps cool the city down,這有助於降低城市溫度。,100,ok,,
+146,"00:07:17,560 --> 00:07:20,140",and gives people a beautiful park to enjoy,並提供一座美麗的公園，供人,45,needs_revision,並提供一座美麗的公園，供人享用,[high] meaning_drift: None
+147,"00:07:20,140 --> 00:07:21,960",in the middle of a high-rise area.,們在摩天大樓區中享受。,35,needs_revision,位於高樓區中間。,[medium] terminology: None; [high] meaning_drift: None
+148,"00:07:22,280 --> 00:07:25,540","Anyway, have you learned about multi-purpose libraries?",總之，你有學過多功能圖書館嗎？,87,minor_issues,,[low] style: None
+149,"00:07:25,800 --> 00:07:28,020",I read that they aren't just for books anymore.,我讀到它們不再只是用於書籍了。,100,ok,,
+150,"00:07:28,320 --> 00:07:31,060",They have recording studios and coding classes.,他們擁有錄音室和程式設計課程。,80,minor_issues,,[medium] terminology: None
+151,"00:07:31,060 --> 00:07:34,180",And Amsterdam is responsible for this modern way,而阿姆斯特丹負責這項圖書館的現,42,needs_revision,而阿姆斯特丹為此現代化方式負責,[low] style: None; [high] meaning_drift: None
+152,"00:07:34,180 --> 00:07:34,920",of the library.,代化方式。,45,needs_revision,的圖書館。,[high] meaning_drift: None
+153,"00:07:35,640 --> 00:07:38,440","What's even more exciting is that it opens late,",更令人興奮的是，這裡營業時,45,needs_revision,更令人興奮的是，它還晚開,[high] meaning_drift: None
+154,"00:07:38,440 --> 00:07:40,600","has areas for art exhibitions,",間較晚，設有藝術展,45,needs_revision,有藝術展覽區,[high] meaning_drift: None
+155,"00:07:40,600 --> 00:07:42,700",and it's also a place where people,覽區，而且也是人們,81,minor_issues,覽區，而且也是人們聚集的地方,[low] style: None; [low] style: None; [low] style: None
+156,"00:07:42,700 --> 00:07:45,980",from all different backgrounds meet to learn new skills.,來自不同背景的人匯聚一堂，學習新技能。,80,minor_issues,,[medium] terminology: None
+157,"00:07:46,300 --> 00:07:48,080",I wish I could come there one day.,希望有一天我能去那裡。,100,ok,,
+158,"00:07:48,640 --> 00:07:49,220",Me too.,我也是。,87,minor_issues,,[low] style: None
+159,"00:07:49,580 --> 00:07:51,480","Well, that's all seven points covered.",好的，這七個重點都已經涵蓋完畢。,77,minor_issues,,[low] style: None; [medium] terminology: None
+160,"00:07:51,880 --> 00:07:53,800",I think we have a really strong list,我認為我們的清單非常完整,45,needs_revision,我認為我們的清單非常強大,[high] meaning_drift: None
+161,"00:07:53,800 --> 00:07:55,160",of examples for our talk.,我們演講的範例。,80,minor_issues,,[medium] terminology: None
+162,"00:07:55,580 --> 00:07:56,180",Exactly.,沒錯。,100,ok,,
+163,"00:07:56,180 --> 00:07:58,320",Now we just need to go and find,現在我們只需要去找一些,100,ok,,
+164,"00:07:58,320 --> 00:08:00,820",some high-quality photos of those ideas to,高品質的照片，來配合那些想法並放,45,needs_revision,高品質的照片，以展示這些想法,[high] meaning_drift: None
+165,"00:08:00,820 --> 00:08:01,760",put on the slides.,在投影片中。,35,needs_revision,放上投影片。,[medium] terminology: None; [high] meaning_drift: None
+166,"00:08:02,060 --> 00:08:03,880",Let's meet at the computer lab in about,我們大約一小時後在電腦教室,45,needs_revision,我們大約一小時後在電腦教室見,[high] meaning_drift: None
+167,"00:08:03,880 --> 00:08:05,780",an hour to put everything together.,集合，把一切都整理好。,45,needs_revision,花一小時把一切都準備好。,[high] meaning_drift: None
+168,"00:08:05,780 --> 00:08:07,460",I need to get a coffee first.,我先要去喝杯咖啡。,100,ok,,
+169,"00:08:08,080 --> 00:08:09,020","Okay, see you later.",好，再見。,100,ok,,
+170,"00:08:11,510 --> 00:08:12,830",Did you get all of them?,你全部拿到了嗎？,100,ok,,
+171,"00:08:13,170 --> 00:08:15,620",Now let's check the answers together.,現在我們一起來檢查答案。,80,minor_issues,,[medium] terminology: None
+172,"00:08:15,900 --> 00:08:18,050",Question 21.,第 21 題。,100,ok,,
+173,"00:08:18,050 --> 00:08:21,890",Liam initially thought Copenhagen was responsible for the,Liam 原本以為哥本哈根負責回收獎,30,needs_revision,Liam 原本以為哥本哈根負責,[high] meaning_drift: None; [high] meaning_drift: None
+174,"00:08:21,890 --> 00:08:25,110","recycling rewards, but Sarah clarifies that it was",勵，但 Sarah 澄清其實阿,30,needs_revision,獎勵，但 Sarah 澄清它,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+175,"00:08:25,110 --> 00:08:28,790",actually Amsterdam that started that specific program.,姆斯特丹才是啟動該特定計畫的城市。,32,needs_revision,阿姆斯特丹才是啟動該特定計畫的城市。,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+176,"00:08:29,390 --> 00:08:32,510",She explains that the system allows residents to,她說明該系統讓居民可以透過回收,45,needs_revision,她說明該系統讓居民可以做,[high] meaning_drift: None
+177,"00:08:32,510 --> 00:08:36,300",get points or vouchers to spend in local shops,塑膠獲得積分或折價券，用於在,35,needs_revision,可獲得積分或折價券，供在,[medium] terminology: None; [high] meaning_drift: None
+178,"00:08:36,300 --> 00:08:38,350",for recycling plastic.,當地商店消費。,35,needs_revision,回收塑膠。,[medium] terminology: None; [high] meaning_drift: None
+179,"00:08:39,030 --> 00:08:42,650",This specific reward system matches Amsterdam.,這項特定的獎勵制度與阿姆斯特丹相符。,87,minor_issues,,[low] style: None
+180,"00:08:43,330 --> 00:08:44,890",So the answer is A.,所以答案是 A。,100,ok,,
+181,"00:08:45,950 --> 00:08:47,910",Question 22.,第 22 題。,100,ok,,
+182,"00:08:48,550 --> 00:08:51,710",Liam highlights his interest in the bicycle highways,Liam 強調他對自行車專用道的興趣，這些專,30,needs_revision,Liam 強調他對腳踏車專用道的興趣，這些專,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+183,"00:08:51,710 --> 00:08:55,110",that allow commuters to travel from suburbs to,用道讓通勤者能夠從郊區前往市中心，且不,39,needs_revision,讓通勤者能從郊區到,[low] style: None; [low] style: None; [high] meaning_drift: None
+184,"00:08:55,110 --> 00:08:56,690",the center without traffic.,會受到交通擁堵的影響。,30,needs_revision,沒有交通。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+185,"00:08:57,030 --> 00:09:00,130","Sarah confirms this is the idea of Copenhagen,",Sarah 確認這是哥本哈根的構想，,100,ok,,
+186,"00:09:00,370 --> 00:09:03,210",noting that it has improved both public health,注意到它改善了公共衛生和空,87,minor_issues,,[low] style: None
+187,"00:09:03,210 --> 00:09:04,470",and air quality.,氣品質。,35,needs_revision,空氣品質。,[medium] terminology: None; [high] meaning_drift: None
+188,"00:09:04,750 --> 00:09:07,070","Therefore, the answer is C.",因此，答案為 C。,80,minor_issues,,[medium] terminology: None
+189,"00:09:08,510 --> 00:09:09,610",Question 23.,第 23 題。,100,ok,,
+190,"00:09:10,130 --> 00:09:13,670","Liam suggests Medellin introduced the rapid bus system,",Liam 建議麥德林引進了快速公車系統，,100,ok,,
+191,"00:09:13,950 --> 00:09:17,490","but Sarah corrects him, stating it was invented by Curitiba.",但 Sarah 糾正他，表示這是由庫里蒂巴發明的。,100,ok,,
+192,"00:09:17,690 --> 00:09:21,310",She explains that Curitiba created special lanes for,她解釋說，库里蒂巴為長公車設置了專用車道，,30,needs_revision,她解釋說，库里蒂巴為長公車設定了專用車道，,[high] terminology: None; [medium] terminology: None; [high] None: None
+193,"00:09:21,310 --> 00:09:24,470",long buses to act like a subway on the road.,讓它們在道路上發揮如同捷運的作用。,100,ok,,
+194,"00:09:24,850 --> 00:09:27,450",This matches the innovation for Curitiba.,這符合庫里蒂巴的創新。,100,ok,,
+195,"00:09:27,630 --> 00:09:29,130",So the answer is B.,因此答案是 B。,100,ok,,
+196,"00:09:30,870 --> 00:09:31,930",Question 24.,第 24 題。,100,ok,,
+197,"00:09:32,490 --> 00:09:36,210",Sarah explains that she researched this topic extensively,莎拉表示她深入研究了這個主題，並,45,needs_revision,莎拉解釋說她深入研究了這個主題,[high] meaning_drift: None
+198,"00:09:36,210 --> 00:09:40,950",and found that Copenhagen invented this approach to energy.,發現哥本哈根發明了這種能源方法。,80,minor_issues,,[medium] terminology: None
+199,"00:09:41,650 --> 00:09:44,930",Curitiba was a distractor because both Liam and,Curitiba 是一個干擾項，因為 Liam 和,80,minor_issues,庫里蒂巴 是一個干擾項，因為 Liam 和,[medium] terminology: None
+200,"00:09:44,930 --> 00:09:48,110",Sarah thought that it was where the idea came from.,莎拉認為這是這個想法的來源。,100,ok,,
+201,"00:09:48,250 --> 00:09:52,770",But Sarah says that Curitiba only borrows the idea.,但莎拉表示，Curitiba 只是借用這個想法。,80,minor_issues,但莎拉表示，庫里蒂巴 只是借用這個想法。,[medium] terminology: None
+202,"00:09:52,770 --> 00:09:56,870",She also notes that Copenhagen invested heavily in,她還提到，哥本哈根在離岸風力發電場上,45,needs_revision,她還指出，哥本哈根在,[high] meaning_drift: None
+203,"00:09:56,870 --> 00:10:00,590","offshore wind farms, even building a power plant",投入了大量資金，甚至建造了一座屋頂,30,needs_revision,離岸風場，甚至建造電廠,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+204,"00:10:00,590 --> 00:10:02,530",with a ski slope on the roof.,設有滑雪坡的發電廠。,45,needs_revision,屋頂有滑雪道。,[high] meaning_drift: None
+205,"00:10:02,790 --> 00:10:05,390","Consequently, the answer is C.",因此，答案為 C。,80,minor_issues,,[medium] terminology: None
+206,"00:10:06,830 --> 00:10:07,970",Question 25.,第 25 題。,100,ok,,
+207,"00:10:08,470 --> 00:10:12,250","Sarah identifies this as an initiative of Medellin,",莎拉認為這是麥德林的一項倡議，不,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+208,"00:10:12,390 --> 00:10:14,890",though she mentions other cities could adopt it.,過她也提到其他城市可能會效仿。,84,minor_issues,不過她也提到其他城市可能會效仿。,[low] style: None; [low] typo: None
+209,"00:10:15,050 --> 00:10:17,650",She notes the farms are managed by neighbors,她提到這些農場由鄰居共同管理，,100,ok,,
+210,"00:10:17,650 --> 00:10:21,350","who work together, which strengthens community social bonds.",他們相互合作，這增強了社區的社會連結。,45,needs_revision,他們相互合作，這增強了社群的社會連結。,[high] terminology: None
+211,"00:10:21,350 --> 00:10:23,230",This aligns with Medellin.,這與麥德林相符。,100,ok,,
+212,"00:10:23,490 --> 00:10:24,810",So the answer is D.,因此答案為 D。,80,minor_issues,,[medium] terminology: None
+213,"00:10:26,310 --> 00:10:27,490",Question 26.,第 26 題。,100,ok,,
+214,"00:10:27,970 --> 00:10:31,450",Liam mentions that Singapore proposed this creative method,Liam 提到，新加坡提出這項創意方法，,100,ok,,
+215,"00:10:31,450 --> 00:10:33,510",because they have limited land.,是因為他們土地有限。,100,ok,,
+216,"00:10:33,710 --> 00:10:37,350",He describes super trees that build upwards to,他描述了向上生長以收集雨水並容納數,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+217,"00:10:37,350 --> 00:10:40,490",collect rainwater and house thousands of plants.,千株植物的 super trees。,45,needs_revision,收集雨水並種植大量植物。,[high] meaning_drift: None
+218,"00:10:40,910 --> 00:10:43,910",This vertical gardening innovation belongs to Singapore.,這項垂直園藝創新源自新加坡。,100,ok,,
+219,"00:10:44,290 --> 00:10:46,190",So the answer is E.,因此答案為 E。,80,minor_issues,,[medium] terminology: None
+220,"00:10:47,290 --> 00:10:49,120",Question 27.,第 27 題。,100,ok,,
+221,"00:10:49,120 --> 00:10:52,640",Liam reads that these modern facilities include,Liam 閱讀指出，這些現代設,32,needs_revision,Liam 看到，這些現代設施,[medium] terminology: None; [high] meaning_drift: None; [low] typo: None
+222,"00:10:52,640 --> 00:10:55,640",recording studios and coding classes.,施包括錄音室和編程課程。,35,needs_revision,包括錄音室和編程課程。,[medium] terminology: None; [high] meaning_drift: None
+223,"00:10:55,810 --> 00:10:59,790",He explicitly states that Amsterdam is responsible for,他明確指出，阿姆斯特丹負責這種,42,needs_revision,他明確指出，阿姆斯特丹負責這件事,[low] style: None; [high] meaning_drift: None
+224,"00:10:59,790 --> 00:11:03,450",this modern multi-purpose approach to libraries.,現代化的圖書館多功能方法。,84,minor_issues,現代圖書館的多功能做法。,[low] collocation: None; [low] style: None
+225,"00:11:03,950 --> 00:11:05,890","Therefore, the answer is A.",因此答案為 A。,80,minor_issues,,[medium] terminology: None
+226,"00:11:12,930 --> 00:11:15,770",So how many correct answers have you got?,那麼你答對幾題了？,80,minor_issues,,[medium] terminology: None
+227,"00:11:16,330 --> 00:11:19,210",Try to practice this question times many times,多練習這道題目，以提,45,needs_revision,多練習這道題目，來提升,[high] meaning_drift: None
+228,"00:11:19,210 --> 00:11:22,310",to improve your listening skills and memorize the,升聽力並熟記剛才學到,35,needs_revision,提升聽力並記住,[medium] terminology: None; [high] meaning_drift: None
+229,"00:11:22,310 --> 00:11:24,040",paraphrases you just learned.,的同義轉換。,35,needs_revision,你剛學到的同義改寫。,[medium] terminology: None; [high] meaning_drift: None
+230,"00:11:24,580 --> 00:11:26,860","Now, let's review what we've learned today.",現在，讓我們複習一下今天所學的內容。,100,ok,,
+231,"00:11:27,530 --> 00:11:29,920",Today's lesson was divided into three parts.,今天的課程分為三個部分。,100,ok,,
+232,"00:11:30,450 --> 00:11:33,310",Part 1. General introduction to matching questions.,第一部分：配對題型簡介。,45,needs_revision,,[high] placeholder: None
+233,"00:11:33,730 --> 00:11:37,230",Part 2. Strategy or steps to handle the question type.,第二部分。應對題型的策略或步驟。,45,needs_revision,,[high] placeholder: None
+234,"00:11:37,630 --> 00:11:40,210",And part 3. Practice and explanation.,第三部分：練習與解說。,45,needs_revision,,[high] placeholder: None
+235,"00:11:40,770 --> 00:11:43,730","Also, please memorize some notes for this question type.",此外，請記住這道題型的備註。,100,ok,,
+236,"00:11:44,250 --> 00:11:46,960",The questions come in the same order as the recording.,題目順序與錄音相同。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+237,"00:11:47,170 --> 00:11:49,530",The information in the recording comes in the,錄音中的資訊會按照與題目相同的順序,45,needs_revision,錄音中的資訊來自,[high] meaning_drift: None
+238,"00:11:49,530 --> 00:11:52,050","same order as the questions, like questions 1",出現，例如第 1 至 4 題或第,30,needs_revision,順序與問題相同，例如第 1 題,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+239,"00:11:52,050 --> 00:11:54,590",to 4 or questions 12 to 14.,12 至 14 題。,77,minor_issues,第 12 至 14 題。,[medium] terminology: None; [low] style: None
+240,"00:11:55,230 --> 00:11:59,310","However, options A, B, C, and D aren't",然而，選項 A、B、C 和 D 並非,87,minor_issues,,[low] style: None
+241,"00:11:59,310 --> 00:12:00,970",mentioned in any set order.,在任何題組順序中提及。,100,ok,,
+242,"00:12:02,010 --> 00:12:04,710","During listening, the speaker may give an answer",聽力過程中，講者可能會給出一個,39,needs_revision,聽力過程中，說話者可能會回答,[low] style: None; [low] style: None; [high] meaning_drift: None
+243,"00:12:04,710 --> 00:12:06,400","which sounds like the correct one,",聽起來正確的答案，但隨,30,needs_revision,聽起來是正確的,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+244,"00:12:06,600 --> 00:12:08,320",but then denies that answer,後又否定了該答案。,100,ok,,
+245,"00:12:08,690 --> 00:12:10,510",Be careful if you hear the words like,聽到以下類型的詞彙時請小心：,45,needs_revision,聽到以下型別的詞彙時請小心：,[high] terminology: None
+246,"00:12:10,510 --> 00:12:12,250","not, but, or however.",不，但是，或者然而。,81,minor_issues,不，但是，或者不過。,[low] style: None; [low] style: None; [low] register: None
+247,"00:12:13,110 --> 00:12:14,840",This often means that the speaker,這通常表示講者,84,minor_issues,這通常表示說話者,[low] style: None; [low] style: None
+248,"00:12:14,840 --> 00:12:17,370",is going to deny the previous statement.,將要否認前一句話。,100,ok,,
+249,"00:12:17,370 --> 00:12:19,480","Usually, the recording is a conversation",通常，錄音是由至少兩,45,needs_revision,通常，錄音是一場對話,[high] meaning_drift: None
+250,"00:12:19,480 --> 00:12:21,000",between at least two people.,人進行的對話。,35,needs_revision,至少兩人之間的對話。,[medium] terminology: None; [high] meaning_drift: None
+251,"00:12:21,280 --> 00:12:24,110","So, it's important to pay attention to who",因此，請務必留意是誰,80,minor_issues,,[medium] terminology: None
+252,"00:12:24,110 --> 00:12:26,940",is speaking and avoid getting confused,在說話，並避免搞混,100,ok,,
+253,"00:12:26,940 --> 00:12:28,500",between different speakers.,不同說話者。,87,minor_issues,,[low] style: None
+254,"00:12:29,310 --> 00:12:31,430","Alright, that's it for today's lesson.",好的，今天的課程到此結束。,100,ok,,
+255,"00:12:31,850 --> 00:12:34,150",Don't forget to do the exercises and practice,別忘了完成練習和練習。,77,minor_issues,別忘了完成練習與實作。,[medium] terminology: None; [low] collocation: None
+256,"00:12:34,150 --> 00:12:35,840",what you've learned regularly.,你定期所學到的內容。,87,minor_issues,你定期學到的內容。,[low] style: None
+257,"00:12:36,030 --> 00:12:38,000","Goodbye, and see you in the next lesson.",再見，下一堂課見。,100,ok,,

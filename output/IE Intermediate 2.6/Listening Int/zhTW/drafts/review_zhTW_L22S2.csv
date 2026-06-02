@@ -1,0 +1,191 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:12,260 --> 00:00:15,660","Hey guys, welcome back to our IELTS Listening course.",大家好，歡迎回到我們的 雅思 聽力課程。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+2,"00:00:15,980 --> 00:00:18,660","In the previous lesson, we learned the steps",在上個單元中，我們學到了,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+3,"00:00:18,660 --> 00:00:21,740",to tackle map labeling question type in the,處理地圖標記題型的步驟。,30,needs_revision,處理地圖示記題型的步驟。,[high] terminology: None; [high] meaning_drift: None; [low] terminology: None
+4,"00:00:21,740 --> 00:00:23,280",IELTS Listening course.,雅思 聽力課程。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+5,"00:00:23,440 --> 00:00:26,500",Let's do a quick exercise to review those steps.,我們來做個快速練習，複習一下那些步驟。,100,ok,,
+6,"00:00:27,760 --> 00:00:29,720",Did you get all the steps correctly?,你正確完成所有步驟了嗎？,80,minor_issues,,[medium] terminology: None
+7,"00:00:30,060 --> 00:00:30,700",Great job.,做得很好。,100,ok,,
+8,"00:00:30,860 --> 00:00:33,220",Here are the steps for map labeling questions,以下是雅思聽力測驗中地圖標示,30,needs_revision,以下是雅思聽力測驗中地圖示示,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+9,"00:00:33,220 --> 00:00:35,480",in the IELTS Listening test.,題目的解答步驟。,30,needs_revision,在雅思聽力測驗中。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+10,"00:00:35,480 --> 00:00:38,760","Step one, read the instructions carefully to note",第一步，仔細閱讀說明以留意,80,minor_issues,,[medium] terminology: None
+11,"00:00:38,760 --> 00:00:41,480",whether you're required to write the locations or,無論你是否需要填寫地點，或是填入選,45,needs_revision,無論你是否需要填寫地點，或是,[high] meaning_drift: None
+12,"00:00:41,480 --> 00:00:44,680","fill in the letter A, B, C, or D.",項 A、B、C 或 D。,35,needs_revision,請填寫 A、B、C 或 D。,[medium] terminology: None; [high] meaning_drift: None
+13,"00:00:46,820 --> 00:00:49,100","Step two, read the map.",第二步，閱讀地圖。,100,ok,,
+14,"00:00:50,520 --> 00:00:53,980","Step three, identify the starting point and the",第三步，找出起點以及方,45,needs_revision,第三步，找出起點以及方向,[high] meaning_drift: None
+15,"00:00:53,980 --> 00:00:55,720",order of directions and locations.,向與地點的順序。,35,needs_revision,方向與地點的順序。,[medium] terminology: None; [high] meaning_drift: None
+16,"00:00:56,660 --> 00:00:59,360","Step four, listen and fill in the blanks.",第四步，聆聽並填寫空白處。,77,minor_issues,第四步，聽並填寫空白處。,[medium] terminology: None; [low] register: None
+17,"00:00:59,560 --> 00:01:02,180","Step five, write the correct answers.",第五步，寫下正確答案。,100,ok,,
+18,"00:01:02,790 --> 00:01:05,660","Now, let's practice these steps with an exercise.",現在，讓我們透過練習來練習這些步驟。,87,minor_issues,現在，讓我們透過實作來練習這些步驟。,[low] collocation: None
+19,"00:01:11,280 --> 00:01:12,980",Here's today's listening test.,這是今天的聽力測驗。,100,ok,,
+20,"00:01:13,260 --> 00:01:16,040","Looking at this question, what should we do first?",看著這道題目，我們應該先做什麼？,100,ok,,
+21,"00:01:16,360 --> 00:01:19,640","Step one, read the instructions carefully to note",第一步，仔細閱讀說明，確認是,35,needs_revision,第一步，仔細閱讀說明，並留意,[medium] terminology: None; [high] meaning_drift: None
+22,"00:01:19,640 --> 00:01:22,740",whether you're required to write the locations or,否需要填寫地點或填入選項 A,45,needs_revision,是否必須填寫地點或,[high] meaning_drift: None
+23,"00:01:22,740 --> 00:01:26,720","fill in the letter A, B, C, or D.",、B、C 或 D。,35,needs_revision,填入 A、B、C 或 D。,[medium] terminology: None; [high] meaning_drift: None
+24,"00:01:26,940 --> 00:01:29,360","In this exercise, you only need to write",在此練習中，你只需要在空白處,45,needs_revision,在此練習中，你只需要寫,[high] meaning_drift: None
+25,"00:01:29,360 --> 00:01:32,020",the letters A to I in the blanks.,寫上字母 A 到 I。,35,needs_revision,空白處填入字母 A 到 I。,[medium] terminology: None; [high] meaning_drift: None
+26,"00:01:32,900 --> 00:01:36,140","Step two, read the map.",第二步，查看地圖。,45,needs_revision,第二步，檢視地圖。,[high] terminology: None
+27,"00:01:36,780 --> 00:01:38,960",You should note that you only have a,請注意，你只有幾秒鐘,35,needs_revision,請注意，你只擁有,[medium] terminology: None; [high] meaning_drift: None
+28,"00:01:38,960 --> 00:01:41,440","few seconds to read the map, so quickly",的時間來閱讀地圖，因此,35,needs_revision,花幾秒看地圖，所以,[medium] terminology: None; [high] meaning_drift: None
+29,"00:01:41,440 --> 00:01:45,160","read the given locations, especially pay close attention",請快速閱讀指定的地點，特別要仔細,30,needs_revision,請閱讀以下地點，並特別仔細注意,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+30,"00:01:45,160 --> 00:01:48,620",to the directions and names of locations needed to be found.,留意需要尋找的地點的方向和名稱。,100,ok,,
+31,"00:01:48,880 --> 00:01:51,620","In this map, we need to highlight these locations.",在地圖上，我們需要標示出這些位置。,80,minor_issues,,[medium] terminology: None
+32,"00:01:52,400 --> 00:01:58,300","Main entrance, information desk, emergency exit, staff room,",正門、資訊櫃檯、緊急出口、員工休息室以及咖,35,needs_revision,正門、資訊櫃檯、緊急出口、員工休息室以及咖啡廳,[medium] terminology: None; [high] meaning_drift: None
+33,"00:01:58,700 --> 00:01:59,220",and cafe.,啡廳。,35,needs_revision,和咖啡廳。,[medium] terminology: None; [high] meaning_drift: None
+34,"00:02:00,620 --> 00:02:04,420","Step three, identify the starting point and the",第三步，找出起點以及方,45,needs_revision,第三步，找出起點以及方向,[high] meaning_drift: None
+35,"00:02:04,420 --> 00:02:06,700",order of directions and locations.,向和地點的順序。,35,needs_revision,方向與地點的順序。,[medium] terminology: None; [high] meaning_drift: None
+36,"00:02:07,160 --> 00:02:09,620","With our map, it is very likely that",根據我們的地圖，起,45,needs_revision,根據我們的地圖，很可能,[high] meaning_drift: None
+37,"00:02:09,620 --> 00:02:12,280","the starting point is at the main entrance,",點很可能位於正門，而正,35,needs_revision,起始點位於正門,[medium] terminology: None; [high] meaning_drift: None
+38,"00:02:12,520 --> 00:02:14,280",which is at the bottom of the map.,門則在地圖的底部。,42,needs_revision,它則在地圖的最下方。,[high] meaning_drift: None; [low] style: None
+39,"00:02:14,520 --> 00:02:17,580","After entering, you will see the information desk",進入後，你會看到位於建築物,35,needs_revision,進入後，你會看到資訊台,[medium] terminology: None; [high] meaning_drift: None
+40,"00:02:17,580 --> 00:02:19,160",at the center of the building.,中央的資訊櫃檯。,45,needs_revision,中央的櫃檯。,[high] meaning_drift: None
+41,"00:02:19,960 --> 00:02:21,660",This can be a reference point when the,當旁白解說如何前往其他地,35,needs_revision,這是當...時的參考點,[medium] terminology: None; [high] meaning_drift: None
+42,"00:02:21,660 --> 00:02:24,660",narrator explains how to get to other locations.,點時，這可以作為一個參考點。,30,needs_revision,旁白說明如何前往其他地點。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+43,"00:02:25,820 --> 00:02:29,520","For maps with location names, we should also",對於標有地點名稱的地圖，我們也,87,minor_issues,,[low] style: None
+44,"00:02:29,520 --> 00:02:31,700",highlight the names in the questions.,應在問題中標示這些名稱。,100,ok,,
+45,"00:02:32,060 --> 00:02:34,640","These are names of locations, so they are",這些是地點名稱，因此它們是,100,ok,,
+46,"00:02:34,640 --> 00:02:37,820",unchangeable keywords and will appear in the audio.,關鍵字為固定內容，並會出現在音訊中。,100,ok,,
+47,"00:02:38,100 --> 00:02:40,440",Make sure to spend time reading through all,請務必花時間閱讀所有,30,needs_revision,請務必花時間閱讀所有內容,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+48,"00:02:40,440 --> 00:02:43,260",of them to familiarize yourself with how to,內容，以熟悉這些名稱,45,needs_revision,of them to familiarize yourself with how to,[high] meaning_drift: None
+49,"00:02:43,260 --> 00:02:44,340",pronounce the names.,的發音。,45,needs_revision,念出名字。,[high] meaning_drift: None
+50,"00:02:45,640 --> 00:02:49,160","Step four, listen and fill in the blanks.",第四步，聽力填空。,80,minor_issues,,[medium] terminology: None
+51,"00:02:49,260 --> 00:02:51,780","While listening, we should also keep an eye",聽力過程中，我們也應留,30,needs_revision,聽力過程中，我們也應留意,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+52,"00:02:51,780 --> 00:02:54,220",on the surroundings of the place we're seeking.,意目標地點周遭的環境。,32,needs_revision,意目標地點週遭的環境。,[high] terminology: None; [medium] terminology: None; [low] style: None
+53,"00:02:54,220 --> 00:02:57,040","If we miss a piece of information, quickly",如果遺漏了任何資訊，請迅,45,needs_revision,如果遺漏了任何資訊，請盡快,[high] meaning_drift: None
+54,"00:02:57,040 --> 00:03:00,040",catch the keyword to move on to the next location.,速捕捉關鍵字以繼續進行下一步。,100,ok,,
+55,"00:03:01,380 --> 00:03:04,100","Step five, write the correct answers.",第五步，寫下正確答案。,100,ok,,
+56,"00:03:04,420 --> 00:03:07,300","Finally, don't forget to revisit the instructions to",最後，別忘了重新檢視說明,100,ok,,
+57,"00:03:07,300 --> 00:03:09,300",check whether we need to write the letter,，確認是否需要寫信。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+58,"00:03:09,300 --> 00:03:13,580","A, B, C, or D, or the full name of the locations.",A、B、C、D，或地點的全名。,80,minor_issues,,[medium] terminology: None
+59,"00:03:13,900 --> 00:03:15,580",Now let's listen to the audio,現在請聆聽錄音,77,minor_issues,現在請聽錄音,[medium] terminology: None; [low] register: None
+60,"00:03:15,580 --> 00:03:18,000",and write down the answers on your paper.,，並將答案寫在紙上。,100,ok,,
+61,"00:03:19,520 --> 00:03:23,880",Now listen and answer questions 11 to 17.,現在請聽錄音並回答第 11 至 17 題。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+62,"00:03:25,000 --> 00:03:26,620","Good morning, everyone,",各位早安，歡,35,needs_revision,各位早安，歡迎,[medium] terminology: None; [high] meaning_drift: None
+63,"00:03:26,620 --> 00:03:29,620",and welcome to the City Technology Institute.,迎蒞臨城市科技學院。,77,minor_issues,歡迎蒞臨城市科技學院。,[medium] terminology: None; [low] register: None
+64,"00:03:29,760 --> 00:03:32,040","My name is Sarah, and I'll be giving you",我叫 Sarah，接下來將,45,needs_revision,我叫 Sarah，我將,[high] meaning_drift: None
+65,"00:03:32,040 --> 00:03:35,800",a brief orientation of our new Science of the Future wing,為你簡要介紹我們的新「未來科學」部門。,100,ok,,
+66,"00:03:35,800 --> 00:03:38,280",before you explore it on your own.,在你自行探索之前。,87,minor_issues,,[low] style: None
+67,"00:03:38,280 --> 00:03:39,940","If you look at your maps, we are",請查看你的地圖，我,30,needs_revision,請檢視你的地圖，我,[high] terminology: None; [high] meaning_drift: None
+68,"00:03:39,940 --> 00:03:42,120",currently standing at the main entrance.,們目前正站在主要入口處。,77,minor_issues,我們目前正站在主要入口處。,[medium] terminology: None; [low] grammar: None
+69,"00:03:42,680 --> 00:03:44,720","Directly in front of you, in the middle",你正前方的大廳中,80,minor_issues,,[medium] terminology: None
+70,"00:03:44,720 --> 00:03:46,680","of the hall, is the information desk.",央是資訊櫃檯。,30,needs_revision,大廳裡是資訊櫃檯。,[high] meaning_drift: None; [high] meaning_drift: None
+71,"00:03:46,680 --> 00:03:49,760","If you lose your group, please meet back here.",如果你與團體走散了，請在這裡集合。,80,minor_issues,,[medium] terminology: None
+72,"00:03:50,500 --> 00:03:52,780","First, there is a space in our museum",首先，我們博物館內有一個空間,100,ok,,
+73,"00:03:52,780 --> 00:03:55,440",that is full of science books and kits,，擺滿了你可以帶回家閱讀的科,35,needs_revision,，擺滿了你可以帶回家閱讀的科學書籍和套件,[medium] terminology: None; [high] meaning_drift: None
+74,"00:03:55,440 --> 00:03:56,700",that you can take home.,學書籍與實驗套件。,35,needs_revision,that you can take home。,[medium] terminology: None; [high] meaning_drift: None
+75,"00:03:56,940 --> 00:03:58,400",It's the museum shop.,這是博物館商店。,100,ok,,
+76,"00:03:58,980 --> 00:04:01,420",Right immediately as you enter the building through,一進入大樓主入口，你,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+77,"00:04:01,420 --> 00:04:03,720","the main entrance, you will see the shop",就會看到右側的,30,needs_revision,在大門入口處，你會看到那家店,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+78,"00:04:03,720 --> 00:04:04,480",on your right.,商店。,35,needs_revision,你的右邊。,[medium] terminology: None; [high] meaning_drift: None
+79,"00:04:05,380 --> 00:04:09,260","Directly across from the shop, on the other side of the entrance,",在商店對面，入口的另一側是,77,minor_issues,商店正對面，入口的另一側是,[medium] terminology: None; [low] collocation: None
+80,"00:04:09,260 --> 00:04:11,960",is the Evolution of Computers gallery.,電腦演進展廳。,45,needs_revision,,[high] meaning_drift: None
+81,"00:04:12,240 --> 00:04:14,800","This is a great place to start your visit,",這裡是開始你參觀行程的理想地,80,minor_issues,,[medium] terminology: None
+82,"00:04:14,800 --> 00:04:17,120",because you can see how computers have,點，因為你可以看到電腦如何,45,needs_revision,因為你可以看到電腦如何,[high] meaning_drift: None
+83,"00:04:17,120 --> 00:04:20,700",changed from giant machines into the small phones,從龐大的機器演變成我們今天使用的小,45,needs_revision,從龐大的機器演變成我們今天使用的手機,[high] meaning_drift: None
+84,"00:04:20,700 --> 00:04:21,640",we use today.,型手機。,45,needs_revision,我們今天使用的。,[high] meaning_drift: None
+85,"00:04:22,320 --> 00:04:24,940","From this room, if you walk a bit further,",從這個房間繼續往前走一點，,100,ok,,
+86,"00:04:24,940 --> 00:04:27,746",you'll come to the room located halfway.,你會來到位於中途的房間。,100,ok,,
+87,"00:04:27,750 --> 00:04:31,260","It's our Renewable Energy Exhibit, where there are",這是我們的 Renewable Energy,35,needs_revision,這是我們的再生能源展覽,[medium] terminology: None; [high] meaning_drift: None
+88,"00:04:31,260 --> 00:04:33,160",interactive screens that show,Exhibit，這裡有互動,45,needs_revision,顯示互動螢幕的,[high] meaning_drift: None
+89,"00:04:33,160 --> 00:04:35,960",how much energy the city is using right now.,螢幕，可以顯示該城市目前的能源使用量。,45,needs_revision,該城市目前的能源使用量。,[high] meaning_drift: None
+90,"00:04:36,760 --> 00:04:40,760","Now, I know lots of you are interested in the robotics lab.",現在，我知道在座各位對 robotics lab 很有興趣。,70,minor_issues,現在，我知道在座各位對 機器人實驗室 很有興趣。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None
+91,"00:04:41,200 --> 00:04:43,200","To head there, let's go along",要前往那裡，請沿著建,32,needs_revision,,[medium] terminology: None; [low] style: None; [high] meaning_drift: None
+92,"00:04:43,200 --> 00:04:45,264",the right hand wall of the building.,築物的右手側牆壁前進。,32,needs_revision,建建築物的右側牆壁。,[medium] terminology: None; [high] meaning_drift: None; [low] typo: None
+93,"00:04:45,400 --> 00:04:48,460",You will find it right opposite the information desk.,它就在資訊櫃檯的正對面。,100,ok,,
+94,"00:04:48,840 --> 00:04:50,520","And there is a cafe there,",那裡還有一家咖啡廳，,100,ok,,
+95,"00:04:50,520 --> 00:04:52,920",so you can sit and have a drink while you,所以你可以坐下來喝點東西，同時,100,ok,,
+96,"00:04:52,920 --> 00:04:56,240",watch our engineers working on new robot designs,透過大窗戶觀看我們的工程師進,45,needs_revision,透過大窗戶觀看我們的工程師進行,[high] meaning_drift: None
+97,"00:04:56,240 --> 00:04:57,560",through the large windows.,行新機器人設計。,35,needs_revision,透過大窗戶。,[medium] terminology: None; [high] meaning_drift: None
+98,"00:04:58,200 --> 00:05:00,400",If you keep walking toward the back of,如果你繼續往建築物內,35,needs_revision,如果你繼續往後面,[medium] terminology: None; [high] meaning_drift: None
+99,"00:05:00,400 --> 00:05:02,560","the building, you will find the room in",部走，你會發現這間房間,42,needs_revision,裡，你會找到這間房間,[high] meaning_drift: None; [low] collocation: None
+100,"00:05:02,560 --> 00:05:04,780",the far top right-hand corner.,在遠端的右上角。,84,minor_issues,在最右上方。,[low] collocation: None; [low] style: None
+101,"00:05:04,780 --> 00:05:07,500",This is the Space Exploration Room.,這是太空探索教室。,100,ok,,
+102,"00:05:08,000 --> 00:05:10,660",It contains a beautiful model of the Moon,這裡有一個精美的月球模型，以,45,needs_revision,它包含一個精美的月球模型,[high] meaning_drift: None
+103,"00:05:10,660 --> 00:05:13,460",and many interesting facts about our galaxy.,及許多關於我們星系的有趣事實。,100,ok,,
+104,"00:05:14,400 --> 00:05:17,000","Next, the 3D Science Cinema.",接下來是 3D Science Cinema。,87,minor_issues,接下來是 3D 科學電影院。,[low] style: None
+105,"00:05:17,560 --> 00:05:20,440",We show short movies here every hour about,我們這裡每個小時都會放映關於的短片,87,minor_issues,,[low] style: None
+106,"00:05:20,440 --> 00:05:23,120","life under the ocean and in outer space,",海底生活與外太空探索，孩,42,needs_revision,海底生活與外太空，，,[high] meaning_drift: None; [low] typo: None
+107,"00:05:23,260 --> 00:05:25,980",and children would really love this place.,子們一定會非常喜歡這裡。,87,minor_issues,孩子們一定會非常喜歡這裡。,[low] typo: None
+108,"00:05:26,460 --> 00:05:30,000","To go there, from the information desk, go straight ahead.",前往該處，請從服務台直走。,80,minor_issues,,[medium] terminology: None
+109,"00:05:30,000 --> 00:05:33,060","The cinema is on your left, opposite the",電影院位於你的左側，穿過員工,35,needs_revision,電影院位於你的左側，員工對面,[medium] terminology: None; [high] meaning_drift: None
+110,"00:05:33,060 --> 00:05:35,320","printing hub, through the staff room.",休息室，正對著印表機中心。,80,minor_issues,,[medium] terminology: None
+111,"00:05:36,260 --> 00:05:38,840","If you still have time and energy, go",如果你還有時間和精力，請前往電影院,45,needs_revision,如果你還有時間和精力，去吧,[high] meaning_drift: None
+112,"00:05:38,840 --> 00:05:40,900",to the Virtual Reality Zone,另一側牆面的 Virtua,35,needs_revision,虛擬實境區,[medium] terminology: None; [high] meaning_drift: None
+113,"00:05:40,900 --> 00:05:42,821",on the other wall of the cinema.,l Reality Zone。,45,needs_revision,另一面牆上。,[high] meaning_drift: None
+114,"00:05:43,020 --> 00:05:45,740","We provided special headsets for you to wear,",我們為你準備了專屬耳機，讓你,45,needs_revision,我們為你準備了專屬耳機，並請你戴上,[high] meaning_drift: None
+115,"00:05:46,160 --> 00:05:48,400",giving you a chance to visit places like,有機會造訪如以下等景點：,100,ok,,
+116,"00:05:48,400 --> 00:05:50,700",the top of a mountain or the bottom,不用離開房間，就能置,45,needs_revision,山頂或山腳,[high] meaning_drift: None
+117,"00:05:50,700 --> 00:05:53,480",of the sea without ever leaving the room.,身於高山巔峰或深海之底。,42,needs_revision,在海上，卻從未離開房間。,[low] style: None; [high] meaning_drift: None
+118,"00:05:54,260 --> 00:05:56,220",That's an overview of our museum.,以上就是我們博物館的簡介。,100,ok,,
+119,"00:05:56,700 --> 00:05:57,420",You can...,你可以……,100,ok,,
+120,"00:05:57,420 --> 00:05:59,500",Did you get all of them?,你都拿到了嗎？,80,minor_issues,,[medium] terminology: None
+121,"00:05:59,860 --> 00:06:02,160",Now let's check the answers together.,現在我們一起來檢查答案。,80,minor_issues,,[medium] terminology: None
+122,"00:06:02,580 --> 00:06:03,220",Question 11.,第 11 題。,100,ok,,
+123,"00:06:03,500 --> 00:06:06,595",The speaker starts by mentioning a space,講者首先提到一個充滿科學,42,needs_revision,講者首先提到一個空間,[low] style: None; [high] meaning_drift: None
+124,"00:06:06,600 --> 00:06:08,980",full of science books and kits.,書籍和套裝的空間。,77,minor_issues,書籍和套件的空間。,[medium] terminology: None; [low] terminology: None
+125,"00:06:09,260 --> 00:06:11,740",She says that immediately as you enter the,她說，一進入,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+126,"00:06:11,740 --> 00:06:14,560","building through the main entrance, the shop is",穿過正門進入大廳，商店位於你,45,needs_revision,穿過正門，商店位於,[high] meaning_drift: None
+127,"00:06:14,560 --> 00:06:15,460",on your right.,的右側。,80,minor_issues,,[medium] terminology: None
+128,"00:06:16,160 --> 00:06:19,260",The only location on the right of the main entrance is A.,正門右側唯一的地點是 A。,100,ok,,
+129,"00:06:19,340 --> 00:06:21,340","So, the answer is A.",因此，答案是 A。,100,ok,,
+130,"00:06:22,480 --> 00:06:23,720",Question 12.,第 12 題。,100,ok,,
+131,"00:06:24,180 --> 00:06:26,240",Evolution of Computers Gallery.,電腦演進展廳。,100,ok,,
+132,"00:06:26,240 --> 00:06:30,040","Next, we look for the room directly across",接下來，我們要找商店正對,45,needs_revision,接下來，我們要找房間正對,[high] meaning_drift: None
+133,"00:06:30,040 --> 00:06:30,820",from the shop.,面的房間,45,needs_revision,from the shop,[high] meaning_drift: None
+134,"00:06:31,040 --> 00:06:33,200",The speaker states it is on the other,講者指出它在入口的,39,needs_revision,說話者指出它在另一邊,[low] style: None; [low] style: None; [high] meaning_drift: None
+135,"00:06:33,200 --> 00:06:36,060","side of the entrance, which means the gallery",另一側，這表示展覽廳,100,ok,,
+136,"00:06:36,060 --> 00:06:38,360",is on the left of the main entrance.,位於正門左側。,45,needs_revision,,[high] meaning_drift: None
+137,"00:06:38,640 --> 00:06:41,500",Option B is directly opposite room A.,選項 B 位於房間 A 的正對面。,100,ok,,
+138,"00:06:41,860 --> 00:06:43,580","So, the answer is B.",所以，答案是 B。,80,minor_issues,,[medium] terminology: None
+139,"00:06:44,960 --> 00:06:46,060",Question 13.,第 13 題。,100,ok,,
+140,"00:06:46,460 --> 00:06:48,480",Renewable Energy Exhibit.,再生能源展覽。,80,minor_issues,,[medium] terminology: None
+141,"00:06:48,480 --> 00:06:51,860",From the computer gallery at location B that,從我們剛找到的 B 地點電,45,needs_revision,從位於 B 地點的電腦畫廊中,[high] meaning_drift: None
+142,"00:06:51,860 --> 00:06:54,400","we just found, the speaker tells us to",腦展廳，講者告訴我們再往,30,needs_revision,我們剛剛發現，說話者告訴我們讓我們,[low] style: None; [high] meaning_drift: None; [low] style: None; [high] meaning_drift: None
+143,"00:06:54,400 --> 00:06:57,320",walk a bit further to a room located,前走一點，來到牆面中間,45,needs_revision,再往前走一點，來到一間房間,[high] meaning_drift: None
+144,"00:06:57,320 --> 00:06:58,940",halfway up the wall.,位置的房間。,35,needs_revision,牆壁中間。,[medium] terminology: None; [high] meaning_drift: None
+145,"00:06:59,140 --> 00:07:01,480",We can see on the map that option I,我們可以在地圖上看到選項 I,100,ok,,
+146,"00:07:01,480 --> 00:07:04,740","is above room B, situated halfway along",位於上方房間 B，位置在,74,minor_issues,位於房間 B 上方，位於,[medium] terminology: None; [low] collocation: None; [low] style: None
+147,"00:07:04,740 --> 00:07:05,740",the left-hand side.,左側中間。,45,needs_revision,左側。,[high] meaning_drift: None
+148,"00:07:05,740 --> 00:07:07,140","So, the answer is option I.",所以，答案是選項 I。,100,ok,,
+149,"00:07:08,440 --> 00:07:09,440",Question 14.,第 14 題。,100,ok,,
+150,"00:07:09,760 --> 00:07:10,660",Robotics Lab.,機器人實驗室。,100,ok,,
+151,"00:07:11,040 --> 00:07:14,440",The speaker suggests heading along the right-hand wall.,講者建議沿著右側牆壁前進。,84,minor_issues,說話者建議沿著右側牆壁前進。,[low] style: None; [low] style: None
+152,"00:07:14,440 --> 00:07:17,916",She notes it is right opposite the information desk,她提到該處正對資訊櫃檯，並指,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+153,"00:07:17,916 --> 00:07:20,280","and mentions a cafe is located there,",出那裡設有一間咖啡廳，,45,needs_revision,那裡有一家咖啡廳，,[high] meaning_drift: None
+154,"00:07:20,440 --> 00:07:23,520",allowing you to watch the engineers through large windows.,你可以透過大窗戶觀看工程師工作。,100,ok,,
+155,"00:07:23,840 --> 00:07:26,480",We can see that option C is opposite,我們可以看見選項 C 位於對面。,45,needs_revision,選項 C 是相反的。,[high] meaning_drift: None
+156,"00:07:26,480 --> 00:07:28,480",the information desk on the right side.,右側的資訊櫃檯。,100,ok,,
+157,"00:07:28,480 --> 00:07:32,020",And there is also a small cafe inside room C.,C 教室裡也有一家小咖啡廳。,87,minor_issues,,[low] style: None
+158,"00:07:32,020 --> 00:07:34,020","Some might guess that it is option D,",有些人可能會猜測是選項 D，,100,ok,,
+159,"00:07:34,180 --> 00:07:35,434",but it is incorrect.,但這是錯誤的。,80,minor_issues,,[medium] terminology: None
+160,"00:07:35,620 --> 00:07:36,980","So, the answer is C.",所以，答案是 C。,100,ok,,
+161,"00:07:38,240 --> 00:07:39,480",Question 15.,第 15 題,100,ok,,
+162,"00:07:40,160 --> 00:07:41,940",Space Exploration Room.,太空探索教室,100,ok,,
+163,"00:07:41,940 --> 00:07:44,740",If you keep walking toward the back of,如果你繼續朝建築物後,35,needs_revision,如果你繼續往後走,[medium] terminology: None; [high] meaning_drift: None
+164,"00:07:44,740 --> 00:07:47,140","the building, the speaker points us to the",方走，講者會指引我們前往,36,needs_revision,建築物，說話者會帶我們到,[low] style: None; [high] meaning_drift: None; [low] register: None; [low] collocation: None
+165,"00:07:47,140 --> 00:07:48,780",far top right-hand corner.,最右上的角落。,80,minor_issues,,[medium] terminology: None
+166,"00:07:49,020 --> 00:07:51,640",We can easily see that option E is,我們可以很清楚地看到，選,45,needs_revision,我們可以很清楚地看到，選項,[high] meaning_drift: None
+167,"00:07:51,640 --> 00:07:53,920",in the very corner room at the top right.,項 E 位於右上角的角落房間。,84,minor_issues,E 項 位於右上角的角落的房間。,[low] style: None; [low] collocation: None
+168,"00:07:54,160 --> 00:07:55,480","So, the answer is E.",因此，答案是 E。,100,ok,,
+169,"00:07:56,900 --> 00:07:58,000",Question 16.,第 16 題。,100,ok,,
+170,"00:07:58,280 --> 00:07:59,960",3D Science Cinema.,3D 科學電影院,100,ok,,
+171,"00:08:00,320 --> 00:08:01,620",Next is the cinema.,接下來是電影院。,100,ok,,
+172,"00:08:01,940 --> 00:08:04,700","From the information desk, the speaker says to",服務台的指示是,30,needs_revision,說話者從服務台說,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+173,"00:08:04,700 --> 00:08:06,040",go straight ahead.,直行。,100,ok,,
+174,"00:08:06,260 --> 00:08:08,820","The cinema is on your left, past the",電影院在你的左側，經過員,35,needs_revision,電影院在你的左側，經過建築物,[medium] terminology: None; [high] meaning_drift: None
+175,"00:08:08,820 --> 00:08:11,300",staff room and opposite the printing hub.,工休息室，與印表機中心相對。,30,needs_revision,員工休息室，與列印中心相對。,[medium] terminology: None; [high] meaning_drift: None; [low] terminology: None; [low] collocation: None
+176,"00:08:11,300 --> 00:08:14,260","Option G is straight ahead from the center,",選項 G 位於中心直走方向,87,minor_issues,選項 G 在中心正前方,[low] collocation: None
+177,"00:08:14,520 --> 00:08:16,960","on the left side, next to the staff room.",的左側，緊鄰員工休息室。,100,ok,,
+178,"00:08:17,220 --> 00:08:19,100","So, the answer is G.",所以，答案是 G。,100,ok,,
+179,"00:08:20,600 --> 00:08:21,800",Question 17.,第 17 題。,100,ok,,
+180,"00:08:22,260 --> 00:08:23,540",Virtual Reality Zone.,虛擬實境專區。,80,minor_issues,,[medium] terminology: None
+181,"00:08:24,020 --> 00:08:26,960","Finally, we find the virtual reality zone.",最後，我們找到了 virtual reality zone。,74,minor_issues,最後，我們找到了 虛擬實境區。,[medium] terminology: None; [low] terminology: None; [low] script: None
+182,"00:08:27,160 --> 00:08:29,640",The speaker describes it as being on the,講者描述它位於電影院的,71,minor_issues,說話者描述它在電影院裡,[low] style: None; [medium] terminology: None; [low] style: None; [low] collocation: None
+183,"00:08:29,640 --> 00:08:31,240",other wall of the cinema.,另一面牆上。,100,ok,,
+184,"00:08:31,600 --> 00:08:34,440",Option H shares a wall with room G,選項 H 與左上角區域的,35,needs_revision,選項 H 與房間 G 相鄰,[medium] terminology: None; [high] meaning_drift: None
+185,"00:08:34,440 --> 00:08:35,919",in the top left area.,房間 G 共牆。,35,needs_revision,左上角。,[medium] terminology: None; [high] meaning_drift: None
+186,"00:08:36,100 --> 00:08:38,000","So, the answer is H.",所以，答案是 H。,100,ok,,
+187,"00:08:46,610 --> 00:08:48,530","Alright, that's it for today's lesson.",好，今天的課程到這裡結束。,100,ok,,
+188,"00:08:48,850 --> 00:08:51,250",Don't forget to do the exercises and practice,別忘了定期完成練習，並,35,needs_revision,別忘了定期完成練習，並練習,[medium] terminology: None; [high] meaning_drift: None
+189,"00:08:51,250 --> 00:08:52,780",what you've learned regularly.,複習所學內容。,80,minor_issues,,[medium] terminology: None
+190,"00:08:53,010 --> 00:08:55,000",Goodbye and see you in the next lesson.,再見，下一堂課見。,100,ok,,
