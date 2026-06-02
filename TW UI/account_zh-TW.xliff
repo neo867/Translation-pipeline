@@ -1,0 +1,1123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="466" original="/[60.Main Site Monorepo] main/biz/account.json" source-language="en" target-language="zh-TW" datatype="plaintext" project-id="2" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1" />
+    </header>
+    <body>
+      <trans-unit id="40048" resname="account">
+        <source>Account</source>
+        <target state="final">帳號</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40050" resname="password">
+        <source>Password</source>
+        <target state="final">密碼</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; password</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40052" resname="contact_to_change_email" approved="yes">
+        <source>Please contact us if you want to change your email</source>
+        <target state="final">如果您想變更您的電子信箱，請與我們聯繫。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; contact_to_change_email</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40054" resname="auth_intro_1" approved="yes">
+        <source>Join the Smart learning and test preparation platform now</source>
+        <target state="final">立即加入 Smart 學習與測驗準備平台</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; auth_intro_1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40056" resname="auth_intro_2">
+        <source>Completely free Entry test.</source>
+        <target state="final">完全免費的入學測驗。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; auth_intro_2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40058" resname="auth_intro_3" approved="yes">
+        <source>With just one account, you can take the Entry test to quickly determine your level</source>
+        <target state="final">只需一個帳號，即可參加入學測驗以快速確認您的程度。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; auth_intro_3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40060" resname="auth_intro_b2b_1" approved="yes">
+        <source>Smart learning and test prep platform</source>
+        <target state="final">智慧學習與測驗準備平台</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; auth_intro_b2b_1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40062" resname="auth_intro_b2b_2" approved="yes">
+        <source>Learning a foreign language is easy with a personalized, comprehensive study and exam preparation roadmap</source>
+        <target state="final">使用個人化、全面的学习與備考學習路線，學習外語很簡單。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; auth_intro_b2b_2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40064" resname="auth_selector_title" approved="yes">
+        <source>Join Prep - a smart learning and test preparation platform now</source>
+        <target state="final">立即加入 Prep — 智慧學習與測驗準備平台</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; auth_selector_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40066" resname="consent_text">
+        <source>By joining, you confirm that you have read and agreed to Prep's &lt;term&gt;Terms &amp; Conditions&lt;/term&gt; and &lt;policy&gt;Privacy Policy&lt;/policy&gt;</source>
+        <target state="final">加入即表示您已閱讀並同意 Prep 的&lt;term&gt;服務條款&lt;/term&gt;及&lt;policy&gt;隱私權政策&lt;/policy&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; consent_text</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40068" resname="consent_checkbox_label">
+        <source>I have read and agree to Prep's &lt;term&gt;Terms &amp; Conditions&lt;/term&gt; and &lt;policy&gt;Privacy Policy&lt;/policy&gt;</source>
+        <target state="final">我已閱讀並同意 Prep 的&lt;term&gt;服務條款&lt;/term&gt;與&lt;policy&gt;隱私權政策&lt;/policy&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; consent_checkbox_label</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40070" resname="phone_err_already_register_title">
+        <source>This phone number is already registered</source>
+        <target state="final">這個電話號碼已經註冊過了</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; phone_err_already_register_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40072" resname="phone_err_already_register_desc" approved="yes">
+        <source>You can &lt;action&gt;Log in with phone number&lt;/action&gt; or use a different one</source>
+        <target state="final">您可以使用&lt;action&gt;電話號碼登入&lt;/action&gt;，或使用其他號碼。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; phone_err_already_register_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40074" resname="register_done_title">
+        <source>Welcome &lt;br /&gt; to Prep</source>
+        <target state="final">歡迎&lt;br /&gt;來到 Prep</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; register_done_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40076" resname="register_done_desc">
+        <source>&lt;span&gt;Update information&lt;/span&gt; for a chance to receive &lt;br /&gt;&lt;span&gt;more exciting offers&lt;/span&gt;</source>
+        <target state="final">&lt;span&gt;更新資訊&lt;/span&gt;以獲得獲得&lt;br /&gt;&lt;span&gt;更吸引人的優惠&lt;/span&gt;的機會</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; register_done_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40078" resname="continue_discover">
+        <source>Continue exploring</source>
+        <target state="final">繼續探索</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; continue_discover</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40080" resname="click_here_to_login_by">
+        <source>Click here to log in with</source>
+        <target state="final">點擊此處以登入</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; click_here_to_login_by</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40082" resname="forgot_password">
+        <source>Forgot password?</source>
+        <target state="final">忘記密碼？</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; forgot_password</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40084" resname="update_new_password">
+        <source>Update new password</source>
+        <target state="final">更新新密碼</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; update_new_password</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40086" resname="continue_login">
+        <source>Continue to log in</source>
+        <target state="final">繼續登入</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; continue_login</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40088" resname="update_password_successfully">
+        <source>Password successfully updated</source>
+        <target state="final">密碼已成功更新。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; update_password_successfully</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40090" resname="need_more_infor_to_continue">
+        <source>It seems we need more information to proceed</source>
+        <target state="final">看來我們需要更多資訊才能繼續。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; need_more_infor_to_continue</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40092" resname="change_password_auto_logout_desc">
+        <source>For security reasons, please log in again using your new password</source>
+        <target state="final">為保障您的帳號安全，請使用新密碼重新登入。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; change_password_auto_logout_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40094" resname="agree_term_msg_required">
+        <source>Please agree to the Terms &amp; Conditions and Privacy Policy before proceeding</source>
+        <target state="final">請先同意「服務條款」與「隱私權政策」，再繼續進行</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; agree_term_msg_required</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40096" resname="delete_account">
+        <source>Delete account</source>
+        <target state="final">刪除帳號</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; delete_account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40098" resname="reason_delete_account_title" approved="yes">
+        <source>Please let us know why you want to delete your account</source>
+        <target state="final">請告訴我們您希望刪除帳號的原因。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; reason_delete_account_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40100" resname="your_reason_delete_account" approved="yes">
+        <source>Your reason</source>
+        <target state="final">您的理由</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; your_reason_delete_account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40102" resname="reason_delete_account_other_placeholder">
+        <source>Please share your reason</source>
+        <target state="final">請分享您的理由。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; reason_delete_account_other_placeholder</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40104" resname="delete_account_warning_title">
+        <source>Are you sure you want to delete account?</source>
+        <target state="final">您確定要刪除帳號嗎？</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; delete_account_warning_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40106" resname="delete_account_warning_pre">
+        <source>By deleting your account, you agree to &lt;textDanger&gt;permanently lose access&lt;/textDanger&gt; to the following information:</source>
+        <target state="final">刪除您的帳號後，您同意永久失去以下資訊的存取權：&lt;textDanger&gt;永久失去存取權&lt;/textDanger&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; delete_account_warning_pre</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40108" resname="delete_account_warning_1">
+        <source>All course content, learning history, study results, and test practice records</source>
+        <target state="final">所有課程內容、學習歷程、學習成果與測驗練習紀錄</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; delete_account_warning_1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40110" resname="delete_account_warning_2">
+        <source>All tests in Prep AI Virtual Room</source>
+        <target state="final">Prep AI Virtual Room 中的所有測驗</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; delete_account_warning_2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40112" resname="delete_account_warning_3">
+        <source>All account information and entitlements (like gifts and vouchers)</source>
+        <target state="final">所有帳號資訊與權益（包含禮品與折價券）</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; delete_account_warning_3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40114" resname="delete_account_warning_post">
+        <source>Deleting your account is &lt;textDanger&gt;permanent&lt;/textDanger&gt; and takes effect &lt;textDanger&gt;immediately&lt;/textDanger&gt;. This action &lt;textDanger&gt;cannot be undone&lt;/textDanger&gt;</source>
+        <target state="final">刪除您的帳號為&lt;textDanger&gt;永久性&lt;/textDanger&gt;，並&lt;textDanger&gt;立即&lt;/textDanger&gt;生效。此操作&lt;textDanger&gt;無法復原&lt;/textDanger&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; delete_account_warning_post</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40116" resname="confirm_account_deletion">
+        <source>Confirm account deletion</source>
+        <target state="final">確認刪除帳號</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; confirm_account_deletion</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40118" resname="fail_to_delete_account">
+        <source>The account deletion request could not be verified. Please ensure the information entered is correct and try again</source>
+        <target state="final">無法驗證帳號刪除請求。請確認輸入的資訊正確無誤，並再試一次。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; fail_to_delete_account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40120" resname="delete_account_successfully">
+        <source>Your account has been successfully deleted</source>
+        <target state="final">您的帳號已成功刪除。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; delete_account_successfully</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40122" resname="delete_account_successfully_desc">
+        <source>Thank you for being a part of Prep. We appreciate the time you spent with us</source>
+        <target state="final">感謝您成為 Prep 的一員。我們非常感謝您撥冗與我們同行。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; delete_account_successfully_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40124" resname="prevent_delete_account_b2b_title">
+        <source>This feature is currently unavailable</source>
+        <target state="final">此功能目前無法使用。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; prevent_delete_account_b2b_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40126" resname="prevent_delete_account_b2b_description" approved="yes">
+        <source>This feature is not available for business account. Please check with your admin at your organizer if you need help deleting your account</source>
+        <target state="final">此功能不適用於企業帳號。如需刪除帳號的協助，請向您組織的管理員確認。</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; prevent_delete_account_b2b_description</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40128" resname="device_management.device_management" approved="yes">
+        <source>Device management</source>
+        <target state="final">裝置管理</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; device_management</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40130" resname="device_management.account_verification_title">
+        <source>Account verification</source>
+        <target state="final">帳號驗證</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; account_verification_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40132" resname="device_management.account_verification_desc">
+        <source>To access Device Management, you need to verify your account</source>
+        <target state="final">若要存取裝置管理，您需要驗證您的帳號。</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; account_verification_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40134" resname="device_management.list_devices_title" approved="yes">
+        <source>List of devices you are using</source>
+        <target state="final">您正在使用的裝置列表</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; list_devices_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40136" resname="device_management.count_devices">
+        <source>{x}/{y} devices</source>
+        <target state="final">您正在使用的 {x}/{y} 個裝置</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; count_devices</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40138" resname="device_management.last_visited">
+        <source>Last login</source>
+        <target state="final">上次登入</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; last_visited</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40140" resname="device_management.contact_support_via_email_title">
+        <source>Contact support via email</source>
+        <target state="final">透過電子信箱聯繫客服</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; contact_support_via_email_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40142" resname="device_management.contact_support_via_email_desc">
+        <source>Contact us at &lt;a href='mailto:support@prepedu.com'&gt;support@prepedu.com&lt;/a&gt; for the best assistance</source>
+        <target state="final">如需最佳協助，請透過 &lt;a href='mailto:support@prepedu.com'&gt;support@prepedu.com&lt;/a&gt; 與我們聯繫。</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; contact_support_via_email_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40144" resname="device_management.confirm_remove_device_title">
+        <source>Confirm removing device</source>
+        <target state="final">確認移除裝置</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; confirm_remove_device_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40146" resname="device_management.confirm_remove_device_desc">
+        <source>This device will be removed from your access list</source>
+        <target state="final">此裝置將從您的存取清單中移除。</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; confirm_remove_device_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40148" resname="device_management.remove_device_successfully">
+        <source>Successfully deleted device</source>
+        <target state="final">裝置已成功刪除</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; remove_device_successfully</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40150" resname="device_management.can_login_on_move_device_mobile_app">
+        <source>You can log in on {num} more mobile devices</source>
+        <target state="final">您可以在 {num} 個其他行動裝置上登入</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; can_login_on_move_device_mobile_app</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40152" resname="device_management.can_login_on_move_device_browser">
+        <source>You can log in on {num} more web browsers</source>
+        <target state="final">您可以在 {num} 個其他網頁瀏覽器上登入</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; can_login_on_move_device_browser</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40154" resname="device_management.can_login_on_move_device_tablet">
+        <source>You can log in on {num} more tablet devices</source>
+        <target state="final">您可以在 {num} 個其他平板裝置上登入</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; can_login_on_move_device_tablet</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40156" resname="device_management.device_access_limit_title">
+        <source>Device access limit</source>
+        <target state="final">裝置存取限制</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; device_access_limit_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40158" resname="device_management.device_access_limit_desc">
+        <source>You cannot access because this account has exceeded the allowed number of devices. Please access Device Management to check</source>
+        <target state="final">您無法存取，因為此帳號已超過允許的裝置數量上限。請前往裝置管理頁面進行檢查。</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; device_access_limit_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40160" resname="device_management.device_management_warning">
+        <source>Account sharing is prohibited. Violations may result in a warning or account suspension. Please keep your account secure and follow our Terms and Conditions</source>
+        <target state="final">禁止共用帳號。違規行為可能會導致警告或帳號暫停。請妥善保管您的帳號，並遵守我們的服務條款。</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; device_management_warning</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46572" resname="device_management.trusted_devices">
+        <source>Trusted devices</source>
+        <target state="final">受信任的裝置</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; trusted_devices</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46574" resname="device_management.access_history">
+        <source>Access history</source>
+        <target state="final">存取記錄</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; access_history</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46576" resname="device_management.device_management_intro">
+        <source>Manage trusted devices and your access history.</source>
+        <target state="final">管理受信任的裝置與您的存取記錄。</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; device_management_intro</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46580" resname="device_management.empty_access_history">
+        <source>No activity has been recorded yet</source>
+        <target state="final">目前尚無任何活動紀錄</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; empty_access_history</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46582" resname="device_management.load_error_access_history">
+        <source>Could not load access history.&lt;br /&gt;Please refresh the page</source>
+        <target state="final">無法載入存取記錄。&lt;br /&gt;請重新整理頁面。</target>
+        <context-group purpose="information">
+          <context context-type="source">device_management -&gt; load_error_access_history</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40162" resname="activation_code.activation_code" approved="yes">
+        <source>Activation code</source>
+        <target state="final">激活碼</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activation_code</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40164" resname="activation_code.search_code">
+        <source>Search code</source>
+        <target state="final">搜尋代碼</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; search_code</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40166" resname="activation_code.my_codes" approved="yes">
+        <source>My activation code</source>
+        <target state="final">我的激活碼</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; my_codes</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40168" resname="activation_code.search_code_title" approved="yes">
+        <source>Enter the activation code to start your experience now</source>
+        <target state="final">輸入激活碼，立即開始您的體驗</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; search_code_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40170" resname="activation_code.search_code_placeholder" approved="yes">
+        <source>Enter activation code</source>
+        <target state="final">輸入激活碼</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; search_code_placeholder</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40172" resname="activation_code.activation_code_benefit_note">
+        <source>Note: Learning benefits will accumulate (if applicable) if you already own the corresponding course</source>
+        <target state="final">備註：若您已擁有對應課程，學習權益將予以累積（如適用）。</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activation_code_benefit_note</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40174" resname="activation_code.learning_benefits">
+        <source>Learning benefits</source>
+        <target state="final">學習權益</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; learning_benefits</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40176" resname="activation_code.not_activated">
+        <source>Not activated</source>
+        <target state="final">尚未啟用</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; not_activated</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40178" resname="activation_code.activated">
+        <source>Activated</source>
+        <target state="final">已啟用</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activated</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40180" resname="activation_code.expired">
+        <source>Expired</source>
+        <target state="final">已過期</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; expired</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40182" resname="activation_code.expiration_date" approved="yes">
+        <source>Expiration date</source>
+        <target state="final">有效期限</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; expiration_date</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40184" resname="activation_code.activation_date">
+        <source>Activation date</source>
+        <target state="final">啟用日期</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activation_date</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40186" resname="activation_code.activation_code_list" approved="yes">
+        <source>Activation code list</source>
+        <target state="final">啟用碼列表</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activation_code_list</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40188" resname="activation_code.activate_successful_title">
+        <source>Activation successful</source>
+        <target state="final">啟用成功</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activate_successful_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40190" resname="activation_code.you_have_successfully_activated">
+        <source>You have successfully activated your code</source>
+        <target state="final">您的代碼已成功啟用。</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; you_have_successfully_activated</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40192" resname="activation_code.activate_successful_desc">
+        <source>Congratulations! Your code has been activated. Start learning now!</source>
+        <target state="final">恭喜！您的代碼已啟用。立即開始學習！</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activate_successful_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40194" resname="activation_code.activate_failed">
+        <source>Activation failed</source>
+        <target state="final">啟用失敗</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activate_failed</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40196" resname="activation_code.buy_activation_code" approved="yes">
+        <source>Buy activation code</source>
+        <target state="final">購買啟用碼</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; buy_activation_code</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40198" resname="activation_code.activate_new_code">
+        <source>Activate a new code</source>
+        <target state="final">啟用新代碼</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activate_new_code</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40200" resname="activation_code.not_found_activation_code_title" approved="yes">
+        <source>You have not got any activation code</source>
+        <target state="final">您尚未取得任何啟用碼。</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; not_found_activation_code_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40202" resname="activation_code.not_found_activation_code_desc" approved="yes">
+        <source>Get your activation code by following Prep's events or purchase one to start</source>
+        <target state="final">透過參加 Prep 的活動取得您的啟用碼，或購買以開始。</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; not_found_activation_code_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40204" resname="activation_code.cf_activate_title">
+        <source>Do you want to activate the code?</source>
+        <target state="final">您想要啟用這個程式碼嗎？</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; cf_activate_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40206" resname="activation_code.cf_activate_desc" approved="yes">
+        <source>After you confirm, your learning benefits will be effective from {today}</source>
+        <target state="final">確認後，您的學習權益將自 {today} 起生效。</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; cf_activate_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40208" resname="activation_code.cf_activate_warning_refundable" approved="yes">
+        <source>&lt;bold&gt;Please note that the activation code is non-refundable under any circumstances.&lt;/bold&gt; Make sure to check the benefits and validity period before activating</source>
+        <target state="final">&lt;bold&gt;請注意，在任何情況下啟用碼均不予退款。&lt;/bold&gt; 請在啟用前確認權益與有效期限。</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; cf_activate_warning_refundable</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40210" resname="activation_code.activated_account">
+        <source>Activated account</source>
+        <target state="final">帳號已啟用</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activated_account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40212" resname="activation_code.activate">
+        <source>Activate</source>
+        <target state="final">啟用</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activate</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40214" resname="activation_code.title_line_1" approved="yes">
+        <source>Enter the activation code</source>
+        <target state="final">輸入啟用代碼</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; title_line_1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40216" resname="activation_code.title_line_2">
+        <source>to start your experience now</source>
+        <target state="final">立即開始您的體驗</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; title_line_2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="146099" resname="activation_code.activation_code_desc">
+        <source>Manage activation codes</source>
+        <target state="final">管理啟用代碼</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; activation_code_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="146113" resname="activation_code.upcoming">
+        <source>Upcoming</source>
+        <target state="final">即將推出</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; upcoming</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="146115" resname="activation_code.valid_date">
+        <source>Valid date</source>
+        <target state="final">有效日期</target>
+        <context-group purpose="information">
+          <context context-type="source">activation_code -&gt; valid_date</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41068" resname="family_center.family_center" approved="yes">
+        <source>Family center</source>
+        <target state="final">家庭中心</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center.family_center</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41070" resname="family_center.family_center_tagline">
+        <source>All your family learning accounts, managed together</source>
+        <target state="final">您的所有家庭學習帳號，一併管理</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center.family_center_tagline</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41072" resname="family_center.child_account">
+        <source>Child account</source>
+        <target state="final">兒童帳號</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center.child_account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41074" resname="family_center.parent_account">
+        <source>Parent account</source>
+        <target state="final">家長帳號</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center.parent_account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41076" resname="family_center.accounts_linked_to_you">
+        <source>The learning accounts linked to you</source>
+        <target state="final">與您連結的學習帳號</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center.accounts_linked_to_you</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41078" resname="family_center.active_course">
+        <source>Active Course</source>
+        <target state="final">進行中的課程</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center.active_course</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41080" resname="family_center.last_active">
+        <source>Last active</source>
+        <target state="final">最後活動</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center.last_active</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41082" resname="family_center.empty_child_account">
+        <source>You haven’t linked any child accounts yet</source>
+        <target state="final">您尚未連結任何子帳號</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center.empty_child_account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41084" resname="family_center.parent_account_to_you">
+        <source>The main account used to manage and support your learning journey</source>
+        <target state="final">用於管理與支援您學習旅程的主要帳號</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center.parent_account_to_you</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41086" resname="family_center.empty_parent_account">
+        <source>You haven’t linked any parent accounts yet</source>
+        <target state="final">您尚未連結任何家長帳號</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center.empty_parent_account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62504" resname="family_center.cannot_view_learning_profile_child">
+        <source>The child is not currently enrolled in any program with a viewable learning profile.</source>
+        <target state="final">目前該兒童未註冊任何具有可檢視學習檔案的課程。</target>
+        <context-group purpose="information">
+          <context context-type="source">family_center -&gt; cannot_view_learning_profile_child</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41274" resname="forgot_password_label">
+        <source>Forgot password</source>
+        <target state="final">忘記密碼？</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; forgot_password_label</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41276" resname="forgot_password_email_label">
+        <source>Enter the email linked with your account to receive verification code</source>
+        <target state="final">請輸入與您的帳號關聯的電子信箱，以接收驗證碼</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; forgot_password_email_label</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41278" resname="forgot_password_username_contact_support">
+        <source>If you login with a username, please Contact Customer support for assistance!</source>
+        <target state="final">若您使用使用者名稱登入，請聯繫客服以獲得協助！</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; forgot_password_username_contact_support</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46584" resname="order_history.order_history" approved="yes">
+        <source>Order history</source>
+        <target state="final">訂單歷史</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.order_history</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46586" resname="order_history.order_history_intro">
+        <source>Keep track of your purchases easily</source>
+        <target state="final">輕鬆追蹤您的購買紀錄</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.order_history_intro</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46588" resname="order_history.empty_order_history">
+        <source>You don’t have any order yet.</source>
+        <target state="final">目前尚無訂單。</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.empty_order_history</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46590" resname="order_history.buyer_info">
+        <source>Buyer information</source>
+        <target state="final">購買者資訊</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.buyer_info</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46592" resname="order_history.learner_info" approved="yes">
+        <source>Learner information</source>
+        <target state="final">學習者資訊</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.learner_info</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46594" resname="order_history.order_detail">
+        <source>Order detail</source>
+        <target state="final">訂單詳情</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.order_detail</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46596" resname="order_history.total_price">
+        <source>Total price</source>
+        <target state="final">合計金額</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.total_price</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46598" resname="order_history.discount" approved="yes">
+        <source>Discount</source>
+        <target state="final">折扣</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.discount</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46600" resname="order_history.price_after_promotion">
+        <source>Price after promotion</source>
+        <target state="final">促銷後價格</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.price_after_promotion</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46602" resname="order_history.payment_method">
+        <source>Payment method</source>
+        <target state="final">付款方式</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.payment_method</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46604" resname="order_history.payment_date">
+        <source>Payment date</source>
+        <target state="final">付款日</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.payment_date</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46606" resname="order_history.discount_price">
+        <source>Discount price</source>
+        <target state="final">折扣價格</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.discount_price</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46608" resname="order_history.gift" approved="yes">
+        <source>Gift</source>
+        <target state="final">禮物</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.gift</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="52256" resname="order_history.coupon_code">
+        <source>Coupon code</source>
+        <target state="final">優惠券代碼</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history.coupon_code</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="91780" resname="order_history.status_success">
+        <source>Success</source>
+        <target state="final">成功</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history -&gt; status_success</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="91782" resname="order_history.status_refunded">
+        <source>Refunded</source>
+        <target state="final">已退款</target>
+        <context-group purpose="information">
+          <context context-type="source">order_history -&gt; status_refunded</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62488" resname="delete_account_warning_pre_v1">
+        <source>If it's been less than &lt;days&gt;&lt;/days&gt; days since you initiated the deletion, you can restore your account. &lt;bold&gt;After &lt;days&gt;&lt;/days&gt; days&lt;/bold&gt;, you agree to &lt;textDanger&gt;permanently lose access&lt;/textDanger&gt; to the following information:</source>
+        <target state="final">如果您在啟動刪除後不到 &lt;days&gt;&lt;/days&gt; 天，您可以恢復您的帳號。&lt;bold&gt;超過 &lt;days&gt;&lt;/days&gt; 天後&lt;/bold&gt;，您將同意 &lt;textDanger&gt;永久失去存取&lt;/textDanger&gt;以下資訊的權限：</target>
+        <context-group purpose="information">
+          <context context-type="source">delete_account_warning_pre_v1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62490" resname="delete_account_warning_post_v1">
+        <source>Deleting your account is &lt;textDanger&gt;permanent&lt;/textDanger&gt; and takes effect &lt;textDanger&gt;after &lt;days&gt;&lt;/days&gt; days&lt;/textDanger&gt;</source>
+        <target state="final">刪除您的帳號是&lt;textDanger&gt;永久性的&lt;/textDanger&gt;，並將在&lt;textDanger&gt;&lt;days&gt;天&lt;/days&gt;後&lt;/textDanger&gt;生效</target>
+        <context-group purpose="information">
+          <context context-type="source">delete_account_warning_post_v1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62492" resname="delete_account_successfully_desc_v1">
+        <source>Thank you for being a part of Prep. We hope to continue accompanying you on your learning journey !</source>
+        <target state="final">感謝您加入 Prep。我們希望能繼續陪伴您的學習旅程！</target>
+        <context-group purpose="information">
+          <context context-type="source">delete_account_successfully_desc_v1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62494" resname="restore_account_desc_pre">
+        <source>You can restore your account with all your previous learning progress before</source>
+        <target state="final">您可以恢復您的帳號，包含之前所有的學習進度。</target>
+        <context-group purpose="information">
+          <context context-type="source">restore_account_desc_pre</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62496" resname="restore_account_desc_post">
+        <source>After the time shown above, you will permanently lose access to your account and all of your learning data. You may refer to &lt;link&gt;the instructions&lt;/link&gt; or the information sent to your email.</source>
+        <target state="final">在上述時間之後，您將永久失去對您的帳號及所有學習資料的存取權。您可以參考&lt;link&gt;操作說明&lt;/link&gt;或寄送至您電子信箱的資訊。</target>
+        <context-group purpose="information">
+          <context context-type="source">restore_account_desc_post</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62498" resname="fail_to_delete_account_v1">
+        <source>Failed to delete account. Please try again later</source>
+        <target state="final">刪除帳號失敗。請稍後再試一次。</target>
+        <context-group purpose="information">
+          <context context-type="source">fail_to_delete_account_v1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62500" resname="learning_profile">
+        <source>Learning profile</source>
+        <target state="final">學習檔案</target>
+        <context-group purpose="information">
+          <context context-type="source">learning_profile</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62502" resname="view_learning_profile">
+        <source>View Learning Profile</source>
+        <target state="final">檢視學習檔案</target>
+        <context-group purpose="information">
+          <context context-type="source">view_learning_profile</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62506" resname="auth_restore_account_title">
+        <source>Your account is scheduled for deletion</source>
+        <target state="final">您的帳號已排定刪除</target>
+        <context-group purpose="information">
+          <context context-type="source">auth_restore_account_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62508" resname="auth_restore_account_desc">
+        <source>You requested to delete your account on &lt;start&gt;&lt;/start&gt; and will be permanently deleted after &lt;end&gt;&lt;/end&gt;.&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;You can still restore your account and continue your learning progress.</source>
+        <target state="final">您已於 &lt;start&gt;&lt;/start&gt; 提出刪除帳號申請，該帳號將於 &lt;end&gt;&lt;/end&gt; 後永久刪除。&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;您仍可恢復帳號並繼續您的學習進度。</target>
+        <context-group purpose="information">
+          <context context-type="source">auth_restore_account_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62510" resname="restore_account_now">
+        <source>Restore account now</source>
+        <target state="final">立即復原帳號</target>
+        <context-group purpose="information">
+          <context context-type="source">restore_account_now</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62512" resname="back_to_login">
+        <source>Back to login</source>
+        <target state="final">返回登入</target>
+        <context-group purpose="information">
+          <context context-type="source">back_to_login</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62514" resname="auth_restore_account_success_title">
+        <source>Welcome back!</source>
+        <target state="final">歡迎回來！</target>
+        <context-group purpose="information">
+          <context context-type="source">auth_restore_account_success_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62516" resname="auth_restore_account_success_desc">
+        <source>&lt;bold&gt;All your learning progress has been preserved,&lt;/bold&gt; let's continue the journey with Prep!</source>
+        <target state="final">&lt;bold&gt;您所有的學習進度都已保存，&lt;/bold&gt;讓我們繼續與 Prep 一起學習！</target>
+        <context-group purpose="information">
+          <context context-type="source">auth_restore_account_success_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62518" resname="let_start">
+        <source>Let's Start</source>
+        <target state="final">讓我們開始</target>
+        <context-group purpose="information">
+          <context context-type="source">let_start</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="88706" resname="restore_account">
+        <source>Restore account</source>
+        <target state="final">還原帳號</target>
+        <context-group purpose="information">
+          <context context-type="source">restore_account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="91042" resname="other_log_in_options">
+        <source>Other log in options</source>
+        <target state="final">其他登入選項</target>
+        <context-group purpose="information">
+          <context context-type="source">other_log_in_options</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="91044" resname="other_registration_options">
+        <source>Other registration options</source>
+        <target state="final">其他註冊選項</target>
+        <context-group purpose="information">
+          <context context-type="source">other_registration_options</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="91046" resname="continue_with_method">
+        <source>Continue with {method}</source>
+        <target state="final">繼續使用 {method}</target>
+        <context-group purpose="information">
+          <context context-type="source">continue_with_method</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="91048" resname="msg_sign_in_social_network_unavailable">
+        <source>Sign in with {method} is currently unavailable. Please try again later or use a different method</source>
+        <target state="final">目前無法使用 {method} 登入。請稍後再試一次，或改用其他方法。</target>
+        <context-group purpose="information">
+          <context context-type="source">msg_sign_in_social_network_unavailable</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="91050" resname="msg_sign_in_social_network_verify_email">
+        <source>This email is already registered. Please enter the code we sent to connect your account</source>
+        <target state="final">此電子信箱已註冊。請輸入我們發送的驗證碼以連接您的帳號。</target>
+        <context-group purpose="information">
+          <context context-type="source">msg_sign_in_social_network_verify_email</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="125967" resname="login_social_verify_phone_desc">
+        <source>Please add your phone number to verify your account</source>
+        <target state="final">請輸入您的手機號碼以驗證您的帳號</target>
+        <context-group purpose="information">
+          <context context-type="source">login_social_verify_phone_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="125969" resname="login_to_your_account">
+        <source>Log in to your account</source>
+        <target state="final">登入您的帳號</target>
+        <context-group purpose="information">
+          <context context-type="source">login_to_your_account</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="146085" resname="profile">
+        <source>Profile</source>
+        <target state="final">個人檔案</target>
+        <context-group purpose="information">
+          <context context-type="source">profile</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="146087" resname="change_password">
+        <source>Change password</source>
+        <target state="final">變更密碼</target>
+        <context-group purpose="information">
+          <context context-type="source">change_password</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="146089" resname="billing">
+        <source>Billing</source>
+        <target state="final">帳單</target>
+        <context-group purpose="information">
+          <context context-type="source">billing</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="146091" resname="tools">
+        <source>Tools</source>
+        <target state="final">工具</target>
+        <context-group purpose="information">
+          <context context-type="source">tools</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="146093" resname="settings">
+        <source>Settings</source>
+        <target state="final">設定</target>
+        <context-group purpose="information">
+          <context context-type="source">settings</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="146095" resname="delete_account_desc">
+        <source>Permanently delete all your learning progress and data</source>
+        <target state="final">永久刪除所有學習進度與資料</target>
+        <context-group purpose="information">
+          <context context-type="source">delete_account_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="146097" resname="change_password_desc">
+        <source>Secure your account</source>
+        <target state="final">保障您的帳號安全</target>
+        <context-group purpose="information">
+          <context context-type="source">change_password_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="161071" resname="abusive_account.warning_title">
+        <source>Warning!</source>
+        <target state="final">警告！</target>
+        <context-group purpose="information">
+          <context context-type="source">abusive_account -&gt; warning_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="161073" resname="abusive_account.warning_desc">
+        <source>We've noticed unusual activity on your account. Please follow our &lt;term&gt;Terms and Conditions&lt;/term&gt; to keep your learning safe. Note: You will be restricted from accessing all lessons on &lt;lock_date&gt;&lt;/lock_date&gt;. For assistance, please email us at &lt;email&gt;support@prepedu.com&lt;/email&gt; or use the support form below</source>
+        <target state="final">我們發現您的帳號有異常活動。請遵循我們的&lt;term&gt;條款與條件&lt;/term&gt;以確保您的學習安全。備註：您將無法存取&lt;lock_date&gt;&lt;/lock_date&gt;上的所有課程。如需協助，請發送電子信箱至&lt;email&gt;support@prepedu.com&lt;/email&gt;或使用下方的支援形式。</target>
+        <context-group purpose="information">
+          <context context-type="source">abusive_account -&gt; warning_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="161075" resname="abusive_account.fill_form">
+        <source>Fill out the support form</source>
+        <target state="final">填寫支援表單</target>
+        <context-group purpose="information">
+          <context context-type="source">abusive_account -&gt; fill_form</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="161077" resname="abusive_account.soft_lock_title">
+        <source>Warning!</source>
+        <target state="final">警告！</target>
+        <context-group purpose="information">
+          <context context-type="source">abusive_account -&gt; soft_lock_title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="161079" resname="abusive_account.soft_lock_desc">
+        <source>Your account has been suspended on &lt;lock_date&gt;&lt;/lock_date&gt; due to repeated violations of our &lt;term&gt;Terms and Conditions&lt;/term&gt;. To reactivate your account and continue learning, please contact us at &lt;email&gt;support@prepedu.com&lt;/email&gt;</source>
+        <target state="final">您的帳號因重複違反&lt;term&gt;服務條款&lt;/term&gt;，已於&lt;lock_date&gt;暫停使用。若要重新啟用帳號並繼續學習，請透過&lt;email&gt;電子信箱&lt;/email&gt; support@prepedu.com 與我們聯繫。</target>
+        <context-group purpose="information">
+          <context context-type="source">abusive_account -&gt; soft_lock_desc</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="161081" resname="abusive_account.contact_now">
+        <source>Contact now</source>
+        <target state="final">立即聯繫</target>
+        <context-group purpose="information">
+          <context context-type="source">abusive_account -&gt; contact_now</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
