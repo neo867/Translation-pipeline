@@ -1,0 +1,468 @@
+﻿1
+00:00:12,050 --> 00:00:15,250
+Hey guys, welcome back to our IELTS listening course.
+
+2
+00:00:15,790 --> 00:00:18,870
+Have you ever felt confident that you heard the right answer, wrote
+
+3
+00:00:18,870 --> 00:00:21,130
+it down immediately, but still got the question wrong?
+
+4
+00:00:21,290 --> 00:00:25,010
+If so, you have likely fallen into a trap known as a distractor.
+
+5
+00:00:25,150 --> 00:00:28,750
+A distractor is a piece of information that looks or sounds like
+
+6
+00:00:28,750 --> 00:00:31,810
+the correct answer, but is actually wrong.
+
+7
+00:00:33,190 --> 00:00:37,650
+IELTS uses these to test if you are listening for meaning, rather
+
+8
+00:00:37,650 --> 00:00:39,270
+than just matching keywords.
+
+9
+00:00:39,950 --> 00:00:44,790
+This brings us to the first major type of trap, the partial match.
+
+10
+00:00:50,460 --> 00:00:55,260
+Please note that, when given all choices, you are likely to hear
+
+11
+00:00:55,260 --> 00:00:57,240
+the speaker talking about all options.
+
+12
+00:00:57,680 --> 00:01:01,900
+Just because you hear it mentioned doesn't make it correct, so be
+
+13
+00:01:01,900 --> 00:01:05,080
+careful to analyze the choices and choose the correct answer.
+
+14
+00:01:05,080 --> 00:01:10,200
+In a multiple-choice question, you might see options like blue, red, and green.
+
+15
+00:01:10,400 --> 00:01:12,780
+The recording won't just say, the answer is red.
+
+16
+00:01:12,980 --> 00:01:15,220
+Instead, the speaker will mention all three.
+
+17
+00:01:15,420 --> 00:01:21,200
+They might say, I originally wanted blue, and green was too bright, so we finally decided on red.
+
+18
+00:01:21,980 --> 00:01:26,000
+If you stop listening, the moment you hear a keyword, you will fail.
+
+19
+00:01:26,260 --> 00:01:32,000
+You must listen to the context to understand which option is being accepted and which are being rejected.
+
+20
+00:01:32,280 --> 00:01:34,420
+But listing options isn't the only trick.
+
+21
+00:01:34,420 --> 00:01:36,840
+The second major trap is the self-correction.
+
+22
+00:01:37,100 --> 00:01:41,080
+This happens when the speaker gives you an answer, but then immediately changes their mind.
+
+23
+00:01:42,400 --> 00:01:45,220
+Remember, don't rush to write the first answer you hear.
+
+24
+00:01:45,500 --> 00:01:46,780
+It could be a distractor.
+
+25
+00:01:47,660 --> 00:01:51,320
+Sometimes the speaker only discusses before giving the final decision.
+
+26
+00:01:52,040 --> 00:01:54,060
+And that's the correct answer.
+
+27
+00:01:54,620 --> 00:01:57,920
+This rush to write is dangerous because of signal words.
+
+28
+00:01:58,180 --> 00:02:04,420
+Distractors are almost always followed by contrast markers like but, however, actually, or in fact.
+
+29
+00:02:04,960 --> 00:02:07,259
+Imagine the question asks for a meeting time.
+
+30
+00:02:07,479 --> 00:02:09,220
+You hear, shall we meet at 5pm?
+
+31
+00:02:09,440 --> 00:02:11,680
+You might write down 5pm.
+
+32
+00:02:12,240 --> 00:02:15,500
+But then the speaker says, actually, I have a dentist appointment then.
+
+33
+00:02:15,680 --> 00:02:16,940
+Let's make it 6 o'clock.
+
+34
+00:02:17,060 --> 00:02:19,600
+The first time, 5 o'clock was the distractor.
+
+35
+00:02:19,760 --> 00:02:21,980
+The signal word actually cancelled it.
+
+36
+00:02:22,140 --> 00:02:26,080
+The final time, 6 o'clock was the correct answer.
+
+37
+00:02:26,500 --> 00:02:29,600
+So the golden rule for this lesson is patience.
+
+38
+00:02:30,040 --> 00:02:32,320
+Never trust the first thing you hear.
+
+39
+00:02:32,320 --> 00:02:37,700
+Keep your pencil moving, but don't finalize your answer until the speaker has finished their thought.
+
+40
+00:02:42,580 --> 00:02:46,300
+Now, you might think these traps only apply to multiple choice questions.
+
+41
+00:02:46,460 --> 00:02:51,260
+But actually, IELTS uses these exact same tricks, signal words, corrections,
+
+42
+00:02:51,580 --> 00:02:54,160
+and negatives to confuse you in matching questions.
+
+43
+00:02:54,380 --> 00:02:59,180
+In a matching task, you aren't just choosing one answer, you're connecting two lists.
+
+44
+00:02:59,820 --> 00:03:02,760
+And this is where the negation trap becomes dangerous.
+
+45
+00:03:03,860 --> 00:03:06,540
+I see you have a great gym listed here.
+
+46
+00:03:06,840 --> 00:03:08,300
+Do you also have a swimming pool?
+
+47
+00:03:08,900 --> 00:03:14,680
+We used to have a pool on the roof, but unfortunately, it is currently closed for renovations.
+
+48
+00:03:15,260 --> 00:03:17,180
+However, guests are free to use the sauna.
+
+49
+00:03:17,980 --> 00:03:22,740
+If your task was to match hotel facilities to availability, and you
+
+50
+00:03:22,740 --> 00:03:28,320
+saw swimming pool on the list, your brain naturally wants to tick it off as soon as you hear the word.
+
+51
+00:03:28,440 --> 00:03:29,340
+But notice the trap.
+
+52
+00:03:29,340 --> 00:03:35,360
+The speaker mentioned the pool, but immediately negated it with closed for renovations.
+
+53
+00:03:35,700 --> 00:03:38,820
+The correct match would likely be the sauna.
+
+54
+00:03:39,460 --> 00:03:46,040
+This brings us to the next level of difficulty, common in section 3 of the listening test, the agreement trap.
+
+55
+00:03:47,080 --> 00:03:50,360
+I think we should focus our presentation on global warming.
+
+56
+00:03:50,720 --> 00:03:52,320
+There is so much data available.
+
+57
+00:03:52,860 --> 00:03:53,880
+I'm not sure.
+
+58
+00:03:54,360 --> 00:03:55,560
+Everyone chooses that.
+
+59
+00:03:56,020 --> 00:03:58,120
+What about ocean pollution instead?
+
+60
+00:03:58,820 --> 00:03:59,340
+Hmm.
+
+61
+00:03:59,600 --> 00:04:00,680
+Actually, you're right.
+
+62
+00:04:01,120 --> 00:04:02,820
+Ocean pollution would be more unique.
+
+63
+00:04:03,180 --> 00:04:03,840
+Let's go with that.
+
+64
+00:04:04,600 --> 00:04:08,120
+In matching questions, where you must link a student to a topic,
+
+65
+00:04:08,280 --> 00:04:11,580
+the partial match we discussed earlier appears as a debate.
+
+66
+00:04:11,840 --> 00:04:14,540
+The male student suggested global warming with confidence.
+
+67
+00:04:14,780 --> 00:04:18,140
+If you matched him to that topic immediately, you fell into the trap.
+
+68
+00:04:18,620 --> 00:04:20,839
+You must wait for the consensus.
+
+69
+00:04:21,400 --> 00:04:23,000
+It isn't about who speaks first.
+
+70
+00:04:23,120 --> 00:04:25,080
+It's about who agrees last.
+
+71
+00:04:25,080 --> 00:04:29,480
+Finally, let's look at how the correction trap appears when matching times or dates.
+
+72
+00:04:31,120 --> 00:04:33,460
+Okay, so a table for four?
+
+73
+00:04:34,020 --> 00:04:40,000
+I have an opening this Saturday at 7 p.m. Oh, wait, my flight lands late Saturday.
+
+74
+00:04:40,400 --> 00:04:42,700
+Is it possible to move that to Sunday instead?
+
+75
+00:04:43,460 --> 00:04:44,400
+Let me check.
+
+76
+00:04:45,060 --> 00:04:47,180
+Yes, Sunday at 7 works.
+
+77
+00:04:48,380 --> 00:04:51,160
+Here you are matching the booking to the day.
+
+78
+00:04:51,160 --> 00:04:54,940
+The speaker suggested Saturday, but the host corrected it to Sunday.
+
+79
+00:04:55,200 --> 00:04:57,580
+So here is your strategy for matching questions.
+
+80
+00:04:57,800 --> 00:05:00,040
+First, don't match the keyword immediately.
+
+81
+00:05:00,320 --> 00:05:03,660
+Just because you hear pool or Saturday doesn't mean it's the answer.
+
+82
+00:05:04,540 --> 00:05:08,060
+Second, listen for the negation.
+
+83
+00:05:08,740 --> 00:05:12,920
+Words like not, unfortunately, or closed.
+
+84
+00:05:13,400 --> 00:05:15,740
+Finally, wait for the agreement.
+
+85
+00:05:16,440 --> 00:05:19,520
+Ensure both speakers have settled on the final decision.
+
+86
+00:05:20,020 --> 00:05:24,680
+By mastering these three traps, self-correction, negation, and agreement, you
+
+87
+00:05:24,680 --> 00:05:28,860
+will stop falling for distractors and start catching the right answers.
+
+88
+00:05:34,260 --> 00:05:37,960
+Now we arrive at the final boss level, pick from a list.
+
+89
+00:05:38,120 --> 00:05:44,700
+This is where IELTS combines all the traps we just learned, negation, agreement, and correction into a single conversation.
+
+90
+00:05:44,920 --> 00:05:49,300
+In these questions, you must select two or three correct answers from a longer list.
+
+91
+00:05:49,820 --> 00:05:54,060
+This is difficult because the speakers will likely discuss every single item on that list.
+
+92
+00:05:54,440 --> 00:05:56,140
+Let's look at a constraint trap.
+
+93
+00:05:56,680 --> 00:06:03,960
+This is when an answer is technically possible, but a specific condition, like cost, time, or rules, makes it wrong.
+
+94
+00:06:05,320 --> 00:06:08,600
+Alright, so what kind of meat dishes should we have?
+
+95
+00:06:08,960 --> 00:06:11,000
+Some beef wellington would be great.
+
+96
+00:06:11,620 --> 00:06:13,040
+You are joking, right?
+
+97
+00:06:13,220 --> 00:06:15,060
+That would be quite expensive.
+
+98
+00:06:15,660 --> 00:06:16,900
+Yes, yes, I know.
+
+99
+00:06:17,340 --> 00:06:18,160
+No beef then.
+
+100
+00:06:18,490 --> 00:06:22,180
+How about something with pork and then another dish with chicken?
+
+101
+00:06:22,820 --> 00:06:24,400
+Okay, that sounds like a good idea.
+
+102
+00:06:25,280 --> 00:06:27,120
+Did you catch the logic flow there?
+
+103
+00:06:27,280 --> 00:06:28,740
+First, you heard beef.
+
+104
+00:06:28,920 --> 00:06:31,840
+If you were just matching keywords, you would have ticked it immediately.
+
+105
+00:06:32,080 --> 00:06:33,640
+But then came the constraint trap.
+
+106
+00:06:33,800 --> 00:06:35,820
+Oscar mentioned it was too expensive.
+
+107
+00:06:36,100 --> 00:06:37,020
+Then came the negation.
+
+108
+00:06:37,200 --> 00:06:38,980
+Walt explicitly said no beef.
+
+109
+00:06:39,480 --> 00:06:43,260
+After that, they finally proposed the correct answers, pork and chicken.
+
+110
+00:06:43,460 --> 00:06:47,100
+So for pick from a list questions, think of yourself as a judge in a courtroom.
+
+111
+00:06:47,100 --> 00:06:50,260
+Don't write down the verdict until you have heard all the arguments.
+
+112
+00:06:55,730 --> 00:06:57,550
+To recap what we learned this lesson.
+
+113
+00:06:57,810 --> 00:07:00,510
+One, beware of partial matches in multiple choice.
+
+114
+00:07:00,730 --> 00:07:03,130
+Two, listen for negation in matching questions.
+
+115
+00:07:03,490 --> 00:07:06,090
+Three, watch out for constraints in pick from a list.
+
+116
+00:07:06,290 --> 00:07:09,710
+Master these three habits and those distractors won't distract you anymore.
+
+117
+00:07:09,890 --> 00:07:10,870
+See you in the next lesson.
+

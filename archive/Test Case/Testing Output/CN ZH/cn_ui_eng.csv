@@ -1,0 +1,51 @@
+﻿key,english content,cn content
+checkout,Checkout,结账
+pay_order,Order payment,订单付款
+pending,Pending processing,处理中
+success,Payment successful,支付成功
+failure,Payment failed,支付失败
+unavailable,Unavailable,不可用
+info_notice,The course and all accompanying benefits will be added to this account after the payment process is successful!,支付成功后，该课程及所有配套特典将添加至本账号！
+export_invoice,Issue Invoice,开具发票
+invoice_company,Company,公司
+invoice_personal,Individual,个人
+invoice_buyer_name,Buyer's full name,买方氏名
+placeholder_invoice_buyer_name,Enter buyer's full name,输入买家氏名
+info_phone_number,Phone number,电话号码
+placeholder_phone_number,Enter phone number,输入电话号码
+placeholder_invoice_department,Enter department name,输入部门名称
+placeholder_invoice_tax_number,Enter tax identification number,输入税务识别号
+placeholder_invoice_address,Enter address,输入地址
+placeholder_invoice_receiver_email,Enter email for receiving the invoice,输入接收发票的电子邮件
+error_invoice_department,Enter company name,输入公司名称
+error_invoice_email,Please enter correct email format,请输入正确的电子邮件格式
+invoice_department,Name of department,部门名称
+invoice_tax_number,Tax identification number,税务识别号
+invoice_address,Address,地址
+invoice_receiver_email,Email for receiving the invoice,接收发票的邮箱
+continue_checkout,Continue to payment,继续付款
+invalid_coupon,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!,优惠券或促销码已失效。<br />请使用其他代码重试，或继续付款而不输入代码！
+product_unavailable,The product you selected has changed.<br />Please choose again or contact support staff for assistance!,您选择的产品已变更。<br />请重新选择或联系支持人员获取帮助！
+checkout,checkout,结账
+return_shoppping,Return to shopping,返回购物
+total_price,Total price,总价
+promo,Promotion,促销活动
+coupon_code,Coupon code,优惠券代码
+coupon_code_placeholder,Enter coupon code,输入优惠券代码
+discount_price_amount,Discounted price,折扣价格
+price_after_discount,Price after promotion,促销后价格
+x_people_used_course,More than {x} Prep students have used this roadmap,已有超过 {x} 名 Prep 学生使用此 roadmap
+product,Product,产品
+select_promo,Select,选择
+gifts,Included gift,赠品
+coupon_apply,Apply,应用
+your_info,Your information,您的信息
+select_1_discount,Select a promotional code,选择促销代码
+no_promo_yet,No promotional code available,无可用促销代码
+empty_discount,"Oops, there are currently no promotional programs for this product!",抱歉，目前此产品暂无促销方案！
+consent_text,"By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!",点击<span>继续付款</span>，即表示您已阅读并同意Prep的<a>条款和条件</a>以及<a>信息安全政策</a>
+discount_conflict_with_current_coupon,This promotion cannot be used simultaneously with the current coupon!,此优惠不可与当前优惠券同时使用！
+coupon_apply_not_successfully,Coupon application failed,优惠券申请失败
+coupon_apply_successfully,Coupon applied successfully!,优惠券应用成功！
+coupon_conflict_with_current_discount,This coupon cannot be used simultaneously with the current promotion!,此优惠券不能与当前促销活动同时使用！
+maximum_discount_limitation,Apply a maximum discount of {x}% on the order value,对订单金额应用最高{x}%的折扣

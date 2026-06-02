@@ -1,0 +1,252 @@
+[
+  {
+    "key": "checkout",
+    "english content": "Checkout",
+    "translated content": "ご購入手続き"
+  },
+  {
+    "key": "pay_order",
+    "english content": "Order payment",
+    "translated content": "注文の支払い"
+  },
+  {
+    "key": "pending",
+    "english content": "Pending processing",
+    "translated content": "処理中"
+  },
+  {
+    "key": "success",
+    "english content": "Payment successful",
+    "translated content": "お支払い完了"
+  },
+  {
+    "key": "failure",
+    "english content": "Payment failed",
+    "translated content": "お支払い失敗"
+  },
+  {
+    "key": "unavailable",
+    "english content": "Unavailable",
+    "translated content": "現在ご利用いただけません"
+  },
+  {
+    "key": "info_notice",
+    "english content": "The course and all accompanying benefits will be added to this account after the payment process is successful!",
+    "translated content": "お支払いが完了すると、このアカウントにコースと特典が追加されます"
+  },
+  {
+    "key": "export_invoice",
+    "english content": "Issue Invoice",
+    "translated content": "請求書を発行"
+  },
+  {
+    "key": "invoice_company",
+    "english content": "Company",
+    "translated content": "法人"
+  },
+  {
+    "key": "invoice_personal",
+    "english content": "Individual",
+    "translated content": "個人"
+  },
+  {
+    "key": "invoice_buyer_name",
+    "english content": "Buyer's full name",
+    "translated content": "購入者氏名"
+  },
+  {
+    "key": "placeholder_invoice_buyer_name",
+    "english content": "Enter buyer's full name",
+    "translated content": "購入者氏名を入力してください"
+  },
+  {
+    "key": "info_phone_number",
+    "english content": "Phone number",
+    "translated content": "電話番号"
+  },
+  {
+    "key": "placeholder_phone_number",
+    "english content": "Enter phone number",
+    "translated content": "電話番号を入力してください"
+  },
+  {
+    "key": "placeholder_invoice_department",
+    "english content": "Enter department name",
+    "translated content": "部署名を入力してください"
+  },
+  {
+    "key": "placeholder_invoice_tax_number",
+    "english content": "Enter tax identification number",
+    "translated content": "法人番号を入力してください"
+  },
+  {
+    "key": "placeholder_invoice_address",
+    "english content": "Enter address",
+    "translated content": "住所を入力してください"
+  },
+  {
+    "key": "placeholder_invoice_receiver_email",
+    "english content": "Enter email for receiving the invoice",
+    "translated content": "請求書送付先メールアドレスを入力してください"
+  },
+  {
+    "key": "error_invoice_department",
+    "english content": "Enter company name",
+    "translated content": "会社名を入力してください"
+  },
+  {
+    "key": "error_invoice_email",
+    "english content": "Please enter correct email format",
+    "translated content": "正しいメールアドレス形式で入力してください"
+  },
+  {
+    "key": "invoice_department",
+    "english content": "Name of department",
+    "translated content": "部署名"
+  },
+  {
+    "key": "invoice_tax_number",
+    "english content": "Tax identification number",
+    "translated content": "法人番号"
+  },
+  {
+    "key": "invoice_address",
+    "english content": "Address",
+    "translated content": "住所"
+  },
+  {
+    "key": "invoice_receiver_email",
+    "english content": "Email for receiving the invoice",
+    "translated content": "請求書送付先メールアドレス"
+  },
+  {
+    "key": "continue_checkout",
+    "english content": "Continue to payment",
+    "translated content": "支払いに進む"
+  },
+  {
+    "key": "invalid_coupon",
+    "english content": "The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!",
+    "translated content": "クーポンまたはプロモーションコードの有効期限が切れています。<br />別のコードを入力するか、コードなしでお支払いを続けてください。"
+  },
+  {
+    "key": "product_unavailable",
+    "english content": "The product you selected has changed.<br />Please choose again or contact support staff for assistance!",
+    "translated content": "選択された商品が変更されました。<br />再度ご選択いただくか、サポートスタッフまでお問い合わせください。"
+  },
+  {
+    "key": "checkout",
+    "english content": "checkout",
+    "translated content": "ご購入手続き"
+  },
+  {
+    "key": "return_shoppping",
+    "english content": "Return to shopping",
+    "translated content": "ショッピングに戻る"
+  },
+  {
+    "key": "total_price",
+    "english content": "Total price",
+    "translated content": "合計金額"
+  },
+  {
+    "key": "promo",
+    "english content": "Promotion",
+    "translated content": "プロモーション"
+  },
+  {
+    "key": "coupon_code",
+    "english content": "Coupon code",
+    "translated content": "クーポンコード"
+  },
+  {
+    "key": "coupon_code_placeholder",
+    "english content": "Enter coupon code",
+    "translated content": "クーポンコードを入力"
+  },
+  {
+    "key": "discount_price_amount",
+    "english content": "Discounted price",
+    "translated content": "割引後の価格"
+  },
+  {
+    "key": "price_after_discount",
+    "english content": "Price after promotion",
+    "translated content": "プロモーション適用後の価格"
+  },
+  {
+    "key": "x_people_used_course",
+    "english content": "More than {x} Prep students have used this roadmap",
+    "translated content": "すでに{x}人以上のPrep受講生がこのロードマップを利用しています"
+  },
+  {
+    "key": "product",
+    "english content": "Product",
+    "translated content": "商品"
+  },
+  {
+    "key": "select_promo",
+    "english content": "Select",
+    "translated content": "選択する"
+  },
+  {
+    "key": "gifts",
+    "english content": "Included gift",
+    "translated content": "付属ギフト"
+  },
+  {
+    "key": "coupon_apply",
+    "english content": "Apply",
+    "translated content": "適用する"
+  },
+  {
+    "key": "your_info",
+    "english content": "Your information",
+    "translated content": "お客様情報"
+  },
+  {
+    "key": "select_1_discount",
+    "english content": "Select a promotional code",
+    "translated content": "プロモーションコードを選択"
+  },
+  {
+    "key": "no_promo_yet",
+    "english content": "No promotional code available",
+    "translated content": "利用可能なプロモーションコードはありません"
+  },
+  {
+    "key": "empty_discount",
+    "english content": "Oops, there are currently no promotional programs for this product!",
+    "translated content": "現在、この商品にはご利用いただけるプロモーションがありません。"
+  },
+  {
+    "key": "consent_text",
+    "english content": "By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!",
+    "translated content": "<span>お支払いへ進む</span> をクリックすることで、Prepの <a>利用規約</a> および <a>情報セキュリティポリシー</a> に同意したものとみなされます。"
+  },
+  {
+    "key": "discount_conflict_with_current_coupon",
+    "english content": "This promotion cannot be used simultaneously with the current coupon!",
+    "translated content": "このプロモーションは、現在のクーポンと同時にご利用いただけません。"
+  },
+  {
+    "key": "coupon_apply_not_successfully",
+    "english content": "Coupon application failed",
+    "translated content": "クーポンの適用に失敗しました"
+  },
+  {
+    "key": "coupon_apply_successfully",
+    "english content": "Coupon applied successfully!",
+    "translated content": "クーポンが正常に適用されました"
+  },
+  {
+    "key": "coupon_conflict_with_current_discount",
+    "english content": "This coupon cannot be used simultaneously with the current promotion!",
+    "translated content": "このクーポンは現在のプロモーションと同時にはご利用いただけません"
+  },
+  {
+    "key": "maximum_discount_limitation",
+    "english content": "Apply a maximum discount of {x}% on the order value",
+    "translated content": "注文金額に対して最大{x}％の割引が適用されます"
+  }
+]

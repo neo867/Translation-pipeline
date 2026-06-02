@@ -1,0 +1,51 @@
+key,english content
+checkout,Checkout
+pay_order,Order payment
+pending,Pending processing
+success,Payment successful
+failure,Payment failed
+unavailable,Unavailable
+info_notice,The course and all accompanying benefits will be added to this account after the payment process is successful!
+export_invoice,Issue Invoice
+invoice_company,Company
+invoice_personal,Individual
+invoice_buyer_name,Buyer's full name
+placeholder_invoice_buyer_name,Enter buyer's full name
+info_phone_number,Phone number
+placeholder_phone_number,Enter phone number
+placeholder_invoice_department,Enter department name
+placeholder_invoice_tax_number,Enter tax identification number
+placeholder_invoice_address,Enter address
+placeholder_invoice_receiver_email,Enter email for receiving the invoice
+error_invoice_department,Enter company name
+error_invoice_email,Please enter correct email format
+invoice_department,Name of department
+invoice_tax_number,Tax identification number
+invoice_address,Address
+invoice_receiver_email,Email for receiving the invoice
+continue_checkout,Continue to payment
+invalid_coupon,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!
+product_unavailable,The product you selected has changed.<br />Please choose again or contact support staff for assistance!
+checkout,checkout
+return_shoppping,Return to shopping
+total_price,Total price
+promo,Promotion
+coupon_code,Coupon code
+coupon_code_placeholder,Enter coupon code
+discount_price_amount,Discounted price
+price_after_discount,Price after promotion
+x_people_used_course,More than {x} Prep students have used this roadmap
+product,Product
+select_promo,Select
+gifts,Included gift
+coupon_apply,Apply
+your_info,Your information
+select_1_discount,Select a promotional code
+no_promo_yet,No promotional code available
+empty_discount,"Oops, there are currently no promotional programs for this product!"
+consent_text,"By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!"
+discount_conflict_with_current_coupon,This promotion cannot be used simultaneously with the current coupon!
+coupon_apply_not_successfully,Coupon application failed
+coupon_apply_successfully,Coupon applied successfully!
+coupon_conflict_with_current_discount,This coupon cannot be used simultaneously with the current promotion!
+maximum_discount_limitation,Apply a maximum discount of {x}% on the order value

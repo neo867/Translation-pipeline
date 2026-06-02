@@ -1,0 +1,2809 @@
+[
+  {
+    "lesson": "1",
+    "segment": 1,
+    "timestamp": "00:00:07,200 --> 00:00:09,360",
+    "source": "Hello everyone, and a big welcome to Prep.",
+    "target": "안녕하세요, Prep 강의에 잘 오셨습니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 2,
+    "timestamp": "00:00:09,800 --> 00:00:12,280",
+    "source": "I'm so glad you're here for our basic grammar course.",
+    "target": "기본 문법 코스에서 만나게 되어 기쁘네요"
+  },
+  {
+    "lesson": "1",
+    "segment": 3,
+    "timestamp": "00:00:12,760 --> 00:00:16,120",
+    "source": "This is where we're going to build the very foundation you'll need to really",
+    "target": "영어를 정복하고 숙달하는 데 필요한 기초를 다지는"
+  },
+  {
+    "lesson": "1",
+    "segment": 5,
+    "timestamp": "00:00:18,880 --> 00:00:22,480",
+    "source": "We've got quite a journey ahead of us, and I truly believe that getting to know",
+    "target": "가야 할 길이 꽤 멀지만"
+  },
+  {
+    "lesson": "1",
+    "segment": 7,
+    "timestamp": "00:00:28,440 --> 00:00:32,720",
+    "source": "So in this very first video, let's take a little time to do a couple of things.",
+    "target": "그러니 이 첫 동영상에선 몇 가지를 먼저 설명하죠"
+  },
+  {
+    "lesson": "1",
+    "segment": 8,
+    "timestamp": "00:00:33,080 --> 00:00:36,574",
+    "source": "I'll walk you through the goals, the content, and the overall approach",
+    "target": "목표와 내용 그리고"
+  },
+  {
+    "lesson": "1",
+    "segment": 10,
+    "timestamp": "00:00:38,440 --> 00:00:42,214",
+    "source": "My hope is that by the end of the session, you'll have a really clear picture of what",
+    "target": "이 세션을 마치고 나면"
+  },
+  {
+    "lesson": "1",
+    "segment": 14,
+    "timestamp": "00:00:52,880 --> 00:00:57,040",
+    "source": "So this Basic Grammar course is a key part of Prep's foundational series.",
+    "target": "이 기본 문법 코스는"
+  },
+  {
+    "lesson": "1",
+    "segment": 20,
+    "timestamp": "00:01:17,600 --> 00:01:21,040",
+    "source": "Get you completely comfortable with basic English sentence structure,",
+    "target": "기본 영어 문장 구조와 문장 구성 방식"
+  },
+  {
+    "lesson": "1",
+    "segment": 21,
+    "timestamp": "00:01:21,240 --> 00:01:24,014",
+    "source": "how sentences are put together, and the different types",
+    "target": "다양한 문장 유형에 익숙해지기도 할 겁니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 23,
+    "timestamp": "00:01:26,360 --> 00:01:29,800",
+    "source": "Help you master the simple tenses, past, present, and future.",
+    "target": "과거, 현재, 미래 단순 시제에 숙달할 건데"
+  },
+  {
+    "lesson": "1",
+    "segment": 24,
+    "timestamp": "00:01:30,200 --> 00:01:31,680",
+    "source": "We'll really nail those down.",
+    "target": "이건 제대로 정복할 겁니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 25,
+    "timestamp": "00:01:32,160 --> 00:01:35,600",
+    "source": "And finally, get you started with creating your own basic sentences",
+    "target": "마지막으로 문법적으로 정확한 기본 문장을"
+  },
+  {
+    "lesson": "1",
+    "segment": 26,
+    "timestamp": "00:01:35,920 --> 00:01:37,360",
+    "source": "that are grammatically correct.",
+    "target": "직접 만들 겁니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 27,
+    "timestamp": "00:01:39,800 --> 00:01:43,334",
+    "source": "The course is structured into six main lessons, and each one focuses",
+    "target": "코스는 6가지 주요 레슨으로 구성되며"
+  },
+  {
+    "lesson": "1",
+    "segment": 29,
+    "timestamp": "00:01:45,160 --> 00:01:49,240",
+    "source": "Within each lesson, you'll find 2-4 smaller lessons or sections.",
+    "target": "레슨마다 하위 레슨이나 섹션이 2~4개 들어갑니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 30,
+    "timestamp": "00:01:50,000 --> 00:01:54,334",
+    "source": "That adds up to 23 lessons in total, and each one is carefully designed",
+    "target": "그래서 총 레슨 수가 23개입니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 33,
+    "timestamp": "00:02:03,000 --> 00:02:06,800",
+    "source": "So throughout this course, we'll be exploring, nouns, verbs,",
+    "target": "이 코스 전반에 걸쳐"
+  },
+  {
+    "lesson": "1",
+    "segment": 36,
+    "timestamp": "00:02:13,200 --> 00:02:14,960",
+    "source": "Now, I want to be upfront about something.",
+    "target": "한 가지 미리 말씀드리자면"
+  },
+  {
+    "lesson": "1",
+    "segment": 39,
+    "timestamp": "00:02:23,360 --> 00:02:26,880",
+    "source": "in pronunciation and vocabulary before you can tackle them effectively.",
+    "target": "복잡한 영역들이 있기 때문이죠"
+  },
+  {
+    "lesson": "1",
+    "segment": 40,
+    "timestamp": "00:02:27,320 --> 00:02:31,440",
+    "source": "We'll save those more advanced topics for our intermediate and advanced courses.",
+    "target": "이 고급 주제는 중급과 고급 코스에서 살펴볼 겁니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 41,
+    "timestamp": "00:02:31,520 --> 00:02:34,680",
+    "source": "The key here is to focus on quality over quantity.",
+    "target": "이 코스의 핵심은 양보다 질입니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 42,
+    "timestamp": "00:02:35,080 --> 00:02:38,094",
+    "source": "We're going to go deep, make sure you truly understand,",
+    "target": "깊이 파고들 거니까"
+  },
+  {
+    "lesson": "1",
+    "segment": 46,
+    "timestamp": "00:02:46,600 --> 00:02:49,960",
+    "source": "We're all about empowering you to become active independent learners.",
+    "target": "저희는 능동적이고 독립적으로 학습하길 장려합니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 47,
+    "timestamp": "00:02:50,360 --> 00:02:53,360",
+    "source": "We want you to develop the skills to continue improving your English",
+    "target": "코스가 끝난 뒤에도 계속해서 실력을 키워"
+  },
+  {
+    "lesson": "1",
+    "segment": 48,
+    "timestamp": "00:02:53,560 --> 00:02:55,320",
+    "source": "even after this course is over.",
+    "target": "영어 실력을 높이길 바라죠"
+  },
+  {
+    "lesson": "1",
+    "segment": 49,
+    "timestamp": "00:02:55,760 --> 00:02:59,574",
+    "source": "So instead of just throwing a bunch of grammar rules at you, we'll be using",
+    "target": "그래서 문법 규칙을 마구 설명하는 대신에"
+  },
+  {
+    "lesson": "1",
+    "segment": 52,
+    "timestamp": "00:03:06,720 --> 00:03:07,760",
+    "source": "Here's how it works.",
+    "target": "방식을 설명하겠습니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 53,
+    "timestamp": "00:03:08,120 --> 00:03:10,240",
+    "source": "I won't just lecture you with a list of rules.",
+    "target": "규칙을 나열하기만 하지 않고"
+  },
+  {
+    "lesson": "1",
+    "segment": 54,
+    "timestamp": "00:03:10,680 --> 00:03:15,360",
+    "source": "Instead, I'll present you with real-life situations, examples, and exercises.",
+    "target": "실제 상황과 예시 연습 문제를 제시할 겁니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 57,
+    "timestamp": "00:03:20,040 --> 00:03:23,240",
+    "source": "This is incredibly powerful because it leads to deeper understanding,",
+    "target": "효과가 강력한데"
+  },
+  {
+    "lesson": "1",
+    "segment": 59,
+    "timestamp": "00:03:27,840 --> 00:03:29,880",
+    "source": "Of course, after you've had a chance to explore,",
+    "target": "물론 탐구하신 뒤엔"
+  },
+  {
+    "lesson": "1",
+    "segment": 60,
+    "timestamp": "00:03:30,000 --> 00:03:33,040",
+    "source": "I'll always step in to summarize and organize the information",
+    "target": "제가 언제나 개입해서 정보를 명확하고 논리적으로"
+  },
+  {
+    "lesson": "1",
+    "segment": 61,
+    "timestamp": "00:03:33,360 --> 00:03:34,880",
+    "source": "in a clear, logical way.",
+    "target": "요약하고 정리할 겁니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 62,
+    "timestamp": "00:03:36,840 --> 00:03:40,854",
+    "source": "This guided discovery method is all about getting to the heart of the language and",
+    "target": "안내 기반 발견은 언어의 핵심을 파악하고"
+  },
+  {
+    "lesson": "1",
+    "segment": 63,
+    "timestamp": "00:03:40,920 --> 00:03:42,760",
+    "source": "developing your critical thinking skills.",
+    "target": "비판적 사고 능력을 키우는 데 집중합니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 64,
+    "timestamp": "00:03:43,240 --> 00:03:46,000",
+    "source": "It's a long-term investment, and It's not just for English.",
+    "target": "장기 투자인 셈인데요"
+  },
+  {
+    "lesson": "1",
+    "segment": 65,
+    "timestamp": "00:03:46,320 --> 00:03:49,840",
+    "source": "It'll help you become a better learner in all areas of your life.",
+    "target": "삶의 모든 영역에서 학습하는 능력을 키워 줍니다"
+  },
+  {
+    "lesson": "1",
+    "segment": 66,
+    "timestamp": "00:03:50,280 --> 00:03:54,054",
+    "source": "I know the explanations might seem a bit lengthy at times, but I really",
+    "target": "때로는 설명이 너무 길게 느껴지겠지만"
+  },
+  {
+    "lesson": "1",
+    "segment": 68,
+    "timestamp": "00:03:56,240 --> 00:03:58,840",
+    "source": "The long term benefits are absolutely worth it.",
+    "target": "장기적인 이익이 그 가치를 하니까요"
+  },
+  {
+    "lesson": "1",
+    "segment": 69,
+    "timestamp": "00:03:59,200 --> 00:04:02,480",
+    "source": "I've personally used Guided Discovery throughout my own language learning",
+    "target": "저도 안내 기반 발견으로 언어를 공부해 봤고"
+  },
+  {
+    "lesson": "1",
+    "segment": 74,
+    "timestamp": "00:04:13,320 --> 00:04:16,440",
+    "source": "I'm really excited to be on this journey with you, and I'm confident",
+    "target": "학습 여정에 함께하게 돼서 기쁘고"
+  },
+  {
+    "lesson": "1",
+    "segment": 76,
+    "timestamp": "00:04:21,080 --> 00:04:23,880",
+    "source": "and develop some incredibly valuable learning skills.",
+    "target": "터득하실 거라고 자신합니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 1,
+    "timestamp": "00:00:07,200 --> 00:00:09,574",
+    "source": "Hey there, it's me. Hey, everyone.",
+    "target": "안녕하세요"
+  },
+  {
+    "lesson": "2",
+    "segment": 3,
+    "timestamp": "00:00:11,640 --> 00:00:13,890",
+    "source": "I'll be your guide throughout this learning journey.",
+    "target": "이 학습 여정엔 제가 함께할 겁니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 4,
+    "timestamp": "00:00:13,960 --> 00:00:17,614",
+    "source": "Let's warm up with something fundamental yet crucial, the basic",
+    "target": "기초적이지만 필수인 주제로 워밍업을 할게요"
+  },
+  {
+    "lesson": "2",
+    "segment": 7,
+    "timestamp": "00:00:23,880 --> 00:00:26,000",
+    "source": "We simply want to:",
+    "target": "간단한 목표를 소개하죠"
+  },
+  {
+    "lesson": "2",
+    "segment": 9,
+    "timestamp": "00:00:29,120 --> 00:00:31,880",
+    "source": "Distinguish the different parts of a basic English sentence.",
+    "target": "기본 영어 문장 요소들을 구분하는 겁니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 10,
+    "timestamp": "00:00:32,400 --> 00:00:35,640",
+    "source": "Of course, since we haven't explored English parts of speech yet,",
+    "target": "물론 아직 영어 담화 요소를 살펴보지 않았으니"
+  },
+  {
+    "lesson": "2",
+    "segment": 11,
+    "timestamp": "00:00:35,800 --> 00:00:38,720",
+    "source": "this lesson will focus on the most fundamental concepts.",
+    "target": "이 레슨에선 가장 기초적인 개념에 집중할 겁니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 12,
+    "timestamp": "00:00:40,160 --> 00:00:43,200",
+    "source": "Towards the end of the course, we'll revisit sentence structure,",
+    "target": "코스 말미에 문장 구조를 다시 다루며"
+  },
+  {
+    "lesson": "2",
+    "segment": 13,
+    "timestamp": "00:00:43,600 --> 00:00:47,414",
+    "source": "expanding upon it and integrating everything we've learned to establish",
+    "target": "배운 내용을 전부 확장하고 통합해 토대를 세울 겁니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 16,
+    "timestamp": "00:00:54,280 --> 00:00:55,840",
+    "source": "Let's dive into the content.",
+    "target": "레슨 내용을 살펴보겠습니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 17,
+    "timestamp": "00:00:59,400 --> 00:01:03,840",
+    "source": "This lesson explores the core components of an English sentence, S, V, and O.",
+    "target": "이 레슨에선 영어 문장의 핵심 요소를 살펴봅니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 18,
+    "timestamp": "00:01:04,200 --> 00:01:07,880",
+    "source": "What are these elements, and what roles do they play in constructing meaning?",
+    "target": "이 성분들은 무엇이고"
+  },
+  {
+    "lesson": "2",
+    "segment": 19,
+    "timestamp": "00:01:08,240 --> 00:01:12,414",
+    "source": "Let's begin by examining one of the simplest, yet most powerful English",
+    "target": "가장 단순하면서도 강력한 영어 문장을 살펴보며"
+  },
+  {
+    "lesson": "2",
+    "segment": 22,
+    "timestamp": "00:01:19,880 --> 00:01:21,320",
+    "source": "But what makes up this sentence?",
+    "target": "이 문장은 성분이 뭘까요?"
+  },
+  {
+    "lesson": "2",
+    "segment": 23,
+    "timestamp": "00:01:21,720 --> 00:01:25,800",
+    "source": "In this sentence, \"I\" functions as the subject, abbreviated as S.",
+    "target": "이 문장에서 'I'는 주어입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 24,
+    "timestamp": "00:01:26,200 --> 00:01:29,934",
+    "source": "The subject identifies who or what performs the action or is being",
+    "target": "주어는 행동하는 주체나 문장의 주제를 나타냅니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 27,
+    "timestamp": "00:01:38,520 --> 00:01:42,014",
+    "source": "It usually appears at the beginning of the sentence and is an almost",
+    "target": "주로 문장 제일 앞에 나오며"
+  },
+  {
+    "lesson": "2",
+    "segment": 29,
+    "timestamp": "00:01:47,240 --> 00:01:49,760",
+    "source": "Next to \"I\" is \"love\", meaning \"to love\".",
+    "target": "'I' 다음은 'love'로 사랑한다는 뜻입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 30,
+    "timestamp": "00:01:50,120 --> 00:01:52,720",
+    "source": "What does this word describe in the sentence, or what does",
+    "target": "이 단어는 문장에서 뭘 서술하고"
+  },
+  {
+    "lesson": "2",
+    "segment": 33,
+    "timestamp": "00:01:58,040 --> 00:02:01,600",
+    "source": "In English, this is called the verb, often abbreviated as V.",
+    "target": "이를 동사라고 하고 주로 'V'로 줄여 씁니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 34,
+    "timestamp": "00:02:02,040 --> 00:02:04,640",
+    "source": "English verbs have different types, forms, and tenses.",
+    "target": "영어 동사는 유형, 형태 시제가 다릅니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 35,
+    "timestamp": "00:02:05,120 --> 00:02:08,920",
+    "source": "They change depending on who is doing the action and when the action happens.",
+    "target": "행동의 주체와 시기에 따라 달라지죠"
+  },
+  {
+    "lesson": "2",
+    "segment": 36,
+    "timestamp": "00:02:09,400 --> 00:02:11,880",
+    "source": "We'll explore this concept further throughout the course.",
+    "target": "이 개념은 코스 전반에 걸쳐 살펴볼 겁니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 38,
+    "timestamp": "00:02:17,360 --> 00:02:20,560",
+    "source": "Without it, the sentence would be incomplete or even meaningless.",
+    "target": "동사가 없는 문장은 불완전하거나 의미 없죠"
+  },
+  {
+    "lesson": "2",
+    "segment": 39,
+    "timestamp": "00:02:21,040 --> 00:02:24,920",
+    "source": "There are sentence types that might omit the subject, which we'll cover later,",
+    "target": "나중에 살펴보겠지만 주어를 생략하는 문장 유형은 있어도"
+  },
+  {
+    "lesson": "2",
+    "segment": 40,
+    "timestamp": "00:02:25,200 --> 00:02:27,480",
+    "source": "but the verb is absolutely essential.",
+    "target": "동사는 무조건 필수입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 41,
+    "timestamp": "00:02:29,520 --> 00:02:30,640",
+    "source": "Next, we have \"you\".",
+    "target": "다음으로 'you'는 문장에서 어떤 역할을 할까요?"
+  },
+  {
+    "lesson": "2",
+    "segment": 44,
+    "timestamp": "00:02:37,920 --> 00:02:41,120",
+    "source": "\"You\" here acts as the object, often symbolized by O.",
+    "target": "'you'와 같은 목적어는 주로 'O'로 표현합니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 45,
+    "timestamp": "00:02:41,560 --> 00:02:46,000",
+    "source": "Similar to the subject, an object can be a person, an object,",
+    "target": "주어와 비슷하게 목적어도 인물이나 사물, 동물"
+  },
+  {
+    "lesson": "2",
+    "segment": 47,
+    "timestamp": "00:02:49,800 --> 00:02:53,494",
+    "source": "Unlike the subject, which is almost always required, the object may",
+    "target": "거의 언제나 필수인 주어와 다르게"
+  },
+  {
+    "lesson": "2",
+    "segment": 49,
+    "timestamp": "00:02:55,080 --> 00:02:59,000",
+    "source": "Its presence depends on whether the verb needs an object to complete its meaning.",
+    "target": "동사가 의미를 완성하는 데 필요한지에 따라 달라집니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 50,
+    "timestamp": "00:03:01,000 --> 00:03:03,960",
+    "source": "In other words, the object's appearance isn't mandatory.",
+    "target": "즉, 목적어는 필수가 아니라"
+  },
+  {
+    "lesson": "2",
+    "segment": 51,
+    "timestamp": "00:03:04,200 --> 00:03:06,360",
+    "source": "It's determined by the type of verb we use.",
+    "target": "동사의 유형에 따라 달라집니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 52,
+    "timestamp": "00:03:06,760 --> 00:03:09,320",
+    "source": "Some verbs are complete on their own, like I walk.",
+    "target": "'I walk' 같은 동사는 목적어가 없어도 완전하죠"
+  },
+  {
+    "lesson": "2",
+    "segment": 53,
+    "timestamp": "00:03:09,840 --> 00:03:12,720",
+    "source": "This sentence is complete and meaningful without an object.",
+    "target": "목적어가 없어도 완전하고 의미 있는 문장입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 54,
+    "timestamp": "00:03:13,080 --> 00:03:15,680",
+    "source": "Adding more words would only expand upon its meaning.",
+    "target": "단어를 추가해 봤자 의미가 확장되기만 할 뿐이죠"
+  },
+  {
+    "lesson": "2",
+    "segment": 55,
+    "timestamp": "00:03:16,120 --> 00:03:18,280",
+    "source": "However, some verbs require an object.",
+    "target": "하지만 목적어가 필요한 동사도 있습니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 57,
+    "timestamp": "00:03:22,520 --> 00:03:26,360",
+    "source": "\"I love\" by itself is incomplete and needs the \"you\" to be grammatically",
+    "target": "'I love' 자체로는 불완전해서"
+  },
+  {
+    "lesson": "2",
+    "segment": 59,
+    "timestamp": "00:03:28,320 --> 00:03:31,720",
+    "source": "Everyone keep in mind, if a verb doesn't take an object, that's fine.",
+    "target": "명심하세요, 일부 동사는 목적어가 없어도 괜찮지만"
+  },
+  {
+    "lesson": "2",
+    "segment": 60,
+    "timestamp": "00:03:32,120 --> 00:03:35,334",
+    "source": "But if it does, the object sticks close, appearing right next",
+    "target": "목적어가 필요한 경우 동사와 가까워야 합니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 62,
+    "timestamp": "00:03:37,000 --> 00:03:39,600",
+    "source": "We'll learn more about types of verbs in a later lesson.",
+    "target": "동사 유형은 추후 레슨에서 배울 겁니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 63,
+    "timestamp": "00:03:44,000 --> 00:03:44,920",
+    "source": "Let's practice.",
+    "target": "연습해 보죠"
+  },
+  {
+    "lesson": "2",
+    "segment": 64,
+    "timestamp": "00:03:45,200 --> 00:03:49,774",
+    "source": "I'll present a series of English sentences using the sentence structure and what",
+    "target": "문장 구조와 방금 배운 내용을 사용한"
+  },
+  {
+    "lesson": "2",
+    "segment": 65,
+    "timestamp": "00:03:49,840 --> 00:03:54,000",
+    "source": "we've just learned, identify the subject, verb, and object in each sentence.",
+    "target": "문장들을 보여 드릴 테니"
+  },
+  {
+    "lesson": "2",
+    "segment": 66,
+    "timestamp": "00:03:54,440 --> 00:03:56,840",
+    "source": "Let's add a time limit for a bit of a challenge.",
+    "target": "난도를 조금 높여 시간제한도 걸어 보죠"
+  },
+  {
+    "lesson": "2",
+    "segment": 67,
+    "timestamp": "00:03:57,000 --> 00:03:59,760",
+    "source": "Two minutes for this exercise. Your time starts now.",
+    "target": "이 문제는 2분 드리겠습니다 지금 시작하세요"
+  },
+  {
+    "lesson": "2",
+    "segment": 68,
+    "timestamp": "00:04:08,560 --> 00:04:10,800",
+    "source": "In the first sentence, \"She dances\",",
+    "target": "첫 번째 문장 'She dances'에선"
+  },
+  {
+    "lesson": "2",
+    "segment": 69,
+    "timestamp": "00:04:11,200 --> 00:04:13,920",
+    "source": "\"she\" is the subject, the one performing the action,",
+    "target": "'She'가 행동의 주체인 주어고"
+  },
+  {
+    "lesson": "2",
+    "segment": 70,
+    "timestamp": "00:04:14,240 --> 00:04:17,240",
+    "source": "and \"dances\" is the verb, the action itself.",
+    "target": "'dances'가 행동인 동사입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 71,
+    "timestamp": "00:04:17,720 --> 00:04:19,360",
+    "source": "This sentence doesn't have an object.",
+    "target": "이 문장에 목적어는 없습니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 73,
+    "timestamp": "00:04:24,320 --> 00:04:26,480",
+    "source": "\"he\" is the subject and \"eats\" is the verb.",
+    "target": "'He'가 주어고 'eats'가 동사입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 77,
+    "timestamp": "00:04:37,240 --> 00:04:39,240",
+    "source": "\"English\" is the object of the verb.",
+    "target": "'English'는 동사의 목적어입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 78,
+    "timestamp": "00:04:41,320 --> 00:04:43,160",
+    "source": "In this sentence, \"He is talking\",",
+    "target": "다음 문장인 'He is talking'에선"
+  },
+  {
+    "lesson": "2",
+    "segment": 79,
+    "timestamp": "00:04:43,560 --> 00:04:46,080",
+    "source": "\"he\" is the subject and \"is talking\" is the verb.",
+    "target": "'He'가 주어 'talking'이 동사입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 81,
+    "timestamp": "00:04:49,640 --> 00:04:51,280",
+    "source": "This sentence doesn't have an object.",
+    "target": "이 문장은 목적어가 없습니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 82,
+    "timestamp": "00:04:53,400 --> 00:04:55,800",
+    "source": "Finally, in the last sentence, \"We want coffee\",",
+    "target": "마지막 문장 'We want coffee'에선"
+  },
+  {
+    "lesson": "2",
+    "segment": 83,
+    "timestamp": "00:04:56,280 --> 00:05:00,240",
+    "source": "\"we\" is the subject, \"want\" is the verb, and \"coffee\" is the object.",
+    "target": "'We'가 주어 'want'가 동사"
+  },
+  {
+    "lesson": "2",
+    "segment": 84,
+    "timestamp": "00:05:02,080 --> 00:05:03,560",
+    "source": "Let's do one more exercise.",
+    "target": "연습 문제를 더 풀어 보죠 이번엔 간단합니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 86,
+    "timestamp": "00:05:05,520 --> 00:05:08,120",
+    "source": "Arrange the words or phrases to form complete sentences.",
+    "target": "단어나 구절을 배열해 완전한 문장을 형성하세요"
+  },
+  {
+    "lesson": "2",
+    "segment": 87,
+    "timestamp": "00:05:08,600 --> 00:05:11,560",
+    "source": "Remember the correct SVO order. Let's begin.",
+    "target": "정확한 SVO 순서를 기억하세요"
+  },
+  {
+    "lesson": "2",
+    "segment": 88,
+    "timestamp": "00:05:19,640 --> 00:05:20,680",
+    "source": "Time's up, everyone.",
+    "target": "시간이 다 됐습니다 정답을 검토하죠"
+  },
+  {
+    "lesson": "2",
+    "segment": 90,
+    "timestamp": "00:05:22,840 --> 00:05:25,520",
+    "source": "The first sentence, \"She reads books every day.\"",
+    "target": "'She reads books every day'가 첫 번째 문장입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 91,
+    "timestamp": "00:05:25,960 --> 00:05:29,360",
+    "source": "\"She\" is the subject, \"reads\" is the verb, and \"books\" is the object.",
+    "target": "'She'가 주어 'reads'가 동사"
+  },
+  {
+    "lesson": "2",
+    "segment": 93,
+    "timestamp": "00:05:35,200 --> 00:05:38,734",
+    "source": "The second sentence, \"My father eats breakfast at 7 AM.\"",
+    "target": "'My father eats breakfast at 7 AM'이 두 번째 문장입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 94,
+    "timestamp": "00:05:38,800 --> 00:05:43,160",
+    "source": "\"My father\" is the subject, \"eats\" is the verb, and \"breakfast\" is the object.",
+    "target": "'My father'가 주어 'eats'가 동사"
+  },
+  {
+    "lesson": "2",
+    "segment": 95,
+    "timestamp": "00:05:43,560 --> 00:05:47,720",
+    "source": "\"At 7 AM\" is a prepositional phrase acting as an adverbial modifier.",
+    "target": "'at 7 AM'은 전치사구로 부사 수식어 역할을 합니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 97,
+    "timestamp": "00:05:52,960 --> 00:05:56,440",
+    "source": "\"We\" is the subject, \"watch\" is the verb, and \"TV\" is the object.",
+    "target": "'We'가 주어 'watch'가 동사"
+  },
+  {
+    "lesson": "2",
+    "segment": 99,
+    "timestamp": "00:06:02,640 --> 00:06:06,000",
+    "source": "The fourth sentence, \"My mother cleans the house every day.\"",
+    "target": "'My mother cleans the house every day'가 네 번째 문장입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 100,
+    "timestamp": "00:06:06,320 --> 00:06:10,640",
+    "source": "\"My mother\" is the subject, \"clean\" is the verb, and \"the house\" is the object.",
+    "target": "'My mother'가 주어 'cleans'가 동사"
+  },
+  {
+    "lesson": "2",
+    "segment": 101,
+    "timestamp": "00:06:11,160 --> 00:06:13,367",
+    "source": "\"Every day\" is an adverbial phrase.",
+    "target": "'every day'는 부사구입니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 105,
+    "timestamp": "00:06:29,080 --> 00:06:32,374",
+    "source": "We've explored the basic structure of an English sentence consisting",
+    "target": "세 파트로 구성된 영어 문장 기본 구조를 살펴봤죠"
+  },
+  {
+    "lesson": "2",
+    "segment": 107,
+    "timestamp": "00:06:36,160 --> 00:06:39,400",
+    "source": "We've learned what each part represents and its role in the sentence.",
+    "target": "각 파트의 의미와 문장 내 역할을 배웠습니다"
+  },
+  {
+    "lesson": "2",
+    "segment": 108,
+    "timestamp": "00:06:39,800 --> 00:06:43,054",
+    "source": "Keep this structure in mind as we delve deeper into each component",
+    "target": "코스 전반에 걸쳐"
+  },
+  {
+    "lesson": "2",
+    "segment": 110,
+    "timestamp": "00:06:44,400 --> 00:06:48,214",
+    "source": "By the end, we'll revisit this topic with a more detailed and comprehensive",
+    "target": "코스 후반에서는"
+  },
+  {
+    "lesson": "2",
+    "segment": 112,
+    "timestamp": "00:06:53,040 --> 00:06:54,320",
+    "source": "Goodbye and see you next time.",
+    "target": "다음 시간에 뵙겠습니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 1,
+    "timestamp": "00:00:07,000 --> 00:00:08,440",
+    "source": "Hello, it's me again.",
+    "target": "안녕하세요 이번 레슨에 잘 오셨습니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 3,
+    "timestamp": "00:00:10,560 --> 00:00:13,000",
+    "source": "Throughout your studies, whenever you come into contact",
+    "target": "공부하다가 영어가 나올 때면"
+  },
+  {
+    "lesson": "3",
+    "segment": 6,
+    "timestamp": "00:00:20,720 --> 00:00:24,734",
+    "source": "In this course, we will go through all four types of words so that you can write",
+    "target": "이 코스에선 여러분이 올바른 문법 순서로"
+  },
+  {
+    "lesson": "3",
+    "segment": 8,
+    "timestamp": "00:00:29,520 --> 00:00:32,494",
+    "source": "We'll start with nouns first, and our goal is to remember",
+    "target": "명사부터 살펴볼 텐데"
+  },
+  {
+    "lesson": "3",
+    "segment": 10,
+    "timestamp": "00:00:34,600 --> 00:00:36,840",
+    "source": "So are you guys ready? Let's go.",
+    "target": "준비되셨나요? 시작해 보겠습니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 13,
+    "timestamp": "00:00:45,560 --> 00:00:48,360",
+    "source": "Instead of listing a whole bunch of theories which are both boring",
+    "target": "따분하고 적용하기 어려운 이론만 나열하는 대신"
+  },
+  {
+    "lesson": "3",
+    "segment": 17,
+    "timestamp": "00:00:58,280 --> 00:01:00,840",
+    "source": "Let's start with a fairly easy challenge first.",
+    "target": "쉬운 연습 문제부터 풀어 볼게요"
+  },
+  {
+    "lesson": "3",
+    "segment": 19,
+    "timestamp": "00:01:04,840 --> 00:01:07,760",
+    "source": "Please connect the following images with the corresponding type.",
+    "target": "다음 이미지를 해당하는 유형과 연결하세요"
+  },
+  {
+    "lesson": "3",
+    "segment": 20,
+    "timestamp": "00:01:08,200 --> 00:01:11,200",
+    "source": "Let's do this exercise within one minute. Let's go.",
+    "target": "1분 안에 다 끝내세요 지금부터 시작하겠습니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 21,
+    "timestamp": "00:01:11,600 --> 00:01:14,374",
+    "source": "Please pause the video to finish the work and continue to play",
+    "target": "동영상을 멈추고 문제를 다 푼 뒤"
+  },
+  {
+    "lesson": "3",
+    "segment": 23,
+    "timestamp": "00:01:18,000 --> 00:01:20,894",
+    "source": "Before diving deeper into understanding nouns, we must first",
+    "target": "명사를 더 깊이 이해하기 전에"
+  },
+  {
+    "lesson": "3",
+    "segment": 25,
+    "timestamp": "00:01:22,640 --> 00:01:27,040",
+    "source": "The first group, a singer, a tree, or a dog, are all common nouns.",
+    "target": "첫 번째 그룹의 'Singer', 'Tree', 'Dog'는"
+  },
+  {
+    "lesson": "3",
+    "segment": 26,
+    "timestamp": "00:01:27,360 --> 00:01:28,360",
+    "source": "President Obama,",
+    "target": "한편 'Obama'와 'Statue of Liberty', 'France'는"
+  },
+  {
+    "lesson": "3",
+    "segment": 28,
+    "timestamp": "00:01:33,400 --> 00:01:35,880",
+    "source": "Next, we have happiness, courage, and anger.",
+    "target": "다음으로 'Happiness' 'Courage', 'Anger'는"
+  },
+  {
+    "lesson": "3",
+    "segment": 29,
+    "timestamp": "00:01:36,120 --> 00:01:38,600",
+    "source": "These are definitely abstract nouns.",
+    "target": "확실한 추상 명사입니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 30,
+    "timestamp": "00:01:38,920 --> 00:01:42,720",
+    "source": "Finally, a family, a football team, or an orchestra,",
+    "target": "마지막으로 'Family'와 'Football team', 'Orchestra'는"
+  },
+  {
+    "lesson": "3",
+    "segment": 31,
+    "timestamp": "00:01:42,920 --> 00:01:44,920",
+    "source": "these nouns are collective nouns.",
+    "target": "집합 명사입니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 32,
+    "timestamp": "00:01:47,120 --> 00:01:51,040",
+    "source": "Having grasped the overview, let's go into detail about each type, everyone.",
+    "target": "개요를 파악했으니 각 유형을 자세히 살펴보죠"
+  },
+  {
+    "lesson": "3",
+    "segment": 33,
+    "timestamp": "00:01:51,520 --> 00:01:52,720",
+    "source": "First is common noun.",
+    "target": "첫 번째는 일반 명사입니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 34,
+    "timestamp": "00:01:54,160 --> 00:01:57,734",
+    "source": "Look at the picture I give below and match the given nouns with the corresponding",
+    "target": "아래 그림을 보고"
+  },
+  {
+    "lesson": "3",
+    "segment": 36,
+    "timestamp": "00:01:59,040 --> 00:02:01,480",
+    "source": "Then try to think about what common nouns refer to.",
+    "target": "일반 명사가 무엇인지 생각해 보세요"
+  },
+  {
+    "lesson": "3",
+    "segment": 37,
+    "timestamp": "00:02:01,920 --> 00:02:03,960",
+    "source": "You will have one minute to do this exercise.",
+    "target": "이 연습 문제는 1분 만에 푸세요"
+  },
+  {
+    "lesson": "3",
+    "segment": 38,
+    "timestamp": "00:02:04,400 --> 00:02:07,120",
+    "source": "Pause the video for one minute and then come back when you're done.",
+    "target": "1분간 동영상을 정지하고 끝나면 돌아오시기 바랍니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 39,
+    "timestamp": "00:02:07,280 --> 00:02:08,440",
+    "source": "One minute starts now.",
+    "target": "지금부터 1분을 시작합니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 40,
+    "timestamp": "00:02:10,360 --> 00:02:12,040",
+    "source": "And here are the answers, everyone.",
+    "target": "정답은 이와 같습니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 41,
+    "timestamp": "00:02:12,520 --> 00:02:16,360",
+    "source": "All of these words are common nouns, which are words that refer to people, like",
+    "target": "전부 일반 명사로"
+  },
+  {
+    "lesson": "3",
+    "segment": 43,
+    "timestamp": "00:02:22,120 --> 00:02:23,640",
+    "source": "or places such as \"building\".",
+    "target": "'building' 같은 장소를 가리킵니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 44,
+    "timestamp": "00:02:25,760 --> 00:02:27,720",
+    "source": "Next, let's learn about proper nouns.",
+    "target": "다음으로 고유 명사를 배워 보겠습니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 45,
+    "timestamp": "00:02:29,120 --> 00:02:30,300",
+    "source": "Look at this list.",
+    "target": "다음 목록에서"
+  },
+  {
+    "lesson": "3",
+    "segment": 46,
+    "timestamp": "00:02:30,367 --> 00:02:33,500",
+    "source": "Which of the following items do you think will be classified as proper nouns?",
+    "target": "어떤 항목을 고유 명사로 분류할 수 있을까요?"
+  },
+  {
+    "lesson": "3",
+    "segment": 51,
+    "timestamp": "00:03:18,520 --> 00:03:21,400",
+    "source": "Proper names, for example: Tom, Mary.",
+    "target": "'Tom', 'Mary' 같은 고유 이름과"
+  },
+  {
+    "lesson": "3",
+    "segment": 53,
+    "timestamp": "00:03:27,567 --> 00:03:32,333",
+    "source": "Months of the year, for example: January, March, September.",
+    "target": "'January', 'March' 'September' 같은 달 이름"
+  },
+  {
+    "lesson": "3",
+    "segment": 56,
+    "timestamp": "00:03:42,067 --> 00:03:46,040",
+    "source": "Some holidays, events, for example: Valentine's Day,",
+    "target": "'Valentine's Day' 'Halloween'"
+  },
+  {
+    "lesson": "3",
+    "segment": 58,
+    "timestamp": "00:03:48,680 --> 00:03:53,640",
+    "source": "For the rest, the four directions, north, west, south, east, are not proper nouns.",
+    "target": "그 외 4개 방향 'north', 'west', 'south', 'east'는"
+  },
+  {
+    "lesson": "3",
+    "segment": 59,
+    "timestamp": "00:03:53,960 --> 00:03:57,680",
+    "source": "Similarly, the seasons of the year, such as spring or autumn,",
+    "target": "이와 유사하게 'Spring'이나 'Autumn' 같은 계절이나"
+  },
+  {
+    "lesson": "3",
+    "segment": 60,
+    "timestamp": "00:03:57,920 --> 00:04:03,080",
+    "source": "or times of the day, such as morning and evening, are also not proper nouns.",
+    "target": "'morning'이나 'evening' 같은 하루의 특정 시간도"
+  },
+  {
+    "lesson": "3",
+    "segment": 61,
+    "timestamp": "00:04:05,120 --> 00:04:09,080",
+    "source": "In summary, common nouns refer to people, animals, things, or places.",
+    "target": "요약하자면 일반 명사는 인물, 동물, 사물, 장소를"
+  },
+  {
+    "lesson": "3",
+    "segment": 62,
+    "timestamp": "00:04:09,720 --> 00:04:13,014",
+    "source": "Proper nouns, on the other hand, are the names of people, places,",
+    "target": "고유 명사는 인물, 장소 언어 이름을 가리키며"
+  },
+  {
+    "lesson": "3",
+    "segment": 64,
+    "timestamp": "00:04:18,386 --> 00:04:22,160",
+    "source": "Through the knowledge we've just learned, let's practice a little bit, everyone.",
+    "target": "방금 배운 내용으로 연습해 보죠"
+  },
+  {
+    "lesson": "3",
+    "segment": 65,
+    "timestamp": "00:04:22,640 --> 00:04:24,200",
+    "source": "I will give you a series of nouns.",
+    "target": "일련의 명사가 주어지면 30초 안에"
+  },
+  {
+    "lesson": "3",
+    "segment": 68,
+    "timestamp": "00:04:29,120 --> 00:04:32,374",
+    "source": "Remember to write it down so you can remember the words, and don't forget",
+    "target": "단어를 암기할 수 있게 꼭 받아 적으시고"
+  },
+  {
+    "lesson": "3",
+    "segment": 71,
+    "timestamp": "00:04:39,200 --> 00:04:41,880",
+    "source": "Please pause the video for 30 seconds until you make it.",
+    "target": "다 마칠 때까지 동영상을 30초간 정지하세요"
+  },
+  {
+    "lesson": "3",
+    "segment": 72,
+    "timestamp": "00:05:12,000 --> 00:05:13,000",
+    "source": "Time's up, everyone.",
+    "target": "시간이 다 됐습니다 어렵지 않았죠?"
+  },
+  {
+    "lesson": "3",
+    "segment": 74,
+    "timestamp": "00:05:14,760 --> 00:05:15,920",
+    "source": "And here is the answer.",
+    "target": "정답을 공개하겠습니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 75,
+    "timestamp": "00:05:16,400 --> 00:05:21,760",
+    "source": "Common nouns are a book, a laptop, a fish, an umbrella, a car.",
+    "target": "일반 명사는 'a book', 'a laptop' 'a fish', 'an umbrella', 'a car'"
+  },
+  {
+    "lesson": "3",
+    "segment": 76,
+    "timestamp": "00:05:22,240 --> 00:05:25,920",
+    "source": "Proper nouns include Adele, Christmas, October.",
+    "target": "고유 명사는 'Adele' 'Christmas', 'October'입니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 77,
+    "timestamp": "00:05:27,920 --> 00:05:31,094",
+    "source": "In life, there are small moments that can make us smile, feel joy,",
+    "target": "살다 보면 'joy'나 'gratitude', 'kindness'를 느껴"
+  },
+  {
+    "lesson": "3",
+    "segment": 79,
+    "timestamp": "00:05:32,880 --> 00:05:37,134",
+    "source": "These emotions and qualities are represented by abstract nouns.",
+    "target": "이런 감정이나 자질은 추상 명사에 속합니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 80,
+    "timestamp": "00:05:37,200 --> 00:05:41,534",
+    "source": "Now, let's take a moment to learn about abstract noun, one of the most",
+    "target": "이제 추상 명사를 배워 보죠"
+  },
+  {
+    "lesson": "3",
+    "segment": 82,
+    "timestamp": "00:05:44,800 --> 00:05:49,360",
+    "source": "Abstract noun are words that refer to feelings, qualities, ideals, or concepts.",
+    "target": "추상 명사는 감정이나 자질 이상, 개념을 가리킵니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 85,
+    "timestamp": "00:05:58,680 --> 00:06:01,520",
+    "source": "Gratitude, feeling grateful when someone helps you.",
+    "target": "'Gratitude'는 누군가가 도와줄 때 느끼는 감사함이며"
+  },
+  {
+    "lesson": "3",
+    "segment": 86,
+    "timestamp": "00:06:02,000 --> 00:06:04,800",
+    "source": "Kindness, a good quality that we show when we help others.",
+    "target": "'Kindness'는 남을 도울 때 나타나는 좋은 자질입니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 87,
+    "timestamp": "00:06:05,360 --> 00:06:09,120",
+    "source": "In addition to the examples above, there are many other abstract nouns",
+    "target": "위의 예시 외에도"
+  },
+  {
+    "lesson": "3",
+    "segment": 90,
+    "timestamp": "00:06:15,760 --> 00:06:18,440",
+    "source": "With the last group, I have another exercise for everyone.",
+    "target": "마지막 그룹도 연습 문제를 풀어 볼 겁니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 91,
+    "timestamp": "00:06:18,840 --> 00:06:22,174",
+    "source": "In the sentences I give below, two types of nouns will be marked in two",
+    "target": "아래 문장들에선"
+  },
+  {
+    "lesson": "3",
+    "segment": 96,
+    "timestamp": "00:06:32,000 --> 00:06:36,400",
+    "source": "As you guys may have noticed, each sentence contains two types of nouns.",
+    "target": "눈치채셨겠지만"
+  },
+  {
+    "lesson": "3",
+    "segment": 97,
+    "timestamp": "00:06:36,600 --> 00:06:39,770",
+    "source": "One is the common noun that we talked about at the beginning of the lesson,",
+    "target": "하나는 레슨 초반에 얘기했던 일반 명사이고"
+  },
+  {
+    "lesson": "3",
+    "segment": 98,
+    "timestamp": "00:06:39,840 --> 00:06:44,120",
+    "source": "and the other is a noun that indicates a plural, a group of those common nouns.",
+    "target": "하나는 복수를 나타내는 명사로"
+  },
+  {
+    "lesson": "3",
+    "segment": 99,
+    "timestamp": "00:06:44,520 --> 00:06:49,214",
+    "source": "\"Family\", \"band\", or \"crew\" are all collective nouns, nouns that refer",
+    "target": "'Family', 'band', 'crew' 모두 집합 명사죠"
+  },
+  {
+    "lesson": "3",
+    "segment": 101,
+    "timestamp": "00:06:51,560 --> 00:06:55,334",
+    "source": "I have included some other collective nouns for groups of people, animals,",
+    "target": "다른 인물, 동물 사물 집합 명사를"
+  },
+  {
+    "lesson": "3",
+    "segment": 103,
+    "timestamp": "00:07:00,000 --> 00:07:03,374",
+    "source": "Before moving on to the next part, we'll do an exercise to see how",
+    "target": "다음 파트로 넘어가기 전"
+  },
+  {
+    "lesson": "3",
+    "segment": 105,
+    "timestamp": "00:07:06,520 --> 00:07:10,080",
+    "source": "Four columns will appear on the screen corresponding to four types of nouns:",
+    "target": "명사 유형 4가지가 4개 열에 표시될 겁니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 106,
+    "timestamp": "00:07:10,280 --> 00:07:13,720",
+    "source": "common nouns, proper nouns, abstract nouns, and collective nouns.",
+    "target": "바로 일반 명사와 고유 명사 추상 명사와 집합 명사입니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 107,
+    "timestamp": "00:07:14,360 --> 00:07:18,560",
+    "source": "Your task is to put the words in the box into the corresponding noun type column.",
+    "target": "상자 안 단어들을 상응하는 명사 열에 넣으세요"
+  },
+  {
+    "lesson": "3",
+    "segment": 108,
+    "timestamp": "00:07:19,000 --> 00:07:19,960",
+    "source": "Okay, let's start.",
+    "target": "시작하겠습니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 111,
+    "timestamp": "00:07:30,000 --> 00:07:32,880",
+    "source": "In the common noun column, there will be the following words:",
+    "target": "일반 명사 열엔 다음 단어들이 들어갑니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 112,
+    "timestamp": "00:07:33,400 --> 00:07:35,600",
+    "source": "\"a tree\", \"a singer\", and \"a cat\".",
+    "target": "'a tree' 'a singer', 'a cat'"
+  },
+  {
+    "lesson": "3",
+    "segment": 114,
+    "timestamp": "00:07:41,160 --> 00:07:44,760",
+    "source": "Abstract noun have \"happiness\", \"kindness\", and \"gratitude\",",
+    "target": "추상 명사 열엔 'happiness' 'kindness', 'gratitude'가 들어가죠"
+  },
+  {
+    "lesson": "3",
+    "segment": 115,
+    "timestamp": "00:07:45,760 --> 00:07:50,240",
+    "source": "The remaining words are collective noun consisting of \"crew\", \"band\", and \"family\".",
+    "target": "나머지 단어들은 집합 명사로"
+  },
+  {
+    "lesson": "3",
+    "segment": 116,
+    "timestamp": "00:07:52,360 --> 00:07:56,774",
+    "source": "We have finished the first lesson on nouns - just the beginning, but there is",
+    "target": "첫 번째 명사 레슨을 마쳤습니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 118,
+    "timestamp": "00:07:58,760 --> 00:08:00,840",
+    "source": "I will summarize it for everyone to follow.",
+    "target": "이해하기 쉽게 요약하겠습니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 119,
+    "timestamp": "00:08:01,400 --> 00:08:02,694",
+    "source": "Types of nouns in English:",
+    "target": "영어 명사 유형입니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 120,
+    "timestamp": "00:08:02,760 --> 00:08:07,080",
+    "source": "Common nouns include people, things, animals, places.",
+    "target": "일반 명사는 인물, 사물 동물, 장소를 포함합니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 121,
+    "timestamp": "00:08:07,600 --> 00:08:09,200",
+    "source": "Proper nouns are proper names.",
+    "target": "고유 명사는 고유 이름과 요일, 달"
+  },
+  {
+    "lesson": "3",
+    "segment": 124,
+    "timestamp": "00:08:21,320 --> 00:08:26,160",
+    "source": "languages, seasons of the year, times of day, or some holidays, events.",
+    "target": "언어, 계절"
+  },
+  {
+    "lesson": "3",
+    "segment": 125,
+    "timestamp": "00:08:26,720 --> 00:08:31,280",
+    "source": "Abstract nouns include emotions, ideals, concepts, qualities,",
+    "target": "추상 명사는 감정과 이상 개념, 자질을 포함하고"
+  },
+  {
+    "lesson": "3",
+    "segment": 126,
+    "timestamp": "00:08:31,760 --> 00:08:36,200",
+    "source": "and collective noun refer to groups of people, animals, things, etc.",
+    "target": "집합 명사는 인물, 동물 사물 등의 집합을 나타냅니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 127,
+    "timestamp": "00:08:37,520 --> 00:08:41,214",
+    "source": "Distinguishing the types of noun is the basis for us to write and speak more",
+    "target": "명사 유형 구분은"
+  },
+  {
+    "lesson": "3",
+    "segment": 130,
+    "timestamp": "00:08:48,000 --> 00:08:51,400",
+    "source": "for the types of verb conjugation questions in Part 5 and 6.",
+    "target": "정답을 고르는 데도 도움이 됩니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 131,
+    "timestamp": "00:08:51,640 --> 00:08:55,040",
+    "source": "So remember to learn carefully from now on to use for a long time.",
+    "target": "그러니 지금 잘 배워서 오래 활용하시기 바랍니다"
+  },
+  {
+    "lesson": "3",
+    "segment": 134,
+    "timestamp": "00:09:02,440 --> 00:09:04,280",
+    "source": "before moving on to new knowledge.",
+    "target": "새로운 지식을 익히세요"
+  },
+  {
+    "lesson": "3",
+    "segment": 135,
+    "timestamp": "00:09:04,760 --> 00:09:06,400",
+    "source": "I will wait for you in the next lesson.",
+    "target": "다음 레슨에서 기다리죠"
+  },
+  {
+    "lesson": "3",
+    "segment": 136,
+    "timestamp": "00:09:06,880 --> 00:09:08,040",
+    "source": "Goodbye and see you next time.",
+    "target": "다음 시간에 뵙겠습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 1,
+    "timestamp": "00:00:07,120 --> 00:00:08,920",
+    "source": "Hello, and welcome back, everyone.",
+    "target": "잘 돌아오셨습니다 기분은 어떠신가요?"
+  },
+  {
+    "lesson": "4",
+    "segment": 3,
+    "timestamp": "00:00:10,560 --> 00:00:12,520",
+    "source": "Welcome back to Prep's Basic Grammar Course.",
+    "target": "Prep의 기본 문법 코스에 잘 돌아오셨습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 4,
+    "timestamp": "00:00:12,920 --> 00:00:16,320",
+    "source": "Languages across the world are diverse, each with its own rules.",
+    "target": "전 세계 언어는 다양하고 제각기 규칙이 있습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 5,
+    "timestamp": "00:00:16,720 --> 00:00:20,974",
+    "source": "We can't simply apply our grammar rules to English and vice versa, or we might",
+    "target": "내 언어의 문법을 영어나 다른 언어에 적용할 수 없죠"
+  },
+  {
+    "lesson": "4",
+    "segment": 7,
+    "timestamp": "00:00:23,600 --> 00:00:25,920",
+    "source": "Today, we'll explore noun with three objectives.",
+    "target": "이번엔 3개 목표를 세우고 명사를 살펴볼 겁니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 8,
+    "timestamp": "00:00:26,400 --> 00:00:29,520",
+    "source": "Differentiate between countable and uncountable nouns.",
+    "target": "가산 명사와 불가산 명사를 구분하고"
+  },
+  {
+    "lesson": "4",
+    "segment": 9,
+    "timestamp": "00:00:30,000 --> 00:00:32,320",
+    "source": "Apply the rules of pluralizing nouns.",
+    "target": "명사 복수화 규칙을 적용하며"
+  },
+  {
+    "lesson": "4",
+    "segment": 10,
+    "timestamp": "00:00:32,760 --> 00:00:35,200",
+    "source": "Distinguish between singular and plural nouns.",
+    "target": "단수 명사와 복수 명사를 구분하는 겁니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 11,
+    "timestamp": "00:00:36,560 --> 00:00:39,880",
+    "source": "Let's start by understanding countable and uncountable nouns.",
+    "target": "가산과 불가산 명사부터 알아보겠습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 12,
+    "timestamp": "00:00:40,280 --> 00:00:42,280",
+    "source": "Ready? Let's get right into it.",
+    "target": "준비되셨나요? 바로 시작해 보죠"
+  },
+  {
+    "lesson": "4",
+    "segment": 13,
+    "timestamp": "00:00:45,360 --> 00:00:48,920",
+    "source": "In English, some nouns are easily countable, like one apple,",
+    "target": "영어에서 일부 명사는 세기 쉽습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 15,
+    "timestamp": "00:00:50,760 --> 00:00:52,360",
+    "source": "We call these countable nouns.",
+    "target": "이를 가산 명사라고 합니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 16,
+    "timestamp": "00:00:52,680 --> 00:00:56,320",
+    "source": "Others, like milk or sugar, can't be counted directly.",
+    "target": "반면 'milk'나 'sugar'처럼 직접적으로 세지 못해서"
+  },
+  {
+    "lesson": "4",
+    "segment": 17,
+    "timestamp": "00:00:56,640 --> 00:01:01,134",
+    "source": "Instead, we need to use units to express their quantity, such as one carton",
+    "target": "계량 단위로 수량을 표현해야 하는 명사도 있죠"
+  },
+  {
+    "lesson": "4",
+    "segment": 19,
+    "timestamp": "00:01:03,760 --> 00:01:06,000",
+    "source": "These are called uncountable nouns.",
+    "target": "이를 불가산 명사라고 합니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 22,
+    "timestamp": "00:01:15,360 --> 00:01:19,400",
+    "source": "However, we can't say \"one milk\", \"two milks\" because milk is a substance,",
+    "target": "'milk'는 직접적으로 셀 수 없는 물질이라"
+  },
+  {
+    "lesson": "4",
+    "segment": 24,
+    "timestamp": "00:01:21,680 --> 00:01:25,854",
+    "source": "To express the quantity of milk, we need a container or a unit like carton",
+    "target": "'milk'의 수량을 표현하려면"
+  },
+  {
+    "lesson": "4",
+    "segment": 27,
+    "timestamp": "00:01:32,880 --> 00:01:36,534",
+    "source": "In English, these nouns that we can directly count and use with numbers",
+    "target": "이처럼 직접 셀 수 있고 숫자와 쓸 수 있는 명사를"
+  },
+  {
+    "lesson": "4",
+    "segment": 28,
+    "timestamp": "00:01:36,600 --> 00:01:38,080",
+    "source": "are called countable nouns.",
+    "target": "영어에선 가산 명사라고 합니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 30,
+    "timestamp": "00:01:41,160 --> 00:01:45,280",
+    "source": "For example, three books, four oranges, and five pens.",
+    "target": "'three books', 'four oranges' 'five pens'가 그 예입니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 31,
+    "timestamp": "00:01:47,360 --> 00:01:51,400",
+    "source": "Some nouns cannot be counted directly and therefore don't go with numbers alone.",
+    "target": "일부 명사는 직접 셀 수 없어서"
+  },
+  {
+    "lesson": "4",
+    "segment": 32,
+    "timestamp": "00:01:51,840 --> 00:01:55,934",
+    "source": "These are called uncountable nouns, and they often represent things we",
+    "target": "이를 불가산 명사라고 하며"
+  },
+  {
+    "lesson": "4",
+    "segment": 34,
+    "timestamp": "00:01:58,680 --> 00:02:01,520",
+    "source": "For example, chocolate, water, bread.",
+    "target": "'chocolate'과 'water' 'bread'가 그 예입니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 36,
+    "timestamp": "00:02:06,160 --> 00:02:10,214",
+    "source": "When we want to specify their quantity, we use them together with other nouns.",
+    "target": "수량을 명시하고자 하면 다른 명사를 함께 사용하죠"
+  },
+  {
+    "lesson": "4",
+    "segment": 37,
+    "timestamp": "00:02:10,280 --> 00:02:15,160",
+    "source": "For example, two bars of chocolate, four glasses of water, five loaves of bread.",
+    "target": "'two bars of chocolate' 'four glasses of water'"
+  },
+  {
+    "lesson": "4",
+    "segment": 38,
+    "timestamp": "00:02:17,080 --> 00:02:19,840",
+    "source": "We'll delve deeper into these expressions in another lesson.",
+    "target": "이런 표현들은 다른 레슨에서 더 깊이 다룰 겁니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 39,
+    "timestamp": "00:02:20,200 --> 00:02:23,640",
+    "source": "Now, you might be wondering which nouns are considered uncountable.",
+    "target": "어떤 명사가 불가산 명사인지 궁금하실 겁니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 40,
+    "timestamp": "00:02:24,080 --> 00:02:26,934",
+    "source": "While there aren't any hard and fast rules, some common groups",
+    "target": "불변의 법칙은 없지만"
+  },
+  {
+    "lesson": "4",
+    "segment": 42,
+    "timestamp": "00:02:29,600 --> 00:02:33,040",
+    "source": "I'm going to show you a series of images representing different groups.",
+    "target": "각 그룹을 대표하는 이미지들입니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 43,
+    "timestamp": "00:02:33,360 --> 00:02:36,520",
+    "source": "Your task is to guess the name of each group based on the images.",
+    "target": "이미지를 보고 각 그룹의 이름을 맞혀 보세요"
+  },
+  {
+    "lesson": "4",
+    "segment": 44,
+    "timestamp": "00:02:37,040 --> 00:02:38,840",
+    "source": "Ready? You have one minute.",
+    "target": "준비되셨나요? 1분을 드리겠습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 48,
+    "timestamp": "00:02:50,560 --> 00:02:55,000",
+    "source": "The second group depicts materials like sugar, coffee, liquids, and ice.",
+    "target": "2번 그룹은 'sugar', 'coffee' 'liquids', 'ice' 같은 물질입니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 49,
+    "timestamp": "00:02:55,520 --> 00:02:59,840",
+    "source": "The third group portrays abstract ideas, emotions, feelings, concepts, or qualities",
+    "target": "3번 그룹은 'happiness', 'luck' 'victory' 같은 추상적 관념과"
+  },
+  {
+    "lesson": "4",
+    "segment": 50,
+    "timestamp": "00:03:00,080 --> 00:03:01,960",
+    "source": "like happiness, luck, or victory.",
+    "target": "감정과 기분 개념, 자질입니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 51,
+    "timestamp": "00:03:02,440 --> 00:03:06,520",
+    "source": "And the last group illustrates natural phenomena like rain and lightning.",
+    "target": "마지막 그룹은 'rain'과 'lightning' 같은 자연 현상입니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 52,
+    "timestamp": "00:03:06,920 --> 00:03:08,200",
+    "source": "You're getting the hang of this.",
+    "target": "익숙해지고 있나요?"
+  },
+  {
+    "lesson": "4",
+    "segment": 53,
+    "timestamp": "00:03:10,080 --> 00:03:14,200",
+    "source": "Now, let's do a quick exercise to practice what we've learned before moving on.",
+    "target": "이제 배운 내용을 활용해 간단한 연습 문제를 풀고"
+  },
+  {
+    "lesson": "4",
+    "segment": 54,
+    "timestamp": "00:03:14,560 --> 00:03:17,240",
+    "source": "I'll show you a series of nouns along with their pictures.",
+    "target": "명사와 그에 상응하는 사진들을 보고"
+  },
+  {
+    "lesson": "4",
+    "segment": 55,
+    "timestamp": "00:03:17,640 --> 00:03:21,254",
+    "source": "Your task is to quickly categorize them into two groups, countable",
+    "target": "가산 명사와 불가산 명사란 두 가지 그룹으로"
+  },
+  {
+    "lesson": "4",
+    "segment": 57,
+    "timestamp": "00:03:23,520 --> 00:03:26,160",
+    "source": "Pause the video for 30 seconds. Ready?",
+    "target": "동영상을 30초간 정지하세요"
+  },
+  {
+    "lesson": "4",
+    "segment": 62,
+    "timestamp": "00:03:40,800 --> 00:03:42,480",
+    "source": "Remember the example at the beginning?",
+    "target": "초반의 예시를 기억하시나요?"
+  },
+  {
+    "lesson": "4",
+    "segment": 63,
+    "timestamp": "00:03:42,840 --> 00:03:46,000",
+    "source": "We had two apples, two carrots, but not two milks.",
+    "target": "'two apples', 'two carrots'는 있었지만 'two milks'는 없었습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 64,
+    "timestamp": "00:03:46,520 --> 00:03:50,400",
+    "source": "This is because only countable nouns have singular and plural forms,",
+    "target": "가산 명사에만 단수형과 복수형이 있고"
+  },
+  {
+    "lesson": "4",
+    "segment": 65,
+    "timestamp": "00:03:50,520 --> 00:03:53,360",
+    "source": "while uncountable nouns are always in singular form.",
+    "target": "불가산 명사는 언제나 단수형이기 때문입니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 66,
+    "timestamp": "00:03:54,800 --> 00:03:58,814",
+    "source": "Instead of bombarding you with rules, I'll show you practical examples of plural",
+    "target": "규칙을 나열하는 대신"
+  },
+  {
+    "lesson": "4",
+    "segment": 69,
+    "timestamp": "00:04:03,400 --> 00:04:07,654",
+    "source": "First, analyze these two example groups and help me identify the most basic",
+    "target": "우선 두 예시 그룹을 분석한 뒤"
+  },
+  {
+    "lesson": "4",
+    "segment": 71,
+    "timestamp": "00:04:10,040 --> 00:04:11,520",
+    "source": "Pause the video in one minute.",
+    "target": "동영상을 1분간 정지하세요"
+  },
+  {
+    "lesson": "4",
+    "segment": 73,
+    "timestamp": "00:04:16,520 --> 00:04:20,574",
+    "source": "adding S as shown in the first two examples and adding ES as",
+    "target": "첫 두 문장처럼 's'를 더하거나"
+  },
+  {
+    "lesson": "4",
+    "segment": 75,
+    "timestamp": "00:04:24,360 --> 00:04:26,960",
+    "source": "Have you noticed a pattern with the words that take S?",
+    "target": "'s'를 쓰는 단어들의 패턴을 알아채셨나요?"
+  },
+  {
+    "lesson": "4",
+    "segment": 76,
+    "timestamp": "00:04:27,280 --> 00:04:29,200",
+    "source": "Pay attention to the endings of the nouns.",
+    "target": "명사의 끝을 잘 보세요"
+  },
+  {
+    "lesson": "4",
+    "segment": 79,
+    "timestamp": "00:04:37,040 --> 00:04:42,000",
+    "source": "'-X' like 'boxes', '-Z' like 'quizzes', and '-O' like 'potatoes'.",
+    "target": "'boxes'처럼 'x' 'quizzes'처럼 'z'"
+  },
+  {
+    "lesson": "4",
+    "segment": 81,
+    "timestamp": "00:04:46,040 --> 00:04:49,800",
+    "source": "Some only take S, such as pianos, photos, and radios.",
+    "target": "'pianos', 'photos', 'radios'처럼 's'만 붙기도 합니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 82,
+    "timestamp": "00:04:50,080 --> 00:04:53,720",
+    "source": "However, in most other cases, we add S to indicate the plural.",
+    "target": "하지만 대다수의 경우 'es'로 복수를 나타냅니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 83,
+    "timestamp": "00:04:55,880 --> 00:04:57,200",
+    "source": "These are general rules.",
+    "target": "이게 일반적인 규칙입니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 84,
+    "timestamp": "00:04:57,560 --> 00:05:00,360",
+    "source": "Of course, there are exceptions because this is English.",
+    "target": "물론 영어니까 예외도 있지만 걱정하지 마세요"
+  },
+  {
+    "lesson": "4",
+    "segment": 86,
+    "timestamp": "00:05:03,760 --> 00:05:05,960",
+    "source": "you'll quickly memorize and apply them all.",
+    "target": "빠르게 외워서 모두 적용할 수 있습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 87,
+    "timestamp": "00:05:06,200 --> 00:05:09,480",
+    "source": "Now, let's examine the following examples and deduce the rules.",
+    "target": "다음 예시들을 살펴보고 규칙을 추론해 보죠"
+  },
+  {
+    "lesson": "4",
+    "segment": 91,
+    "timestamp": "00:05:20,200 --> 00:05:23,920",
+    "source": "Conversely, if a noun ends in a vowel followed by Y, like 'key',",
+    "target": "그와 반대로 'key'처럼 'y' 앞에 모음이 오면"
+  },
+  {
+    "lesson": "4",
+    "segment": 92,
+    "timestamp": "00:05:24,120 --> 00:05:26,880",
+    "source": "we simply add -S, for example, 'keys'.",
+    "target": "단순히 's'만 더해서 'keys'처럼 만듭니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 95,
+    "timestamp": "00:05:36,200 --> 00:05:38,480",
+    "source": "For example, 'knife' becomes 'knives'.",
+    "target": "예를 들자면 'knife'는 'knives'가 됩니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 96,
+    "timestamp": "00:05:38,840 --> 00:05:42,160",
+    "source": "However, as always in English, the language of exceptions,",
+    "target": "하지만 예외의 언어인 영어가 늘 그렇듯이"
+  },
+  {
+    "lesson": "4",
+    "segment": 97,
+    "timestamp": "00:05:42,560 --> 00:05:47,214",
+    "source": "nouns ending in EF, IEF, IFF, OOF, only",
+    "target": "'ef', 'ief', 'iff', 'oof'로 끝나는 명사는"
+  },
+  {
+    "lesson": "4",
+    "segment": 99,
+    "timestamp": "00:05:50,200 --> 00:05:51,640",
+    "source": "for example, 'chef' becomes 'chefs'.",
+    "target": "'chef'는 'chefs'가 됩니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 100,
+    "timestamp": "00:05:52,280 --> 00:05:55,800",
+    "source": "Pause the video for 45 seconds to think about these examples.",
+    "target": "동영상을 45초간 정지하고 이 예시들을 생각해 보세요"
+  },
+  {
+    "lesson": "4",
+    "segment": 101,
+    "timestamp": "00:05:57,920 --> 00:06:01,200",
+    "source": "Some English nouns have identical singular and plural forms.",
+    "target": "일부 영어 명사는 단수형과 복수형이 동일합니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 102,
+    "timestamp": "00:06:01,520 --> 00:06:03,680",
+    "source": "The most common words in this group are 'deer',",
+    "target": "이 그룹에서 가장 흔한 단어는 'Deer'와"
+  },
+  {
+    "lesson": "4",
+    "segment": 104,
+    "timestamp": "00:06:09,320 --> 00:06:12,720",
+    "source": "Finally, we have a group of nine common irregular nouns,",
+    "target": "마지막으로 9가지의 흔한 불규칙 명사 그룹이 있습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 105,
+    "timestamp": "00:06:12,880 --> 00:06:16,774",
+    "source": "meaning their plural forms change entirely, not just by adding",
+    "target": "이 그룹은 복수형이 완전히 다릅니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 107,
+    "timestamp": "00:06:19,360 --> 00:06:23,720",
+    "source": "These words are 'man', 'woman', 'child', 'ox',",
+    "target": "그 단어들은 바로 'man', 'woman', 'child', 'ox'"
+  },
+  {
+    "lesson": "4",
+    "segment": 108,
+    "timestamp": "00:06:24,320 --> 00:06:28,920",
+    "source": "'foot', 'goose', 'tooth', 'mouse', 'louse',",
+    "target": "'foot', 'goose', 'tooth' 'mouse', 'louse'이고"
+  },
+  {
+    "lesson": "4",
+    "segment": 109,
+    "timestamp": "00:06:29,600 --> 00:06:36,120",
+    "source": "and their plural forms are 'men', 'women', 'children', 'oxen', 'feet',",
+    "target": "이 단어들의 복수형은 'men', 'women', 'children', 'oxen'"
+  },
+  {
+    "lesson": "4",
+    "segment": 113,
+    "timestamp": "00:06:46,080 --> 00:06:47,040",
+    "source": "The general rule:",
+    "target": "일반적인 규칙입니다 명사에 's'나 'es'를 더하거나"
+  },
+  {
+    "lesson": "4",
+    "segment": 115,
+    "timestamp": "00:06:50,040 --> 00:06:54,840",
+    "source": "Add -ES to noun ending in -CH, -SH, -S, -X, -Z, and -O, with some exceptions.",
+    "target": "'ch', 'sh', 's', 'x', 'z', 'o'로 끝나면 'es'를 더합니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 118,
+    "timestamp": "00:07:01,560 --> 00:07:03,960",
+    "source": "Nouns ending in vowel plus Y, add S.",
+    "target": "모음과 'y'로 끝나면 's'를 더합니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 119,
+    "timestamp": "00:07:04,560 --> 00:07:08,640",
+    "source": "Nouns ending in F/FE, usually change to V and add ES.",
+    "target": "'f'나 'fe'로 끝나면 주로 'v'로 바꾸고 'es'를 더하죠"
+  },
+  {
+    "lesson": "4",
+    "segment": 121,
+    "timestamp": "00:07:18,600 --> 00:07:21,400",
+    "source": "Some nouns have identical singular and plural forms.",
+    "target": "일부 명사는 단수형과 복수형이 동일합니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 122,
+    "timestamp": "00:07:22,120 --> 00:07:23,560",
+    "source": "Nine irregular nouns.",
+    "target": "9가지의 불규칙 명사가 있습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 123,
+    "timestamp": "00:07:24,040 --> 00:07:26,080",
+    "source": "Did everyone have time to note down all the cases?",
+    "target": "다들 사례를 모두 적었나요?"
+  },
+  {
+    "lesson": "4",
+    "segment": 127,
+    "timestamp": "00:07:36,840 --> 00:07:38,360",
+    "source": "On the screen, you'll see two columns.",
+    "target": "화면에 두 열이 보일 겁니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 128,
+    "timestamp": "00:07:38,800 --> 00:07:42,600",
+    "source": "Your task is to write the plural form of the given singular nouns.",
+    "target": "주어진 단수 명사의 복수형을 적으면 됩니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 129,
+    "timestamp": "00:07:42,920 --> 00:07:44,620",
+    "source": "Go ahead and start practicing.",
+    "target": "연습을 시작하세요"
+  },
+  {
+    "lesson": "4",
+    "segment": 130,
+    "timestamp": "00:07:46,200 --> 00:07:47,000",
+    "source": "Have you finished?",
+    "target": "다 적으셨나요?"
+  },
+  {
+    "lesson": "4",
+    "segment": 132,
+    "timestamp": "00:07:53,120 --> 00:07:56,240",
+    "source": "We've covered many things today, but it's incredibly useful information.",
+    "target": "이번에 다룬 내용이 많지만 전부 유용한 정보입니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 133,
+    "timestamp": "00:07:56,880 --> 00:08:00,574",
+    "source": "This knowledge will come in handy later when we tackle verb conjugation",
+    "target": "추후 TOEIC 시험에서 동사 활용 문제를 풀 때"
+  },
+  {
+    "lesson": "4",
+    "segment": 135,
+    "timestamp": "00:08:04,000 --> 00:08:07,760",
+    "source": "To help you remember everything we've learned, here's a mini challenge.",
+    "target": "배운 내용을 기억할 수 있게 간단한 문제를 풀어 보죠"
+  },
+  {
+    "lesson": "4",
+    "segment": 136,
+    "timestamp": "00:08:08,080 --> 00:08:11,534",
+    "source": "I'll give you three sentences, each containing an error related",
+    "target": "명사와 그 수와 관련된"
+  },
+  {
+    "lesson": "4",
+    "segment": 138,
+    "timestamp": "00:08:13,360 --> 00:08:16,400",
+    "source": "You have 40 seconds to identify and correct these mistakes.",
+    "target": "40초 만에 오류를 찾고 고치세요"
+  },
+  {
+    "lesson": "4",
+    "segment": 139,
+    "timestamp": "00:08:16,760 --> 00:08:17,200",
+    "source": "Ready?",
+    "target": "준비되셨나요? 동영상을 40초간 정지하고 시작하세요"
+  },
+  {
+    "lesson": "4",
+    "segment": 142,
+    "timestamp": "00:08:26,520 --> 00:08:30,800",
+    "source": "Remember that it refers to a natural phenomenon, making it an uncountable noun.",
+    "target": "자연 현상이니 불가산 명사이므로"
+  },
+  {
+    "lesson": "4",
+    "segment": 143,
+    "timestamp": "00:08:31,240 --> 00:08:32,680",
+    "source": "Therefore, it cannot be plural.",
+    "target": "복수형을 취할 수 없습니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 144,
+    "timestamp": "00:08:33,040 --> 00:08:35,320",
+    "source": "We need to change 'sunshines' to 'sunshine'.",
+    "target": "'sunshines'를 'sunshine'으로 바꿔야 하죠"
+  },
+  {
+    "lesson": "4",
+    "segment": 145,
+    "timestamp": "00:08:35,840 --> 00:08:39,734",
+    "source": "The second sentence includes the word 'series', which falls under the category",
+    "target": "두 번째 문장엔 'serieses'가 나오는데"
+  },
+  {
+    "lesson": "4",
+    "segment": 147,
+    "timestamp": "00:08:43,000 --> 00:08:46,960",
+    "source": "To make it grammatically correct, we simply remove the ES at the end,",
+    "target": "문법에 맞게 고치려면"
+  },
+  {
+    "lesson": "4",
+    "segment": 149,
+    "timestamp": "00:08:49,040 --> 00:08:51,160",
+    "source": "The last sentence presents another exception.",
+    "target": "마지막 문장에도 예외 사례가 나옵니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 150,
+    "timestamp": "00:08:51,640 --> 00:08:56,600",
+    "source": "While 'piano' does end in O, we only add S instead of ES to form its plural.",
+    "target": "'piano'가 'o'로 끝나긴 하지만"
+  },
+  {
+    "lesson": "4",
+    "segment": 151,
+    "timestamp": "00:08:57,040 --> 00:08:58,720",
+    "source": "So we change 'pianoes' to 'pianos'.",
+    "target": "'pianoes'를 'pianos'로 바꿉니다"
+  },
+  {
+    "lesson": "4",
+    "segment": 152,
+    "timestamp": "00:09:00,920 --> 00:09:05,694",
+    "source": "Today, we explored countable nouns and uncountable nouns, as well as the",
+    "target": "이번 시간엔 가산 명사와 불가산 명사를 살펴봤고"
+  },
+  {
+    "lesson": "4",
+    "segment": 154,
+    "timestamp": "00:09:08,760 --> 00:09:12,640",
+    "source": "Remember to take notes for easy review and apply this knowledge to your homework.",
+    "target": "쉽게 복습할 수 있게 꼭 필기하시고"
+  },
+  {
+    "lesson": "4",
+    "segment": 155,
+    "timestamp": "00:09:13,120 --> 00:09:17,080",
+    "source": "This will deepen your understanding and help you retain the information long term.",
+    "target": "이러면 이해가 깊어지고 정보를 오래 기억할 수 있죠"
+  },
+  {
+    "lesson": "4",
+    "segment": 156,
+    "timestamp": "00:09:17,600 --> 00:09:18,880",
+    "source": "See you in our next lesson.",
+    "target": "다음 레슨에서 만나요"
+  },
+  {
+    "lesson": "4",
+    "segment": 157,
+    "timestamp": "00:09:19,280 --> 00:09:20,480",
+    "source": "Goodbye and see you next time.",
+    "target": "다음 시간에 뵙겠습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 1,
+    "timestamp": "00:00:07,120 --> 00:00:08,520",
+    "source": "Hello and welcome back.",
+    "target": "안녕하세요 잘 돌아오셨습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 4,
+    "timestamp": "00:00:13,640 --> 00:00:17,480",
+    "source": "Welcome you all to the last lesson on nouns in the Basic Grammar Course.",
+    "target": "기본 문법 코스의 마지막 명사 레슨입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 5,
+    "timestamp": "00:00:18,000 --> 00:00:20,240",
+    "source": "Have you ever seen the symbol S in English?",
+    "target": "영어에서 'S' 기호를 본 적 있나요?"
+  },
+  {
+    "lesson": "5",
+    "segment": 6,
+    "timestamp": "00:00:20,560 --> 00:00:24,894",
+    "source": "I guess you have seen it a lot, but S has different meanings and uses",
+    "target": "많이 보셨겠지만 S는 의미와 용법이 다양해"
+  },
+  {
+    "lesson": "5",
+    "segment": 8,
+    "timestamp": "00:00:27,320 --> 00:00:30,254",
+    "source": "So through this lesson, we will understand more about its use",
+    "target": "그러니 이번 레슨에선 S의 용법을 배워 볼게요"
+  },
+  {
+    "lesson": "5",
+    "segment": 11,
+    "timestamp": "00:00:35,160 --> 00:00:37,160",
+    "source": "Master the possessive case of nouns.",
+    "target": "명사 소유격에 숙달하는 겁니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 13,
+    "timestamp": "00:00:44,160 --> 00:00:45,800",
+    "source": "Let's start with an example.",
+    "target": "예시부터 보겠습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 14,
+    "timestamp": "00:00:46,320 --> 00:00:48,640",
+    "source": "This is Sam. He bought a book at a store.",
+    "target": "'This is Sam. He bought a book at a store.'"
+  },
+  {
+    "lesson": "5",
+    "segment": 15,
+    "timestamp": "00:00:49,200 --> 00:00:50,040",
+    "source": "This is Sam's book.",
+    "target": "'This is Sam's book.'"
+  },
+  {
+    "lesson": "5",
+    "segment": 17,
+    "timestamp": "00:00:52,840 --> 00:00:54,840",
+    "source": "Is it an abbreviation of the verb to be?",
+    "target": "'be' 동사의 축약형일까요?"
+  },
+  {
+    "lesson": "5",
+    "segment": 18,
+    "timestamp": "00:00:55,120 --> 00:00:57,720",
+    "source": "If so, the sentence will become Sam's Book.",
+    "target": "그렇다면 문장이 'Sam is book.'이 되는데"
+  },
+  {
+    "lesson": "5",
+    "segment": 19,
+    "timestamp": "00:00:58,000 --> 00:00:59,800",
+    "source": "It doesn't sound very reasonable, right?",
+    "target": "적절해 보이지 않죠?"
+  },
+  {
+    "lesson": "5",
+    "segment": 20,
+    "timestamp": "00:01:00,000 --> 00:01:02,960",
+    "source": "Obviously, Sam is a person and he cannot be a book.",
+    "target": "'Sam'은 사람이라 'book'이 될 수 없으니까요"
+  },
+  {
+    "lesson": "5",
+    "segment": 21,
+    "timestamp": "00:01:03,240 --> 00:01:04,640",
+    "source": "So what is in this case?",
+    "target": "그렇다면 's'는 뭘까요?"
+  },
+  {
+    "lesson": "5",
+    "segment": 22,
+    "timestamp": "00:01:05,080 --> 00:01:08,240",
+    "source": "Sam bought the book, so that book belongs to Sam, or Sam's book.",
+    "target": "'Sam'이 'book'을 샀으니 'book'은 'Sam'의 소유입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 23,
+    "timestamp": "00:01:08,640 --> 00:01:10,480",
+    "source": "The S here is used to indicate possession.",
+    "target": "여기서 's'는 소유를 나타냅니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 24,
+    "timestamp": "00:01:10,880 --> 00:01:14,014",
+    "source": "A noun in English can possess another noun, and that case is",
+    "target": "영어에서 명사는 다른 명사를 소유할 수 있는데"
+  },
+  {
+    "lesson": "5",
+    "segment": 28,
+    "timestamp": "00:01:23,280 --> 00:01:27,040",
+    "source": "Convert this phrase into symbolic form, then we will have N1's N2.",
+    "target": "기호 형태로 바꾸면 'N1's N2'가 됩니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 29,
+    "timestamp": "00:01:27,560 --> 00:01:32,000",
+    "source": "In this case, noun one is the possessive noun and noun two is the possessed noun.",
+    "target": "이 경우 1번 명사는 소유하는 명사"
+  },
+  {
+    "lesson": "5",
+    "segment": 30,
+    "timestamp": "00:01:32,320 --> 00:01:35,920",
+    "source": "So does the possessive case simply involve adding \"s\" between two nouns?",
+    "target": "소유격은 두 명사 사이에 's'만 더하면 끝일까요?"
+  },
+  {
+    "lesson": "5",
+    "segment": 33,
+    "timestamp": "00:01:42,840 --> 00:01:45,680",
+    "source": "You can pause the video for one minute to do this exercise,",
+    "target": "동영상을 1분간 정지하고 이 연습을 하고 나면"
+  },
+  {
+    "lesson": "5",
+    "segment": 34,
+    "timestamp": "00:01:45,880 --> 00:01:47,160",
+    "source": "then I will explain the answer.",
+    "target": "답을 설명해 드리겠습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 35,
+    "timestamp": "00:01:47,720 --> 00:01:50,414",
+    "source": "Decide whether the possessive case is used correctly in each",
+    "target": "문장마다 소유격이 올바르게 쓰였는지 판단하세요"
+  },
+  {
+    "lesson": "5",
+    "segment": 37,
+    "timestamp": "00:01:53,720 --> 00:01:55,680",
+    "source": "All right, guys, have you all got the answers?",
+    "target": "답을 다 찾으셨나요?"
+  },
+  {
+    "lesson": "5",
+    "segment": 38,
+    "timestamp": "00:01:56,280 --> 00:01:57,520",
+    "source": "The third sentence is wrong.",
+    "target": "세 번째 문장은 틀렸습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 39,
+    "timestamp": "00:01:57,800 --> 00:01:58,840",
+    "source": "And why is that wrong?",
+    "target": "왜 틀렸을까요? 자세히 살펴보겠습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 41,
+    "timestamp": "00:02:01,000 --> 00:02:02,720",
+    "source": "The book's cover is very beautiful.",
+    "target": "'The book's cover is very beautiful.'"
+  },
+  {
+    "lesson": "5",
+    "segment": 42,
+    "timestamp": "00:02:03,600 --> 00:02:07,320",
+    "source": "The possessive noun here is \"the book\" while the possessed noun is \"cover\".",
+    "target": "'book'이 소유하는 명사"
+  },
+  {
+    "lesson": "5",
+    "segment": 43,
+    "timestamp": "00:02:07,600 --> 00:02:10,654",
+    "source": "But this sentence is wrong, which shows that things or objects",
+    "target": "하지만 영어에서 일반적으로 사물은"
+  },
+  {
+    "lesson": "5",
+    "segment": 45,
+    "timestamp": "00:02:14,280 --> 00:02:17,320",
+    "source": "Instead, we will have to write it as the cover of the book,",
+    "target": "대신 아래처럼 써야 하죠 'the cover of the book'"
+  },
+  {
+    "lesson": "5",
+    "segment": 47,
+    "timestamp": "00:02:20,120 --> 00:02:24,600",
+    "source": "In this case, noun one is the possessed noun, and noun two is the possessive noun.",
+    "target": "1번 명사가 소유되는 명사"
+  },
+  {
+    "lesson": "5",
+    "segment": 48,
+    "timestamp": "00:02:25,320 --> 00:02:27,120",
+    "source": "So in which cases can it be used?",
+    "target": "어떨 때 쓸 수 있을까요?"
+  },
+  {
+    "lesson": "5",
+    "segment": 49,
+    "timestamp": "00:02:27,240 --> 00:02:30,720",
+    "source": "Let's look back at the correct sentences to summarize the knowledge.",
+    "target": "올바른 문장들을 다시 보며 배운 지식을 요약해 보죠"
+  },
+  {
+    "lesson": "5",
+    "segment": 50,
+    "timestamp": "00:02:32,120 --> 00:02:36,174",
+    "source": "\"Father\" is a noun referring to a person, which is definitely a group of nouns",
+    "target": "'father'는 인물 명사니까"
+  },
+  {
+    "lesson": "5",
+    "segment": 52,
+    "timestamp": "00:02:38,680 --> 00:02:41,694",
+    "source": "\"Cat\" is an animal, so noun referring to animals can also",
+    "target": "'cat' 같은 동물 명사도 소유격을 쓸 수 있습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 54,
+    "timestamp": "00:02:44,000 --> 00:02:45,720",
+    "source": "\"Minute\" is a noun referring to time.",
+    "target": "'minute'은 시간 명사입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 55,
+    "timestamp": "00:02:46,040 --> 00:02:49,854",
+    "source": "Remember, familiar concepts related to time and place can also be",
+    "target": "시공간 관련 비슷한 개념들도 소유격을 쓸 수 있습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 57,
+    "timestamp": "00:02:52,640 --> 00:02:56,320",
+    "source": "In this sentence, \"baker's\" is the possessive form of the noun",
+    "target": "이 문장에서 'baker's'는"
+  },
+  {
+    "lesson": "5",
+    "segment": 60,
+    "timestamp": "00:03:02,000 --> 00:03:07,014",
+    "source": "We use the possessive case, \"baker's\", to imply the location of the baker's",
+    "target": "소유격 'baker's'를 쓰면"
+  },
+  {
+    "lesson": "5",
+    "segment": 62,
+    "timestamp": "00:03:11,640 --> 00:03:16,054",
+    "source": "This construction is common with certain professions where the possessive form not",
+    "target": "이런 구조는 소유격이"
+  },
+  {
+    "lesson": "5",
+    "segment": 64,
+    "timestamp": "00:03:20,760 --> 00:03:21,440",
+    "source": "Next one.",
+    "target": "다음 사례도 반복을 피하고 싶을 때 쓰는"
+  },
+  {
+    "lesson": "5",
+    "segment": 67,
+    "timestamp": "00:03:26,840 --> 00:03:28,880",
+    "source": "Just leave the possessive noun followed by S.",
+    "target": "소유하는 명사에 's'만 붙이면 됩니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 68,
+    "timestamp": "00:03:29,160 --> 00:03:31,920",
+    "source": "In the sentence \"Julie's\" means \"Julie's book\".",
+    "target": "이 문장에서 'Julie's'는 'Julie's book'이란 뜻입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 71,
+    "timestamp": "00:03:37,120 --> 00:03:39,694",
+    "source": "In general, nouns referring to organizations can",
+    "target": "일반적으로 조직을 가리키는 명사도"
+  },
+  {
+    "lesson": "5",
+    "segment": 72,
+    "timestamp": "00:03:39,760 --> 00:03:41,600",
+    "source": "also be used with the possessive case.",
+    "target": "소유격을 쓸 수 있습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 73,
+    "timestamp": "00:03:43,120 --> 00:03:47,174",
+    "source": "Now, let's take about 30 seconds to review the summary table on the",
+    "target": "이제 약 30초간"
+  },
+  {
+    "lesson": "5",
+    "segment": 76,
+    "timestamp": "00:03:52,600 --> 00:03:54,400",
+    "source": "Now, let's learn how to write it correctly.",
+    "target": "이제 올바르게 쓰는 법을 학습하겠습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 77,
+    "timestamp": "00:03:54,880 --> 00:03:56,640",
+    "source": "There are some rules to pay attention to.",
+    "target": "주의해야 하는 규칙들이 있으니"
+  },
+  {
+    "lesson": "5",
+    "segment": 78,
+    "timestamp": "00:03:57,000 --> 00:04:00,160",
+    "source": "Let's go back to the second wrong sentence in the examples we just had.",
+    "target": "방금 본 예시 중 두 번째 오류 문장으로 돌아가죠"
+  },
+  {
+    "lesson": "5",
+    "segment": 79,
+    "timestamp": "00:04:01,560 --> 00:04:02,560",
+    "source": "Oops, what's wrong?",
+    "target": "이런, 괜찮아 보이는데 뭐가 틀린 걸까요?"
+  },
+  {
+    "lesson": "5",
+    "segment": 81,
+    "timestamp": "00:04:04,080 --> 00:04:07,800",
+    "source": "The possessive case is S, and \"students\" are plural, so they have an S.",
+    "target": "소유격이라 's'를 붙였고"
+  },
+  {
+    "lesson": "5",
+    "segment": 83,
+    "timestamp": "00:04:12,240 --> 00:04:14,974",
+    "source": "If anyone feels a little bit stuck here, then you're right.",
+    "target": "여기서 막힌 기분이 든다면 잘 느낀 겁니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 84,
+    "timestamp": "00:04:15,040 --> 00:04:16,720",
+    "source": "That's not how we write it in English.",
+    "target": "영어에선 이런 식으로 글을 쓰지 않습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 85,
+    "timestamp": "00:04:17,240 --> 00:04:21,734",
+    "source": "For plural nouns that are added to the end of S or ES, when using the possessive",
+    "target": "끝에 's'나 'es'가 붙는 복수 명사는"
+  },
+  {
+    "lesson": "5",
+    "segment": 87,
+    "timestamp": "00:04:25,320 --> 00:04:29,134",
+    "source": "Here we have to put \"students'\" apostrophe, to be correct, equivalent",
+    "target": "그러니 'students' 뒤에 아포스트로피가 붙어야 맞죠"
+  },
+  {
+    "lesson": "5",
+    "segment": 89,
+    "timestamp": "00:04:31,400 --> 00:04:34,334",
+    "source": "At this point, I guess some of you will ask, what about other",
+    "target": "이런 의문이 드는 분도 계실 겁니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 93,
+    "timestamp": "00:04:44,040 --> 00:04:47,760",
+    "source": "To answer this question, everyone, let's do the following exercise together,",
+    "target": "이 질문에 대답할 수 있게 함께 연습 문제를 풀어 보죠"
+  },
+  {
+    "lesson": "5",
+    "segment": 94,
+    "timestamp": "00:04:48,000 --> 00:04:50,800",
+    "source": "which is also a chance to practice the knowledge we just learned.",
+    "target": "방금 배운 지식을 활용해 볼 기회입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 95,
+    "timestamp": "00:04:52,200 --> 00:04:55,694",
+    "source": "Pause the video in one minute, identify all the possessive cases",
+    "target": "동영상을 1분간 정지하고"
+  },
+  {
+    "lesson": "5",
+    "segment": 99,
+    "timestamp": "00:05:12,120 --> 00:05:15,400",
+    "source": "First, let's point out all the cases of possessive nouns.",
+    "target": "우선 소유 명사 사례를 모두 짚어 보죠"
+  },
+  {
+    "lesson": "5",
+    "segment": 101,
+    "timestamp": "00:05:20,280 --> 00:05:22,494",
+    "source": "So we just put an apostrophe, not S.",
+    "target": "'s'를 빼고 아포스트로피만 붙인다는 점에 주의하세요"
+  },
+  {
+    "lesson": "5",
+    "segment": 103,
+    "timestamp": "00:05:24,520 --> 00:05:25,974",
+    "source": "\"Her children's favorite cat.\"",
+    "target": "'her children's favorite cat'은"
+  },
+  {
+    "lesson": "5",
+    "segment": 104,
+    "timestamp": "00:05:26,040 --> 00:05:29,560",
+    "source": "Oh, this is one of the plural exception cases we mentioned in the last lesson.",
+    "target": "저번 레슨에서 언급했던 복수형 예외 사례입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 105,
+    "timestamp": "00:05:30,000 --> 00:05:31,840",
+    "source": "\"Children\" is the plural of \"child\".",
+    "target": "'children'은 'child'의 복수형인데"
+  },
+  {
+    "lesson": "5",
+    "segment": 108,
+    "timestamp": "00:05:38,000 --> 00:05:42,414",
+    "source": "\"My neighbor's son\" - \"neighbor\" is singular, and the addition of S indicates",
+    "target": "'My neighbor's son'에서 'neighbor'는 단수고"
+  },
+  {
+    "lesson": "5",
+    "segment": 110,
+    "timestamp": "00:05:45,160 --> 00:05:49,574",
+    "source": "\"James' hobby\" - \"James\" here is a singular noun, but it ends with an -s,",
+    "target": "'James' hobby'에서 'James'는 단수 명사지만"
+  },
+  {
+    "lesson": "5",
+    "segment": 112,
+    "timestamp": "00:05:52,440 --> 00:05:54,040",
+    "source": "we only need an apostrophe.",
+    "target": "아포스트로피만 붙이면 됩니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 113,
+    "timestamp": "00:05:54,600 --> 00:05:57,934",
+    "source": "\"James's bag\", but immediately after that, we see that still \"James\",",
+    "target": "'James's bag'에서"
+  },
+  {
+    "lesson": "5",
+    "segment": 116,
+    "timestamp": "00:06:05,200 --> 00:06:07,974",
+    "source": "At this point, I believe you have a clearer understanding",
+    "target": "이제 소유격을 어떻게 활용하고 쓰는지"
+  },
+  {
+    "lesson": "5",
+    "segment": 117,
+    "timestamp": "00:06:08,040 --> 00:06:10,200",
+    "source": "of how to use and write the possessive case.",
+    "target": "잘 이해하셨으리라고 봅니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 118,
+    "timestamp": "00:06:10,640 --> 00:06:12,080",
+    "source": "Let me summarize it a little.",
+    "target": "조금 요약해 보겠습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 119,
+    "timestamp": "00:06:15,440 --> 00:06:18,894",
+    "source": "Structure one, when noun one is a singular noun or a plural noun,",
+    "target": "1번 구조 1번 명사가 단수 명사거나"
+  },
+  {
+    "lesson": "5",
+    "segment": 121,
+    "timestamp": "00:06:20,480 --> 00:06:24,560",
+    "source": "Structure two, when noun one is a singular or plural noun ending in s.",
+    "target": "2번 구조 1번 명사가 단수 명사거나"
+  },
+  {
+    "lesson": "5",
+    "segment": 122,
+    "timestamp": "00:06:25,040 --> 00:06:27,280",
+    "source": "So according to you, which of the two nouns,",
+    "target": "1번과 2번 명사 중 주요 명사는 어느 쪽일까요?"
+  },
+  {
+    "lesson": "5",
+    "segment": 127,
+    "timestamp": "00:06:38,440 --> 00:06:39,320",
+    "source": "The cats' fur.",
+    "target": "'The cat's fur'"
+  },
+  {
+    "lesson": "5",
+    "segment": 128,
+    "timestamp": "00:06:40,640 --> 00:06:44,080",
+    "source": "Here noun one is \"cat\", noun two is \"fur\", meaning \"the cats' fur\".",
+    "target": "1번 명사는 'cat' 2번 명사는 'fur'로"
+  },
+  {
+    "lesson": "5",
+    "segment": 129,
+    "timestamp": "00:06:44,240 --> 00:06:46,920",
+    "source": "So does this phrase refer to the cat or its fur?",
+    "target": "이 구절의 주제는 'cat'일까요 'fur'일까요?"
+  },
+  {
+    "lesson": "5",
+    "segment": 130,
+    "timestamp": "00:06:47,400 --> 00:06:49,800",
+    "source": "That's right. It's the cats' fur, not the cat.",
+    "target": "맞습니다, 'cat'이 아니라 'cat'의 'fur'입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 131,
+    "timestamp": "00:06:49,960 --> 00:06:52,280",
+    "source": "So noun two, that is \"fur\", is the main noun.",
+    "target": "2번 명사 'fur'가 주요 명사인 겁니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 132,
+    "timestamp": "00:06:52,600 --> 00:06:55,480",
+    "source": "Let's look at another example to test if this rule is correct.",
+    "target": "이 규칙이 맞는지 실험하게 예시를 하나 더 살펴보죠"
+  },
+  {
+    "lesson": "5",
+    "segment": 133,
+    "timestamp": "00:06:56,120 --> 00:06:57,080",
+    "source": "My neighbor's son.",
+    "target": "'My neighbor's son'"
+  },
+  {
+    "lesson": "5",
+    "segment": 134,
+    "timestamp": "00:06:58,320 --> 00:07:01,120",
+    "source": "Here, noun one is \"neighbor\" and noun two is \"son\".",
+    "target": "1번 명사는 'My neighbor' 2번 명사는 'son'입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 135,
+    "timestamp": "00:07:01,320 --> 00:07:03,120",
+    "source": "This phrase means \"the neighbor's son\".",
+    "target": "'neighbor'의 'son'이란 뜻이니"
+  },
+  {
+    "lesson": "5",
+    "segment": 136,
+    "timestamp": "00:07:03,280 --> 00:07:06,080",
+    "source": "So the main noun is noun two, \"son\", not the \"neighbor\".",
+    "target": "주요 명사는 'neighbor'가 아닌 2번 명사 'son'입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 139,
+    "timestamp": "00:07:15,240 --> 00:07:19,214",
+    "source": "So if you encounter an exercise about conjugating verbs with a subject",
+    "target": "그러니 소유격인 주어에 맞춰"
+  },
+  {
+    "lesson": "5",
+    "segment": 142,
+    "timestamp": "00:07:26,200 --> 00:07:29,160",
+    "source": "Let's do an exercise together to review the knowledge we just had.",
+    "target": "방금 배운 지식을 문제를 풀며 복습하겠습니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 143,
+    "timestamp": "00:07:29,600 --> 00:07:33,614",
+    "source": "Identity the possessive phrases in the following paragraph and indicate",
+    "target": "다음 지문에서 소유격을 식별하고"
+  },
+  {
+    "lesson": "5",
+    "segment": 146,
+    "timestamp": "00:07:41,840 --> 00:07:44,280",
+    "source": "Time's up. Check the answers with me, everyone.",
+    "target": "시간이 다 됐으니 함께 답을 확인해 보죠"
+  },
+  {
+    "lesson": "5",
+    "segment": 147,
+    "timestamp": "00:07:44,680 --> 00:07:47,374",
+    "source": "We have the first possessive case, \"my sister's name\",",
+    "target": "첫 소유격 'my sister's name'의 주요 명사는 'name'입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 149,
+    "timestamp": "00:07:49,320 --> 00:07:52,960",
+    "source": "The second phrase is \"Sarah's friends\", with \"friends\" as the main noun.",
+    "target": "두 번째는 'Sarah's friends'고 'friends'가 주요 명사입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 150,
+    "timestamp": "00:07:53,400 --> 00:07:55,560",
+    "source": "The third phrase is \"Mark's game collection\",",
+    "target": "세 번째는 'Mark's game collection'이고"
+  },
+  {
+    "lesson": "5",
+    "segment": 151,
+    "timestamp": "00:07:55,640 --> 00:07:57,760",
+    "source": "with the main noun being \"game collection\".",
+    "target": "주요 명사는 'game collection'입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 152,
+    "timestamp": "00:07:58,200 --> 00:08:01,640",
+    "source": "Next is the phrase \"Lisa's favorite game\", with \"game\" as the main noun.",
+    "target": "다음 구절은 'Lisa's favorite game'이고"
+  },
+  {
+    "lesson": "5",
+    "segment": 153,
+    "timestamp": "00:08:01,920 --> 00:08:05,800",
+    "source": "The fifth phrase is \"my mom's chocolate cake\", with \"cake\" as the main noun.",
+    "target": "5번째는 'My mom's chocolate cake'이고"
+  },
+  {
+    "lesson": "5",
+    "segment": 154,
+    "timestamp": "00:08:06,160 --> 00:08:09,400",
+    "source": "Finally, there is \"friends' presence\", with \"presence\" as the main noun.",
+    "target": "마지막으로 'friends' presence'는"
+  },
+  {
+    "lesson": "5",
+    "segment": 155,
+    "timestamp": "00:08:10,760 --> 00:08:13,320",
+    "source": "The lesson on the possessive case of nouns ends here.",
+    "target": "명사 소유격 레슨은 이게 끝입니다"
+  },
+  {
+    "lesson": "5",
+    "segment": 156,
+    "timestamp": "00:08:13,640 --> 00:08:16,894",
+    "source": "Along with the types of nouns that can be used with the possessive case",
+    "target": "소유격과 함께 쓸 수 있는 명사 종류와"
+  },
+  {
+    "lesson": "5",
+    "segment": 157,
+    "timestamp": "00:08:16,960 --> 00:08:20,654",
+    "source": "and the rules of writing to keep in mind, we have a better understanding of how",
+    "target": "활용 규칙을 배운 덕분에"
+  },
+  {
+    "lesson": "5",
+    "segment": 161,
+    "timestamp": "00:08:30,600 --> 00:08:32,593",
+    "source": "Don't forget to systematize and practice",
+    "target": "바로 지금 체계화하고 연습하여"
+  }
+]

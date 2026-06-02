@@ -1,0 +1,688 @@
+﻿1
+00:00:12,510 --> 00:00:15,070
+Charts with trends is a type of chart
+
+2
+00:00:15,070 --> 00:00:18,270
+that shows changes over time of different subjects.
+
+3
+00:00:18,770 --> 00:00:21,970
+Meanwhile, charts of comparison do not show trends
+
+4
+00:00:21,970 --> 00:00:26,730
+or changes over time, but only show comparisons between the subjects.
+
+5
+00:00:27,690 --> 00:00:29,530
+Hey there, it's me.
+
+6
+00:00:30,450 --> 00:00:34,490
+Do you realise that the start of today's lesson  is a bit weird?
+
+7
+00:00:35,330 --> 00:00:38,070
+Suddenly, the teacher just started talking a lot,
+
+8
+00:00:38,270 --> 00:00:42,070
+no beginning, no end, no idea what the lesson was.
+
+9
+00:00:42,710 --> 00:00:45,790
+If our paragraph doesn't have a topic sentence,
+
+10
+00:00:46,230 --> 00:00:48,050
+we'll have the same problem.
+
+11
+00:00:48,710 --> 00:00:51,650
+And the examiners cannot follow it because 
+
+12
+00:00:51,650 --> 00:00:54,730
+they don't know what the main idea of the paragraph is.
+
+13
+00:00:55,310 --> 00:00:58,510
+So today, we're learning about topic sentences.
+
+14
+00:00:59,390 --> 00:01:02,630
+Our lesson is divided into two parts.
+
+15
+00:01:03,629 --> 00:01:07,630
+Part one, the topic sentence, definition and features.
+
+16
+00:01:08,530 --> 00:01:12,270
+And part two, practice, to achieve two goals.
+
+17
+00:01:13,940 --> 00:01:17,040
+Help you remember and understand the features of topic sentences, 
+
+18
+00:01:17,990 --> 00:01:21,590
+and apply this knowledge to identify effective topic sentences.
+
+19
+00:01:23,590 --> 00:01:25,970
+I won't keep you guys waiting much longer,
+
+20
+00:01:26,410 --> 00:01:27,870
+let's get right into it.
+
+21
+00:01:28,630 --> 00:01:36,280
+If you want to learn something, you need to know what it is first, right?
+
+22
+00:01:36,900 --> 00:01:40,060
+So let's discuss the definition of the topic sentence 
+
+23
+00:01:40,060 --> 00:01:42,200
+through a mini-task.
+
+24
+00:01:43,020 --> 00:01:45,880
+Please read the paragraph below and answer 
+
+25
+00:01:45,880 --> 00:01:47,900
+two following questions in one minute.
+
+26
+00:01:48,700 --> 00:01:50,040
+So are you ready?
+
+27
+00:01:50,780 --> 00:01:51,600
+Let's do it.
+
+28
+00:01:56,020 --> 00:02:01,800
+With the first question, choose the best title for the paragraph, we can see that 
+
+29
+00:02:01,800 --> 00:02:06,320
+ the whole paragraph focuses on reasons why people play musical instruments.
+
+30
+00:02:07,780 --> 00:02:11,720
+Specifically, the first reason is that 
+
+31
+00:02:11,720 --> 00:02:14,320
+some opt to learn an instrument for the purpose of
+
+32
+00:02:14,960 --> 00:02:18,240
+The second reason is it serves as their hobby.
+
+33
+00:02:19,180 --> 00:02:22,260
+So the best title for this paragraph is
+
+34
+00:02:22,260 --> 00:02:27,180
+B, motivations behind playing a musical instrument.
+
+35
+00:02:29,570 --> 00:02:32,210
+And within the three options of question two,
+
+36
+00:02:33,390 --> 00:02:36,850
+sentence A, there are several reasons why people
+
+37
+00:02:36,850 --> 00:02:42,870
+choose to play a musical instrument,  best expresses the main idea in the title of the paragraph,
+
+38
+00:02:42,870 --> 00:02:49,290
+while B and C are just two details in the paragraph to clarify sentence A.
+
+39
+00:02:49,990 --> 00:02:53,310
+So A is the topic sentence of this paragraph.
+
+40
+00:02:54,130 --> 00:02:58,770
+From this example, can you guess what features a topic sentence has?
+
+41
+00:02:59,810 --> 00:03:04,670
+In 30 seconds, please choose all the correct answers to this question.
+
+42
+00:03:05,490 --> 00:03:07,690
+Your time starts now.
+
+43
+00:03:10,410 --> 00:03:12,910
+From the sample paragraph at the beginning of today's lesson, 
+
+44
+00:03:12,910 --> 00:03:18,750
+we can see that a topic sentence carries the main idea of the whole
+
+45
+00:03:18,750 --> 00:03:24,890
+paragraph and other sentences will support, explain or illustrate the topic sentence.
+
+46
+00:03:25,730 --> 00:03:29,870
+Remember, all information in the paragraph must be
+
+47
+00:03:29,870 --> 00:03:36,190
+related to the topic sentence, so we cannot have  one or two unrelated or off-topic
+
+48
+00:03:36,190 --> 00:03:37,730
+sentences in the paragraph.
+
+49
+00:03:38,970 --> 00:03:42,290
+And certainly, you must write this sentence very clearly, 
+
+50
+00:03:42,290 --> 00:03:48,710
+but not imply something and then hope that the examiner will read and understand it on their own.
+
+51
+00:03:49,530 --> 00:03:52,530
+Don't challenge the examiner to do matching headings.
+
+52
+00:03:54,770 --> 00:03:57,450
+A topic sentence only presents the main idea
+
+53
+00:03:57,450 --> 00:04:00,010
+of the paragraph without explaining it.
+
+54
+00:04:00,370 --> 00:04:00,630
+Correct!
+
+55
+00:04:01,770 --> 00:04:05,050
+The topic sentence only summarizes the main idea
+
+56
+00:04:05,050 --> 00:04:07,290
+of the paragraph, so it should not be
+
+57
+00:04:07,290 --> 00:04:08,570
+wordy or lengthy.
+
+58
+00:04:09,390 --> 00:04:12,490
+Explaining is the function of the following sentences.
+
+59
+00:04:13,550 --> 00:04:17,209
+Also, from the previous lesson, the most effective
+
+60
+00:04:17,209 --> 00:04:20,089
+way of writing paragraphs in IELTS writing test
+
+61
+00:04:20,089 --> 00:04:24,750
+2 is the deductive method, so G is a correct answer.
+
+62
+00:04:25,610 --> 00:04:28,170
+A topic sentence is usually placed at the
+
+63
+00:04:28,170 --> 00:04:31,510
+beginning of the paragraph, not anywhere in the paragraph.
+
+64
+00:04:32,250 --> 00:04:35,770
+And because it's a topic sentence, not sentences,
+
+65
+00:04:36,390 --> 00:04:38,730
+we only write it once in the paragraph,
+
+66
+00:04:39,010 --> 00:04:41,150
+rather than repeating it many times.
+
+67
+00:04:43,210 --> 00:04:46,550
+Alright, so we've just learned about the definition
+
+68
+00:04:46,550 --> 00:04:48,530
+and features of a topic sentence.
+
+69
+00:04:49,270 --> 00:04:52,970
+Now, let's move on to the components of
+
+70
+00:04:52,970 --> 00:04:54,210
+a good topic sentence.
+
+71
+00:04:56,660 --> 00:05:00,240
+A topic sentence is composed of two parts.
+
+72
+00:05:01,580 --> 00:05:03,880
+In a topic sentence, there must be a topic, 
+
+73
+00:05:03,880 --> 00:05:06,520
+or the subject we need to discuss.
+
+74
+00:05:07,080 --> 00:05:12,480
+For example, in this sentence we have,  play a musical instrument as the topic.
+
+75
+00:05:12,820 --> 00:05:16,120
+From this, we know the main idea of the whole paragraph.
+
+76
+00:05:17,120 --> 00:05:20,800
+In addition, an effective topic sentence also 
+
+77
+00:05:20,800 --> 00:05:23,740
+needs to have a controlling idea to show which
+
+78
+00:05:23,740 --> 00:05:26,820
+aspect of the topic will be developed in the paragraph.
+
+79
+00:05:27,500 --> 00:05:30,200
+Without this part, the sentence would only have
+
+80
+00:05:30,200 --> 00:05:33,560
+the topic, people choose to play a musical instrument.
+
+81
+00:05:34,160 --> 00:05:37,160
+This will make readers confused about which aspect
+
+82
+00:05:37,160 --> 00:05:40,080
+of playing a musical instrument will be discussed.
+
+83
+00:05:40,660 --> 00:05:45,440
+It could be advantages and disadvantages, or results
+
+84
+00:05:45,440 --> 00:05:49,740
+of playing a musical instrument, or how often people play it.
+
+85
+00:05:52,490 --> 00:05:56,530
+Thanks to the controlling idea, several reasons, the
+
+86
+00:05:56,530 --> 00:05:58,970
+readers know that in this paragraph we will
+
+87
+00:05:58,970 --> 00:06:02,530
+focus on the reasons why people play musical instruments.
+
+88
+00:06:04,580 --> 00:06:07,420
+From here, we have the structure of a
+
+89
+00:06:07,420 --> 00:06:09,040
+topic sentence as follows.
+
+90
+00:06:13,750 --> 00:06:16,670
+Now let's have a try with a small task.
+
+91
+00:06:17,270 --> 00:06:19,530
+I'll give you a topic sentence and you
+
+92
+00:06:19,530 --> 00:06:22,710
+will identify the two components of it within
+
+93
+00:06:22,710 --> 00:06:24,610
+15 seconds.
+
+94
+00:06:25,330 --> 00:06:25,570
+Ready?
+
+95
+00:06:26,290 --> 00:06:26,690
+Set?
+
+96
+00:06:27,290 --> 00:06:27,690
+Go!
+
+97
+00:06:46,350 --> 00:06:49,550
+Ah yes, it's still the topic we've just discussed,
+
+98
+00:06:49,550 --> 00:06:52,210
+playing a musical instrument.
+
+99
+00:06:52,770 --> 00:06:55,210
+But now it's not about the reasons why
+
+100
+00:06:55,210 --> 00:06:58,690
+people play musical instruments anymore, but a number
+
+101
+00:06:58,690 --> 00:07:03,530
+of challenges, and this is the controlling idea of the topic sentence.
+
+102
+00:07:04,370 --> 00:07:07,150
+So the readers will know that this paragraph
+
+103
+00:07:07,150 --> 00:07:10,530
+is about some disadvantages of playing a musical
+
+104
+00:07:10,530 --> 00:07:13,050
+instrument, but not other aspects.
+
+105
+00:07:14,150 --> 00:07:17,370
+Let's do another one, 15 seconds for you.
+
+106
+00:07:35,750 --> 00:07:38,610
+Similarly, music is the topic.
+
+107
+00:07:39,470 --> 00:07:42,130
+To discuss music, there are many things we
+
+108
+00:07:42,130 --> 00:07:45,690
+can talk about, but the controlling idea has
+
+109
+00:07:45,690 --> 00:07:48,710
+narrowed down the topic to various health benefits,
+
+110
+00:07:49,310 --> 00:07:53,830
+so the paragraph will only focus on some health benefits of music.
+
+111
+00:07:56,240 --> 00:07:59,120
+Different types of essays in IELTS in particular,
+
+112
+00:07:59,640 --> 00:08:02,280
+and in English in general, have their own
+
+113
+00:08:02,280 --> 00:08:04,680
+effective ways of writing a topic sentence.
+
+114
+00:08:05,560 --> 00:08:07,700
+We'll learn about them later in the course.
+
+115
+00:08:08,480 --> 00:08:11,560
+For now, just make sure to clearly understand
+
+116
+00:08:11,560 --> 00:08:15,500
+this type of sentence so that we can use it easily in the future.
+
+117
+00:08:16,300 --> 00:08:18,900
+Alright, let's practice a bit now.
+
+118
+00:08:19,500 --> 00:08:20,040
+Let's go!
+
+119
+00:08:24,800 --> 00:08:27,400
+Now, I will give you a paragraph that
+
+120
+00:08:27,400 --> 00:08:28,900
+is missing a topic sentence.
+
+121
+00:08:29,920 --> 00:08:32,799
+Your task is to read this paragraph and
+
+122
+00:08:32,799 --> 00:08:35,380
+choose the most suitable topic sentence for it
+
+123
+00:08:35,380 --> 00:08:36,620
+within 90 seconds.
+
+124
+00:08:37,480 --> 00:08:38,179
+Let's start.
+
+125
+00:08:39,200 --> 00:08:42,840
+If you're not careful, you might choose option A
+
+126
+00:08:42,840 --> 00:08:46,600
+but it's incorrect, because the paragraph does
+
+127
+00:08:46,600 --> 00:08:49,060
+not discuss health benefits of music.
+
+128
+00:08:49,700 --> 00:08:52,500
+You might say, the idea, enhance our mood
+
+129
+00:08:52,500 --> 00:08:54,900
+and reduce stress, is related to health.
+
+130
+00:08:55,520 --> 00:08:59,720
+However, it just talks about our emotions, not
+
+131
+00:08:59,720 --> 00:09:00,760
+the overall health.
+
+132
+00:09:01,400 --> 00:09:04,500
+Even if it's about health, this is just
+
+133
+00:09:04,500 --> 00:09:06,320
+one idea in the whole paragraph.
+
+134
+00:09:06,900 --> 00:09:11,220
+And we also have another idea, fosters our communication skills, right?
+
+135
+00:09:11,760 --> 00:09:15,100
+So option A is not the title of the paragraph.
+
+136
+00:09:16,760 --> 00:09:18,440
+Let's analyse option D.
+
+137
+00:09:19,520 --> 00:09:21,880
+Music and emotion are closely connected.
+
+138
+00:09:22,640 --> 00:09:24,960
+This seems relevant to this paragraph, right?
+
+139
+00:09:25,640 --> 00:09:29,060
+However, again, this is just one idea in this paragraph.
+
+140
+00:09:29,740 --> 00:09:33,200
+So this option cannot be the topic sentence of the paragraph.
+
+141
+00:09:34,040 --> 00:09:37,100
+As we've learned, all information in the paragraph
+
+142
+00:09:37,100 --> 00:09:39,960
+must be related to the topic sentence.
+
+143
+00:09:40,800 --> 00:09:44,480
+In other words, the topic sentence must summarise
+
+144
+00:09:44,480 --> 00:09:46,220
+all ideas in the paragraph.
+
+145
+00:09:46,920 --> 00:09:48,860
+So D is incorrect.
+
+146
+00:09:50,460 --> 00:09:52,120
+We're going to move on to option B.
+
+147
+00:09:52,980 --> 00:09:54,040
+Music is fantastic.
+
+148
+00:09:54,880 --> 00:09:58,020
+This sentence is too general, because it doesn't
+
+149
+00:09:58,020 --> 00:10:00,600
+show which aspect of music will be discussed.
+
+150
+00:10:01,140 --> 00:10:07,660
+It can talk about the beauty, the benefits of music, or simply the feelings of the writer.
+
+151
+00:10:08,270 --> 00:10:11,100
+So this is not the topic sentence for the paragraph.
+
+152
+00:10:12,960 --> 00:10:14,620
+The correct answer is C.
+
+153
+00:10:15,460 --> 00:10:18,060
+There are numerous benefits that music can bring.
+
+154
+00:10:19,120 --> 00:10:23,000
+This sentence summarises both the ideas, enhance our
+
+155
+00:10:23,000 --> 00:10:27,580
+mood and reduce stress, and fosters our communication skills.
+
+156
+00:10:28,670 --> 00:10:30,860
+We will learn the structures to write
+
+157
+00:10:30,860 --> 00:10:34,680
+an effective topic sentence like this later in the course, guys.
+
+158
+00:10:36,000 --> 00:10:38,960
+Let's look at the whole paragraph again, and
+
+159
+00:10:38,960 --> 00:10:42,880
+everyone, please pause the video and write down
+
+160
+00:10:42,880 --> 00:10:45,860
+this paragraph in your notebook or type it out.
+
+161
+00:10:46,840 --> 00:10:49,800
+Remember to follow five features of an English
+
+162
+00:10:49,800 --> 00:10:52,720
+paragraph that we learned in the previous lesson,
+
+163
+00:10:53,040 --> 00:10:57,920
+and especially highlight the topic sentence so we can learn from it.
+
+164
+00:10:58,580 --> 00:11:00,880
+I'll wait for you in the wrap-up section.
+
+165
+00:11:05,580 --> 00:11:08,980
+Alright, we've just learned about the topic sentence,
+
+166
+00:11:09,580 --> 00:11:13,520
+which is considered as an important foundation for next lessons.
+
+167
+00:11:14,580 --> 00:11:16,840
+Together, we have achieved the goals.
+
+168
+00:11:18,360 --> 00:11:21,320
+Remember and understand features of topic sentences.
+
+169
+00:11:22,380 --> 00:11:26,520
+And apply this knowledge to identify effective topic sentences.
+
+170
+00:11:28,080 --> 00:11:29,540
+See you in the next lesson.
+
+171
+00:11:30,040 --> 00:11:30,800
+I'm Anna.
+
+172
+00:11:31,100 --> 00:11:33,220
+Goodbye and see you next time.
+

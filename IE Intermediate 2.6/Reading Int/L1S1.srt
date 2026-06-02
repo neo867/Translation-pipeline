@@ -1,0 +1,792 @@
+﻿1
+00:00:12,040 --> 00:00:15,520
+Hi guys, welcome to the IELTS Reading course.
+
+2
+00:00:15,940 --> 00:00:18,960
+I'm Francois, your instructor in this course.
+
+3
+00:00:19,620 --> 00:00:21,720
+Before learning the knowledge and skills to handle
+
+4
+00:00:21,720 --> 00:00:24,480
+challenging IELTS reading questions, we're going to get
+
+5
+00:00:24,480 --> 00:00:26,500
+to know a little bit about our IELTS
+
+6
+00:00:26,500 --> 00:00:29,640
+reading tests and have an overview of the course.
+
+7
+00:00:29,840 --> 00:00:33,080
+I'm very excited to share valuable knowledge with
+
+8
+00:00:33,080 --> 00:00:35,600
+you and I hope you're also excited to
+
+9
+00:00:35,600 --> 00:00:39,380
+learn high quality lessons prepared by the academic team at PREP.
+
+10
+00:00:39,680 --> 00:00:40,720
+So are you ready?
+
+11
+00:00:41,160 --> 00:00:42,100
+Let's get started.
+
+12
+00:00:47,330 --> 00:00:50,710
+First, let's take a look at the test time for IELTS reading.
+
+13
+00:00:51,470 --> 00:00:54,150
+For paper-based tests, you have 60 minutes
+
+14
+00:00:54,150 --> 00:00:57,270
+to read, answer questions and transfer your answers
+
+15
+00:00:57,270 --> 00:00:58,410
+to the answer sheet.
+
+16
+00:00:58,910 --> 00:01:01,040
+Please note that in IELTS reading tests, 
+
+17
+00:01:01,040 --> 00:01:03,320
+we don't have 10 minutes to transfer answers to
+
+18
+00:01:03,650 --> 00:01:05,730
+the answer sheet like in the listening tests.
+
+19
+00:01:06,290 --> 00:01:08,590
+Therefore, you need to read and transfer your
+
+20
+00:01:08,590 --> 00:01:10,330
+answers at the same time.
+
+21
+00:01:11,190 --> 00:01:13,930
+Similarly, for computer-based tests, you have 60
+
+22
+00:01:13,930 --> 00:01:16,410
+minutes to read and answer questions and you
+
+23
+00:01:16,410 --> 00:01:19,290
+need to type your answers directly onto the computer.
+
+24
+00:01:20,490 --> 00:01:22,010
+Number of questions.
+
+25
+00:01:22,610 --> 00:01:25,070
+About the number of questions, an IELTS reading
+
+26
+00:01:25,070 --> 00:01:28,490
+test has 40 questions, which are divided into
+
+27
+00:01:28,490 --> 00:01:30,830
+three passages with increasing difficulty.
+
+28
+00:01:31,870 --> 00:01:32,390
+Purpose.
+
+29
+00:01:33,090 --> 00:01:35,990
+An IELTS academic reading test assesses the following
+
+30
+00:01:35,990 --> 00:01:37,950
+aspects of your reading skills.
+
+31
+00:01:38,630 --> 00:01:43,650
+Identify the main idea, understand details, logical arguments
+
+32
+00:01:43,650 --> 00:01:49,670
+and recognize the writer's opinion, attitude and purpose.
+
+33
+00:01:50,950 --> 00:01:52,770
+Content of reading passages.
+
+34
+00:01:53,370 --> 00:01:57,130
+Next, the content of reading passages are often
+
+35
+00:01:57,130 --> 00:02:01,310
+taken from books, journals, magazines and newspapers and
+
+36
+00:02:01,310 --> 00:02:04,750
+written by native speakers in an academic style.
+
+37
+00:02:06,270 --> 00:02:09,810
+These passages have been selected for non-specialist
+
+38
+00:02:09,810 --> 00:02:13,530
+audience, but are appropriate for people entering university
+
+39
+00:02:13,530 --> 00:02:16,570
+courses or seeking professional registration.
+
+40
+00:02:17,410 --> 00:02:19,150
+Common question types.
+
+41
+00:02:19,770 --> 00:02:22,410
+About common question types in IELTS reading tests,
+
+42
+00:02:22,710 --> 00:02:24,750
+you have to understand all of them.
+
+43
+00:02:25,970 --> 00:02:27,250
+Number one, completion.
+
+44
+00:02:28,090 --> 00:02:32,850
+Sentence completion, table completion, flowchart completion, diagram
+
+45
+00:02:32,850 --> 00:02:36,850
+completion, summary completion and note completion.
+
+46
+00:02:38,330 --> 00:02:41,230
+Two, short answer questions.
+
+47
+00:02:42,210 --> 00:02:45,090
+Answer questions with short words taken from the passage.
+
+48
+00:02:46,690 --> 00:02:48,450
+Three, matching.
+
+49
+00:02:49,290 --> 00:02:52,400
+Matching headings, matching information
+
+50
+00:02:52,400 --> 00:02:55,590
+Matching features, matching sentence endings.
+
+51
+00:02:56,690 --> 00:02:59,310
+Four, multiple choice questions.
+
+52
+00:03:00,150 --> 00:03:04,270
+Questions with single answer and questions with multiple answers.
+
+53
+00:03:05,390 --> 00:03:12,570
+Five, True, False, Not Given and Yes, No, Not Given.
+
+54
+00:03:13,350 --> 00:03:16,190
+These question types will be explained in detail
+
+55
+00:03:16,190 --> 00:03:19,370
+later in the course and based on the order above.
+
+56
+00:03:20,010 --> 00:03:20,490
+Stay tuned.
+
+57
+00:03:21,350 --> 00:03:23,890
+How to calculate IELTS reading band scores.
+
+58
+00:03:24,590 --> 00:03:28,790
+So, how can you calculate your IELTS reading band score?
+
+59
+00:03:29,450 --> 00:03:31,370
+Please look at the table of the reading
+
+60
+00:03:31,370 --> 00:03:33,990
+band score in the IELTS academic test from
+
+61
+00:03:33,990 --> 00:03:36,210
+the official website of IELTS.
+
+62
+00:03:37,170 --> 00:03:39,970
+You already know how many correct answers you
+
+63
+00:03:39,970 --> 00:03:41,550
+have to get, don't you?
+
+64
+00:03:43,740 --> 00:03:46,500
+After having an overview of IELTS reading tests,
+
+65
+00:03:46,820 --> 00:03:49,880
+let's see what our reading course will provide you with.
+
+66
+00:03:50,480 --> 00:03:51,280
+Course goals.
+
+67
+00:03:52,760 --> 00:03:55,600
+Help you understand the format of IELTS reading tests.
+
+68
+00:03:56,620 --> 00:03:59,160
+Help you aim for a six or higher
+
+69
+00:03:59,160 --> 00:04:01,300
+reading band score after the course.
+
+70
+00:04:02,000 --> 00:04:04,920
+Help you master six necessary skills to improve
+
+71
+00:04:04,920 --> 00:04:05,780
+your reading skills.
+
+72
+00:04:06,240 --> 00:04:09,680
+Help you learn more than 100 B1 words
+
+73
+00:04:09,680 --> 00:04:13,160
+through reading passages suitable for intermediate learners.
+
+74
+00:04:17,920 --> 00:04:21,280
+Now, let's find out what the effective study
+
+75
+00:04:21,280 --> 00:04:24,040
+methods for this intermediate reading course are.
+
+76
+00:04:24,920 --> 00:04:28,900
+For today, I suggest you follow the following three steps.
+
+77
+00:04:29,860 --> 00:04:30,680
+Step one.
+
+78
+00:04:31,500 --> 00:04:32,940
+Watch the video attentively.
+
+79
+00:04:33,540 --> 00:04:36,560
+Take notes and complete tasks in the video.
+
+80
+00:04:37,500 --> 00:04:38,680
+Step two.
+
+81
+00:04:39,600 --> 00:04:41,760
+Do the exercises of each lesson.
+
+82
+00:04:42,960 --> 00:04:45,540
+And last but not least, step three.
+
+83
+00:04:46,480 --> 00:04:50,040
+Create a table of mistakes and a vocabulary list.
+
+84
+00:04:51,140 --> 00:04:54,160
+This third step is really important for both
+
+85
+00:04:54,160 --> 00:04:57,240
+your regular studies and exam preparation.
+
+86
+00:04:58,040 --> 00:05:02,320
+In short, steps one and two focus mostly
+
+87
+00:05:02,320 --> 00:05:05,920
+on task awareness, which is about getting used
+
+88
+00:05:05,920 --> 00:05:09,640
+to the test format, managing your time, and
+
+89
+00:05:09,640 --> 00:05:11,000
+checking your accuracy.
+
+90
+00:05:12,180 --> 00:05:15,440
+So, if you only focus on these tasks
+
+91
+00:05:15,440 --> 00:05:18,040
+and then move on to another reading passage,
+
+92
+00:05:18,400 --> 00:05:21,520
+you will not boost your vocabulary, which is
+
+93
+00:05:21,520 --> 00:05:23,780
+the key factor for score improvement.
+
+94
+00:05:24,640 --> 00:05:27,820
+That's why, for step three, we will delve
+
+95
+00:05:27,820 --> 00:05:32,280
+deeper into not only vocabulary expansion, but also
+
+96
+00:05:32,280 --> 00:05:36,760
+error analysis, where we synthesize the mistakes, helping
+
+97
+00:05:36,760 --> 00:05:39,380
+you pay more attention to them, to avoid
+
+98
+00:05:39,380 --> 00:05:42,280
+repeating the same mistakes in other exercises.
+
+99
+00:05:43,240 --> 00:05:45,820
+You can create a table of mistakes with
+
+100
+00:05:45,820 --> 00:05:46,860
+the following template.
+
+101
+00:05:48,180 --> 00:05:51,180
+In the column Date, you can write the
+
+102
+00:05:51,180 --> 00:05:52,780
+date when you did the test to keep
+
+103
+00:05:52,780 --> 00:05:54,300
+track of your learning progress.
+
+104
+00:05:55,000 --> 00:05:57,720
+In the column Passage, you can write the
+
+105
+00:05:57,720 --> 00:06:00,720
+lesson's name in this course, or the book title,
+
+106
+00:06:00,980 --> 00:06:03,680
+unit title, the topic you are studying
+
+107
+00:06:03,680 --> 00:06:06,200
+in supplementary books to help you study the
+
+108
+00:06:06,200 --> 00:06:08,780
+course better, if you have any.
+
+109
+00:06:09,620 --> 00:06:12,620
+In the column Score, you can write your
+
+110
+00:06:12,620 --> 00:06:15,400
+score to self-evaluate your learning process.
+
+111
+00:06:16,180 --> 00:06:19,400
+In the column Question, you can write the
+
+112
+00:06:19,400 --> 00:06:21,940
+question number or a brief summary of the
+
+113
+00:06:21,940 --> 00:06:25,140
+question type so that you can easily review it later.
+
+114
+00:06:26,100 --> 00:06:28,840
+The column Mistake will be about the mistakes
+
+115
+00:06:28,840 --> 00:06:32,340
+you find after receiving corrections or self-checking the answers.
+
+116
+00:06:33,380 --> 00:06:36,320
+And the final column aims to suggest solutions.
+
+117
+00:06:37,320 --> 00:06:39,620
+By doing this, we can track our learning
+
+118
+00:06:39,620 --> 00:06:42,480
+progress over time to see if there are
+
+119
+00:06:42,480 --> 00:06:47,020
+any repeated mistakes, any score improvements, or new solutions.
+
+120
+00:06:48,000 --> 00:06:50,940
+Regarding making a vocabulary list, because in a
+
+121
+00:06:50,940 --> 00:06:53,080
+reading passage, there may be a lot of
+
+122
+00:06:53,080 --> 00:06:55,400
+new words, and it is very difficult for
+
+123
+00:06:55,400 --> 00:06:57,620
+us to memorize them all, or there are
+
+124
+00:06:57,620 --> 00:07:00,960
+specialized words which are a little practical, we
+
+125
+00:07:00,960 --> 00:07:04,460
+should prioritize learning vocabulary based on the following order.
+
+126
+00:07:05,980 --> 00:07:09,360
+Learn words in questions and in information areas
+
+127
+00:07:09,360 --> 00:07:11,260
+containing the answers in paragraphs.
+
+128
+00:07:12,160 --> 00:07:15,000
+In the IELTS exam, the information in the
+
+129
+00:07:15,000 --> 00:07:17,800
+passage is often expressed in a different way
+
+130
+00:07:17,800 --> 00:07:18,640
+from the questions.
+
+131
+00:07:19,300 --> 00:07:22,480
+The act of using various expressions is called
+
+132
+00:07:22,480 --> 00:07:23,660
+paraphrase.
+
+133
+00:07:24,300 --> 00:07:28,120
+Therefore, you are learning and familiarizing yourself with
+
+134
+00:07:28,120 --> 00:07:30,800
+techniques for paraphrasing used by test makers.
+
+135
+00:07:31,420 --> 00:07:34,060
+Also, you are learning how to apply them
+
+136
+00:07:34,060 --> 00:07:35,640
+to your writing skills.
+
+137
+00:07:36,240 --> 00:07:40,300
+For example, in the reading passage, there is
+
+138
+00:07:40,300 --> 00:07:41,280
+a question below.
+
+139
+00:07:42,540 --> 00:07:46,140
+Any trees that are ... should be left to
+
+140
+00:07:46,140 --> 00:07:49,400
+grow as they add to the variety of
+
+141
+00:07:49,400 --> 00:07:50,600
+species in the forest.
+
+142
+00:07:51,800 --> 00:07:56,300
+The information area containing the answer in the paragraph is.
+
+143
+00:07:57,420 --> 00:08:00,540
+Finally, rare species of trees in a forest
+
+144
+00:08:00,540 --> 00:08:03,240
+should also stay behind as they add to
+
+145
+00:08:03,240 --> 00:08:05,200
+its structural diversity.
+
+146
+00:08:06,060 --> 00:08:12,460
+The keyword variety in the question is similar to diversity.
+
+147
+00:08:12,900 --> 00:08:15,600
+If you don't know these two words, then
+
+148
+00:08:15,600 --> 00:08:17,800
+you should prioritize learning them.
+
+149
+00:08:18,640 --> 00:08:21,260
+If you already know all those words, you
+
+150
+00:08:21,260 --> 00:08:24,160
+can spend time reading the whole passage and
+
+151
+00:08:24,160 --> 00:08:26,460
+learn essential words in sentences.
+
+152
+00:08:27,000 --> 00:08:28,760
+If you don't know the meaning of these
+
+153
+00:08:28,760 --> 00:08:31,140
+ones, it's really hard for you to guess
+
+154
+00:08:31,140 --> 00:08:34,260
+or understand the meanings of the sentences containing them.
+
+155
+00:08:35,380 --> 00:08:38,140
+Here is an example of how I organize
+
+156
+00:08:38,140 --> 00:08:39,659
+my vocabulary list.
+
+157
+00:08:40,860 --> 00:08:43,800
+In the column Word, you can write down
+
+158
+00:08:43,800 --> 00:08:46,180
+the word you need to learn, its word
+
+159
+00:08:46,180 --> 00:08:49,200
+form and pronunciation to understand and use it
+
+160
+00:08:49,200 --> 00:08:51,580
+correctly in reading and other skills.
+
+161
+00:08:52,560 --> 00:08:56,220
+In the column Synonyms or Paraphrases in the
+
+162
+00:08:56,220 --> 00:08:58,840
+paragraph, you can write down the word or
+
+163
+00:08:58,840 --> 00:09:01,900
+phrase the writer used to paraphrase the word
+
+164
+00:09:01,900 --> 00:09:03,000
+you need to learn.
+
+165
+00:09:04,020 --> 00:09:06,620
+In the column Meaning, you can write down
+
+166
+00:09:06,620 --> 00:09:10,760
+its meaning in English and/or your first language.
+
+167
+00:09:11,540 --> 00:09:13,580
+It would be best if you write it
+
+168
+00:09:13,580 --> 00:09:15,940
+in English because by doing that, you can
+
+169
+00:09:15,940 --> 00:09:18,640
+understand its meaning in the most correct way.
+
+170
+00:09:19,480 --> 00:09:22,860
+In the column Example, you can form sentences
+
+171
+00:09:22,860 --> 00:09:25,080
+which are related to the topic you are
+
+172
+00:09:25,080 --> 00:09:28,360
+learning or use them in your writing and speaking.
+
+173
+00:09:28,980 --> 00:09:32,660
+For example, in the vocabulary list, I wrote
+
+174
+00:09:32,660 --> 00:09:35,380
+a sample sentence for introduction of an IELTS
+
+175
+00:09:35,380 --> 00:09:37,080
+Writing task 2 essay.
+
+176
+00:09:37,740 --> 00:09:40,240
+It's like killing two birds in one stone,
+
+177
+00:09:40,680 --> 00:09:41,080
+isn't it?
+
+178
+00:09:41,680 --> 00:09:44,680
+You can also search for keywords of the
+
+179
+00:09:44,680 --> 00:09:47,860
+reading passages topic on Google or any task
+
+180
+00:09:47,860 --> 00:09:50,980
+2 question related to the topic to form
+
+181
+00:09:50,980 --> 00:09:53,640
+sentences with the words you've just learned and
+
+182
+00:09:53,640 --> 00:09:54,960
+answer that question.
+
+183
+00:09:56,060 --> 00:09:58,560
+These are the basic steps that help you
+
+184
+00:09:58,560 --> 00:10:01,900
+to make the most of the resources from
+
+185
+00:10:01,900 --> 00:10:03,936
+the IELTS intermediate reading course 
+
+186
+00:10:03,940 --> 00:10:06,520
+and improve your score and skills.
+
+187
+00:10:11,530 --> 00:10:14,270
+Please note that if you focus on practicing
+
+188
+00:10:14,270 --> 00:10:17,390
+IELTS tests right away, it may be overwhelming
+
+189
+00:10:17,390 --> 00:10:21,250
+at first because you can encounter lots of new words.
+
+190
+00:10:21,830 --> 00:10:25,290
+If any of you experience this situation, I
+
+191
+00:10:25,290 --> 00:10:28,370
+suggest you search for reading passages in intermediate
+
+192
+00:10:28,370 --> 00:10:31,210
+level books and learn new vocabulary from those
+
+193
+00:10:31,210 --> 00:10:33,090
+texts to improve your reading skills.
+
+194
+00:10:33,470 --> 00:10:36,740
+Now, I believe that you are all well prepared.
+
+195
+00:10:37,000 --> 00:10:38,780
+Let's kick off this journey together.
+
+196
+00:10:39,330 --> 00:10:41,630
+I'm teacher Francois and I'll see you again
+
+197
+00:10:41,630 --> 00:10:43,110
+in the very first lesson.
+
+198
+00:10:43,570 --> 00:10:43,990
+Goodbye.
+

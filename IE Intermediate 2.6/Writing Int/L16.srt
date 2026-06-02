@@ -1,0 +1,304 @@
+﻿1
+00:00:11,760 --> 00:00:13,180
+Hello everyone.
+
+2
+00:00:13,820 --> 00:00:18,520
+Welcome back to our IELTS writing 5.0 to 6.0 course.
+
+3
+00:00:19,000 --> 00:00:27,700
+In the previous lessons, we learned about two types of questions, agree or disagree, and advantages and disadvantages.
+
+4
+00:00:28,720 --> 00:00:35,760
+Today we're going to find out the third question type in IELTS writing task 2, called discussion.
+
+5
+00:00:36,530 --> 00:00:38,840
+So, what are we waiting for?
+
+6
+00:00:39,260 --> 00:00:40,440
+Let's get started.
+
+7
+00:00:44,850 --> 00:00:51,890
+Before writing, we need to do three steps, task analysis, brainstorming, and outline.
+
+8
+00:00:52,730 --> 00:00:55,350
+Step one, task analysis.
+
+9
+00:00:56,130 --> 00:01:01,030
+In task analysis, what are the three components that we need to find in the question?
+
+10
+00:01:01,810 --> 00:01:02,650
+That's right.
+
+11
+00:01:03,190 --> 00:01:09,430
+We have to find topic words, microtopic words, and instruction words.
+
+12
+00:01:09,910 --> 00:01:13,070
+Now, let's do the following exercise.
+
+13
+00:01:46,540 --> 00:01:47,680
+Have you finished?
+
+14
+00:01:48,300 --> 00:02:00,040
+In this question, the three components are topic word, crime, microtopic words, result, poverty, bad person's nature.
+
+15
+00:02:01,220 --> 00:02:05,180
+Instruction words, discuss both views and give your opinion.
+
+16
+00:02:06,360 --> 00:02:13,280
+Now we've understood the main topic and the two views we'll discuss in the essay, as well as what we need to do.
+
+17
+00:02:13,880 --> 00:02:17,280
+Let's move on to step two, brainstorming.
+
+18
+00:02:17,940 --> 00:02:22,600
+I'm sure you're familiar with the six W's technique for brainstorming ideas.
+
+19
+00:02:23,420 --> 00:02:25,700
+Can you list what the six W's include?
+
+20
+00:02:26,400 --> 00:02:27,700
+Three seconds for you.
+
+21
+00:02:34,460 --> 00:02:35,060
+Exactly.
+
+22
+00:02:35,760 --> 00:02:43,260
+The six W's are the six question words including what, who, why, how, when, and where.
+
+23
+00:02:43,960 --> 00:02:50,180
+When brainstorming ideas, you can use these words to ask some questions related to the two views of the topic.
+
+24
+00:02:50,720 --> 00:02:56,560
+When you write down the ideas, you should think about whether those ideas can be used in the essay.
+
+25
+00:02:57,140 --> 00:03:02,320
+If any idea is not useful, you don't need to write it down to save time.
+
+26
+00:03:03,260 --> 00:03:08,380
+Now let's brainstorm some ideas to discuss the two views of crime.
+
+27
+00:03:09,080 --> 00:03:11,600
+Please fill your ideas in this table.
+
+28
+00:03:12,360 --> 00:03:15,180
+If any cell is not needed, we can leave it blank.
+
+29
+00:03:20,160 --> 00:03:25,200
+And here are some ideas that I have after applying the six W's technique.
+
+30
+00:03:25,930 --> 00:03:29,240
+For crime, is the result of poverty.
+
+31
+00:03:30,440 --> 00:03:36,160
+Why they need things they can't buy or are not educated about morality.
+
+32
+00:03:37,310 --> 00:03:42,220
+How they steal to eat or live and do wrong things for money.
+
+33
+00:03:43,260 --> 00:03:45,240
+For bad person's nature.
+
+34
+00:03:45,880 --> 00:03:51,240
+What they want too much, get easily angry and think negative things.
+
+35
+00:03:52,080 --> 00:03:58,720
+Why they are born with or learn bad ways and sometimes copy bad behaviour from others.
+
+36
+00:03:59,800 --> 00:04:06,700
+How they commit fraud, bully people just because they feel like it or steal like their parents.
+
+37
+00:04:08,080 --> 00:04:14,840
+After understanding the topic and having some ideas, let's analyse a sample essay in the next part.
+
+38
+00:04:28,190 --> 00:04:32,050
+Now let's take a look at the outline of this sample.
+
+39
+00:04:38,660 --> 00:04:43,600
+Now, let's move on to part 3 to explore the two criteria
+
+40
+00:04:43,600 --> 00:04:51,780
+of task response and coherence and cohesion and how to improve this sample to achieve a band 6.
+
+41
+00:04:56,550 --> 00:04:59,190
+First, let's evaluate this sample.
+
+42
+00:05:00,030 --> 00:05:02,670
+Let's evaluate the task response first.
+
+43
+00:05:03,810 --> 00:05:05,990
+I have the following checklist.
+
+44
+00:05:06,470 --> 00:05:09,730
+You can also find it in the attached PDF below.
+
+45
+00:05:10,470 --> 00:05:16,390
+Please pause the video for 3 minutes to evaluate the essay based on task response.
+
+46
+00:05:22,390 --> 00:05:24,450
+Alright, here's my answer.
+
+47
+00:05:25,270 --> 00:05:27,830
+This essay doesn't meet 4 requirements.
+
+48
+00:05:28,350 --> 00:05:29,170
+They are.
+
+49
+00:05:29,670 --> 00:05:35,210
+Number 2, about length because it only has 186 words.
+
+50
+00:05:35,790 --> 00:05:38,390
+Number 3, about thesis statement.
+
+51
+00:05:39,070 --> 00:05:43,150
+Number 6, about the number of explanations and examples.
+
+52
+00:05:43,150 --> 00:05:46,290
+As well as number 7, about conclusion.
+
+53
+00:05:47,490 --> 00:05:53,290
+We will analyse them in more detail and provide solutions in the sample improvements part.
+
+54
+00:05:54,230 --> 00:06:00,270
+Please pause the video for 2 minutes to evaluate the essay based on the following checklist.
+
+55
+00:06:06,350 --> 00:06:08,270
+Alright, here's my answer.
+
+56
+00:06:09,110 --> 00:06:13,170
+We can see that this essay has met all of these criteria
+
+57
+00:06:13,170 --> 00:06:17,870
+except for number 4 because the structure of paragraph 1 is not
+
+58
+00:06:17,870 --> 00:06:25,090
+clear and paragraph 2 is still lacking example or elaboration for the second explanation.
+
+59
+00:06:26,050 --> 00:06:33,250
+Next, let's pause the video for a minute to evaluate the essay based on the cohesion criterion.
+
+60
+00:06:40,500 --> 00:06:42,600
+Okay, here's my answer.
+
+61
+00:06:43,460 --> 00:06:48,440
+Basically, we can see that this essay already met the criterion of cohesion.
+
+62
+00:06:49,100 --> 00:06:53,940
+However, since we have not ticked all the checklists for task response
+
+63
+00:06:53,940 --> 00:06:59,160
+and coherence and cohesion yet, this essay is only at 5.0.
+
+64
+00:07:00,120 --> 00:07:03,540
+Now let's analyse and improve the sample.
+
+65
+00:07:07,750 --> 00:07:12,170
+We identified that the essay was too short and lacked clear examples.
+
+66
+00:07:12,950 --> 00:07:17,550
+Here is the improved version of the essay using the ideas we brainstormed earlier.
+
+67
+00:07:18,010 --> 00:07:22,330
+Notice how we added a second explanation here and used linking words here.
+
+68
+00:07:22,830 --> 00:07:25,050
+This raises the score to a band 6.
+
+69
+00:07:33,780 --> 00:07:40,040
+In this lesson, we have learned about discussion questions and understand how
+
+70
+00:07:40,040 --> 00:07:46,620
+to analyse discussion questions, apply the 6Ws technique to brainstorm ideas
+
+71
+00:07:46,620 --> 00:07:52,200
+for discussion questions, understand how to write a discussion essay at band
+
+72
+00:07:52,200 --> 00:07:56,880
+6.0 in task response and coherence and cohesion.
+
+73
+00:07:57,600 --> 00:08:01,760
+Remember to use the same structure for both body paragraphs.
+
+74
+00:08:02,580 --> 00:08:06,720
+Also, remember the steps to improve cohesion within the paragraph.
+
+75
+00:08:07,800 --> 00:08:10,840
+For now, goodbye and see you in the next lesson.
+
+76
+00:08:11,400 --> 00:08:11,920
+See ya!
+

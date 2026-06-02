@@ -1,0 +1,619 @@
+1
+00:00:11,830 --> 00:00:13,930
+Hi guys, welcome back.
+
+2
+00:00:14,370 --> 00:00:18,690
+I'm sure many of you might feel just a little confused when looking at some
+
+3
+00:00:18,690 --> 00:00:24,850
+questions of diagram completion like this, like this and like this, am I right?
+
+4
+00:00:28,000 --> 00:00:32,960
+So don't worry, today I'm going to help you master this question type.
+
+5
+00:00:33,440 --> 00:00:35,540
+Our lesson has three parts.
+
+6
+00:00:35,540 --> 00:00:39,660
+Number one, introduction to diagram completion.
+
+7
+00:00:40,460 --> 00:00:45,480
+We're going to analyze some features and
+difficulties in handling this question type.
+
+8
+00:00:46,240 --> 00:00:48,920
+Two, steps for diagram completion.
+
+9
+00:00:49,620 --> 00:00:54,520
+Three, practice diagram completion with the topic of food.
+
+10
+00:00:55,300 --> 00:01:01,540
+This lesson aims to help you understand the
+format of diagram completion in IELTS Reading.
+
+11
+00:01:02,540 --> 00:01:07,780
+Remember, understand and apply steps for diagram completion in IELTS Reading.
+
+12
+00:01:08,660 --> 00:01:11,520
+Apply the knowledge to some practice exercises.
+
+13
+00:01:12,620 --> 00:01:14,180
+So let's get started.
+
+14
+00:01:18,940 --> 00:01:25,660
+Features Feature one, the requirement is to
+complete the diagram within a word limit.
+
+15
+00:01:26,400 --> 00:01:32,080
+This question type differs from the flowchart
+completion in the previous lesson in some ways.
+
+16
+00:01:32,680 --> 00:01:33,700
+Diagram completion.
+
+17
+00:01:34,540 --> 00:01:37,340
+This question type includes an illustrated image.
+
+18
+00:01:38,040 --> 00:01:41,900
+The given information is used to explain the details in that image.
+
+19
+00:01:42,480 --> 00:01:47,900
+So that you have to find the answers based on
+the image and the information in the passage.
+
+20
+00:01:49,200 --> 00:01:50,060
+Flowchart completion.
+
+21
+00:01:50,820 --> 00:01:55,940
+A flowchart shows the process, steps or stages linked together by arrows.
+
+22
+00:01:56,460 --> 00:01:59,620
+This question type does not have an illustrated image.
+
+23
+00:02:00,140 --> 00:02:05,000
+So you have to find the answers based on the sentences in the flowchart and
+
+24
+00:02:05,000 --> 00:02:06,840
+the information in the passage.
+
+25
+00:02:08,500 --> 00:02:13,360
+Feature two, the answers are words taken from the reading passage.
+
+26
+00:02:14,200 --> 00:02:19,560
+We need to write the exact words, so do not change or paraphrase them.
+
+27
+00:02:20,140 --> 00:02:26,100
+Feature three, the questions might not come
+in order as the information in the passage.
+
+28
+00:02:26,980 --> 00:02:35,260
+Feature four, the information areas that contain the answers are
+usually located within one to three paragraphs, not the whole passage.
+
+29
+00:02:36,460 --> 00:02:46,700
+Feature five, the paragraphs that contain the answers often include some
+descriptive words, such as words showing parts or components of the diagram,
+
+30
+00:02:47,480 --> 00:02:53,520
+prepositions of position, below, through or between, etc.
+
+31
+00:02:54,660 --> 00:02:59,700
+Sequence words, then, after, finally, etc.
+
+32
+00:03:01,860 --> 00:03:04,060
+Difficulties in handling diagram completion.
+
+33
+00:03:04,680 --> 00:03:05,160
+Difficulties.
+
+34
+00:03:06,200 --> 00:03:10,480
+Number one, cannot identify positions of missing words.
+
+35
+00:03:11,480 --> 00:03:15,040
+This question type requires candidates to fill in a diagram.
+
+36
+00:03:15,360 --> 00:03:19,920
+So the given information in the diagram is usually summarized ideas.
+
+37
+00:03:20,820 --> 00:03:26,620
+In addition, the key words in these ideas are often
+paraphrased based on the key words in the passage.
+
+38
+00:03:27,380 --> 00:03:32,040
+Therefore, you may find it challenging to identify which parts of the passage
+
+39
+00:03:32,040 --> 00:03:38,480
+to read and understand the main ideas, which can lead to
+not choosing the suitable words to fill in the blanks.
+
+40
+00:03:38,920 --> 00:03:39,420
+Solutions.
+
+41
+00:03:40,340 --> 00:03:41,900
+Read the diagram's title.
+
+42
+00:03:42,620 --> 00:03:46,500
+Skim key words and identify scanning words in the given information.
+
+43
+00:03:47,380 --> 00:03:53,140
+Locate paragraphs that contain descriptive words or
+key words from the title and the given information.
+
+44
+00:03:54,360 --> 00:03:58,180
+Two, cannot understand what diagrams are about.
+
+45
+00:03:59,100 --> 00:04:04,860
+This question type, many candidates focus too much
+on the diagram to fully understand what it's about.
+
+46
+00:04:05,680 --> 00:04:09,540
+However, the diagrams sometimes can be highly specialized.
+
+47
+00:04:10,200 --> 00:04:16,019
+Therefore, the vocabulary in these diagrams
+is often uncommon and unfamiliar to you.
+
+48
+00:04:16,680 --> 00:04:23,440
+Even if you find the correct paragraph containing the information
+about the diagram, you can't still find the missing word.
+
+49
+00:04:24,300 --> 00:04:24,660
+Solutions.
+
+50
+00:04:25,680 --> 00:04:31,300
+Do not try to fully understand what diagrams are
+about if they have too many specialized terms.
+
+51
+00:04:32,540 --> 00:04:35,760
+Identify scanning words in the title and the given information.
+
+52
+00:04:36,680 --> 00:04:38,960
+Handle the questions with the given clues first.
+
+53
+00:04:40,060 --> 00:04:43,760
+Identifying the relationship between paragraphs and the diagram is more
+
+54
+00:04:43,760 --> 00:04:48,240
+important than trying to fully understand what the diagram is about, because
+
+55
+00:04:48,240 --> 00:04:52,200
+this is a reading comprehension test, not a specialized test.
+
+56
+00:04:52,980 --> 00:04:59,700
+Therefore, you should focus on identifying scanning words
+to locate the information and then compare to the question.
+
+57
+00:05:00,500 --> 00:05:04,560
+Moreover, it's recommended that you should
+handle the questions with the given clues first.
+
+58
+00:05:05,460 --> 00:05:06,260
+Difficulties.
+
+59
+00:05:07,080 --> 00:05:11,080
+3. Diagrams do not provide any information.
+
+60
+00:05:11,800 --> 00:05:12,260
+Solutions.
+
+61
+00:05:13,040 --> 00:05:19,320
+In this case, we need to study the diagram and predict some features of where
+
+62
+00:05:19,320 --> 00:05:27,580
+to be filled in, based on the title of the diagram
+and the passage, shape, quantity and function.
+
+63
+00:05:28,300 --> 00:05:33,140
+Moreover, you need to remember and apply feature 5 of this question type.
+
+64
+00:05:33,640 --> 00:05:39,880
+Apply feature 5. The paragraphs that contain the
+answers often include some descriptive words,
+
+65
+00:05:40,080 --> 00:05:46,040
+such as words showing parts or components of the diagram,
+
+66
+00:05:46,040 --> 00:05:56,200
+prepositions of position, such as below, through, between,
+etc., sequence words, such as then, after, finally, etc.
+
+67
+00:06:00,840 --> 00:06:05,600
+To practice the steps for this question type,
+we're going to look at the following passage.
+
+68
+00:06:18,100 --> 00:06:22,160
+Similar to the other question types of completion we've learned in this course,
+
+69
+00:06:22,440 --> 00:06:25,880
+we have some steps for diagram completion as follows.
+
+70
+00:06:27,080 --> 00:06:32,560
+Step 1. Read the question's requirement
+carefully and identify the word limit.
+
+71
+00:06:33,420 --> 00:06:36,160
+Step 2. Study the diagram quickly.
+
+72
+00:06:37,140 --> 00:06:42,120
+Step 3. Underline keywords, if any, and predict answers.
+
+73
+00:06:42,800 --> 00:06:46,700
+Step 4. Apply scanning skills to locate information.
+
+74
+00:06:47,680 --> 00:06:50,560
+Step 5. Find and fill in the answer.
+
+75
+00:06:51,500 --> 00:06:53,780
+Additional step. Check answers.
+
+76
+00:06:54,860 --> 00:06:56,280
+Here we have a new step.
+
+77
+00:06:56,740 --> 00:06:59,280
+Step 2. Study the diagram quickly.
+
+78
+00:07:00,180 --> 00:07:03,500
+Besides that, the rest is similar to other completion types.
+
+79
+00:07:04,480 --> 00:07:07,660
+Now, let's dive into each step in the...
+
+80
+00:07:07,660 --> 00:07:08,280
+Step 1.
+
+81
+00:07:08,620 --> 00:07:12,320
+Read the question's requirement carefully and identify the word limit.
+
+82
+00:07:12,820 --> 00:07:17,560
+With this instruction, we can only write a maximum of two words in each blank.
+
+83
+00:07:18,940 --> 00:07:22,940
+Moving on to Step 2. Study the diagram quickly.
+
+84
+00:07:23,300 --> 00:07:25,600
+First, we have to answer this question.
+
+85
+00:07:25,980 --> 00:07:27,740
+Does this diagram have a title?
+
+86
+00:07:27,740 --> 00:07:33,320
+If yes, then it helps us understand what the diagram is about, making it easier
+
+87
+00:07:33,320 --> 00:07:37,260
+to locate the information areas that contain the answers.
+
+88
+00:07:37,700 --> 00:07:43,120
+For this exercise, the title tells us that it is a diagram of a rice cooker.
+
+89
+00:07:43,480 --> 00:07:45,560
+So let's take Step 3 together.
+
+90
+00:07:47,000 --> 00:07:51,080
+Step 3. Underline keywords and predict answers.
+
+91
+00:07:51,080 --> 00:07:58,360
+In this diagram, the labels provide functional descriptions that act as our primary keywords.
+
+92
+00:07:58,960 --> 00:08:04,240
+Since we are labelling a physical object, we can predict that all answers will
+
+93
+00:08:04,240 --> 00:08:10,360
+be nouns or noun phrases representing specific components of the equipment.
+
+94
+00:08:10,960 --> 00:08:12,580
+Let's look at Question 1.
+
+95
+00:08:13,040 --> 00:08:14,720
+Helps keep the heat in.
+
+96
+00:08:14,940 --> 00:08:16,880
+The arrow points to the cover.
+
+97
+00:08:16,880 --> 00:08:22,540
+Its function is to prevent heat from escaping, so we can predict that we need
+
+98
+00:08:22,540 --> 00:08:27,440
+a noun for a part located at the very top of the device.
+
+99
+00:08:28,060 --> 00:08:31,580
+Now look at Question 3. Provides electricity.
+
+100
+00:08:32,679 --> 00:08:37,159
+From the picture, we see that this must be the component that connects the
+
+101
+00:08:37,159 --> 00:08:38,620
+device to a power source.
+
+102
+00:08:39,179 --> 00:08:44,160
+We probably need a noun for the part extending from the back with a plug.
+
+103
+00:08:45,520 --> 00:08:51,060
+Step 4. Apply scanning skills to locate information.
+
+104
+00:08:51,780 --> 00:08:53,060
+Here is your challenge.
+
+105
+00:08:53,560 --> 00:08:59,760
+Scan the second paragraph of the passage to find the names of the parts described in the diagram.
+
+106
+00:09:00,300 --> 00:09:01,900
+You have 20 seconds.
+
+107
+00:09:02,280 --> 00:09:02,960
+Let's go.
+
+108
+00:09:26,830 --> 00:09:31,610
+If you found the sentences in the second paragraph, you are ready to find the answers.
+
+109
+00:09:31,610 --> 00:09:36,890
+For Question 1, we scan for the function of keeping heat in.
+
+110
+00:09:37,450 --> 00:09:44,970
+The text mentions, At the top, the outer lid closes the cooker, trapping heat and moisture.
+
+111
+00:09:45,710 --> 00:09:50,990
+The phrase trapping heat is a perfect paraphrase for keep the heat in.
+
+112
+00:09:51,470 --> 00:09:56,250
+For Question 7, the diagram says it lets steam out.
+
+113
+00:09:56,250 --> 00:10:03,250
+We scan the same area and find, A steam vent allows excess steam to escape.
+
+114
+00:10:03,870 --> 00:10:07,070
+Escape is a paraphrase for let's out.
+
+115
+00:10:08,590 --> 00:10:12,510
+Step 5. Find and fill in the answer.
+
+116
+00:10:12,950 --> 00:10:16,910
+Now, let's finalize our labels based on the text.
+
+117
+00:10:17,150 --> 00:10:20,910
+We must strictly follow the no more than two words limit.
+
+118
+00:10:20,910 --> 00:10:27,490
+Pause the video for about 5 minutes, find the answers and write them down on your paper.
+
+119
+00:10:33,910 --> 00:10:35,410
+Did you get all of them?
+
+120
+00:10:35,690 --> 00:10:37,070
+Let's find the answer together.
+
+121
+00:10:37,390 --> 00:10:43,570
+Question 1. If you scan the first part of paragraph 2, the text says, At the top,
+
+122
+00:10:43,870 --> 00:10:47,610
+the outer lid closes the cooker, trapping heat.
+
+123
+00:10:47,950 --> 00:10:53,550
+Since trapping heat matches our diagram perfectly and it's exactly two words,
+
+124
+00:10:53,550 --> 00:10:56,550
+outer lid is our answer.
+
+125
+00:10:57,050 --> 00:11:04,550
+Question 2. Moving to the side of the machine, we need the part that covers and provides the structure.
+
+126
+00:11:05,110 --> 00:11:10,310
+Scanning further down that same paragraph, the text mentions that the outer
+
+127
+00:11:10,310 --> 00:11:16,850
+body protects the internal components and
+provides the overall structure of the cooker.
+
+128
+00:11:17,390 --> 00:11:22,210
+Question 3. The arrow is pointing right at the plug.
+
+129
+00:11:22,210 --> 00:11:29,190
+The text tells us that, finally, the power cord supplies electricity to the cooker.
+
+130
+00:11:29,790 --> 00:11:36,530
+Since our diagram says this part provides electricity, we know we found the right term.
+
+131
+00:11:37,010 --> 00:11:39,370
+Question 4. Now look at the front.
+
+132
+00:11:39,910 --> 00:11:46,410
+The passage explains that, on the front, the control panel is used to choose cooking settings.
+
+133
+00:11:46,850 --> 00:11:50,390
+It fits the description and the two word limit perfectly.
+
+134
+00:11:51,050 --> 00:11:55,010
+Question 5. What actually makes the rice hot?
+
+135
+00:11:55,650 --> 00:12:00,370
+If you look at the bottom of the diagram, the text says, At the bottom,
+
+136
+00:12:00,750 --> 00:12:02,890
+the heating plate produces heat.
+
+137
+00:12:03,410 --> 00:12:07,910
+That's the base component doing all the heavy lifting to cook your food evenly.
+
+138
+00:12:08,470 --> 00:12:12,950
+Question 6. This arrow points to the actual container inside.
+
+139
+00:12:13,510 --> 00:12:19,390
+The text describes it as the main container where rice and water are placed,
+
+140
+00:12:19,390 --> 00:12:22,450
+specifically calling it the inner pot.
+
+141
+00:12:22,990 --> 00:12:28,630
+Question 7. The arrow points at a little hole that lets steam out.
+
+142
+00:12:28,990 --> 00:12:35,310
+The text calls this a steam vent and says it allows excess steam to escape.
+
+143
+00:12:36,550 --> 00:12:37,850
+Great job everyone.
+
+144
+00:12:38,090 --> 00:12:39,950
+Now let's review what we learned today.
+
+145
+00:12:45,030 --> 00:12:52,010
+In this lesson, we've learned about Features of diagram completion Three common
+
+146
+00:12:52,010 --> 00:12:58,790
+difficulties and how to deal with them Five steps for diagram completion So,
+
+147
+00:12:58,970 --> 00:13:00,090
+that's all for this video.
+
+148
+00:13:00,370 --> 00:13:01,630
+I hope you enjoyed the lesson.
+
+149
+00:13:02,070 --> 00:13:03,690
+Goodbye and see you next time.
+

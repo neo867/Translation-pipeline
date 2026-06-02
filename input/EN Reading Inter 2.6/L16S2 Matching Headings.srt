@@ -1,0 +1,355 @@
+1
+00:00:11,860 --> 00:00:17,180
+Hi guys, I'm back and in today's video we are going to deal with one
+
+2
+00:00:17,180 --> 00:00:23,840
+of the hardest, most painful questions in the
+IELTS reading test, which is matching headings.
+
+3
+00:00:24,480 --> 00:00:27,680
+So stay tuned and we'll dive right into it.
+
+4
+00:00:28,260 --> 00:00:33,400
+This lesson aims to help you understand some features of matching headings,
+
+5
+00:00:34,040 --> 00:00:41,280
+choose one effective approach to matching headings,
+understand and apply steps for matching headings.
+
+6
+00:00:42,400 --> 00:00:45,360
+So hang in there, it'll be worth it, I promise.
+
+7
+00:00:46,700 --> 00:00:49,460
+We'll start with the first part of today's lesson.
+
+8
+00:00:54,440 --> 00:00:58,440
+Matching headings is a question type which requires candidates to match the
+
+9
+00:00:58,440 --> 00:01:03,340
+given headings with the paragraphs, so that each paragraph will be matched with
+
+10
+00:01:03,340 --> 00:01:04,480
+its corresponding heading.
+
+11
+00:01:05,460 --> 00:01:16,800
+Questions of matching headings often have three parts, a requirement,
+a list of headings and question numbers corresponding to paragraphs.
+
+12
+00:01:17,460 --> 00:01:22,400
+Moreover, there are some features of matching
+headings that you should pay attention to.
+
+13
+00:01:22,940 --> 00:01:31,160
+One heading is only used for one paragraph, there are no
+cases where two or more paragraphs have the same heading.
+
+14
+00:01:31,990 --> 00:01:38,800
+There are usually more headings than the number of
+paragraphs, so there are some headings that are not used.
+
+15
+00:01:39,740 --> 00:01:43,940
+The correct headings need to cover the whole content of paragraphs.
+
+16
+00:01:44,740 --> 00:01:51,180
+These are the most basic features of this question
+type, let's analyse it in more detail in the next part.
+
+17
+00:01:55,940 --> 00:01:59,920
+There are two approaches to matching headings that you can choose from.
+
+18
+00:02:01,080 --> 00:02:07,039
+Approach 1. Answer this question type right
+from the beginning, because it usually appears
+
+19
+00:02:07,039 --> 00:02:11,900
+as the first question type of one passage, usually in passage 2.
+
+20
+00:02:12,800 --> 00:02:21,320
+The advantage is that it helps us to understand the main idea of all
+paragraphs, therefore we can answer the following question types faster.
+
+21
+00:02:22,120 --> 00:02:28,080
+However, the disadvantage is that it can take
+us a lot of time from the beginning of the test.
+
+22
+00:02:28,760 --> 00:02:31,820
+As a result, it is difficult to manage time.
+
+23
+00:02:32,840 --> 00:02:36,740
+If we answer this question type for too long, we can take up a lot
+
+24
+00:02:36,740 --> 00:02:42,060
+of time for other questions and can't solve all the questions in time.
+
+25
+00:02:43,100 --> 00:02:46,880
+Approach 2. Answer this question type last.
+
+26
+00:02:47,720 --> 00:02:52,500
+The advantage is that we can finish this question type faster, because after
+
+27
+00:02:52,500 --> 00:02:56,860
+answering other question types, we can understand the main idea of the whole
+
+28
+00:02:56,860 --> 00:03:01,720
+reading passage and can somehow understand the information in each paragraph.
+
+29
+00:03:02,340 --> 00:03:05,900
+So finding the main idea of each paragraph is faster.
+
+30
+00:03:06,900 --> 00:03:13,540
+The disadvantage is that we can't answer other question
+types as quickly as we take the first approach.
+
+31
+00:03:14,760 --> 00:03:17,180
+Of course, the choice belongs to you.
+
+32
+00:03:18,000 --> 00:03:25,040
+Each of you can have an approach that you find effective,
+so please choose the most suitable one for yourself.
+
+33
+00:03:25,680 --> 00:03:29,440
+Now let's see how we can handle the matching headings questions.
+
+34
+00:03:33,660 --> 00:03:36,960
+Now let's learn how to handle this question type step by step.
+
+35
+00:03:37,460 --> 00:03:40,820
+Step 1.
+Read given headings and underline keywords.
+
+36
+00:03:41,240 --> 00:03:44,460
+In this step, we need to have an overview of the headings.
+
+37
+00:03:44,880 --> 00:03:49,380
+Because this question type often includes headings with similar keywords, you
+
+38
+00:03:49,380 --> 00:03:54,640
+need to take notes by circling or rewriting the
+similarities or differences in your own language.
+
+39
+00:03:54,980 --> 00:03:57,960
+This helps us find out the correct headings more easily.
+
+40
+00:03:58,500 --> 00:04:05,120
+After you understand the importance of this step, I'll
+give you 15 seconds to underline keywords in each heading.
+
+41
+00:04:05,540 --> 00:04:09,020
+Find out differences among the headings that contain similar keywords.
+
+42
+00:04:25,640 --> 00:04:28,500
+Here are the keywords I found when reading the headings.
+
+43
+00:04:28,880 --> 00:04:33,920
+When reading, I noticed that headings 5 and 6 both talk about education or
+
+44
+00:04:33,920 --> 00:04:40,820
+schools, but 5 focuses on different ways and
+methods, while 6 focuses on success rates.
+
+45
+00:04:41,400 --> 00:04:46,580
+Similarly, headings 1 and 4 both mention the brain, but 1 is about old age
+
+46
+00:04:46,580 --> 00:04:50,120
+or health, and 4 is about focus and multitasking.
+
+47
+00:04:50,620 --> 00:04:53,400
+After having an overview, we move on to the next step.
+
+48
+00:04:54,420 --> 00:04:59,220
+Step 2. Use skimming skills for
+each paragraph to find the main idea.
+
+49
+00:04:59,480 --> 00:05:00,100
+A quick tip.
+
+50
+00:05:00,360 --> 00:05:06,740
+In academic writing, the first sentence is often the topic
+sentence, and the last sentence summarizes the ideas.
+
+51
+00:05:38,240 --> 00:05:41,600
+Let's analyze the content words to find the main idea.
+
+52
+00:05:42,060 --> 00:05:44,360
+This first sentence sets the context.
+
+53
+00:05:44,680 --> 00:05:49,540
+The key idea here is, speaking more than one language is becoming more common.
+
+54
+00:05:50,640 --> 00:05:52,360
+Now on to the second sentence.
+
+55
+00:05:52,720 --> 00:05:55,340
+This sentence explains why it is becoming common.
+
+56
+00:05:55,340 --> 00:06:00,660
+Keywords include migration, global
+communication, millions use different languages.
+
+57
+00:06:02,200 --> 00:06:04,640
+This sentence here reinforces the first point.
+
+58
+00:06:04,960 --> 00:06:08,800
+Keywords here are rare skill and normal part of life.
+
+59
+00:06:09,660 --> 00:06:12,040
+The final sentence summarizes the trend.
+
+60
+00:06:12,400 --> 00:06:16,500
+Keywords include specialized talent and essential everyday skill.
+
+61
+00:06:17,680 --> 00:06:21,540
+To sum up, we can see the main idea of paragraph A is about how
+
+62
+00:06:21,540 --> 00:06:25,640
+speaking multiple languages has grown from something rare to something very
+
+63
+00:06:25,640 --> 00:06:27,580
+common and essential globally.
+
+64
+00:06:28,980 --> 00:06:32,620
+Step 3. Choose the most suitable
+heading for each paragraph.
+
+65
+00:06:33,080 --> 00:06:37,780
+Now let's look at our headings again and
+choose the one that matches our main idea.
+
+66
+00:06:38,100 --> 00:06:39,520
+Let's check heading 3.
+
+67
+00:06:39,760 --> 00:06:44,160
+The paragraph talks about modern, connected world, migration, global
+
+68
+00:06:44,160 --> 00:06:48,580
+communication, and how it is becoming more common and a normal part of life.
+
+69
+00:06:48,580 --> 00:06:51,560
+This matches perfectly with global increase.
+
+70
+00:06:52,900 --> 00:06:55,680
+So the answer for paragraph A is 3.
+
+71
+00:06:55,900 --> 00:06:59,120
+Once found, cross it out to save time for the next paragraph.
+
+72
+00:07:04,560 --> 00:07:10,140
+In today's lesson, we've learned about the structures and features of matching headings,
+
+73
+00:07:10,140 --> 00:07:16,560
+the two approaches to matching headings,
+and three steps for matching headings.
+
+74
+00:07:17,260 --> 00:07:22,480
+Moreover, we also mentioned some common difficulties, solutions, as well as
+
+75
+00:07:22,480 --> 00:07:25,600
+tips to skim a little more effectively for matching headings questions.
+
+76
+00:07:27,580 --> 00:07:30,720
+Please take note of those tips and practice regularly.
+
+77
+00:07:31,620 --> 00:07:36,100
+Remember to choose reading materials that are suitable for your level, as I
+
+78
+00:07:36,100 --> 00:07:38,700
+mentioned in the video about the course introduction.
+
+79
+00:07:39,840 --> 00:07:44,240
+Moreover, if you don't have enough vocabulary and a good understanding of
+
+80
+00:07:44,240 --> 00:07:48,660
+grammar, it will be a bit challenging for
+you to apply the knowledge in today's lesson.
+
+81
+00:07:49,580 --> 00:07:52,840
+Finally, I really do hope you enjoyed this lesson.
+
+82
+00:07:53,360 --> 00:07:54,540
+See you next time.
+
+83
+00:07:54,880 --> 00:07:55,160
+Goodbye.
+

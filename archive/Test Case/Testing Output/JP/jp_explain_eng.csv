@@ -1,0 +1,51 @@
+﻿id,explain_eng,explain_jp
+1,"Altogether the park covers 170 acres, that’s {{69}} hectares.",公園の面積は合計で170エーカー、換算すると69ヘクタールになります。
+2,"There are also several smaller ones, ponds and a {{stream}} that flows through the park.",公園内には、池や公園を流れるstreamなど、いくつかの小さな見所もあります。
+3,They also collect and analyse {{data}} about the things they see.,彼らはまた、目にするものについて data を収集し、分析しています。
+4,The park is a great environment to learn and practice reading a {{map}} and using a compass to navigate around the park.,この公園は、map の読み方やコンパスの使い方を学び、公園内でナビゲーションする練習をするのに最適な環境です。
+5,"That focuses (= concentrates) on your {{visitors}}, I would imagine.",それは、推測するに、あなたのvisitorsに焦点を当てているようです。
+6,We all had a great time on the final boat trip down the {{river}} - that was the real highlight.,riverを下る最後のボート旅行は皆で大変楽しかったです。それが真のハイライトでした。
+7,We've decided to plant a poplar tree in the museum {{gardens}}.,博物館の gardens にポプラの木を1本植えることにしました。
+8,Our pancake evening was well attended and made record {{profits}}.,私たちのパンケーキディナーは盛況で、記録的な profits を上げました。
+9,"Don't try to do too much that first evening as they'll be tired, so have dinner in the {{house}} or garden rather than eating out.",最初の晩は疲れているでしょうから、無理に予定を入れすぎないでください。外食するよりも、houseや庭で夕食を取るのがおすすめです。
+10,"The main entrance to the house has a lot of steps, so you might want to use the {{disabled entry}}. This is on the far side of the house from the car park.",この家への主な入口は階段が多いので、disabled entryを利用することをおすすめします。これは駐車場の反対側、家の向こう側にあります。
+11,Children will probably be most interested in the {{adventure playground}}.,子供たちはおそらく adventure playground に最も興味を示すでしょう。
+12,"That's at the northern end of {{the larger lake}}, in a bend on the path that leads to the lake.",それはthe larger lakeの北端にあり、湖へ続く道の曲がり角にあります。
+13,"The {{kitchen gardens}} are rectangular and surrounded by a wall. They’re to the north-east of the house, quite near the smaller lake.",kitchen gardensは長方形で、壁に囲まれています。家の北東側にあり、小さな湖の近くに位置しています。
+14,It must’ve been a great feeling to make something appetising out of bits of {{old bread}} that would’ve been thrown away otherwise.,それらは元々捨てられていたold breadを、食欲をそそる料理に作り変えたものでしょう。そのようなことをした時の気持ちは、きっと素晴らしいものだったはずです。
+15,It might be really good for drug storage in {{hospitals and pharmacies}}.,これはhospitals and pharmaciesでの薬の保管に非常に適している可能性があります。
+16,"Recent studies indicate that vent populations are actually {{increasing}} globally, though we're still trying to understand why.",最近の研究では、vent（風穴）の個体群は実際には世界的にincreasing（増加している）と示されていますが、その理由を理解しようと努力している段階です。
+17,The main challenge in verifying these hypotheses remains the {{technical limitations}} of our equipment - we simply can't monitor these sites as continuously as we'd like.,これらの仮説を検証する際、最も大きな困難さは装置のtechnical limitationsにあります。私たちは望むだけこれらのサイトを継続的にモニタリングすることができません。
+18,"The bacteria communities found near these vents are particularly unique. Rather than using sunlight as an {{energy source}}, they harness chemical energy from the vent fluids.",これらの噴出口付近で見られる細菌コミュニティは非常にユニークです。energy sourceとして日光を利用するのではなく、噴出口の流体から化学エネルギーを取り込んでいます。
+19,Our research over the past decade suggests these ecosystems operate {{independently}} of surface conditions.,過去10年間の当社の研究では、これらの生態系が表面条件に対してindependentlyに機能していることが示唆されています。
+20,"The passage states that AI surpassed human doctors in identifying a particular type of cancer, but does not mention whether it can replace human doctors ⇒ {{NOT GIVEN}}",本文では、AIが特定のがん種を識別する際に人間ドクターを上回ったと述べていますが、人間ドクターに取って代われるかどうかについては言及していません ⇒ NOT GIVEN
+21,"AI helps reduce the workload of administrative staff, not fully replace them. They are still needed for complex responsibilities. ⇒ {{FALSE}}",AIは行政スタッフの業務負担を軽減しますが、完全に代替するわけではありません。複雑な責任については、依然として人間のスタッフが必要です。 ⇒ FALSE
+22,"Using AI to predict disease outbreaks is one of the new applications that researchers are exploring, so it has not been used to predict disease outbreaks before ⇒ {{FALSE}}.",AI（人工知能）を用いて疾病の流行を予測することは、研究者が探求中の新しい応用の一つであるため、以前に疾病の流行を予測するために使用されたことはありません ⇒ FALSE.
+23,The blank comes after a verb and acts as an object ⇒ a noun is needed.,空欄は動詞の後に位置し、目的語の役割を果たすため ⇒ 名詞が必要です。
+24,The blank comes after a noun phrase and the conjunction “and” ⇒ a noun is needed.,空白は名詞句と接続詞「and」の後に位置するため ⇒ 名詞が必要です。
+25,"Keywords: advantage, diagnostics ⇒ {{2nd Paragraph}} contains the answer",キーワード：advantage、diagnostics ⇒ 2nd Paragraphに答えが含まれています
+26,Keywords: healthcare ⇒ {{9th Paragraph}} contains the answer,キーワード：医療 ⇒ 9th Paragraph に答えが含まれています
+27,Eliminate {{option A}} because AI is used to analyze images.,AIが画像の分析に使用されるため、option Aは除外します。
+28,"Eliminate {{option C}} because the passage says AI outperforms radiologists, not completely replace them.",本文はAIが放射線科医を完全に置き換えるのではなく、彼らよりも優れた性能を示すと述べているため、option Cは除外します。
+29,Eliminate {{option D}} because it is said in the 7th paragraph that AI can still make errors in diagnosing.,option Dを除外します。なぜなら、7段落目でAIが診断において依然として誤りを犯す可能性があると言われているからです。
+30,Desalination has not been widely adopted due to high energy demands and costs ⇒ {{FALSE}}.,エネルギー需要とコストが高いため、海水淡化技術は広く採用されていません ⇒ FALSE。
+31,"Many species have lost their pigmentation, not all of them ⇒ {{FALSE}}.",多くの種が色素を失いましたが、すべてが失ったわけではありません ⇒ FALSE。
+32,"cave-dwelling organisms, completely lost, pigmentation ⇒ {{2nd Paragraph}} contains the answer",洞窟に住む生物は、完全に色素を失っています ⇒ 2nd Paragraph に答えが含まれています
+33,"Keywords: olm, survive, years, without, eating ⇒ {{4th Paragraph}} contains the answer",キーワード： olm、survive、years、without、eating ⇒ 4th Paragraph に答えが含まれています
+34,"Keywords: temperatures, constant, all three zones ⇒ {{5th Paragraph}} contains the answer","キーワード: temperatures, constant, all three zones ⇒ 5th Paragraph に答えが含まれています"
+35,Explanation: The passage mentions three distinct zones but does not mention cave temperatures ⇒ {{NOT GIVEN}}.,解説：本文では3つの異なる領域が言及されていますが、洞窟の気温については触れていません ⇒ NOT GIVEN。
+36,The Upper Gallery (⇒ {{F}}) now houses a medieval tapestry that was discovered carefully wrapped and preserved in one of the attic spaces.,上階ギャラリー（⇒ F）には、中世のタペストリーが展示されており、これは屋上のスペースの1つで慎重に包まれて保存されていたものが発見されました。
+37,We're in the advanced planning stages of establishing (= plan to create) a dedicated (Q24) {{resource center}} that will serve as a hub for VR content development and pedagogical innovation.,VRコンテンツの開発と教育的革新の拠点となる、専用（Q24）の resource center を設立するための高度な計画段階にあります (= 作成する計画)
+38,We'll be focusing primarily on courses in (Q26) {{medical science}} and engineering.,主にQ26のmedical scienceおよび工学のコースに焦点を当てていきます。
+39,We've developed a comprehensive (Q27) {{safety orientation}} program that all students must complete before accessing the VR laboratories.,VRラボへのアクセス前に、すべての学生が完了しなければならない包括的なsafety orientationプログラム（Q27）を開発しました。
+40,"Furthermore, urban agricultural projects generate (= create) substantial local (Q38) {{employment}} opportunities.",さらに、都市農業プロジェクトは、実質的な地元の（Q38）employment機会を創出します（= create）。
+41,"The practice experienced a remarkable resurgence (= gained prominence) during (Q32) {{World War Two}}, when global food security concerns necessitated innovative approaches to local food production.",この慣行は、世界規模の食料安全保障への懸念が地域内の食料生産に対する革新的なアプローチを必要とした時期である (Q32) World War Two の際、目覚しい復興 (= gained prominence) を遂げました。
+42,"Keywords: diagnostic tools, outperform, human doctors, diseases ⇒ {{2nd paragraph}} contains the answer","キーワード: diagnostic tools, outperform, human doctors, diseases ⇒ 2nd paragraph に答えが含まれています"
+43,The blank comes after a modal verb ⇒ a verb is needed.,空欄は助動詞の後に位置するため ⇒ 動詞が必要です。
+44,Keywords: Oversight ⇒ {{6th paragraph}} contains the answer,キーワード: Oversight ⇒ 6th paragraph に答えが含まれています
+45,"The passage states that quantum networks coexist with classical networks in a hybrid system, rather than operating independently ⇒ {{FALSE}}",本文では、量子ネットワークが独立して機能するのではなく、ハイブリッドシステムにおいて従来のネットワークと共存すると明記しています ⇒ FALSE
+46,"The passage implies that different countries have varying levels of access and investment in quantum internet technology, indicating unequal access. ⇒ {{FALSE}}",本文は、各国が量子インターネット技術に対するアクセスと投資のレベルにばらつきがあることを示唆しており、アクセスの不平等性を示しています。 ⇒ FALSE
+47,The blank comes after a verb and acts as an object  ⇒ a noun is needed.,空欄は動詞の後に位置し、objectの役割を果たすため ⇒ noun が必要です。
+48,"The Cold War era was marked by competition, not collaboration, between the US and the Soviet Union, as they sought to demonstrate their superiority through space achievements. ⇒ {{FALSE}}.",冷戦時代は、米ソ両国が宇宙開発の成果を通じて優位性を示そうとした時期であり、協働ではなく競争が特徴でした ⇒ FALSE。
+49,"The ISS was a collaborative effort by 15 nations, not a single nation's project ⇒ {{FALSE}}.",国際宇宙ステーション（ISS）は15か国の協力による成果であり、単一国家のプロジェクトではありません ⇒ FALSE。
+50,"Additionally, {{space debris}}—fragments of defunct satellites, rocket stages, and other remnants of human activity—poses a growing threat to active spacecraft and future missions.",さらに、space debris——機能停止した衛星の断片、ロケットのステージ、および人類活動その他の残骸——は稼働中の宇宙船や将来の任務に対して、増大する脅威をもたらしています。

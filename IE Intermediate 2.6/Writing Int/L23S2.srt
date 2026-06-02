@@ -1,0 +1,272 @@
+﻿1
+00:00:12,820 --> 00:00:13,960
+Hello everyone.
+
+2
+00:00:14,700 --> 00:00:18,200
+Welcome back to the next lesson in our IELTS writing.
+
+3
+00:00:18,400 --> 00:00:23,260
+In our last video, we analysed a two-part question about the trend of living alone.
+
+4
+00:00:23,720 --> 00:00:26,680
+We looked at a sample essay and found a major problem.
+
+5
+00:00:27,080 --> 00:00:28,640
+It was stuck at band 5.
+
+6
+00:00:29,040 --> 00:00:29,320
+Why?
+
+7
+00:00:29,480 --> 00:00:32,980
+Because it was too short and the ideas were not fully developed.
+
+8
+00:00:33,660 --> 00:00:37,520
+Today, we are going to fix that, but we aren't just going to write more.
+
+9
+00:00:37,680 --> 00:00:39,000
+We are going to write smarter.
+
+10
+00:00:39,440 --> 00:00:42,020
+We are going to master the balance strategy.
+
+11
+00:00:42,640 --> 00:00:45,640
+This is the golden rule for two-part questions.
+
+12
+00:00:46,560 --> 00:00:51,500
+The prompt gave us two distinct questions. Why is this the case?
+
+13
+00:00:51,920 --> 00:00:54,960
+And is this a positive or negative development?
+
+14
+00:00:55,880 --> 00:00:59,780
+The band 5 trap is spending 80% of your time and
+
+15
+00:00:59,780 --> 00:01:04,280
+words on the first question because it's easy to list reasons and
+
+16
+00:01:04,280 --> 00:01:08,260
+then rushing through the second question with just two sentences.
+
+17
+00:01:09,100 --> 00:01:16,300
+If you do that, you fail the task response criteria because you have underdeveloped one part of the task.
+
+18
+00:01:17,000 --> 00:01:19,320
+The balance strategy is simple.
+
+19
+00:01:20,080 --> 00:01:24,880
+We must give roughly equal weight, a 50-50 split, to both questions.
+
+20
+00:01:25,860 --> 00:01:27,680
+Let's look at how to build this structure.
+
+21
+00:01:31,730 --> 00:01:35,010
+Your essay needs two main body paragraphs.
+
+22
+00:01:35,450 --> 00:01:41,050
+Body paragraph 1 is dedicated entirely to question 1, why is this the case?
+
+23
+00:01:41,890 --> 00:01:47,890
+In our brainstorming session, we identified freedom and fewer responsibilities as our main ideas.
+
+24
+00:01:48,610 --> 00:01:50,570
+A weak writer would just list them.
+
+25
+00:01:50,930 --> 00:01:55,370
+People live alone because they want freedom and they don't want responsibilities like cleaning.
+
+26
+00:01:56,310 --> 00:02:04,150
+To balance the paragraph, we need to extend this using the PEE method, point, explanation, example.
+
+27
+00:02:04,690 --> 00:02:05,810
+Let's draft it together.
+
+28
+00:02:06,510 --> 00:02:06,790
+Point.
+
+29
+00:02:07,370 --> 00:02:11,530
+The primary factor driving this trend is the desire for personal freedom.
+
+30
+00:02:12,810 --> 00:02:13,610
+Explanation.
+
+31
+00:02:14,350 --> 00:02:18,850
+When living alone, individuals have complete control over their environment
+
+32
+00:02:18,850 --> 00:02:23,890
+without needing to compromise with family members regarding their lifestyle or schedule.
+
+33
+00:02:23,890 --> 00:02:25,170
+Example.
+
+34
+00:02:25,630 --> 00:02:29,910
+For instance, young people can host social gatherings late at night without
+
+35
+00:02:29,910 --> 00:02:32,030
+worrying about disturbing their parents.
+
+36
+00:02:32,490 --> 00:02:33,210
+See the difference?
+
+37
+00:02:33,710 --> 00:02:39,370
+We didn't just list the reason, we explained how it works and gave a specific scenario.
+
+38
+00:02:40,310 --> 00:02:43,310
+This creates a heavy, well-developed paragraph.
+
+39
+00:02:48,940 --> 00:02:51,560
+Now, let's move to body paragraph 2.
+
+40
+00:02:51,960 --> 00:02:53,940
+This answers question 2.
+
+41
+00:02:53,940 --> 00:02:57,260
+Is this a positive or negative development?
+
+42
+00:02:58,260 --> 00:03:01,140
+This is where the balance strategy is most important.
+
+43
+00:03:02,120 --> 00:03:09,040
+Since we wrote a substantial paragraph for the causes, we need an equally substantial paragraph for the opinion.
+
+44
+00:03:09,680 --> 00:03:12,060
+You could argue it is 100% positive.
+
+45
+00:03:12,740 --> 00:03:19,140
+However, a great way to add depth and word count is to acknowledge both sides but clearly favour one.
+
+46
+00:03:19,380 --> 00:03:21,260
+This demonstrates critical thinking.
+
+47
+00:03:22,320 --> 00:03:25,400
+We call this the counter-argument structure.
+
+48
+00:03:26,100 --> 00:03:32,240
+This is where you admit the negative side but then refute it with the positive side, which represents your opinion.
+
+49
+00:03:33,080 --> 00:03:34,920
+Let's see this structure in action.
+
+50
+00:03:36,060 --> 00:03:37,760
+First, the negative.
+
+51
+00:03:38,560 --> 00:03:44,600
+Admittedly, living alone can lead to feelings of isolation and loneliness, as
+
+52
+00:03:44,600 --> 00:03:47,500
+there is no one to share daily experiences with.
+
+53
+00:03:48,060 --> 00:03:50,720
+Now, we balance it with the stronger positive.
+
+54
+00:03:51,360 --> 00:03:55,360
+However, I believe the benefits outweigh this drawback.
+
+55
+00:03:55,840 --> 00:03:59,400
+Living solo fosters independence and financial stability.
+
+56
+00:03:59,980 --> 00:04:04,280
+For example, individuals learn to manage their own budgets and solve household
+
+57
+00:04:04,280 --> 00:04:07,920
+problems, skills that are essential for personal maturity.
+
+58
+00:04:08,480 --> 00:04:13,440
+By structuring it this way, negative point first, then positive point, we
+
+59
+00:04:13,440 --> 00:04:18,079
+have created a complex paragraph that is just as long and detailed as the first one.
+
+60
+00:04:22,760 --> 00:04:26,660
+So, before you finish your essay, apply the balance checklist.
+
+61
+00:04:27,120 --> 00:04:29,780
+Did I dedicate a full paragraph to question one?
+
+62
+00:04:30,160 --> 00:04:33,100
+Did I dedicate a full paragraph to question two?
+
+63
+00:04:33,400 --> 00:04:36,020
+Are the two paragraphs roughly the same length?
+
+64
+00:04:36,600 --> 00:04:41,980
+If you can answer yes to all three, you have successfully applied the balance strategy.
+
+65
+00:04:42,500 --> 00:04:53,570
+And that is how you turn a thin Band 5 essay into a robust Band 6 plus response.
+
+66
+00:04:54,490 --> 00:04:58,910
+We took the same ideas from the previous lesson, freedom, loneliness,
+
+67
+00:04:59,350 --> 00:05:04,470
+independence, but by applying the balance strategy, we gave them the weight they deserve.
+
+68
+00:05:05,330 --> 00:05:08,490
+Great job today, and I will see you in the next lesson.
+

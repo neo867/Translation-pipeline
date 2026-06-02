@@ -1,0 +1,492 @@
+﻿1
+00:00:11,770 --> 00:00:13,790
+Hey there, it's me.
+
+2
+00:00:14,310 --> 00:00:17,210
+Welcome back to our lesson on paragraph building.
+
+3
+00:00:17,210 --> 00:00:24,690
+This is a magical lesson because it will help us build an effective paragraph with a logical structure.
+
+4
+00:00:25,330 --> 00:00:33,810
+To prove this, I'll share with you two magical spells, TFS.
+
+5
+00:00:34,710 --> 00:00:39,410
+Once you understand what they are and apply them effectively, your paragraphs
+
+6
+00:00:39,410 --> 00:00:42,530
+will become clearer and more logical than ever.
+
+7
+00:00:42,530 --> 00:00:49,970
+Now let's start our today's lesson on how to build effective paragraph structures for Task 2.
+
+8
+00:00:50,650 --> 00:00:53,630
+Our lesson is divided into three parts.
+
+9
+00:00:54,490 --> 00:00:57,550
+Part 1, Paragraph Structure, T.
+
+10
+00:00:58,990 --> 00:01:02,210
+Part 2, Paragraph Structure, FS.
+
+11
+00:01:02,210 --> 00:01:05,430
+And Part 3, Practice.
+
+12
+00:01:05,430 --> 00:01:16,560
+To achieve two goals, help you remember and understand some features of two paragraph structures, T and FS, 
+
+13
+00:01:16,560 --> 00:01:22,310
+and apply this knowledge to organize ideas and build effective paragraphs.
+
+14
+00:01:23,330 --> 00:01:25,270
+Make sure you have your notes ready.
+
+15
+00:01:25,810 --> 00:01:26,670
+Here we go.
+
+16
+00:01:27,050 --> 00:01:33,920
+Do you remember the paragraph in the previous lesson?
+
+17
+00:01:34,980 --> 00:01:40,000
+Today we still use that paragraph to learn about the structure of an effective paragraph.
+
+18
+00:01:40,000 --> 00:01:45,560
+Through this, I want you to try unlocking the T spell following
+
+19
+00:01:45,560 --> 00:01:47,060
+two steps.
+
+20
+00:01:47,760 --> 00:01:52,720
+Step 1, identify the function of each sentence in the paragraph.
+
+21
+00:01:53,820 --> 00:01:57,580
+We've done this step very carefully in the previous lesson.
+
+22
+00:01:57,580 --> 00:02:02,360
+Now try to do it yourself to see if you remember what you learned.
+
+23
+00:02:02,960 --> 00:02:07,580
+Step 2, based on the position of each sentence in the paragraph,
+
+24
+00:02:08,180 --> 00:02:09,520
+conclude the T structure.
+
+25
+00:02:10,420 --> 00:02:12,020
+You will have two minutes.
+
+26
+00:02:12,800 --> 00:02:17,100
+Please pause the video to read the paragraph and do this task.
+
+27
+00:02:17,740 --> 00:02:18,540
+Let's do it.
+
+28
+00:02:26,920 --> 00:02:30,400
+Okay, and here is the answer for step 1.
+
+29
+00:02:37,360 --> 00:02:40,440
+Now get ready to answer the following question.
+
+30
+00:02:41,380 --> 00:02:42,640
+You finished it all, right?
+
+31
+00:02:43,300 --> 00:02:47,020
+In this paragraph, the first sentence is the topic sentence.
+
+32
+00:02:47,740 --> 00:02:51,940
+The next one is an explanation explaining the main idea of the
+
+33
+00:02:51,940 --> 00:02:56,340
+topic sentence and followed by a sentence that explains it more clearly,
+
+34
+00:02:56,720 --> 00:02:58,560
+which is also an explanation.
+
+35
+00:02:59,540 --> 00:03:04,220
+Coming to the next sentence, this one supports the previous sentence by
+
+36
+00:03:04,220 --> 00:03:05,320
+giving an example.
+
+37
+00:03:06,100 --> 00:03:11,100
+Then, the example is added with more details by the last sentence
+
+38
+00:03:11,100 --> 00:03:13,000
+or elaboration.
+
+39
+00:03:13,620 --> 00:03:20,980
+That's right, the T structure is short for topic sentence, explanation,
+
+40
+00:03:21,780 --> 00:03:29,320
+example, elaboration, in which a topic sentence carries the main idea of
+
+41
+00:03:29,320 --> 00:03:30,340
+the whole paragraph.
+
+42
+00:03:30,340 --> 00:03:35,440
+Following the deductive writing method, this sentence is usually at the
+
+43
+00:03:35,440 --> 00:03:36,980
+beginning of the paragraph.
+
+44
+00:03:37,760 --> 00:03:41,440
+An explanation explains and supports the topic sentence.
+
+45
+00:03:42,100 --> 00:03:46,520
+An example gives specific cases to support the explanation.
+
+46
+00:03:47,560 --> 00:03:53,080
+An elaboration adds more details to the previous explanation or example.
+
+47
+00:03:54,080 --> 00:03:59,100
+In fact, in this structure, only the topic sentence is a fixed
+
+48
+00:03:59,100 --> 00:04:01,000
+part that must be in that position.
+
+49
+00:04:01,720 --> 00:04:03,740
+The three E's are quite flexible.
+
+50
+00:04:04,600 --> 00:04:09,200
+Therefore, this group of sentences can be organized in different ways.
+
+51
+00:04:10,360 --> 00:04:17,640
+It can be explanation, example, elaboration or explanation, elaboration, example.
+
+52
+00:04:17,640 --> 00:04:23,120
+This means you give an explanation and support it with an elaboration,
+
+53
+00:04:23,460 --> 00:04:28,520
+then continue with a simple example to illustrate the elaboration.
+
+54
+00:04:29,500 --> 00:04:33,680
+It can also be example, explanation, elaboration.
+
+55
+00:04:34,520 --> 00:04:38,360
+This means you give an example first and support it with an
+
+56
+00:04:38,360 --> 00:04:44,080
+explanation, then add more details to this explanation by an elaboration.
+
+57
+00:04:44,920 --> 00:04:56,520
+It can also be explanation, elaboration, example, elaboration or TEEE, just
+
+58
+00:04:56,520 --> 00:04:58,980
+like in the sample paragraph above.
+
+59
+00:04:59,520 --> 00:05:00,460
+It doesn't matter.
+
+60
+00:05:01,720 --> 00:05:06,620
+The term T is just to represent what we need to include in the paragraph.
+
+61
+00:05:07,180 --> 00:05:10,340
+The order or number of sentences doesn't matter.
+
+62
+00:05:10,900 --> 00:05:16,000
+However, we have to make sure that paragraphs following the TEEE structure
+
+63
+00:05:16,000 --> 00:05:21,780
+only focus on one explanation, explain and give examples for it, no
+
+64
+00:05:21,780 --> 00:05:23,740
+matter how many sentences are written.
+
+65
+00:05:24,580 --> 00:05:29,020
+However, under the time pressure in the IELTS exam room, you should
+
+66
+00:05:29,020 --> 00:05:33,300
+only write a maximum of six to seven sentences for each paragraph.
+
+67
+00:05:34,160 --> 00:05:36,820
+Time management is very important.
+
+68
+00:05:37,960 --> 00:05:43,940
+The two functions explanation and example must be included in the paragraph.
+
+69
+00:05:44,760 --> 00:05:48,860
+This method of writing a paragraph is easy to understand and coherent,
+
+70
+00:05:49,280 --> 00:05:50,760
+but it's not the only way.
+
+71
+00:05:51,180 --> 00:05:54,120
+And for some people, it might not be the easiest to write.
+
+72
+00:05:55,000 --> 00:06:00,120
+Now let's learn another paragraph structure through the sample from the previous lesson.
+
+73
+00:06:06,240 --> 00:06:10,900
+Now let's compare the structure of this paragraph with the TEEE structure
+
+74
+00:06:10,900 --> 00:06:14,060
+and answer the following two questions.
+
+75
+00:06:26,980 --> 00:06:31,540
+Let's pause the video for about five minutes to do this task.
+
+76
+00:06:32,300 --> 00:06:37,240
+Compare and analyze the components in the two paragraphs, then find out the answer.
+
+77
+00:06:37,780 --> 00:06:38,820
+See you in a bit.
+
+78
+00:06:45,250 --> 00:06:50,810
+First of all, both paragraphs have a topic sentence at the beginning.
+
+79
+00:06:51,450 --> 00:06:55,590
+This is the basic rule of writing paragraphs, so there's nothing more
+
+80
+00:06:55,590 --> 00:06:56,510
+to discuss here.
+
+81
+00:06:57,150 --> 00:07:00,310
+Two functions, explanation and example.
+
+82
+00:07:01,330 --> 00:07:05,270
+Although the number of sentences is different, they still meet this requirement.
+
+83
+00:07:06,130 --> 00:07:10,970
+Meanwhile, the differences are, While the paragraph following the TEEE
+
+84
+00:07:10,970 --> 00:07:15,930
+structure has only one explanation, and it is explained in detail by
+
+85
+00:07:15,930 --> 00:07:21,570
+this elaboration, the paragraph following the FS structure has two
+
+86
+00:07:21,570 --> 00:07:22,390
+explanations.
+
+87
+00:07:27,230 --> 00:07:31,930
+While the paragraph following the TEEE structure has only one example, and
+
+88
+00:07:31,930 --> 00:07:36,950
+it is explained in detail by this elaboration, the paragraph following the
+
+89
+00:07:36,950 --> 00:07:39,570
+FS structure has two examples.
+
+90
+00:07:43,920 --> 00:07:48,440
+So, the TEEE and FS structures are different when it comes to
+
+91
+00:07:48,440 --> 00:07:51,540
+how many explanations and examples they include.
+
+92
+00:07:56,030 --> 00:08:00,170
+Alright, at this point, can you guess what FS is short for?
+
+93
+00:08:00,910 --> 00:08:02,130
+Here's a hint.
+
+94
+00:08:02,750 --> 00:08:05,510
+The two words have already appeared in the paragraph.
+
+95
+00:08:06,630 --> 00:08:07,410
+That's right.
+
+96
+00:08:07,890 --> 00:08:10,590
+It is firstly and secondly.
+
+97
+00:08:11,550 --> 00:08:16,750
+FS stands for two words representing the two explanations in the paragraph,
+
+98
+00:08:17,190 --> 00:08:22,090
+which is the biggest difference between the FS structure and the TEEE structure.
+
+99
+00:08:23,190 --> 00:08:27,390
+There are two things to remember when using the FS structure.
+
+100
+00:08:28,570 --> 00:08:34,570
+Firstly and secondly are just two words representing two explanations, and you
+
+101
+00:08:34,570 --> 00:08:37,730
+don't need to use exactly these words in your paragraph.
+
+102
+00:08:38,630 --> 00:08:42,409
+You can use some synonyms of these two words, such as to
+
+103
+00:08:42,409 --> 00:08:45,610
+begin with or in addition to replace them.
+
+104
+00:08:47,510 --> 00:08:52,970
+The FS structure must have two explanations, and they need to be
+
+105
+00:08:52,970 --> 00:08:54,930
+explained and illustrated.
+
+106
+00:08:56,030 --> 00:09:01,790
+However, each explanation does not necessarily have an accompanying example.
+
+107
+00:09:02,430 --> 00:09:08,010
+The first explanation may have both elaboration and example, while the second
+
+108
+00:09:08,010 --> 00:09:11,830
+one may have one of the two, as long as throughout the
+
+109
+00:09:11,830 --> 00:09:16,130
+paragraph it has both functions of explanation and example.
+
+110
+00:09:16,730 --> 00:09:22,130
+Our sample paragraph is well structured with two examples for both ideas,
+
+111
+00:09:22,510 --> 00:09:27,870
+but it's acceptable to write only one elaboration for the second TEEE
+
+112
+00:09:27,870 --> 00:09:32,850
+without an example, as long as it's explained clearly to persuade the reader.
+
+113
+00:09:33,410 --> 00:09:37,590
+By now, I hope you've understood the features of the two structures,
+
+114
+00:09:37,950 --> 00:09:43,890
+TEEE and FS, as well as their similarities and differences, so that
+
+115
+00:09:43,890 --> 00:09:47,330
+you can choose which is suitable for you when writing paragraphs.
+
+116
+00:09:48,150 --> 00:09:50,670
+Now, let's practice a bit, shall we?
+
+117
+00:09:55,310 --> 00:09:56,750
+Good job everyone!
+
+118
+00:09:57,190 --> 00:10:01,590
+We've done an excellent job, which is to overcome a challenging but
+
+119
+00:10:01,590 --> 00:10:05,050
+very important lesson in the process of building paragraphs.
+
+120
+00:10:05,950 --> 00:10:08,970
+After the past minutes, we've achieved the goals.
+
+121
+00:10:10,190 --> 00:10:15,170
+Remember and understand some features of two paragraph structures, TEEE and FS,
+
+122
+00:10:16,270 --> 00:10:21,250
+and apply this knowledge to organize ideas and build effective paragraphs.
+
+123
+00:10:22,270 --> 00:10:25,530
+Goodbye, and I'll see you soon in the next lesson.
+

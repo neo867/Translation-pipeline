@@ -1,0 +1,548 @@
+1
+00:00:15,040 --> 00:00:20,200
+Hi Preppies, welcome back to another
+crucial lesson in our IELTS reading course.
+
+2
+00:00:20,480 --> 00:00:24,920
+Today we are going to master a question type that often causes headaches for
+
+3
+00:00:24,920 --> 00:00:28,640
+many candidates because the information is scattered all over the passage.
+
+4
+00:00:29,020 --> 00:00:31,240
+It is the matching features question type.
+
+5
+00:00:31,540 --> 00:00:36,260
+Have you ever seen a box full of names, like researchers or scientists, and a
+
+6
+00:00:36,260 --> 00:00:39,320
+list of statements and you had to figure out who said what?
+
+7
+00:00:39,620 --> 00:00:41,900
+That is exactly what we are dealing with today.
+
+8
+00:00:42,360 --> 00:00:46,500
+It challenges not just your reading speed, but your ability to scan for
+
+9
+00:00:46,500 --> 00:00:49,520
+specific names and connect them to complex ideas.
+
+10
+00:00:49,720 --> 00:00:53,760
+But don't worry, by the end of this lesson you will be able to handle
+
+11
+00:00:53,760 --> 00:00:55,420
+these questions with confidence.
+
+12
+00:00:55,920 --> 00:01:00,860
+Our goals for today are understand the definition and key features of matching
+
+13
+00:01:00,860 --> 00:01:06,180
+features questions, Learn four useful
+tips to solve them faster and avoid traps.
+
+14
+00:01:06,720 --> 00:01:10,240
+Master the four-step strategy to answer these questions accurately.
+
+15
+00:01:10,740 --> 00:01:14,160
+To achieve this, our lesson is divided into three main parts.
+
+16
+00:01:14,500 --> 00:01:18,840
+Features. We will look at the structure
+and challenges of this question type.
+
+17
+00:01:19,440 --> 00:01:22,940
+Tips. I will share the best
+strategies to save you time.
+
+18
+00:01:23,500 --> 00:01:30,180
+Steps and practice. We will learn the step-by-step method
+and apply it to a real example about AI in education.
+
+19
+00:01:30,180 --> 00:01:32,220
+Are you ready to become a matching expert?
+
+20
+00:01:32,620 --> 00:01:33,400
+Let's get started.
+
+21
+00:01:37,940 --> 00:01:42,180
+Matching features is a question type that requires candidates to match objects
+
+22
+00:01:42,180 --> 00:01:46,840
+in a list with given statements or information so that they are true to the
+
+23
+00:01:46,840 --> 00:01:48,320
+information in the passage.
+
+24
+00:01:49,260 --> 00:01:52,420
+Matching features question type has the following parts.
+
+25
+00:01:53,880 --> 00:02:00,220
+Requirements, questions, features that
+are lettered A, B, C, etc. and in a frame.
+
+26
+00:02:01,020 --> 00:02:04,760
+Pay attention to check if the requirements include the sentence.
+
+27
+00:02:05,700 --> 00:02:09,520
+Note that then you may use any letter more than once.
+
+28
+00:02:10,780 --> 00:02:15,380
+Each letter A, B, C, etc.
+can be used more than once.
+
+29
+00:02:16,080 --> 00:02:21,480
+If the requirements do not include the sentence, note that then you may use any
+
+30
+00:02:21,480 --> 00:02:28,700
+letter more than once, then each feature
+letter A, B, C, etc. can be used only once.
+
+31
+00:02:28,700 --> 00:02:33,120
+So after choosing a letter, we're sure that it's not the answer for the rest
+
+32
+00:02:33,120 --> 00:02:38,480
+of the question, which helps us to save time when
+finding out the answers to the next questions.
+
+33
+00:02:39,840 --> 00:02:43,800
+Once you know the main parts of this question type, you need to understand its
+
+34
+00:02:43,800 --> 00:02:46,420
+features to come up with suitable steps for it.
+
+35
+00:02:47,080 --> 00:02:51,320
+In general, matching features is a difficult question type in IELTS reading
+
+36
+00:02:51,320 --> 00:02:56,460
+because questions do not follow the order of information in the passage.
+
+37
+00:02:57,220 --> 00:02:59,480
+Features are also organized randomly.
+
+38
+00:03:00,400 --> 00:03:03,580
+The number of features is usually fewer than the number of questions.
+
+39
+00:03:04,420 --> 00:03:08,540
+Therefore, I'm going to give you four useful tips for matching features.
+
+40
+00:03:13,260 --> 00:03:18,580
+Firstly, features are usually proper names, so they serve as keywords, helping
+
+41
+00:03:18,580 --> 00:03:20,620
+us locate information areas effectively.
+
+42
+00:03:21,860 --> 00:03:26,160
+If the requirements don't include the sentence, you may use any letter more
+
+43
+00:03:26,160 --> 00:03:30,720
+than once, you can cross out the chosen features, because there won't be any
+
+44
+00:03:30,720 --> 00:03:32,260
+features that are chosen twice.
+
+45
+00:03:33,280 --> 00:03:34,080
+Tip number three.
+
+46
+00:03:34,840 --> 00:03:39,040
+In questions that require matching statements with people's names, the passage
+
+47
+00:03:39,040 --> 00:03:41,920
+often uses their surnames when referring to them.
+
+48
+00:03:42,660 --> 00:03:47,260
+IELTS reading passages are often academic articles, so they tend to use
+
+49
+00:03:47,260 --> 00:03:51,920
+surnames more than proper names, as proper names are commonly used when a
+
+50
+00:03:51,920 --> 00:03:55,620
+person wants to address people that he or she is close to.
+
+51
+00:03:56,340 --> 00:04:01,060
+For instance, if one of the names in the features is Jason Brown, you may
+
+52
+00:04:01,060 --> 00:04:06,060
+find that in the reading passage sometimes the full name Jason Brown appears,
+
+53
+00:04:06,600 --> 00:04:10,260
+or sometimes only the surname Brown is mentioned.
+
+54
+00:04:10,980 --> 00:04:15,200
+Remember that foreign people's surnames usually come after the first name.
+
+55
+00:04:16,560 --> 00:04:18,040
+Let's move on to the last one.
+
+56
+00:04:19,260 --> 00:04:23,780
+We need to prioritize proper names or objects that appear less frequently than
+
+57
+00:04:23,780 --> 00:04:26,020
+others in the passage to read them first.
+
+58
+00:04:27,300 --> 00:04:30,880
+This is because if there are features that appear more frequently than others,
+
+59
+00:04:31,300 --> 00:04:37,060
+or appear in a lot of paragraphs, it will be
+more challenging and time consuming to read them.
+
+60
+00:04:37,720 --> 00:04:41,320
+So you've grasped the basic features of matching features.
+
+61
+00:04:41,980 --> 00:04:46,800
+Remember the four useful tips I gave you today and watch the next video to
+
+62
+00:04:46,800 --> 00:04:50,440
+learn how to apply steps for matching features.
+
+63
+00:04:55,080 --> 00:04:56,610
+Let's start with the first one.
+
+64
+00:04:56,850 --> 00:05:01,690
+Step 1. Read requirements carefully
+and underline keywords in questions.
+
+65
+00:05:02,090 --> 00:05:04,950
+This step is similar to that of other question types.
+
+66
+00:05:05,390 --> 00:05:07,050
+We need to understand the requirements.
+
+67
+00:05:07,450 --> 00:05:11,350
+It helps us understand which features and questions we should match them with.
+
+68
+00:05:11,790 --> 00:05:18,850
+The requirements in this passage are, match each
+statement with the correct researcher A, B, or C.
+
+69
+00:05:19,290 --> 00:05:28,430
+So the requirement is to match the statements 1 to 7 which
+describe findings or opinions on A, I, with the researchers A to C.
+
+70
+00:05:28,930 --> 00:05:34,930
+Moreover, the requirements include this sentence,
+N, B, you may use any letter more than once.
+
+71
+00:05:35,330 --> 00:05:41,070
+There are 7 questions and only 3 researchers, A, B, C, so it is certain
+
+72
+00:05:41,070 --> 00:05:43,590
+that the letters will be used multiple times.
+
+73
+00:05:43,950 --> 00:05:47,370
+Next, we need to underline the keywords in the questions.
+
+74
+00:05:47,670 --> 00:05:54,090
+The purposes of this step are, firstly, it helps
+us have an overview of the content of the passage.
+
+75
+00:05:54,610 --> 00:06:01,790
+Secondly, it also helps us easily scan and locate information
+in the passage that matches the content of the question.
+
+76
+00:06:02,170 --> 00:06:06,490
+One more thing is that the features, the names of the researchers, serve as
+
+77
+00:06:06,490 --> 00:06:09,850
+keywords helping us find the correct answers faster.
+
+78
+00:06:10,370 --> 00:06:16,890
+Now, you have 20 seconds to underline the keywords
+in question 1 and scan the features A, B, and C.
+
+79
+00:06:39,440 --> 00:06:41,060
+I'm back with some suggestions.
+
+80
+00:06:41,520 --> 00:06:46,620
+You should remember that when underlining the keywords,
+you need to understand the content of the questions.
+
+81
+00:06:47,120 --> 00:06:48,500
+Here are the keywords I found.
+
+82
+00:06:50,100 --> 00:06:51,800
+Let's move on to the next step.
+
+83
+00:06:52,080 --> 00:06:55,800
+Step 2. Scan the passage to
+locate information areas of features.
+
+84
+00:06:56,160 --> 00:07:00,220
+This step helps us quickly locate the information areas we need to read and
+
+85
+00:07:00,220 --> 00:07:02,180
+come up with suitable reading strategies.
+
+86
+00:07:02,420 --> 00:07:05,180
+Let's start with feature A, Dr. Dora Dembski.
+
+87
+00:07:05,320 --> 00:07:09,220
+As mentioned earlier in the video, the features are also keywords, therefore,
+
+88
+00:07:09,380 --> 00:07:13,540
+in this passage, you're going to find all
+the areas containing the keyword Dembski.
+
+89
+00:07:13,920 --> 00:07:15,240
+You have 20 seconds.
+
+90
+00:07:15,720 --> 00:07:16,320
+Start now.
+
+91
+00:07:39,240 --> 00:07:39,720
+You finished?
+
+92
+00:07:40,180 --> 00:07:40,860
+Let's check.
+
+93
+00:07:41,300 --> 00:07:45,160
+In paragraph B, we can see the keyword Dembski mentioned multiple times.
+
+94
+00:07:45,520 --> 00:07:49,580
+You should also circle the keywords in the passage to easily read and find the
+
+95
+00:07:49,580 --> 00:07:51,160
+information related to the features.
+
+96
+00:07:51,720 --> 00:07:57,880
+However, if you only find the keyword Dembski in
+paragraph B, you might miss important information.
+
+97
+00:07:58,380 --> 00:08:03,480
+If you scan the whole text carefully, you
+will see she appears again in paragraph E.
+
+98
+00:08:03,480 --> 00:08:05,320
+Pay more attention to this, guys.
+
+99
+00:08:05,660 --> 00:08:07,920
+A feature can appear in different paragraphs.
+
+100
+00:08:08,380 --> 00:08:09,880
+We're going to continue with step 3.
+
+101
+00:08:10,900 --> 00:08:16,080
+Step 3. Read information areas carefully to
+understand the main ideas about features.
+
+102
+00:08:16,440 --> 00:08:20,400
+After locating the information areas, we're going to read them carefully and
+
+103
+00:08:20,400 --> 00:08:23,320
+try to summarize the key points related to the features.
+
+104
+00:08:23,620 --> 00:08:26,860
+This will help us shorten and skip unnecessary information.
+
+105
+00:08:26,860 --> 00:08:32,960
+Let's read the information areas containing the
+keyword slash feature Dembski in paragraph B.
+
+106
+00:08:33,620 --> 00:08:36,980
+When reading this paragraph, we need to grasp the main idea.
+
+107
+00:08:37,440 --> 00:08:41,419
+To do this, I usually underline the keywords in the sentence to understand its
+
+108
+00:08:41,419 --> 00:08:45,720
+main point and easily compare it with the questions, which is the next step.
+
+109
+00:08:46,100 --> 00:08:51,060
+In paragraph B, Dembski explains that while feedback improves teaching, it is
+
+110
+00:08:51,060 --> 00:08:54,440
+just not scalable for a human to do it every time.
+
+111
+00:08:54,720 --> 00:08:56,460
+She emphasizes that A.
+
+112
+00:08:56,680 --> 00:09:00,780
+I can create a bank of live advice based on expert pedagogy.
+
+113
+00:09:01,260 --> 00:09:05,020
+The keywords or content words help me understand the main idea.
+
+114
+00:09:05,480 --> 00:09:10,540
+She believes A.I. helps solve the problem of scale and provides expert advice.
+
+115
+00:09:10,820 --> 00:09:12,720
+Now let's get ready for the last step.
+
+116
+00:09:13,640 --> 00:09:18,500
+Step 4. Compare information areas with
+questions and choose correct answers.
+
+117
+00:09:18,900 --> 00:09:23,380
+We can see that the phrases in Dembski's
+paragraph match perfectly with question 1.
+
+118
+00:09:23,380 --> 00:09:28,040
+In paragraph B, she mentions feedback is not scalable for humans.
+
+119
+00:09:28,520 --> 00:09:33,300
+In question 1, it mentions guidance that would
+be difficult to provide on a large scale.
+
+120
+00:09:33,680 --> 00:09:35,080
+These meanings are identical.
+
+121
+00:09:35,580 --> 00:09:39,420
+Furthermore, she mentions advice based on expert pedagogy.
+
+122
+00:09:39,860 --> 00:09:43,280
+In question 1, it mentions established teaching methods.
+
+123
+00:09:43,680 --> 00:09:45,960
+Pedagogy and teaching methods are synonyms.
+
+124
+00:09:46,320 --> 00:09:48,780
+Therefore, the answer to question 1 is A.
+
+125
+00:09:49,160 --> 00:09:51,420
+So we've learned four steps for matching features.
+
+126
+00:09:51,740 --> 00:09:55,980
+Please answer the interactive question
+about the four steps for matching features.
+
+127
+00:10:00,490 --> 00:10:04,910
+In today's lesson, we have learned all about matching features questions,
+
+128
+00:10:05,110 --> 00:10:09,250
+including four tips for answering these questions and the four steps to follow
+
+129
+00:10:09,250 --> 00:10:12,030
+to ensure that you answer each question correctly.
+
+130
+00:10:12,750 --> 00:10:15,630
+Great job today and I'll see you in the next lesson.
+

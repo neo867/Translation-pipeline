@@ -1,0 +1,252 @@
+[
+  {
+    "key": "checkout",
+    "english content": "Checkout",
+    "translated content": "Beli sekarang"
+  },
+  {
+    "key": "pay_order",
+    "english content": "Order payment",
+    "translated content": "Pembayaran pesanan"
+  },
+  {
+    "key": "pending",
+    "english content": "Pending processing",
+    "translated content": "Proses tertunda"
+  },
+  {
+    "key": "success",
+    "english content": "Payment successful",
+    "translated content": "Pembayaran berhasil"
+  },
+  {
+    "key": "failure",
+    "english content": "Payment failed",
+    "translated content": "Pembayaran gagal"
+  },
+  {
+    "key": "unavailable",
+    "english content": "Unavailable",
+    "translated content": "Tidak tersedia"
+  },
+  {
+    "key": "info_notice",
+    "english content": "The course and all accompanying benefits will be added to this account after the payment process is successful!",
+    "translated content": "Materi dan seluruh manfaatnya akan ditambahkan ke akun ini setelah pembayaran berhasil!"
+  },
+  {
+    "key": "export_invoice",
+    "english content": "Issue Invoice",
+    "translated content": "Terbitkan Faktur"
+  },
+  {
+    "key": "invoice_company",
+    "english content": "Company",
+    "translated content": "Perusahaan"
+  },
+  {
+    "key": "invoice_personal",
+    "english content": "Individual",
+    "translated content": "Perseorangan"
+  },
+  {
+    "key": "invoice_buyer_name",
+    "english content": "Buyer's full name",
+    "translated content": "Nama lengkap pembeli"
+  },
+  {
+    "key": "placeholder_invoice_buyer_name",
+    "english content": "Enter buyer's full name",
+    "translated content": "Masukkan nama lengkap pembeli"
+  },
+  {
+    "key": "info_phone_number",
+    "english content": "Phone number",
+    "translated content": "Nomor telepon"
+  },
+  {
+    "key": "placeholder_phone_number",
+    "english content": "Enter phone number",
+    "translated content": "Masukkan nomor telepon"
+  },
+  {
+    "key": "placeholder_invoice_department",
+    "english content": "Enter department name",
+    "translated content": "Masukkan nama departemen"
+  },
+  {
+    "key": "placeholder_invoice_tax_number",
+    "english content": "Enter tax identification number",
+    "translated content": "Masukkan Nomor Pokok Wajib Pajak (NPWP)"
+  },
+  {
+    "key": "placeholder_invoice_address",
+    "english content": "Enter address",
+    "translated content": "Masukkan alamat"
+  },
+  {
+    "key": "placeholder_invoice_receiver_email",
+    "english content": "Enter email for receiving the invoice",
+    "translated content": "Masukkan email untuk menerima faktur"
+  },
+  {
+    "key": "error_invoice_department",
+    "english content": "Enter company name",
+    "translated content": "Masukkan nama perusahaan"
+  },
+  {
+    "key": "error_invoice_email",
+    "english content": "Please enter correct email format",
+    "translated content": "Harap masukkan format email yang benar"
+  },
+  {
+    "key": "invoice_department",
+    "english content": "Name of department",
+    "translated content": "Nama departemen"
+  },
+  {
+    "key": "invoice_tax_number",
+    "english content": "Tax identification number",
+    "translated content": "Nomor Pokok Wajib Pajak (NPWP)"
+  },
+  {
+    "key": "invoice_address",
+    "english content": "Address",
+    "translated content": "Alamat"
+  },
+  {
+    "key": "invoice_receiver_email",
+    "english content": "Email for receiving the invoice",
+    "translated content": "Email untuk menerima faktur"
+  },
+  {
+    "key": "continue_checkout",
+    "english content": "Continue to payment",
+    "translated content": "Lanjutkan ke pembayaran"
+  },
+  {
+    "key": "invalid_coupon",
+    "english content": "The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!",
+    "translated content": "Kupon atau kode promosi sudah tidak berlaku.<br />Silakan coba lagi dengan kode yang berbeda atau lanjutkan pembayaran tanpa kode!"
+  },
+  {
+    "key": "product_unavailable",
+    "english content": "The product you selected has changed.<br />Please choose again or contact support staff for assistance!",
+    "translated content": "Produk yang Anda pilih telah berubah.<br />Silakan pilih kembali atau hubungi tim dukungan pelanggan untuk bantuan!"
+  },
+  {
+    "key": "checkout",
+    "english content": "checkout",
+    "translated content": "Bayar sekarang"
+  },
+  {
+    "key": "return_shoppping",
+    "english content": "Return to shopping",
+    "translated content": "Kembali berbelanja"
+  },
+  {
+    "key": "total_price",
+    "english content": "Total price",
+    "translated content": "Total harga"
+  },
+  {
+    "key": "promo",
+    "english content": "Promotion",
+    "translated content": "Promosi"
+  },
+  {
+    "key": "coupon_code",
+    "english content": "Coupon code",
+    "translated content": "Kode kupon"
+  },
+  {
+    "key": "coupon_code_placeholder",
+    "english content": "Enter coupon code",
+    "translated content": "Masukkan kode kupon"
+  },
+  {
+    "key": "discount_price_amount",
+    "english content": "Discounted price",
+    "translated content": "Harga setelah diskon"
+  },
+  {
+    "key": "price_after_discount",
+    "english content": "Price after promotion",
+    "translated content": "Harga setelah promosi"
+  },
+  {
+    "key": "x_people_used_course",
+    "english content": "More than {x} Prep students have used this roadmap",
+    "translated content": "Lebih dari {x} siswa Prep telah menggunakan peta belajar ini"
+  },
+  {
+    "key": "product",
+    "english content": "Product",
+    "translated content": "Produk"
+  },
+  {
+    "key": "select_promo",
+    "english content": "Select",
+    "translated content": "Pilih"
+  },
+  {
+    "key": "gifts",
+    "english content": "Included gift",
+    "translated content": "Mendapatkan hadiah"
+  },
+  {
+    "key": "coupon_apply",
+    "english content": "Apply",
+    "translated content": "Memasukkan"
+  },
+  {
+    "key": "your_info",
+    "english content": "Your information",
+    "translated content": "Informasi Anda"
+  },
+  {
+    "key": "select_1_discount",
+    "english content": "Select a promotional code",
+    "translated content": "Pilih kode promosi"
+  },
+  {
+    "key": "no_promo_yet",
+    "english content": "No promotional code available",
+    "translated content": "Tidak ada kode promosi tersedia"
+  },
+  {
+    "key": "empty_discount",
+    "english content": "Oops, there are currently no promotional programs for this product!",
+    "translated content": "Ups, saat ini tidak ada program promosi untuk produk ini!"
+  },
+  {
+    "key": "consent_text",
+    "english content": "By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!",
+    "translated content": "Dengan mengklik <span>Lanjutkan ke Pembayaran<span>, Anda mengonfirmasi bahwa telah membaca dan menyetujui <a>Syarat dan Ketentuan<a> serta <a>Kebijakan Keamanan Informasi<a> Prep!"
+  },
+  {
+    "key": "discount_conflict_with_current_coupon",
+    "english content": "This promotion cannot be used simultaneously with the current coupon!",
+    "translated content": "Promosi ini tidak dapat digunakan bersamaan dengan kupon saat ini!"
+  },
+  {
+    "key": "coupon_apply_not_successfully",
+    "english content": "Coupon application failed",
+    "translated content": "Kupon gagal digunakan"
+  },
+  {
+    "key": "coupon_apply_successfully",
+    "english content": "Coupon applied successfully!",
+    "translated content": "Kupon berhasil digunakan!"
+  },
+  {
+    "key": "coupon_conflict_with_current_discount",
+    "english content": "This coupon cannot be used simultaneously with the current promotion!",
+    "translated content": "Kupon ini tidak dapat digunakan bersamaan dengan promosi saat ini!"
+  },
+  {
+    "key": "maximum_discount_limitation",
+    "english content": "Apply a maximum discount of {x}% on the order value",
+    "translated content": "Terapkan diskon maksimum {x}% pada harga pesanan"
+  }
+]

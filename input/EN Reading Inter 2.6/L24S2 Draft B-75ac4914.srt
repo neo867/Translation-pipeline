@@ -1,0 +1,839 @@
+1
+00:00:12,760 --> 00:00:14,180
+Welcome back preppies.
+
+2
+00:00:14,560 --> 00:00:18,760
+I hope you are ready to dive into today's lesson and learn something new.
+
+3
+00:00:19,020 --> 00:00:25,380
+This lesson aims to help you understand and identify
+types of multiple choice questions in IELTS reading.
+
+4
+00:00:26,740 --> 00:00:31,140
+Understand, identify and apply skills and steps for detailed questions.
+
+5
+00:00:32,140 --> 00:00:34,520
+Our lesson has three parts.
+
+6
+00:00:35,380 --> 00:00:40,500
+1. Introduction to multiple choice questions
+and types of multiple choice questions.
+
+7
+00:00:41,180 --> 00:00:44,100
+2. Steps for detailed questions.
+
+8
+00:00:45,220 --> 00:00:47,200
+3. Practice.
+
+9
+00:00:48,140 --> 00:00:50,640
+Alright, no more delay, let's begin.
+
+10
+00:00:56,130 --> 00:01:01,530
+Multiple choice questions in IELTS reading
+tests are divided into two main types.
+
+11
+00:01:01,530 --> 00:01:08,290
+Multiple choice questions with single answer and
+multiple choice questions with multiple answers.
+
+12
+00:01:09,290 --> 00:01:13,550
+Firstly, for multiple choice questions with single answer, candidates will
+
+13
+00:01:13,550 --> 00:01:18,510
+mostly see this question type in passage 3 of the IELTS reading tests.
+
+14
+00:01:19,450 --> 00:01:22,970
+Each question has 4 options and 1 correct answer.
+
+15
+00:01:23,650 --> 00:01:26,570
+Each correct answer gets 1 out of 40 points.
+
+16
+00:01:27,470 --> 00:01:31,850
+Typically, the answer for each question will
+come in order as the information in the passage.
+
+17
+00:01:32,430 --> 00:01:35,110
+Remember this to locate the information area quickly.
+
+18
+00:01:35,950 --> 00:01:39,390
+On the other hand, for multiple choice questions with multiple answers,
+
+19
+00:01:39,950 --> 00:01:45,390
+candidates will mostly see this question
+type in passage 2 of the IELTS reading tests.
+
+20
+00:01:46,250 --> 00:01:53,190
+Each question has 4 to 6 options and the number of
+correct answers is equal to the number of scores.
+
+21
+00:01:54,090 --> 00:02:00,250
+Two correct answers to each question can be found
+in the passage without any particular order.
+
+22
+00:02:01,110 --> 00:02:04,750
+Therefore, when candidates locate the information for the first answer, they
+
+23
+00:02:04,750 --> 00:02:09,130
+will have to find the remaining answer before or after the information found.
+
+24
+00:02:09,850 --> 00:02:14,890
+At the intermediate level, understanding the
+type of multiple choice questions is not enough.
+
+25
+00:02:15,470 --> 00:02:19,570
+We need to have a thorough understanding of the question's purpose to develop
+
+26
+00:02:19,570 --> 00:02:20,950
+the best strategies for it.
+
+27
+00:02:20,950 --> 00:02:25,110
+Basically, there are two major types of questions in reading.
+
+28
+00:02:25,910 --> 00:02:27,990
+Detailed questions, read for details.
+
+29
+00:02:28,670 --> 00:02:32,190
+And main idea questions, read for main idea.
+
+30
+00:02:32,990 --> 00:02:36,270
+Today, we're going to focus on detailed questions first.
+
+31
+00:02:36,810 --> 00:02:41,870
+Taking a deeper look into this type, it often has two main types of questions.
+
+32
+00:02:42,550 --> 00:02:45,250
+Factual information questions or factual information.
+
+33
+00:02:46,090 --> 00:02:49,490
+And writer's opinion questions or writer's opinion.
+
+34
+00:02:50,630 --> 00:02:56,210
+Let's discover the features of these two
+types through a learning by doing activity.
+
+35
+00:02:57,530 --> 00:03:00,050
+I have the following paragraph with two questions.
+
+36
+00:03:00,750 --> 00:03:05,210
+You'll spend 10 seconds reading the questions and deciding which one requires
+
+37
+00:03:05,210 --> 00:03:09,270
+factual information and which one requires the writer's opinion.
+
+38
+00:03:21,660 --> 00:03:23,720
+Have you figured out the answer guys?
+
+39
+00:03:24,650 --> 00:03:31,180
+Question 1 asks for factual information because
+it does not include the phrase writer's opinion.
+
+40
+00:03:32,140 --> 00:03:34,300
+Question 2 requires the writer's opinion.
+
+41
+00:03:35,100 --> 00:03:40,120
+We can see the phrase according to the writer,
+which is a signal phrase for this type.
+
+42
+00:03:40,920 --> 00:03:45,860
+From the activity, I'm sure you have grasped the features of these two types.
+
+43
+00:03:45,860 --> 00:03:50,400
+Basically, as the name suggests, the purpose of the factual information
+
+44
+00:03:50,400 --> 00:03:53,900
+question is to find the information based on facts.
+
+45
+00:03:54,260 --> 00:03:58,520
+While the purpose of a writer's opinion
+question is to ask the writer's opinion.
+
+46
+00:03:59,480 --> 00:04:03,340
+Corresponding to the purpose of the question, factual information questions
+
+47
+00:04:03,340 --> 00:04:10,840
+will focus on answering details about what, who, where, when, why, and how.
+
+48
+00:04:10,840 --> 00:04:16,540
+Moreover, this type doesn't include the
+words writer or author in the questions.
+
+49
+00:04:17,000 --> 00:04:21,560
+Regarding writer's opinion questions, they often include the phrase the writer.
+
+50
+00:04:22,360 --> 00:04:29,080
+For example, according to the writer, what does the writer think that?
+
+51
+00:04:30,400 --> 00:04:33,580
+The writer refers to, to suggest that.
+
+52
+00:04:34,700 --> 00:04:37,260
+What is the writer's view of?
+
+53
+00:04:37,260 --> 00:04:42,300
+The only common feature between these two types is that the information will be
+
+54
+00:04:42,300 --> 00:04:46,720
+found in a part of the text, which could be a sentence or some sentences.
+
+55
+00:04:47,560 --> 00:04:52,040
+However, the answer to a factual information question will be directly stated
+
+56
+00:04:52,040 --> 00:04:57,800
+in the text and the answer to a writer's
+opinion question will be implied in the text.
+
+57
+00:04:59,000 --> 00:05:04,340
+So, what does it mean by directly stated information or implied information?
+
+58
+00:05:04,340 --> 00:05:08,800
+To help you better understand the features of the answers to these two types,
+
+59
+00:05:09,000 --> 00:05:12,040
+we're going to handle the two questions of the previous paragraph.
+
+60
+00:05:12,720 --> 00:05:14,560
+You have 40 seconds to do this.
+
+61
+00:05:56,900 --> 00:06:00,420
+Let's look at the difference between these two questions.
+
+62
+00:06:01,020 --> 00:06:07,020
+For question 1, based on the keywords majority of people and currently access,
+
+63
+00:06:07,460 --> 00:06:11,200
+we can quickly locate the information in the second sentence.
+
+64
+00:06:11,200 --> 00:06:17,720
+The text states, most readers now access information through social media feeds
+
+65
+00:06:17,720 --> 00:06:20,200
+or news aggregator apps.
+
+66
+00:06:20,700 --> 00:06:25,840
+This is a direct fact, so option B is the correct answer.
+
+67
+00:06:26,720 --> 00:06:32,060
+However, for question 2, notice the phrase according to the writer.
+
+68
+00:06:32,540 --> 00:06:38,420
+This means we must look for the author's opinion, not just the trend itself.
+
+69
+00:06:38,420 --> 00:06:42,180
+Look at the sentence immediately following the trend.
+
+70
+00:06:42,960 --> 00:06:49,280
+Unfortunately, this trend represents a
+dangerous erosion of critical engagement.
+
+71
+00:06:50,180 --> 00:06:56,420
+The author uses strong negative words like unfortunately and dangerous.
+
+72
+00:06:57,120 --> 00:07:05,180
+This clearly shows that the writer considers this
+shift to be negative or specifically C, harmful.
+
+73
+00:07:05,980 --> 00:07:12,100
+Note that option A, convenient, is mentioned in the text, but that is the
+
+74
+00:07:12,100 --> 00:07:14,880
+reader's view, not the writer's opinion.
+
+75
+00:07:15,380 --> 00:07:19,780
+Through this example, we also understand that even though the questions ask
+
+76
+00:07:19,780 --> 00:07:24,080
+about the same subject, different purposes will create two different answers.
+
+77
+00:07:24,080 --> 00:07:29,480
+That's why when taking the actual exam, we need to clearly identify whether
+
+78
+00:07:29,480 --> 00:07:35,360
+it's a writer's opinion question or a factual
+information question to find the correct answer.
+
+79
+00:07:35,940 --> 00:07:39,800
+Now, let's move on to part 2 to learn about steps for these two types.
+
+80
+00:07:44,200 --> 00:07:47,960
+To tackle this type, we're going to follow these four steps.
+
+81
+00:07:48,960 --> 00:07:52,860
+Step 1, read the question carefully and underline keywords.
+
+82
+00:07:52,860 --> 00:07:58,360
+Step 2, scan the information in the passage by using keywords in the question.
+
+83
+00:07:59,100 --> 00:08:02,940
+For writer's opinion questions, you should prioritize finding sentences
+
+84
+00:08:02,940 --> 00:08:09,900
+containing key phrases that express the writer's
+opinion, such as I believe, in my opinion.
+
+85
+00:08:10,780 --> 00:08:11,840
+It is clear that.
+
+86
+00:08:12,360 --> 00:08:15,900
+Step 3, read each option and underline keywords.
+
+87
+00:08:16,760 --> 00:08:22,880
+Step 4, compare keywords in options with the
+information found and choose the correct answer.
+
+88
+00:08:23,640 --> 00:08:28,180
+For writer's opinion questions, if the writer's opinion is not directly stated,
+
+89
+00:08:28,700 --> 00:08:33,880
+then in step 4, compare keywords in options with the information found and
+
+90
+00:08:33,880 --> 00:08:35,039
+choose the correct answer.
+
+91
+00:08:35,659 --> 00:08:39,820
+You may need to infer the writer's opinion based on the language used.
+
+92
+00:08:40,260 --> 00:08:42,080
+So, how can we do this?
+
+93
+00:08:42,080 --> 00:08:48,240
+Here are some tips for you to draw conclusions
+when the writer's opinion is not directly stated.
+
+94
+00:08:49,100 --> 00:08:52,760
+Tip 1, pay attention to adjectives and adverbs.
+
+95
+00:08:53,620 --> 00:08:58,220
+Adjectives and adverbs are considered a part of subjective language, language
+
+96
+00:08:58,220 --> 00:09:02,220
+expressing someone's opinions based on their personal beliefs or feelings
+
+97
+00:09:02,220 --> 00:09:06,440
+rather than facts, and can imply the writer's opinions.
+
+98
+00:09:07,100 --> 00:09:08,860
+I have the following two examples.
+
+99
+00:09:08,860 --> 00:09:13,320
+Fact, the blue team beat the red team by 7 points.
+
+100
+00:09:14,500 --> 00:09:19,920
+Opinion, the blue team unfortunately beat the red team by 7 points.
+
+101
+00:09:20,700 --> 00:09:26,060
+The second sentence uses the word unfortunately to show the writer's regret,
+
+102
+00:09:26,640 --> 00:09:30,360
+indicating that the writer favors the red team over the blue team.
+
+103
+00:09:31,120 --> 00:09:36,800
+Tip 2, pay attention to sentences using comparison or contrast.
+
+104
+00:09:37,800 --> 00:09:42,140
+Sentences using comparison and contrast can reveal the writer's opinion by
+
+105
+00:09:42,140 --> 00:09:47,020
+showing the writer's bias towards one side in an argument or presenting a more
+
+106
+00:09:47,020 --> 00:09:48,820
+valuable or reasonable viewpoint.
+
+107
+00:09:49,600 --> 00:09:55,620
+For example, football's exciting mix of strategy, physicality and goal scoring
+
+108
+00:09:55,620 --> 00:09:58,180
+makes it more captivating than basketball.
+
+109
+00:09:59,060 --> 00:10:02,780
+Although this sentence doesn't use the first person viewpoint of the writer,
+
+110
+00:10:03,300 --> 00:10:07,620
+based on this comparison sentence, we can still infer that the writer shows a
+
+111
+00:10:07,620 --> 00:10:09,640
+biased attitude towards football.
+
+112
+00:10:10,600 --> 00:10:18,760
+Tip 3, pay attention to adverbs of degree, like
+so, too, few or a few, little and a little.
+
+113
+00:10:19,260 --> 00:10:23,320
+Adverbs of degrees are used to show the intensity or degree of something.
+
+114
+00:10:23,320 --> 00:10:28,460
+Moreover, they can also express the writer's opinion or assessment of a
+
+115
+00:10:28,460 --> 00:10:30,280
+specific situation or state.
+
+116
+00:10:30,700 --> 00:10:34,860
+For example, the team performed so well in the competition, showcasing their
+
+117
+00:10:34,860 --> 00:10:36,860
+exceptional skill and teamwork.
+
+118
+00:10:37,260 --> 00:10:42,740
+Using the word so expresses the writer's positive
+opinion about the team's outstanding achievement.
+
+119
+00:10:43,220 --> 00:10:48,660
+But when we replace the adverb so with the adverb of degree, too, meaning that
+
+120
+00:10:48,660 --> 00:10:52,700
+something is more than is needed or wanted, we have this example.
+
+121
+00:10:52,700 --> 00:10:58,100
+The team performed too well in the
+competition, ruthlessly beating the other team.
+
+122
+00:10:58,860 --> 00:11:03,320
+Now, this sentence has a negative meaning and expresses the writer's opinion
+
+123
+00:11:03,320 --> 00:11:06,700
+that the team's performance is too good and unnecessary.
+
+124
+00:11:07,800 --> 00:11:12,440
+Also, the adverb ruthlessly conveys the writer's negative attitude towards the
+
+125
+00:11:12,440 --> 00:11:13,700
+team's aggressive behaviour.
+
+126
+00:11:17,360 --> 00:11:23,180
+In this part, we're going to read a passage about the rise of the content
+
+127
+00:11:23,180 --> 00:11:25,920
+creator and answer two questions.
+
+128
+00:11:26,980 --> 00:11:31,700
+Step 1, read the question carefully and underline keywords.
+
+129
+00:11:32,760 --> 00:11:38,740
+Now, you have 20 seconds to identify the keywords in these two questions.
+
+130
+00:12:01,500 --> 00:12:03,840
+20 seconds is up.
+
+131
+00:12:04,440 --> 00:12:07,060
+These are the keywords I identified.
+
+132
+00:12:08,580 --> 00:12:11,120
+Next, we will move on to step 2.
+
+133
+00:12:11,720 --> 00:12:16,300
+Scan the information in the passage by using keywords in the question.
+
+134
+00:12:17,420 --> 00:12:24,320
+In 30 seconds, based on the identified keywords,
+you're going to scan the information in the passage.
+
+135
+00:12:25,040 --> 00:12:27,600
+30 seconds, start now.
+
+136
+00:13:00,230 --> 00:13:05,990
+Alright, the keywords in the questions show that the information is located in
+
+137
+00:13:05,990 --> 00:13:11,610
+paragraph A for question 1 and paragraph B for question 2.
+
+138
+00:13:12,170 --> 00:13:18,970
+For question 1, in the last decade, what began as a simple way has transformed
+
+139
+00:13:18,970 --> 00:13:21,510
+into a massive global industry.
+
+140
+00:13:21,510 --> 00:13:28,330
+And for question 2, in those early years, they were mostly hobbyists who
+
+141
+00:13:28,330 --> 00:13:33,170
+enjoyed the creative process and the ability to connect with others.
+
+142
+00:13:34,210 --> 00:13:36,230
+We'll continue with step 3.
+
+143
+00:13:36,790 --> 00:13:39,610
+Read each option and underline keywords.
+
+144
+00:13:40,550 --> 00:13:45,450
+Before we choose the answer, you need to compare the specific details in the
+
+145
+00:13:45,450 --> 00:13:48,050
+text with the keywords in the options.
+
+146
+00:13:48,720 --> 00:13:56,450
+Look closely at phrases like medical field, mainstream job or secondary hobby.
+
+147
+00:13:57,390 --> 00:14:04,630
+Ask yourself which one matches the timeline of recently or the last decade
+
+148
+00:14:04,630 --> 00:14:06,830
+mentioned in paragraph A.
+
+149
+00:14:07,750 --> 00:14:11,390
+Now look at question 2 about motivation.
+
+150
+00:14:12,390 --> 00:14:19,730
+Paragraph B tells us what the early pioneers
+were not looking for and what they did enjoy.
+
+151
+00:14:20,630 --> 00:14:24,870
+You need to find the option that matches their positive motivation.
+
+152
+00:14:25,710 --> 00:14:26,330
+Is it money?
+
+153
+00:14:26,950 --> 00:14:28,010
+Is it fame?
+
+154
+00:14:28,550 --> 00:14:29,970
+Or is it connection?
+
+155
+00:14:30,730 --> 00:14:32,930
+Look for the synonym in the options.
+
+156
+00:14:33,950 --> 00:14:38,830
+After underlining the keywords in the options, we'll take step 4.
+
+157
+00:14:38,830 --> 00:14:45,590
+Compare keywords in options with the
+information found and choose the correct answer.
+
+158
+00:14:46,250 --> 00:14:51,570
+Now, in two minutes, you're going to compare the keywords in the options and
+
+159
+00:14:51,570 --> 00:14:54,650
+choose the correct answers for both questions.
+
+160
+00:14:55,270 --> 00:14:55,890
+Are you ready?
+
+161
+00:14:56,410 --> 00:14:57,170
+Let's go!
+
+162
+00:15:02,950 --> 00:15:03,590
+Have you finished?
+
+163
+00:15:04,010 --> 00:15:06,630
+Let's check question 1 first.
+
+164
+00:15:07,190 --> 00:15:08,690
+The answer is B.
+
+165
+00:15:09,330 --> 00:15:09,750
+Why?
+
+166
+00:15:10,150 --> 00:15:12,290
+Let's look at the synonyms.
+
+167
+00:15:12,290 --> 00:15:18,010
+The option mentions moving from a pastime to a mainstream job.
+
+168
+00:15:18,530 --> 00:15:26,130
+In the text, the writer says it began as a simple
+way to share hobbies, which equals pastime.
+
+169
+00:15:26,910 --> 00:15:37,890
+Then it transformed into a massive global industry and a
+full-time professional identity, which equals mainstream job.
+
+170
+00:15:37,890 --> 00:15:40,670
+The trend matches perfectly.
+
+171
+00:15:41,290 --> 00:15:43,530
+That is why B is correct.
+
+172
+00:15:45,350 --> 00:15:49,190
+Now, let's see why the other options are incorrect.
+
+173
+00:15:50,410 --> 00:15:59,430
+Option A, medical field, is mentioned, but the text
+says students chose this in the past, not recently.
+
+174
+00:16:00,330 --> 00:16:09,610
+Option C, secondary hobby, contradicts the text,
+which explicitly calls it a primary source of income.
+
+175
+00:16:10,770 --> 00:16:17,410
+Option D, the text never says traditional roles are no longer being taught.
+
+176
+00:16:18,050 --> 00:16:23,430
+This is simply not mentioned, so be careful with these distractors.
+
+177
+00:16:24,430 --> 00:16:26,470
+Moving on to question 2.
+
+178
+00:16:26,950 --> 00:16:28,410
+The answer is C.
+
+179
+00:16:28,790 --> 00:16:30,730
+Let's check the synonyms.
+
+180
+00:16:31,390 --> 00:16:37,890
+The text mentions the ability to connect with others, which means interact, and
+
+181
+00:16:37,890 --> 00:16:44,250
+it says they shared niche interests, which is the same as specific passions,
+
+182
+00:16:44,830 --> 00:16:50,990
+and makes everything in option C match
+together closely with the given question.
+
+183
+00:16:51,990 --> 00:16:54,410
+So why are the others incorrect?
+
+184
+00:16:55,790 --> 00:17:01,530
+Option A, it mentions securing a contract, but the text says they uploaded
+
+185
+00:17:01,530 --> 00:17:04,829
+without needing a television contract.
+
+186
+00:17:05,730 --> 00:17:13,050
+Option B, it mentions celebrity status, but the text explicitly says they were
+
+187
+00:17:13,050 --> 00:17:14,730
+not looking for fame.
+
+188
+00:17:15,730 --> 00:17:22,010
+Option D, it mentions financial rewards, but the text says they were not
+
+189
+00:17:22,010 --> 00:17:23,609
+looking for fortune.
+
+190
+00:17:24,410 --> 00:17:28,650
+All three options contradict the text directly.
+
+191
+00:17:32,510 --> 00:17:37,310
+So, in today's lesson we have learned the
+following things about multiple choice questions.
+
+192
+00:17:38,170 --> 00:17:44,070
+Features of multiple choice questions with single answer,
+and multiple choice questions with multiple answers.
+
+193
+00:17:44,070 --> 00:17:47,230
+Features of three types of questions.
+
+194
+00:17:48,130 --> 00:17:53,010
+Detail questions, factual information
+questions, and writer's opinion questions.
+
+195
+00:17:53,870 --> 00:17:55,090
+Main idea questions.
+
+196
+00:17:56,170 --> 00:17:57,670
+Steps for detail questions.
+
+197
+00:17:58,270 --> 00:18:01,350
+We have also applied these steps to handle detail questions.
+
+198
+00:18:02,350 --> 00:18:06,050
+Remember to do the exercises to master all the steps for this type.
+
+199
+00:18:06,610 --> 00:18:10,170
+We'll finish the lesson for now before moving on to the main idea questions.
+
+200
+00:18:10,170 --> 00:18:12,670
+Catch you guys soon in the next video.
+
+201
+00:18:13,010 --> 00:18:14,090
+For now, goodbye.
+

@@ -1,0 +1,583 @@
+1
+00:00:11,830 --> 00:00:15,510
+ Hey guys, welcome back to our IELTS listening course.
+
+2
+00:00:15,930 --> 00:00:22,370
+Today we're diving deep into Section 3, the section
+that many students find the most intimidating.
+
+3
+00:00:22,590 --> 00:00:27,570
+But here's the good news, once you understand how this section works and what
+
+4
+00:00:27,570 --> 00:00:30,470
+to listen for, it becomes much more manageable.
+
+5
+00:00:30,470 --> 00:00:36,850
+In this lesson, we will cover Format and Common Scenarios of Section 3,
+
+6
+00:00:37,610 --> 00:00:42,370
+Difficulties of Section 3, Strategies for Section 3.
+
+7
+00:00:43,010 --> 00:00:48,730
+By the end of this lesson, you'll understand exactly what makes Part 3 unique,
+
+8
+00:00:49,110 --> 00:00:56,830
+why it's challenging, and most importantly, how to approach it strategically.
+
+9
+00:00:57,750 --> 00:00:58,110
+Ready?
+
+10
+00:00:58,910 --> 00:00:59,770
+Let's get started.
+
+11
+00:01:04,480 --> 00:01:05,900
+Let's start with the basics.
+
+12
+00:01:06,180 --> 00:01:13,060
+The IELTS listening test has four parts, and
+Section 3 is the third section you'll encounter.
+
+13
+00:01:13,360 --> 00:01:15,480
+But what makes it different from the others?
+
+14
+00:01:15,800 --> 00:01:20,200
+In Sections 1 and 2, you're in everyday social situations.
+
+15
+00:01:20,580 --> 00:01:27,440
+Section 1 is a conversation between two people, maybe
+someone booking a hotel room or asking for directions.
+
+16
+00:01:28,120 --> 00:01:34,580
+Section 2 is a monologue about a general
+topic, like a tour guide describing a museum.
+
+17
+00:01:35,080 --> 00:01:38,500
+But Section 3 is about an academic context.
+
+18
+00:01:38,800 --> 00:01:40,960
+Here are the key features of Section 3.
+
+19
+00:01:41,220 --> 00:01:47,280
+It is usually a conversation in an academic or
+educational setting between two to three speakers.
+
+20
+00:01:47,540 --> 00:01:54,012
+Unlike Section 4, which is also academic but features
+just one lecturer speaking, Section 3 involves
+
+21
+00:01:54,036 --> 00:02:00,180
+multiple people exchanging ideas, agreeing,
+disagreeing, and building on each other's points.
+
+22
+00:02:01,380 --> 00:02:04,820
+So, what kind of conversations will you hear?
+
+23
+00:02:05,020 --> 00:02:09,600
+There are some common scenarios that you might listen for in Section 3.
+
+24
+00:02:09,880 --> 00:02:14,500
+First scenario, two or three students discussing a group project or assignment.
+
+25
+00:02:14,740 --> 00:02:17,342
+Maybe they're planning their research, dividing tasks,
+
+26
+00:02:17,366 --> 00:02:19,740
+ or reviewing what they've learned.
+
+27
+00:02:19,740 --> 00:02:23,700
+Second scenario, a student meeting with their tutor or professor.
+
+28
+00:02:24,040 --> 00:02:28,260
+They might be discussing feedback on an essay, getting advice about a research topic,
+
+29
+00:02:28,260 --> 00:02:30,240
+ or planning their dissertation.
+
+30
+00:02:30,620 --> 00:02:38,300
+Third scenario, a seminar discussion where a tutor and students explore an
+
+31
+00:02:38,300 --> 00:02:45,300
+academic topic together, perhaps debating
+different theories or analyzing a case study.
+
+32
+00:02:45,500 --> 00:02:50,800
+For the topic of this lesson, law and governance, you might hear students
+
+33
+00:02:50,800 --> 00:02:56,320
+discussing legal case studies, comparing
+different policy reforms with their professor.
+
+34
+00:03:01,920 --> 00:03:08,820
+Many students find Section 3 particularly difficult,
+and there are very specific reasons for this.
+
+35
+00:03:09,080 --> 00:03:11,440
+Let me break down the five main challenges.
+
+36
+00:03:11,780 --> 00:03:14,720
+The first challenge is tracking multiple speakers.
+
+37
+00:03:14,720 --> 00:03:19,420
+Unlike Sections 1 and 2, where you're mostly following one or two voices,
+
+38
+00:03:20,120 --> 00:03:23,280
+Section 3 can have up to four different people talking.
+
+39
+00:03:23,560 --> 00:03:24,560
+Why is this hard?
+
+40
+00:03:24,840 --> 00:03:30,020
+Each speaker may have different accents,
+speaking speeds, and communication styles.
+
+41
+00:03:30,320 --> 00:03:34,600
+Sometimes, speakers interrupt each other or finish each other's sentences.
+
+42
+00:03:35,080 --> 00:03:35,940
+And here's the tricky part.
+
+43
+00:03:36,100 --> 00:03:39,300
+The answer you need might come from a speaker you weren't focusing on, so
+
+44
+00:03:39,300 --> 00:03:42,440
+ you should always stay alert to all speakers in Section 3.
+
+45
+00:03:42,960 --> 00:03:46,880
+The second challenge is the complexity of ideas.
+
+46
+00:03:47,240 --> 00:03:52,320
+While Sections 1 and 2 use more conversational, simple language in daily
+
+47
+00:03:52,320 --> 00:03:58,140
+contexts, Section 3 deals with opinions,
+theories, comparisons, and evaluations.
+
+48
+00:03:58,580 --> 00:04:04,440
+The ideas are more abstract, and the language
+used to express them is more sophisticated.
+
+49
+00:04:05,380 --> 00:04:10,320
+Here's challenge number three, and this one catches many students.
+
+50
+00:04:10,320 --> 00:04:15,880
+In academic discussions, people often change their minds, express uncertainty,
+
+51
+00:04:16,260 --> 00:04:18,300
+or partially agree with something.
+
+52
+00:04:18,500 --> 00:04:22,900
+For example, a speaker may shift their opinion during a conversation, or
+
+53
+00:04:22,900 --> 00:04:26,060
+correct a misunderstanding that another speaker has.
+
+54
+00:04:26,400 --> 00:04:30,680
+In the IELTS listening, these are called distractors, and tracking multiple
+
+55
+00:04:30,680 --> 00:04:34,160
+speakers to avoid distractors is a very important skill.
+
+56
+00:04:34,880 --> 00:04:38,220
+And finally, challenge four, the pace.
+
+57
+00:04:38,970 --> 00:04:43,600
+Section 3 conversations tend to move faster than Parts 1 and 2.
+
+58
+00:04:43,880 --> 00:04:48,340
+Speakers are engaged, excited about their topic, and they pack a lot of
+
+59
+00:04:48,340 --> 00:04:50,260
+information into a short time.
+
+60
+00:04:55,160 --> 00:04:58,600
+So, how can we tackle the challenging Section 3?
+
+61
+00:04:58,800 --> 00:05:01,060
+Don't worry, because I am here to help.
+
+62
+00:05:01,340 --> 00:05:06,160
+Section 3 discussions aren't random, but they follow predictable patterns.
+
+63
+00:05:06,420 --> 00:05:09,440
+Understanding the flow gives you a huge advantage.
+
+64
+00:05:09,440 --> 00:05:13,500
+Most Section 3 conversations follow a structure like this.
+
+65
+00:05:14,100 --> 00:05:18,100
+Notice how questions in Section 3 are designed to follow this structure.
+
+66
+00:05:18,680 --> 00:05:25,360
+Questions 21 to 23 might be about the first topic, 24 to 26 about the second,
+
+67
+00:05:25,540 --> 00:05:26,320
+and so on.
+
+68
+00:05:26,920 --> 00:05:33,720
+This is why reading the questions before listening is so crucial, as it helps
+
+69
+00:05:33,720 --> 00:05:36,080
+you predict the conversation's path.
+
+70
+00:05:36,630 --> 00:05:40,240
+Strategy 2, look out for a signposting language.
+
+71
+00:05:40,700 --> 00:05:46,360
+Think of these as verbal road signs that tell
+you exactly where the conversation is going.
+
+72
+00:05:46,600 --> 00:05:51,500
+Let me introduce you to the main categories
+of signposting you'll hear in Part 3.
+
+73
+00:05:52,100 --> 00:05:54,380
+Category 1, agreement signals.
+
+74
+00:05:54,580 --> 00:05:58,480
+When you hear phrases like, that's a good point, I completely agree.
+
+75
+00:05:59,000 --> 00:06:01,760
+Or exactly, and what's more.
+
+76
+00:06:02,260 --> 00:06:04,720
+The speaker is building on the previous idea.
+
+77
+00:06:05,040 --> 00:06:07,920
+The answer may continue in the same direction.
+
+78
+00:06:08,760 --> 00:06:13,820
+Phrases like, however, you know, but don't you think, on the other hand, or
+
+79
+00:06:13,820 --> 00:06:17,280
+I'm not so sure about that, tell you an opposing view is coming.
+
+80
+00:06:17,540 --> 00:06:20,440
+This is often where the correct answer hides.
+
+81
+00:06:20,940 --> 00:06:23,240
+Category 3, topic change signals.
+
+82
+00:06:23,560 --> 00:06:27,100
+Moving on to another aspect we should consider.
+
+83
+00:06:27,620 --> 00:06:29,660
+Let's talk about, what about.
+
+84
+00:06:30,380 --> 00:06:33,540
+These signal you're entering new question territory.
+
+85
+00:06:33,540 --> 00:06:36,000
+Look down at your next set of questions.
+
+86
+00:06:36,700 --> 00:06:40,220
+Category 4, example and clarification signals.
+
+87
+00:06:40,720 --> 00:06:46,220
+For instance, take the case of, what I mean is, to put it another way.
+
+88
+00:06:46,800 --> 00:06:51,600
+An example or explanation is coming, which often contains the specific detail
+
+89
+00:06:51,600 --> 00:06:52,820
+you need for the answer.
+
+90
+00:06:53,740 --> 00:06:57,320
+Category 5, conclusion and summary signals.
+
+91
+00:06:58,250 --> 00:07:03,693
+So basically, in conclusion, the main point is
+
+92
+00:07:03,717 --> 00:07:09,160
+what it comes down to is, pay special attention.
+
+93
+00:07:09,780 --> 00:07:12,600
+This often summarizes the key point you need.
+
+94
+00:07:13,180 --> 00:07:16,000
+Strategy 3, tracking the speakers.
+
+95
+00:07:16,540 --> 00:07:21,800
+Within the first few seconds of the audio, you need to identify the speakers.
+
+96
+00:07:21,800 --> 00:07:27,000
+The recording almost always introduces the speakers by name at the beginning.
+
+97
+00:07:27,340 --> 00:07:32,980
+You might hear something like, so, Sarah and
+Tom, let's discuss your research project.
+
+98
+00:07:33,520 --> 00:07:36,780
+Or Professor Williams, we wanted to ask you about.
+
+99
+00:07:37,300 --> 00:07:41,000
+Write these names down quickly in the margin of your question paper.
+
+100
+00:07:41,580 --> 00:07:45,720
+Understanding who each person is helps you predict what they might say.
+
+101
+00:07:45,940 --> 00:07:49,360
+In Section 3, you'll typically encounter these roles.
+
+102
+00:07:49,360 --> 00:07:51,820
+First, the tutor or professor.
+
+103
+00:07:52,180 --> 00:07:56,900
+This person usually guides the discussion, asks probing questions, offers
+
+104
+00:07:56,900 --> 00:07:59,620
+expert opinions, and summarizes key points.
+
+105
+00:08:00,340 --> 00:08:02,720
+Their voice often sounds more authoritative and measured.
+
+106
+00:08:03,620 --> 00:08:05,000
+Second, the students.
+
+107
+00:08:05,260 --> 00:08:09,880
+They share their findings, express opinions that may change, ask questions, and
+
+108
+00:08:09,880 --> 00:08:10,960
+respond to feedback.
+
+109
+00:08:11,240 --> 00:08:12,160
+Why does this matter?
+
+110
+00:08:12,340 --> 00:08:16,560
+Because questions often ask specifically about what one person thinks.
+
+111
+00:08:16,560 --> 00:08:20,940
+If you hear, what does the tutor suggest about the research methodology?
+
+112
+00:08:21,740 --> 00:08:26,880
+You need to filter out what the student
+said and focus only on the tutor's words.
+
+113
+00:08:27,680 --> 00:08:33,340
+In Section 3, different speakers often have
+different opinions about the same topic.
+
+114
+00:08:33,539 --> 00:08:38,299
+Your questions might ask specifically whose opinion something is.
+
+115
+00:08:38,500 --> 00:08:43,039
+Academic discussions have natural turn-taking patterns, but they also have
+
+116
+00:08:43,039 --> 00:08:45,160
+interruptions and quick exchanges.
+
+117
+00:08:45,900 --> 00:08:49,340
+Train yourself to notice these switch signals.
+
+118
+00:08:50,320 --> 00:08:53,140
+Direct address, when someone uses a name.
+
+119
+00:08:53,400 --> 00:08:55,360
+For example, what do you think, Sarah?
+
+120
+00:08:55,620 --> 00:08:57,500
+Now you know Sarah will speak next.
+
+121
+00:08:57,980 --> 00:08:59,980
+Agreement or disagreement phrases.
+
+122
+00:09:00,420 --> 00:09:04,760
+For example, I agree with Tom tells you the current speaker is not Tom.
+
+123
+00:09:05,160 --> 00:09:11,520
+Finally, questions from the tutor or the
+professor often redirect to another speaker.
+
+124
+00:09:11,520 --> 00:09:14,760
+Like, and how about you Tom, do you see it the same way?
+
+125
+00:09:15,160 --> 00:09:19,460
+Finally, the last strategy is don't panic at missed answers.
+
+126
+00:09:19,740 --> 00:09:21,780
+If you miss an answer, let it go.
+
+127
+00:09:22,040 --> 00:09:26,220
+Write your best guess and immediately refocus on the next question.
+
+128
+00:09:26,460 --> 00:09:29,660
+One missed question should not cost you three or four more.
+
+129
+00:09:29,880 --> 00:09:32,240
+The audio keeps moving, and so must you.
+
+130
+00:09:32,860 --> 00:09:35,080
+Now let's review our lesson today through some exercises.
+
+131
+00:09:40,450 --> 00:09:43,250
+Let's quickly recap what we've covered today.
+
+132
+00:09:43,250 --> 00:09:48,150
+Section 3 is an academic discussion with two to four speakers.
+
+133
+00:09:48,590 --> 00:09:54,050
+It's challenging because of multiple voices, abstract ideas, changing opinions,
+
+134
+00:09:54,410 --> 00:09:56,850
+heavy paraphrasing, and faster pacing.
+
+135
+00:09:57,290 --> 00:10:00,450
+We have the strategies for Section 3 as follow.
+
+136
+00:10:00,850 --> 00:10:03,930
+Strategy 1, understand the conversation structure.
+
+137
+00:10:04,490 --> 00:10:08,050
+Strategy 2, listen for signposting language.
+
+138
+00:10:08,530 --> 00:10:11,290
+Strategy 3, track multiple speakers.
+
+139
+00:10:11,290 --> 00:10:15,050
+Strategy 4, don't panic at missed answers.
+
+140
+00:10:15,470 --> 00:10:18,570
+In our next lesson, we'll put this knowledge into practice.
+
+141
+00:10:18,710 --> 00:10:20,490
+Goodbye, and see you in the next lesson.
+

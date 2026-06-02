@@ -1,0 +1,252 @@
+[
+  {
+    "key": "vwr_toeic.suggestion_for_sentence",
+    "english content": "Here is the suggestion for sentence {sentence}",
+    "translated content": "นี่คือคำแนะนำสำหรับประโยค {sentence}"
+  },
+  {
+    "key": "vwr_toeic.suggestion_message",
+    "english content": "Here is the suggestion for sentence {sentence}",
+    "translated content": "นี่คือข้อเสนอสำหรับประโย {sentence}"
+  },
+  {
+    "key": "vwr_toeic.sample.unexposed_message",
+    "english content": "<p>Hello, Teacher Bee will guide you in building a complete TOEIC Writing task with the given prompt!</p><p>Please check the suggestions to complete your test!</p>",
+    "translated content": "สวัสดีค่ะ ครูคือ Teacher Bee จะช่วยแนะนำการทำงานให้สมบูรณ์แบบในงานเขียน IELTS ตามที่กำหนด! กรุณาดูคำแนะนำเพื่อทำงานให้เสร็จ"
+  },
+  {
+    "key": "vwr_toeic.sample.unexposed_message_ielts",
+    "english content": "<p>Hello, Teacher Bee will guide you in building a complete IELTS Writing task with the given prompt!</p><p>Please check the suggestions to complete your test!</p>",
+    "translated content": "สวัสดีค่ะ ครูคือ Teacher Bee จะช่วยแนะนำการทำงานให้สมบูรณ์แบบในงานเขียน IELTS ตามที่กำหนด! กรุณาดูคำแนะนำเพื่อทำงานให้เสร็จ"
+  },
+  {
+    "key": "vwr_toeic.reference_sample",
+    "english content": "Sample answer ideas",
+    "translated content": "แนวทางตัวอย่างคำตอบ"
+  },
+  {
+    "key": "vwr_toeic.extra_time_left.sub_button",
+    "english content": "Move to the next section",
+    "translated content": "ไปยังส่วนถัดไป"
+  },
+  {
+    "key": "vwr_toeic.extra_time_left.message",
+    "english content": "You haven't used all the allocated time. If you move to the next section, you will not be able to return to this one. Are you sure you've completed it and want to proceed?",
+    "translated content": "คุณยังไม่ได้ใช้เวลาที่กำหนดทั้งหมด หากคุณย้ายไปยังส่วนถัดไป คุณจะไม่สามารถกลับมาที่ส่วนนี้ได้ คุณแน่ใจว่าคุณทำเสร็จแล้วและต้องการดำเนินการต่อหรือไม่?"
+  },
+  {
+    "key": "vwr_toeic.exceed_time.end_of_time_message",
+    "english content": "Time for this section has ended. Your submission has been saved",
+    "translated content": "เวลาสำหรับส่วนนี้หมดแล้ว งานของคุณได้รับการบันทึกแล้ว"
+  },
+  {
+    "key": "vwr_toeic.exceed_time.auto_redirect_in",
+    "english content": "Automatically moving to the next question in",
+    "translated content": "กำลังย้ายไปยังคำถามถัดไปโดยอัตโนมัติใน"
+  },
+  {
+    "key": "vwr_toeic.start_exercise",
+    "english content": "Start",
+    "translated content": "เริ่มทำข้อสอบ"
+  },
+  {
+    "key": "vwr_toeic.guide_line.not_show_again",
+    "english content": "Got it, don't show again",
+    "translated content": "เข้าใจแล้ว ไม่ต้องแสดงอีก"
+  },
+  {
+    "key": "vwr_toeic.question_list.selected_part_only",
+    "english content": "This is a Part-based practice test",
+    "translated content": "นี่คือแบบทดสอบฝึกหัดแบบ Part-based"
+  },
+  {
+    "key": "vwr_toeic.question_list.selected_questions",
+    "english content": "This test set only includes Question {question}",
+    "translated content": "ชุดการทดสอบนี้ประกอบด้วยคำถาม {question} เท่านั้น"
+  },
+  {
+    "key": "vwr_toeic.question_list.view_sample_question",
+    "english content": "View sample answer for Question {question}",
+    "translated content": "ดูคำตอบตัวอย่างสำหรับคำถาม {question}"
+  },
+  {
+    "key": "vwr_toeic.question_list.hidden_menu_question",
+    "english content": "Hide question list",
+    "translated content": "ซ่อนรายการคำถาม"
+  },
+  {
+    "key": "vwr_toeic.practice_mode",
+    "english content": "Practice mode",
+    "translated content": "ห้องฝึกซ้อม"
+  },
+  {
+    "key": "vwr_toeic.test_mode",
+    "english content": "Test mode",
+    "translated content": "โหมดทดสอบ"
+  },
+  {
+    "key": "vwr_toeic.select_mode.title",
+    "english content": "Choose the test mode",
+    "translated content": "เลือกโหมดการทดสอบ"
+  },
+  {
+    "key": "vwr_toeic.select_mode.practice_title_first",
+    "english content": "No time limit for the test",
+    "translated content": "ไม่มีการจับเวลา"
+  },
+  {
+    "key": "vwr_toeic.select_mode.practice_title_second",
+    "english content": "The virtual teacher accompanies you throughout the test",
+    "translated content": "ครูเสมือนจะอยู่กับคุณตลอดกระบวนการทำแบบฝึกหัด"
+  },
+  {
+    "key": "vwr_toeic.select_mode.practice_title_third",
+    "english content": "Auto-save drafts and return to the test later",
+    "translated content": "บันทึกแบบร่างอัตโนมัติและกลับมาทดสอบภายหลังได้"
+  },
+  {
+    "key": "vwr_toeic.select_mode.practice_title_fourth",
+    "english content": "Instant scoring and detailed feedback for all marking criteria",
+    "translated content": "การให้คะแนนและการประเมินผลละเอียดตามเกณฑ์"
+  },
+  {
+    "key": "vwr_toeic.select_mode.examination_title_first",
+    "english content": "Time limit similar to the real exam",
+    "translated content": "ขีดจำกัดเวลาคล้ายกับการสอบจริง"
+  },
+  {
+    "key": "vwr_toeic.select_mode.examination_title_second",
+    "english content": "No virtual teacher support available for this assigment",
+    "translated content": "ไม่มีการสนับสนุนครูเสมือนจริงสำหรับงานนี้"
+  },
+  {
+    "key": "vwr_toeic.select_mode.examination_title_third",
+    "english content": "The test simulation process is like the real exam, no draft saving",
+    "translated content": "กระบวนการจำลองการสอบเหมือนการสอบจริง ไม่สามารถบันทึกร่างได้"
+  },
+  {
+    "key": "vwr_toeic.select_mode.examination_title_fourth",
+    "english content": "Instant scoring and detailed feedback for all marking criteria",
+    "translated content": "การให้คะแนนและการประเมินผลละเอียดตามเกณฑ์"
+  },
+  {
+    "key": "vwr_toeic.exercise.text_hint",
+    "english content": "Enter your essay",
+    "translated content": "กรุณากรอกเรียงความของคุณ"
+  },
+  {
+    "key": "vwr_toeic.exercise.time_out",
+    "english content": "You have exceeded the standard time for this section",
+    "translated content": "คุณเกินเวลามาตรฐานสำหรับส่วนนี้แล้ว"
+  },
+  {
+    "key": "vwr_toeic.exercise.suggestion",
+    "english content": "Guidance for the test",
+    "translated content": "คำแนะนำสำหรับการทดสอบ"
+  },
+  {
+    "key": "vwr_toeic.exercise.question_element.start_counting",
+    "english content": "Start timing",
+    "translated content": "เริ่มจับเวลา"
+  },
+  {
+    "key": "vwr_toeic.exercise.question_element.start_time_to_think",
+    "english content": "Start timing the thinking process",
+    "translated content": "เริ่มจับเวลาคิด"
+  },
+  {
+    "key": "vwr_toeic.exercise.question_element.continue_read_question",
+    "english content": "Continue listening to the prompt",
+    "translated content": "ฟังคำถามต่อ"
+  },
+  {
+    "key": "vwr_toeic.exercise.analysis.out_of_quota",
+    "english content": "Out of analysis attemps",
+    "translated content": "หมดโอกาสในการวิเคราะห์แล้ว"
+  },
+  {
+    "key": "vwr_toeic.exercise.analysis.save_and_analyze_later",
+    "english content": "Save and analyze later",
+    "translated content": "บันทึกและวิเคราะห์ในภายหลัง"
+  },
+  {
+    "key": "vwr_toeic.exercise.auto_save_draft",
+    "english content": "Draft automatically saved {time}",
+    "translated content": "บันทึกร่างอัตโนมัติ {time}"
+  },
+  {
+    "key": "vwr_toeic.exercise.review_submission",
+    "english content": "Review submission",
+    "translated content": "ตรวจสอบการส่งคำตอบ"
+  },
+  {
+    "key": "vwr_toeic.exercise.your_answers",
+    "english content": "Your answer",
+    "translated content": "การส่งของคุณ"
+  },
+  {
+    "key": "vwr_toeic.exercise.keep_time_to_think",
+    "english content": "Continue thinking",
+    "translated content": "คิดต่อ"
+  },
+  {
+    "key": "vwr_toeic.exercise.start_record",
+    "english content": "Answer",
+    "translated content": "เริ่มตอบคำถาม"
+  },
+  {
+    "key": "vwr_toeic.exercise.start_record_warning",
+    "english content": "Are you sure you want to skip the thinking time and start answering now?",
+    "translated content": "คุณแน่ใจหรือไม่ว่าต้องการข้ามเวลาคิดและเริ่มตอบตอนนี้"
+  },
+  {
+    "key": "vwr_toeic.exercise.retry_recording",
+    "english content": "Record again",
+    "translated content": "บันทึกอีกครั้ง"
+  },
+  {
+    "key": "vwr_toeic.exercise.not_finished_exercise",
+    "english content": "Incomplete task",
+    "translated content": "งานยังไม่เสร็จ"
+  },
+  {
+    "key": "vwr_toeic.exercise.completion_congrat",
+    "english content": "Congratulations on completing your work. Prep hopes that with the detailed feedback, you'll do even better on future assignments!",
+    "translated content": "ยินดีที่คุณทำงานเสร็จเรียบร้อยแล้ว Prep หวังว่าด้วยข้อเสนอแนะแบบละเอียดนี้ คุณจะทำได้ดีขึ้นในงานที่มาถึง!"
+  },
+  {
+    "key": "vwr_toeic.exercise.examination_hide_question_label",
+    "english content": "The content of the question is not displayed because you are in Test Mode",
+    "translated content": "เนื้อหาของคำถามไม่แสดงเนื่องจากคุณอยู่ในโหมดทดสอบ"
+  },
+  {
+    "key": "vwr_toeic.result.your_submission_is_effective",
+    "english content": "Your answer effectively addresses the task requirements by presenting, explaining, and supporting your viewpoint with clear and relevant arguments and examples",
+    "translated content": "คำตอบของคุณตอบโจทย์ความต้องการของงานได้อย่างมีประสิทธิภาพ โดยมีการนำเสนอ อธิบาย และสนับสนุนมุมมองของคุณด้วยข้อโต้แย้งและตัวอย่างที่ชัดเจนและตรงประเด็น"
+  },
+  {
+    "key": "vwr_toeic.result.your_submission_is_choosing_correct_words",
+    "english content": "Your answer demonstrates appropriate word choice and idiomatic expressions, using vocabulary directly related to the topic and effectively addressing the task requirements",
+    "translated content": "คำตอบของคุณแสดงให้เห็นถึงการเลือกใช้คำและสำนวนที่เหมาะสม โดยใช้คำศัพท์ที่เกี่ยวข้องกับหัวข้อโดยตรง และตอบโจทย์ความต้องการของงานได้อย่างมีประสิทธิภาพ"
+  },
+  {
+    "key": "vwr_toeic.result.relevance",
+    "english content": "Relevance",
+    "translated content": "ความเกี่ยวข้อง"
+  },
+  {
+    "key": "vwr_toeic.result.level_description_reference_writing",
+    "english content": "TOEIC Writing score conversion",
+    "translated content": "ตารางแปลงคะแนน TOEIC Writing"
+  },
+  {
+    "key": "vwr_toeic.result.score",
+    "english content": "Score",
+    "translated content": "คะแนน"
+  },
+  {
+    "key": "vwr_toeic.result.plag_or_ai_message",
+    "english content": "Some parts of your answer were found to contain plagiarism or AI-generated. Therefore, the score does not reflect your true abilities. Please make sure to write the essay on your own next time!",
+    "translated content": "บางส่วนของการส่งของคุณถูกตรวจพบการคัดลอกหรือการใช้ AI ดังนั้นคะแนนที่ได้รับไม่สะท้อนความสามารถที่แท้จริงของคุณ กรุณาลองเขียนงานด้วยตัวเองในครั้งถัดไป!"
+  }
+]

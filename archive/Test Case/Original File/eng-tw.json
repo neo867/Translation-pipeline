@@ -1,0 +1,4265 @@
+[
+  {
+    "lesson": "1",
+    "segment": 1,
+    "timestamp": "00:00:07,200 --> 00:00:09,360",
+    "source": "Hello everyone, and a big welcome to Prep.",
+    "target": "大家好！歡迎來到 Prep。"
+  },
+  {
+    "lesson": "1",
+    "segment": 2,
+    "timestamp": "00:00:09,800 --> 00:00:12,280",
+    "source": "I'm so glad you're here for our basic grammar course.",
+    "target": "很高興大家來參加 我們的基礎文法課程。"
+  },
+  {
+    "lesson": "1",
+    "segment": 3,
+    "timestamp": "00:00:12,760 --> 00:00:16,120",
+    "source": "This is where we're going to build the very foundation you'll need to really",
+    "target": "本課程將為大家真正征服和掌握"
+  },
+  {
+    "lesson": "1",
+    "segment": 4,
+    "timestamp": "00:00:16,186 --> 00:00:18,360",
+    "source": "conquer and master the English language.",
+    "target": "英語打下扎實基礎。"
+  },
+  {
+    "lesson": "1",
+    "segment": 5,
+    "timestamp": "00:00:18,880 --> 00:00:22,480",
+    "source": "We've got quite a journey ahead of us, and I truly believe that getting to know",
+    "target": "我們面前還有很長的路要走， 而且我真心相信，"
+  },
+  {
+    "lesson": "1",
+    "segment": 6,
+    "timestamp": "00:00:22,546 --> 00:00:26,840",
+    "source": "each other a bit better will make this whole process smoother and more effective.",
+    "target": "彼此多了解一些，會讓 整個過程更順利、更有效率。"
+  },
+  {
+    "lesson": "1",
+    "segment": 7,
+    "timestamp": "00:00:28,440 --> 00:00:32,720",
+    "source": "So in this very first video, let's take a little time to do a couple of things.",
+    "target": "那麼，在第一部影片中， 我們要先做幾件事。"
+  },
+  {
+    "lesson": "1",
+    "segment": 8,
+    "timestamp": "00:00:33,080 --> 00:00:36,574",
+    "source": "I'll walk you through the goals, the content, and the overall approach",
+    "target": "我將為大家介紹說哦本課程的目標、 內容以及我們將採取的"
+  },
+  {
+    "lesson": "1",
+    "segment": 9,
+    "timestamp": "00:00:36,640 --> 00:00:38,340",
+    "source": "we'll be taking in this course.",
+    "target": "整體方法。"
+  },
+  {
+    "lesson": "1",
+    "segment": 10,
+    "timestamp": "00:00:38,440 --> 00:00:42,214",
+    "source": "My hope is that by the end of the session, you'll have a really clear picture of what",
+    "target": "希望在本次課程結束時， 大家能對今後的課程"
+  },
+  {
+    "lesson": "1",
+    "segment": 11,
+    "timestamp": "00:00:42,280 --> 00:00:45,280",
+    "source": "lies ahead, and you'll feel comfortable with the team that's here to support",
+    "target": "有非常清晰的了解， 並且對一路支持你的團隊"
+  },
+  {
+    "lesson": "1",
+    "segment": 12,
+    "timestamp": "00:00:45,346 --> 00:00:47,480",
+    "source": "you every step of the way. Sound good?",
+    "target": "感到安心。 聽起來不錯吧？"
+  },
+  {
+    "lesson": "1",
+    "segment": 13,
+    "timestamp": "00:00:47,760 --> 00:00:48,920",
+    "source": "All right, let's dive in.",
+    "target": "好，開始。"
+  },
+  {
+    "lesson": "1",
+    "segment": 14,
+    "timestamp": "00:00:52,880 --> 00:00:57,040",
+    "source": "So this Basic Grammar course is a key part of Prep's foundational series.",
+    "target": "這門基礎文法課程 是 Prep 基礎系列課程的關鍵部分。"
+  },
+  {
+    "lesson": "1",
+    "segment": 15,
+    "timestamp": "00:00:57,480 --> 00:01:01,414",
+    "source": "We've also got Basic Vocabulary, and together, these courses are designed",
+    "target": "我們也提供基礎字彙課程， 這些課程旨在"
+  },
+  {
+    "lesson": "1",
+    "segment": 18,
+    "timestamp": "00:01:11,640 --> 00:01:15,094",
+    "source": "truly understand, and confidently use some of the most common parts",
+    "target": "真正明瞭並且自信地 運用英語中最常用的"
+  },
+  {
+    "lesson": "1",
+    "segment": 19,
+    "timestamp": "00:01:15,160 --> 00:01:16,080",
+    "source": "of speech in English.",
+    "target": "一些語詞。"
+  },
+  {
+    "lesson": "1",
+    "segment": 20,
+    "timestamp": "00:01:17,600 --> 00:01:21,040",
+    "source": "Get you completely comfortable with basic English sentence structure,",
+    "target": "讓你完全熟悉 基本的英語句子結構、"
+  },
+  {
+    "lesson": "1",
+    "segment": 21,
+    "timestamp": "00:01:21,240 --> 00:01:24,014",
+    "source": "how sentences are put together, and the different types",
+    "target": "句子的構成方式 以及大家會遇到的"
+  },
+  {
+    "lesson": "1",
+    "segment": 22,
+    "timestamp": "00:01:24,080 --> 00:01:25,440",
+    "source": "of sentences you'll encounter.",
+    "target": "不同類型的句子。"
+  },
+  {
+    "lesson": "1",
+    "segment": 23,
+    "timestamp": "00:01:26,360 --> 00:01:29,800",
+    "source": "Help you master the simple tenses, past, present, and future.",
+    "target": "幫助大家掌握簡單時態， 過去式、現在式和未來式。"
+  },
+  {
+    "lesson": "1",
+    "segment": 24,
+    "timestamp": "00:01:30,200 --> 00:01:31,680",
+    "source": "We'll really nail those down.",
+    "target": "我們會幫助大家掌握這些內容。"
+  },
+  {
+    "lesson": "1",
+    "segment": 25,
+    "timestamp": "00:01:32,160 --> 00:01:35,600",
+    "source": "And finally, get you started with creating your own basic sentences",
+    "target": "最後，我們將幫助你開始 創建文法正確的"
+  },
+  {
+    "lesson": "1",
+    "segment": 26,
+    "timestamp": "00:01:35,920 --> 00:01:37,360",
+    "source": "that are grammatically correct.",
+    "target": "基本句子。"
+  },
+  {
+    "lesson": "1",
+    "segment": 27,
+    "timestamp": "00:01:39,800 --> 00:01:43,334",
+    "source": "The course is structured into six main lessons, and each one focuses",
+    "target": "本課程將分為 6 個單元， 每個單元著重講述一個"
+  },
+  {
+    "lesson": "1",
+    "segment": 28,
+    "timestamp": "00:01:43,400 --> 00:01:44,760",
+    "source": "on a core grammar topic.",
+    "target": "核心文法主題。"
+  },
+  {
+    "lesson": "1",
+    "segment": 29,
+    "timestamp": "00:01:45,160 --> 00:01:49,240",
+    "source": "Within each lesson, you'll find 2-4 smaller lessons or sections.",
+    "target": "在每節課中，大家會發現 2-4 個 較小的課程或章節。"
+  },
+  {
+    "lesson": "1",
+    "segment": 30,
+    "timestamp": "00:01:50,000 --> 00:01:54,334",
+    "source": "That adds up to 23 lessons in total, and each one is carefully designed",
+    "target": "總共有 23 節課， 每一節課都經過精心設計，"
+  },
+  {
+    "lesson": "1",
+    "segment": 31,
+    "timestamp": "00:01:54,400 --> 00:01:58,880",
+    "source": "to cover the three crucial aspects of any grammar point: how it's used,",
+    "target": "涵蓋所有文法重點的 3 個關鍵方面：使用方法、"
+  },
+  {
+    "lesson": "1",
+    "segment": 32,
+    "timestamp": "00:01:59,080 --> 00:02:00,960",
+    "source": "its form, and what it means.",
+    "target": "其形式以及其含義。"
+  },
+  {
+    "lesson": "1",
+    "segment": 33,
+    "timestamp": "00:02:03,000 --> 00:02:06,800",
+    "source": "So throughout this course, we'll be exploring, nouns, verbs,",
+    "target": "因此，在本課程中， 我們將探索名詞、"
+  },
+  {
+    "lesson": "1",
+    "segment": 34,
+    "timestamp": "00:02:07,240 --> 00:02:11,334",
+    "source": "adjectives and adverbs, pronouns, prepositions, and of course,",
+    "target": "動詞、形容詞和副詞、代名詞、 介係詞，當然還有"
+  },
+  {
+    "lesson": "1",
+    "segment": 35,
+    "timestamp": "00:02:11,400 --> 00:02:12,680",
+    "source": "basic sentence structure.",
+    "target": "基本的句子結構。"
+  },
+  {
+    "lesson": "1",
+    "segment": 36,
+    "timestamp": "00:02:13,200 --> 00:02:14,960",
+    "source": "Now, I want to be upfront about something.",
+    "target": "現在，我想坦誠地說明一件事。"
+  },
+  {
+    "lesson": "1",
+    "segment": 37,
+    "timestamp": "00:02:15,480 --> 00:02:18,920",
+    "source": "This course isn't meant to cover every single detail of English grammar.",
+    "target": "本課程並不是要 涵蓋英語文法的每一個細節。"
+  },
+  {
+    "lesson": "1",
+    "segment": 38,
+    "timestamp": "00:02:19,480 --> 00:02:23,160",
+    "source": "There are some pretty complex areas that really require a strong foundation",
+    "target": "有些領域相當複雜， 需要紮實的發音和"
+  },
+  {
+    "lesson": "1",
+    "segment": 39,
+    "timestamp": "00:02:23,360 --> 00:02:26,880",
+    "source": "in pronunciation and vocabulary before you can tackle them effectively.",
+    "target": "字彙基礎才能有效應對。"
+  },
+  {
+    "lesson": "1",
+    "segment": 40,
+    "timestamp": "00:02:27,320 --> 00:02:31,440",
+    "source": "We'll save those more advanced topics for our intermediate and advanced courses.",
+    "target": "我們會在中級和高級課程中講解 那些更進階的主題。"
+  },
+  {
+    "lesson": "1",
+    "segment": 41,
+    "timestamp": "00:02:31,520 --> 00:02:34,680",
+    "source": "The key here is to focus on quality over quantity.",
+    "target": "在這裡關鍵是在於 注重品質而非數量。"
+  },
+  {
+    "lesson": "1",
+    "segment": 42,
+    "timestamp": "00:02:35,080 --> 00:02:38,094",
+    "source": "We're going to go deep, make sure you truly understand,",
+    "target": "我們將深入探討， 確保大家能真正瞭解，並且培養出"
+  },
+  {
+    "lesson": "1",
+    "segment": 43,
+    "timestamp": "00:02:38,160 --> 00:02:39,880",
+    "source": "and build skills that will last.",
+    "target": "終身受用的技能。"
+  },
+  {
+    "lesson": "1",
+    "segment": 44,
+    "timestamp": "00:02:41,960 --> 00:02:44,614",
+    "source": "You'll notice that our approach here at Prep is a little different",
+    "target": "大家會注意到，我們在 Prep 的 教學方法跟傳統的"
+  },
+  {
+    "lesson": "1",
+    "segment": 45,
+    "timestamp": "00:02:44,680 --> 00:02:46,200",
+    "source": "from traditional grammar classes.",
+    "target": "文法課會略微不同。"
+  },
+  {
+    "lesson": "1",
+    "segment": 46,
+    "timestamp": "00:02:46,600 --> 00:02:49,960",
+    "source": "We're all about empowering you to become active independent learners.",
+    "target": "我們致力於幫助您成為 積極主動的自主學習者。"
+  },
+  {
+    "lesson": "1",
+    "segment": 47,
+    "timestamp": "00:02:50,360 --> 00:02:53,360",
+    "source": "We want you to develop the skills to continue improving your English",
+    "target": "希望大家能開發出 即使在課程結束後也能"
+  },
+  {
+    "lesson": "1",
+    "segment": 48,
+    "timestamp": "00:02:53,560 --> 00:02:55,320",
+    "source": "even after this course is over.",
+    "target": "繼續提升英語能力的技能。"
+  },
+  {
+    "lesson": "1",
+    "segment": 49,
+    "timestamp": "00:02:55,760 --> 00:02:59,574",
+    "source": "So instead of just throwing a bunch of grammar rules at you, we'll be using",
+    "target": "所以，與其直接將把一大堆 文法規則塞給你，我們採取一種"
+  },
+  {
+    "lesson": "1",
+    "segment": 51,
+    "timestamp": "00:03:01,920 --> 00:03:06,200",
+    "source": "Think of it as actively exploring the language with a little guidance from me.",
+    "target": "可以把它看作是在我的 少量指導下積極探索這門語言。"
+  },
+  {
+    "lesson": "1",
+    "segment": 52,
+    "timestamp": "00:03:06,720 --> 00:03:07,760",
+    "source": "Here's how it works.",
+    "target": "運作方式如下。"
+  },
+  {
+    "lesson": "1",
+    "segment": 53,
+    "timestamp": "00:03:08,120 --> 00:03:10,240",
+    "source": "I won't just lecture you with a list of rules.",
+    "target": "我不會只是教大家一堆規則。"
+  },
+  {
+    "lesson": "1",
+    "segment": 54,
+    "timestamp": "00:03:10,680 --> 00:03:15,360",
+    "source": "Instead, I'll present you with real-life situations, examples, and exercises.",
+    "target": "相反，我會大家展示 真實生活中的情境、範例與習題。"
+  },
+  {
+    "lesson": "1",
+    "segment": 55,
+    "timestamp": "00:03:15,960 --> 00:03:18,600",
+    "source": "You'll have all the context and information you need to figure",
+    "target": "大將獲得所有前後文及資訊， 以便你自己能搞清楚"
+  },
+  {
+    "lesson": "1",
+    "segment": 56,
+    "timestamp": "00:03:18,666 --> 00:03:19,970",
+    "source": "things out for yourselves.",
+    "target": "事情的來龍去脈。"
+  },
+  {
+    "lesson": "1",
+    "segment": 57,
+    "timestamp": "00:03:20,040 --> 00:03:23,240",
+    "source": "This is incredibly powerful because it leads to deeper understanding,",
+    "target": "這非常有效， 因為它能加深理解，"
+  },
+  {
+    "lesson": "1",
+    "segment": 58,
+    "timestamp": "00:03:23,480 --> 00:03:27,400",
+    "source": "better retention, and makes it much easier to actually use what you're learning.",
+    "target": "提高記憶力，並且讓大家更容易 實際使用學到的知識。"
+  },
+  {
+    "lesson": "1",
+    "segment": 59,
+    "timestamp": "00:03:27,840 --> 00:03:29,880",
+    "source": "Of course, after you've had a chance to explore,",
+    "target": "當然，在探索之後，我會幫助大家"
+  },
+  {
+    "lesson": "1",
+    "segment": 60,
+    "timestamp": "00:03:30,000 --> 00:03:33,040",
+    "source": "I'll always step in to summarize and organize the information",
+    "target": "以清晰、 合乎邏輯的方式彙整和"
+  },
+  {
+    "lesson": "1",
+    "segment": 61,
+    "timestamp": "00:03:33,360 --> 00:03:34,880",
+    "source": "in a clear, logical way.",
+    "target": "整理資訊。"
+  },
+  {
+    "lesson": "1",
+    "segment": 62,
+    "timestamp": "00:03:36,840 --> 00:03:40,854",
+    "source": "This guided discovery method is all about getting to the heart of the language and",
+    "target": "這種引導式探索方法是為了 深入瞭解語言的本質，"
+  },
+  {
+    "lesson": "1",
+    "segment": 63,
+    "timestamp": "00:03:40,920 --> 00:03:42,760",
+    "source": "developing your critical thinking skills.",
+    "target": "並且培養批判性思考能力。"
+  },
+  {
+    "lesson": "1",
+    "segment": 64,
+    "timestamp": "00:03:43,240 --> 00:03:46,000",
+    "source": "It's a long-term investment, and It's not just for English.",
+    "target": "這是一項長期投資， 而且不僅僅針對英語。"
+  },
+  {
+    "lesson": "1",
+    "segment": 65,
+    "timestamp": "00:03:46,320 --> 00:03:49,840",
+    "source": "It'll help you become a better learner in all areas of your life.",
+    "target": "它將幫助大家在生活的 各個領域成為更好的學習者。"
+  },
+  {
+    "lesson": "1",
+    "segment": 66,
+    "timestamp": "00:03:50,280 --> 00:03:54,054",
+    "source": "I know the explanations might seem a bit lengthy at times, but I really",
+    "target": "我知道解釋有時可能會 有點冗長，不過我真的鼓勵你"
+  },
+  {
+    "lesson": "1",
+    "segment": 67,
+    "timestamp": "00:03:54,120 --> 00:03:55,800",
+    "source": "encourage you to stick with this method.",
+    "target": "堅持這種方法。"
+  },
+  {
+    "lesson": "1",
+    "segment": 68,
+    "timestamp": "00:03:56,240 --> 00:03:58,840",
+    "source": "The long term benefits are absolutely worth it.",
+    "target": "從長遠來看， 這樣做絕對值得。"
+  },
+  {
+    "lesson": "1",
+    "segment": 69,
+    "timestamp": "00:03:59,200 --> 00:04:02,480",
+    "source": "I've personally used Guided Discovery throughout my own language learning",
+    "target": "我在我自己的語言學習過程中 一直使用引導式探索法，"
+  },
+  {
+    "lesson": "1",
+    "segment": 70,
+    "timestamp": "00:04:02,546 --> 00:04:05,480",
+    "source": "journey, and I've seen the results firsthand, so I know it works.",
+    "target": "並且第一手見證了它的效果， 所以我知道它是有效的。"
+  },
+  {
+    "lesson": "1",
+    "segment": 71,
+    "timestamp": "00:04:06,920 --> 00:04:09,080",
+    "source": "Okay, that's a quick overview to get us started.",
+    "target": "好的，以上是快速概述 來幫助我們起步。"
+  },
+  {
+    "lesson": "1",
+    "segment": 72,
+    "timestamp": "00:04:09,480 --> 00:04:12,000",
+    "source": "We'll have plenty of time to get to know each other better as we",
+    "target": "在課程學習過程中， 我們將有充足的時間"
+  },
+  {
+    "lesson": "1",
+    "segment": 73,
+    "timestamp": "00:04:12,066 --> 00:04:13,250",
+    "source": "work through the course.",
+    "target": "更好地瞭解彼此。"
+  },
+  {
+    "lesson": "1",
+    "segment": 74,
+    "timestamp": "00:04:13,320 --> 00:04:16,440",
+    "source": "I'm really excited to be on this journey with you, and I'm confident",
+    "target": "很高興能和大家一同探索 這段旅程，而且我有信心"
+  },
+  {
+    "lesson": "1",
+    "segment": 75,
+    "timestamp": "00:04:16,760 --> 00:04:20,840",
+    "source": "that with the Guided Discovery approach, you'll build a strong grammar foundation",
+    "target": "透過引導式探索法， 大家可以打下堅實的語法基礎，"
+  },
+  {
+    "lesson": "1",
+    "segment": 76,
+    "timestamp": "00:04:21,080 --> 00:04:23,880",
+    "source": "and develop some incredibly valuable learning skills.",
+    "target": "並培養非常有用的學習技能。"
+  },
+  {
+    "lesson": "1",
+    "segment": 77,
+    "timestamp": "00:04:24,480 --> 00:04:26,800",
+    "source": "Thanks for watching, and I'll see you in the next lesson.",
+    "target": "感謝大家收看本影片， 我們下節課見。"
+  },
+  {
+    "lesson": "2",
+    "segment": 1,
+    "timestamp": "00:00:07,200 --> 00:00:09,574",
+    "source": "Hey there, it's me. Hey, everyone.",
+    "target": "大家好，是我。"
+  },
+  {
+    "lesson": "2",
+    "segment": 3,
+    "timestamp": "00:00:11,640 --> 00:00:13,890",
+    "source": "I'll be your guide throughout this learning journey.",
+    "target": "我將全程為大家提供指導。"
+  },
+  {
+    "lesson": "2",
+    "segment": 4,
+    "timestamp": "00:00:13,960 --> 00:00:17,614",
+    "source": "Let's warm up with something fundamental yet crucial, the basic",
+    "target": "讓我們從一些基礎 但是極為重要的東西開始暖身，"
+  },
+  {
+    "lesson": "2",
+    "segment": 7,
+    "timestamp": "00:00:23,880 --> 00:00:26,000",
+    "source": "We simply want to:",
+    "target": "只是想要"
+  },
+  {
+    "lesson": "2",
+    "segment": 9,
+    "timestamp": "00:00:29,120 --> 00:00:31,880",
+    "source": "Distinguish the different parts of a basic English sentence.",
+    "target": "區分基本英語句子的 不同組成部分。"
+  },
+  {
+    "lesson": "2",
+    "segment": 10,
+    "timestamp": "00:00:32,400 --> 00:00:35,640",
+    "source": "Of course, since we haven't explored English parts of speech yet,",
+    "target": "當然，由於我們還沒有 探討英語的詞性，"
+  },
+  {
+    "lesson": "2",
+    "segment": 11,
+    "timestamp": "00:00:35,800 --> 00:00:38,720",
+    "source": "this lesson will focus on the most fundamental concepts.",
+    "target": "本節課將重點放在 講解最基本的概念。"
+  },
+  {
+    "lesson": "2",
+    "segment": 12,
+    "timestamp": "00:00:40,160 --> 00:00:43,200",
+    "source": "Towards the end of the course, we'll revisit sentence structure,",
+    "target": "課程接近結束時， 我們將複習句子結構，"
+  },
+  {
+    "lesson": "2",
+    "segment": 13,
+    "timestamp": "00:00:43,600 --> 00:00:47,414",
+    "source": "expanding upon it and integrating everything we've learned to establish",
+    "target": "以此為基礎，整合我們 所學到的一切，建立一個框架，"
+  },
+  {
+    "lesson": "2",
+    "segment": 15,
+    "timestamp": "00:00:51,440 --> 00:00:53,760",
+    "source": "elements and create a complete picture.",
+    "target": "建立完整畫面。"
+  },
+  {
+    "lesson": "2",
+    "segment": 16,
+    "timestamp": "00:00:54,280 --> 00:00:55,840",
+    "source": "Let's dive into the content.",
+    "target": "現在要為大家介紹具體內容。"
+  },
+  {
+    "lesson": "2",
+    "segment": 17,
+    "timestamp": "00:00:59,400 --> 00:01:03,840",
+    "source": "This lesson explores the core components of an English sentence, S, V, and O.",
+    "target": "本課探討英語句子的核心組成： 主詞 (S)、動詞 (V) 和受詞 (O)。"
+  },
+  {
+    "lesson": "2",
+    "segment": 18,
+    "timestamp": "00:01:04,200 --> 00:01:07,880",
+    "source": "What are these elements, and what roles do they play in constructing meaning?",
+    "target": "這些要素是什麼？它們在建構 意義的過程中扮演什麼角色？"
+  },
+  {
+    "lesson": "2",
+    "segment": 19,
+    "timestamp": "00:01:08,240 --> 00:01:12,414",
+    "source": "Let's begin by examining one of the simplest, yet most powerful English",
+    "target": "讓我們先來看一個最簡單 但是又最有力的英文句子，"
+  },
+  {
+    "lesson": "2",
+    "segment": 20,
+    "timestamp": "00:01:12,480 --> 00:01:16,040",
+    "source": "sentences to illustrate these concepts. I love you.",
+    "target": "來說明這些概念。 I love you。"
+  },
+  {
+    "lesson": "2",
+    "segment": 21,
+    "timestamp": "00:01:16,440 --> 00:01:19,480",
+    "source": "We've all seen and heard this sentence, and many want to hear it, too.",
+    "target": "我們都見過、聽過這句話， 很多人也想聽到這句話。"
+  },
+  {
+    "lesson": "2",
+    "segment": 22,
+    "timestamp": "00:01:19,880 --> 00:01:21,320",
+    "source": "But what makes up this sentence?",
+    "target": "但這句話是由哪些部分組成的呢？"
+  },
+  {
+    "lesson": "2",
+    "segment": 23,
+    "timestamp": "00:01:21,720 --> 00:01:25,800",
+    "source": "In this sentence, \"I\" functions as the subject, abbreviated as S.",
+    "target": "在這個句子中，I 充當主詞， 縮寫為 S。"
+  },
+  {
+    "lesson": "2",
+    "segment": 24,
+    "timestamp": "00:01:26,200 --> 00:01:29,934",
+    "source": "The subject identifies who or what performs the action or is being",
+    "target": "主詞指明在句子中 執行動作或被描述的"
+  },
+  {
+    "lesson": "2",
+    "segment": 25,
+    "timestamp": "00:01:30,000 --> 00:01:31,080",
+    "source": "described in the sentence.",
+    "target": "人或事物。"
+  },
+  {
+    "lesson": "2",
+    "segment": 27,
+    "timestamp": "00:01:38,520 --> 00:01:42,014",
+    "source": "It usually appears at the beginning of the sentence and is an almost",
+    "target": "它通常出現在句首， 是文法正確的"
+  },
+  {
+    "lesson": "2",
+    "segment": 28,
+    "timestamp": "00:01:42,080 --> 00:01:45,400",
+    "source": "indispensable part of a grammatically correct English sentence.",
+    "target": "英語句子中 幾乎不可或缺的一部分。"
+  },
+  {
+    "lesson": "2",
+    "segment": 29,
+    "timestamp": "00:01:47,240 --> 00:01:49,760",
+    "source": "Next to \"I\" is \"love\", meaning \"to love\".",
+    "target": "I 後面接著是 love，意思是 to love。"
+  },
+  {
+    "lesson": "2",
+    "segment": 30,
+    "timestamp": "00:01:50,120 --> 00:01:52,720",
+    "source": "What does this word describe in the sentence, or what does",
+    "target": "這個字在句子中描述的是什麼？ 或者，它告訴我們"
+  },
+  {
+    "lesson": "2",
+    "segment": 31,
+    "timestamp": "00:01:52,786 --> 00:01:54,960",
+    "source": "it tell us about the subject? Exactly.",
+    "target": "關於這個主題的什麼東西？ 正是。"
+  },
+  {
+    "lesson": "2",
+    "segment": 32,
+    "timestamp": "00:01:55,320 --> 00:01:57,680",
+    "source": "It indicates the action performed by the subject.",
+    "target": "它表示主詞 執行的動作。"
+  },
+  {
+    "lesson": "2",
+    "segment": 33,
+    "timestamp": "00:01:58,040 --> 00:02:01,600",
+    "source": "In English, this is called the verb, often abbreviated as V.",
+    "target": "在英語中，這稱為動詞， 通常縮寫為 V。"
+  },
+  {
+    "lesson": "2",
+    "segment": 34,
+    "timestamp": "00:02:02,040 --> 00:02:04,640",
+    "source": "English verbs have different types, forms, and tenses.",
+    "target": "英語動詞有不同的類型、 形式和時態。"
+  },
+  {
+    "lesson": "2",
+    "segment": 35,
+    "timestamp": "00:02:05,120 --> 00:02:08,920",
+    "source": "They change depending on who is doing the action and when the action happens.",
+    "target": "它們會根據執行動作的人和 動作發生的時間而改變。"
+  },
+  {
+    "lesson": "2",
+    "segment": 36,
+    "timestamp": "00:02:09,400 --> 00:02:11,880",
+    "source": "We'll explore this concept further throughout the course.",
+    "target": "我們將在課程中 進一步探討這個概念。"
+  },
+  {
+    "lesson": "2",
+    "segment": 37,
+    "timestamp": "00:02:12,400 --> 00:02:16,920",
+    "source": "However, regardless of its form, the verb is a mandatory element in a sentence.",
+    "target": "然而，無論其形式如何，動詞 都是句子中必不可少的成分。"
+  },
+  {
+    "lesson": "2",
+    "segment": 38,
+    "timestamp": "00:02:17,360 --> 00:02:20,560",
+    "source": "Without it, the sentence would be incomplete or even meaningless.",
+    "target": "如果沒有它，句子將不完整， 甚至毫無意義。"
+  },
+  {
+    "lesson": "2",
+    "segment": 39,
+    "timestamp": "00:02:21,040 --> 00:02:24,920",
+    "source": "There are sentence types that might omit the subject, which we'll cover later,",
+    "target": "有些句型可以省略主詞， 我們稍後會講到，"
+  },
+  {
+    "lesson": "2",
+    "segment": 40,
+    "timestamp": "00:02:25,200 --> 00:02:27,480",
+    "source": "but the verb is absolutely essential.",
+    "target": "但是動詞是絕對必要的。"
+  },
+  {
+    "lesson": "2",
+    "segment": 41,
+    "timestamp": "00:02:29,520 --> 00:02:30,640",
+    "source": "Next, we have \"you\".",
+    "target": "接下來是 you。"
+  },
+  {
+    "lesson": "2",
+    "segment": 42,
+    "timestamp": "00:02:30,960 --> 00:02:33,480",
+    "source": "What's its role in this sentence? Correct.",
+    "target": "它在這個句子中扮演什麼角色？ 正確。"
+  },
+  {
+    "lesson": "2",
+    "segment": 43,
+    "timestamp": "00:02:33,800 --> 00:02:37,600",
+    "source": "It's the object of the verb \"love\", the person or thing being loved.",
+    "target": "它是動詞 love 的受詞， 也就是被愛的人或事物。"
+  },
+  {
+    "lesson": "2",
+    "segment": 44,
+    "timestamp": "00:02:37,920 --> 00:02:41,120",
+    "source": "\"You\" here acts as the object, often symbolized by O.",
+    "target": "這裡，you 充當受詞， 通常用字母 O 來表示。"
+  },
+  {
+    "lesson": "2",
+    "segment": 45,
+    "timestamp": "00:02:41,560 --> 00:02:46,000",
+    "source": "Similar to the subject, an object can be a person, an object,",
+    "target": "與主詞類似， 受詞可以是人、事物、"
+  },
+  {
+    "lesson": "2",
+    "segment": 46,
+    "timestamp": "00:02:46,067 --> 00:02:49,400",
+    "source": "an animal, an event or phenomenon, a concept.",
+    "target": "動物、事件或現象、概念。"
+  },
+  {
+    "lesson": "2",
+    "segment": 47,
+    "timestamp": "00:02:49,800 --> 00:02:53,494",
+    "source": "Unlike the subject, which is almost always required, the object may",
+    "target": "與幾乎總是必需的主詞不同， 受詞可以出現，"
+  },
+  {
+    "lesson": "2",
+    "segment": 48,
+    "timestamp": "00:02:53,560 --> 00:02:54,680",
+    "source": "or may not be present.",
+    "target": "也可以不出現。"
+  },
+  {
+    "lesson": "2",
+    "segment": 49,
+    "timestamp": "00:02:55,080 --> 00:02:59,000",
+    "source": "Its presence depends on whether the verb needs an object to complete its meaning.",
+    "target": "它的存在與否是根據動詞是不是 需要受詞來完成其意義而定。"
+  },
+  {
+    "lesson": "2",
+    "segment": 50,
+    "timestamp": "00:03:01,000 --> 00:03:03,960",
+    "source": "In other words, the object's appearance isn't mandatory.",
+    "target": "換句話說，受詞的出現與否 並不是強制性。"
+  },
+  {
+    "lesson": "2",
+    "segment": 51,
+    "timestamp": "00:03:04,200 --> 00:03:06,360",
+    "source": "It's determined by the type of verb we use.",
+    "target": "這取決於我們 使用的動詞類型。"
+  },
+  {
+    "lesson": "2",
+    "segment": 52,
+    "timestamp": "00:03:06,760 --> 00:03:09,320",
+    "source": "Some verbs are complete on their own, like I walk.",
+    "target": "有些動詞本身就是 完整的動詞，例如 I walk。"
+  },
+  {
+    "lesson": "2",
+    "segment": 53,
+    "timestamp": "00:03:09,840 --> 00:03:12,720",
+    "source": "This sentence is complete and meaningful without an object.",
+    "target": "即使沒有受詞，這個句子也是 完整且有意義的。"
+  },
+  {
+    "lesson": "2",
+    "segment": 54,
+    "timestamp": "00:03:13,080 --> 00:03:15,680",
+    "source": "Adding more words would only expand upon its meaning.",
+    "target": "添加更多字詞 只是要擴展其含義。"
+  },
+  {
+    "lesson": "2",
+    "segment": 55,
+    "timestamp": "00:03:16,120 --> 00:03:18,280",
+    "source": "However, some verbs require an object.",
+    "target": "但是，有些動詞需要受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 56,
+    "timestamp": "00:03:18,480 --> 00:03:22,120",
+    "source": "Otherwise, the sentence would be incomplete, like our example, \"I love you\".",
+    "target": "否則，句子就不完整， 就像我們的例子 I love you 一樣。"
+  },
+  {
+    "lesson": "2",
+    "segment": 57,
+    "timestamp": "00:03:22,520 --> 00:03:26,360",
+    "source": "\"I love\" by itself is incomplete and needs the \"you\" to be grammatically",
+    "target": "單單說 I love 是不完整的， 需要加上 you 才能夠在文法和"
+  },
+  {
+    "lesson": "2",
+    "segment": 58,
+    "timestamp": "00:03:26,480 --> 00:03:27,960",
+    "source": "and semantically correct.",
+    "target": "語意上正確。"
+  },
+  {
+    "lesson": "2",
+    "segment": 59,
+    "timestamp": "00:03:28,320 --> 00:03:31,720",
+    "source": "Everyone keep in mind, if a verb doesn't take an object, that's fine.",
+    "target": "大家記住，如果動詞 不帶受詞，那也沒關係。"
+  },
+  {
+    "lesson": "2",
+    "segment": 60,
+    "timestamp": "00:03:32,120 --> 00:03:35,334",
+    "source": "But if it does, the object sticks close, appearing right next",
+    "target": "但是如果有受詞，那麼受詞 就會緊鄰它修飾的動詞，"
+  },
+  {
+    "lesson": "2",
+    "segment": 61,
+    "timestamp": "00:03:35,400 --> 00:03:36,930",
+    "source": "to the verb it compliments.",
+    "target": "在動詞的旁邊。"
+  },
+  {
+    "lesson": "2",
+    "segment": 62,
+    "timestamp": "00:03:37,000 --> 00:03:39,600",
+    "source": "We'll learn more about types of verbs in a later lesson.",
+    "target": "我們將在後面的課程中學習更多 關於動詞類型的知識。"
+  },
+  {
+    "lesson": "2",
+    "segment": 63,
+    "timestamp": "00:03:44,000 --> 00:03:44,920",
+    "source": "Let's practice.",
+    "target": "我們來練習一下吧。"
+  },
+  {
+    "lesson": "2",
+    "segment": 64,
+    "timestamp": "00:03:45,200 --> 00:03:49,774",
+    "source": "I'll present a series of English sentences using the sentence structure and what",
+    "target": "我會給大家一些英語句子，請 運用我們剛剛學到的句子結構，"
+  },
+  {
+    "lesson": "2",
+    "segment": 65,
+    "timestamp": "00:03:49,840 --> 00:03:54,000",
+    "source": "we've just learned, identify the subject, verb, and object in each sentence.",
+    "target": "並且找出各個句子中的主詞、 動詞和受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 66,
+    "timestamp": "00:03:54,440 --> 00:03:56,840",
+    "source": "Let's add a time limit for a bit of a challenge.",
+    "target": "為了增加一點挑戰性， 我們設定一個時間限制。"
+  },
+  {
+    "lesson": "2",
+    "segment": 67,
+    "timestamp": "00:03:57,000 --> 00:03:59,760",
+    "source": "Two minutes for this exercise. Your time starts now.",
+    "target": "這個習題時限為兩分鐘。 計時開始。"
+  },
+  {
+    "lesson": "2",
+    "segment": 68,
+    "timestamp": "00:04:08,560 --> 00:04:10,800",
+    "source": "In the first sentence, \"She dances\",",
+    "target": "在第一句 She dances 中，"
+  },
+  {
+    "lesson": "2",
+    "segment": 69,
+    "timestamp": "00:04:11,200 --> 00:04:13,920",
+    "source": "\"she\" is the subject, the one performing the action,",
+    "target": "She 是主詞，是執行動作的人。"
+  },
+  {
+    "lesson": "2",
+    "segment": 70,
+    "timestamp": "00:04:14,240 --> 00:04:17,240",
+    "source": "and \"dances\" is the verb, the action itself.",
+    "target": "dances 是動詞，是動作本身。"
+  },
+  {
+    "lesson": "2",
+    "segment": 71,
+    "timestamp": "00:04:17,720 --> 00:04:19,360",
+    "source": "This sentence doesn't have an object.",
+    "target": "這個句子沒有受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 73,
+    "timestamp": "00:04:24,320 --> 00:04:26,480",
+    "source": "\"he\" is the subject and \"eats\" is the verb.",
+    "target": "He 是主詞，eats 是動詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 74,
+    "timestamp": "00:04:26,960 --> 00:04:29,200",
+    "source": "This verb takes an object which is \"breakfast\".",
+    "target": "這個動詞帶有一個受詞，即 breakfast。"
+  },
+  {
+    "lesson": "2",
+    "segment": 75,
+    "timestamp": "00:04:31,320 --> 00:04:33,480",
+    "source": "The next sentence, \"They teach English.\"",
+    "target": "下一句是 They teach English。"
+  },
+  {
+    "lesson": "2",
+    "segment": 76,
+    "timestamp": "00:04:33,880 --> 00:04:36,800",
+    "source": "It has \"they\" as the subject and \"teach\" as the verb.",
+    "target": "它的主詞是 they，動詞是 teach。"
+  },
+  {
+    "lesson": "2",
+    "segment": 77,
+    "timestamp": "00:04:37,240 --> 00:04:39,240",
+    "source": "\"English\" is the object of the verb.",
+    "target": "English 是動詞的受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 78,
+    "timestamp": "00:04:41,320 --> 00:04:43,160",
+    "source": "In this sentence, \"He is talking\",",
+    "target": "在 He is talking 這個句子中，"
+  },
+  {
+    "lesson": "2",
+    "segment": 79,
+    "timestamp": "00:04:43,560 --> 00:04:46,080",
+    "source": "\"he\" is the subject and \"is talking\" is the verb.",
+    "target": "He 是主詞，is talking 是動詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 80,
+    "timestamp": "00:04:46,440 --> 00:04:49,120",
+    "source": "We'll learn more about this verb form later in the course.",
+    "target": "我們將在課程的後續部分 進一步學習這種動詞形式。"
+  },
+  {
+    "lesson": "2",
+    "segment": 81,
+    "timestamp": "00:04:49,640 --> 00:04:51,280",
+    "source": "This sentence doesn't have an object.",
+    "target": "這個句子沒有受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 82,
+    "timestamp": "00:04:53,400 --> 00:04:55,800",
+    "source": "Finally, in the last sentence, \"We want coffee\",",
+    "target": "最後一個句子是 We want coffee，"
+  },
+  {
+    "lesson": "2",
+    "segment": 83,
+    "timestamp": "00:04:56,280 --> 00:05:00,240",
+    "source": "\"we\" is the subject, \"want\" is the verb, and \"coffee\" is the object.",
+    "target": "We 是主詞，want 是動詞， 而 coffee 是受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 84,
+    "timestamp": "00:05:02,080 --> 00:05:03,560",
+    "source": "Let's do one more exercise.",
+    "target": "我們再做一個練習。"
+  },
+  {
+    "lesson": "2",
+    "segment": 85,
+    "timestamp": "00:05:04,000 --> 00:05:05,160",
+    "source": "This one is quite simple.",
+    "target": "這題相當簡單。"
+  },
+  {
+    "lesson": "2",
+    "segment": 86,
+    "timestamp": "00:05:05,520 --> 00:05:08,120",
+    "source": "Arrange the words or phrases to form complete sentences.",
+    "target": "將下列單字或片語 排列成完整的句子。"
+  },
+  {
+    "lesson": "2",
+    "segment": 87,
+    "timestamp": "00:05:08,600 --> 00:05:11,560",
+    "source": "Remember the correct SVO order. Let's begin.",
+    "target": "記住正確的 SVO 次序。 開始。"
+  },
+  {
+    "lesson": "2",
+    "segment": 88,
+    "timestamp": "00:05:19,640 --> 00:05:20,680",
+    "source": "Time's up, everyone.",
+    "target": "時間到。"
+  },
+  {
+    "lesson": "2",
+    "segment": 89,
+    "timestamp": "00:05:21,000 --> 00:05:22,280",
+    "source": "Let's review the answers.",
+    "target": "我們一起來查看答案吧。"
+  },
+  {
+    "lesson": "2",
+    "segment": 90,
+    "timestamp": "00:05:22,840 --> 00:05:25,520",
+    "source": "The first sentence, \"She reads books every day.\"",
+    "target": "第一句， She reads books every day."
+  },
+  {
+    "lesson": "2",
+    "segment": 91,
+    "timestamp": "00:05:25,960 --> 00:05:29,360",
+    "source": "\"She\" is the subject, \"reads\" is the verb, and \"books\" is the object.",
+    "target": "She是主詞，reads 是動詞， 而 book 是受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 92,
+    "timestamp": "00:05:30,000 --> 00:05:33,280",
+    "source": "\"Every day\" is an adverbial phrase modifying the verb \"reads\".",
+    "target": "Every day 是一個副詞片語， 修飾動詞 reads。"
+  },
+  {
+    "lesson": "2",
+    "segment": 93,
+    "timestamp": "00:05:35,200 --> 00:05:38,734",
+    "source": "The second sentence, \"My father eats breakfast at 7 AM.\"",
+    "target": "第二句, My father eats breakfast at 7 AM."
+  },
+  {
+    "lesson": "2",
+    "segment": 94,
+    "timestamp": "00:05:38,800 --> 00:05:43,160",
+    "source": "\"My father\" is the subject, \"eats\" is the verb, and \"breakfast\" is the object.",
+    "target": "My father 是主詞, eats 是 動詞, breakfast 是受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 95,
+    "timestamp": "00:05:43,560 --> 00:05:47,720",
+    "source": "\"At 7 AM\" is a prepositional phrase acting as an adverbial modifier.",
+    "target": "At 7 AM 是一個 介係詞片語，作為副詞修飾語。"
+  },
+  {
+    "lesson": "2",
+    "segment": 96,
+    "timestamp": "00:05:49,840 --> 00:05:52,600",
+    "source": "The third sentence, \"We watch TV in the evening.\"",
+    "target": "第三句， We watch TV in the evening."
+  },
+  {
+    "lesson": "2",
+    "segment": 97,
+    "timestamp": "00:05:52,960 --> 00:05:56,440",
+    "source": "\"We\" is the subject, \"watch\" is the verb, and \"TV\" is the object.",
+    "target": "We 是主詞，watch 是動詞， 而 TV 是受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 98,
+    "timestamp": "00:05:56,960 --> 00:05:59,960",
+    "source": "\"In the evening\" is a prepositional phrase acting as an adverbial modifier.",
+    "target": "In the evening  是一個 介係詞片語，作為副詞修飾語。"
+  },
+  {
+    "lesson": "2",
+    "segment": 99,
+    "timestamp": "00:06:02,640 --> 00:06:06,000",
+    "source": "The fourth sentence, \"My mother cleans the house every day.\"",
+    "target": "第四句， My mother cleans the house every day."
+  },
+  {
+    "lesson": "2",
+    "segment": 100,
+    "timestamp": "00:06:06,320 --> 00:06:10,640",
+    "source": "\"My mother\" is the subject, \"clean\" is the verb, and \"the house\" is the object.",
+    "target": "My mother 是主詞，cleans 是 動詞，the house 是受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 101,
+    "timestamp": "00:06:11,160 --> 00:06:13,367",
+    "source": "\"Every day\" is an adverbial phrase.",
+    "target": "Every day 是一個副詞片語。"
+  },
+  {
+    "lesson": "2",
+    "segment": 103,
+    "timestamp": "00:06:17,440 --> 00:06:21,120",
+    "source": "\"I\" is the subject, \"love\" is the verb, and \"my family\" is the object.",
+    "target": "I 是主詞，love 是動詞， 而 my family 是受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 104,
+    "timestamp": "00:06:25,440 --> 00:06:28,720",
+    "source": "Today's lesson was just a gentle introduction to English grammar.",
+    "target": "今天的課程只是對 英語文法的一個簡單介紹。"
+  },
+  {
+    "lesson": "2",
+    "segment": 105,
+    "timestamp": "00:06:29,080 --> 00:06:32,374",
+    "source": "We've explored the basic structure of an English sentence consisting",
+    "target": "我們已經探索了英語句子的 基本結構，它是由 3"
+  },
+  {
+    "lesson": "2",
+    "segment": 106,
+    "timestamp": "00:06:32,440 --> 00:06:35,600",
+    "source": "of three parts: subject, verb, object.",
+    "target": "部分所組成：主詞、動詞、受詞。"
+  },
+  {
+    "lesson": "2",
+    "segment": 107,
+    "timestamp": "00:06:36,160 --> 00:06:39,400",
+    "source": "We've learned what each part represents and its role in the sentence.",
+    "target": "我們已經學習到各個部分代表什麼 以及它在句子中的作用。"
+  },
+  {
+    "lesson": "2",
+    "segment": 108,
+    "timestamp": "00:06:39,800 --> 00:06:43,054",
+    "source": "Keep this structure in mind as we delve deeper into each component",
+    "target": "在本課程中，我們會深入探討 各個組成部分，"
+  },
+  {
+    "lesson": "2",
+    "segment": 109,
+    "timestamp": "00:06:43,120 --> 00:06:44,330",
+    "source": "throughout this course.",
+    "target": "請牢記這個結構。"
+  },
+  {
+    "lesson": "2",
+    "segment": 110,
+    "timestamp": "00:06:44,400 --> 00:06:48,214",
+    "source": "By the end, we'll revisit this topic with a more detailed and comprehensive",
+    "target": "最後，我們將以今天建立的 扎實基礎為底，"
+  },
+  {
+    "lesson": "2",
+    "segment": 111,
+    "timestamp": "00:06:48,280 --> 00:06:52,560",
+    "source": "understanding, building upon the solid foundation we've established today.",
+    "target": "對這個主題進行更詳細、 更全面的探討。"
+  },
+  {
+    "lesson": "2",
+    "segment": 112,
+    "timestamp": "00:06:53,040 --> 00:06:54,320",
+    "source": "Goodbye and see you next time.",
+    "target": "再見，下次再會。"
+  },
+  {
+    "lesson": "3",
+    "segment": 1,
+    "timestamp": "00:00:07,000 --> 00:00:08,440",
+    "source": "Hello, it's me again.",
+    "target": "大家好！"
+  },
+  {
+    "lesson": "3",
+    "segment": 2,
+    "timestamp": "00:00:08,680 --> 00:00:10,000",
+    "source": "Welcome to today's lesson.",
+    "target": "歡迎來到今天的課程。"
+  },
+  {
+    "lesson": "3",
+    "segment": 3,
+    "timestamp": "00:00:10,560 --> 00:00:13,000",
+    "source": "Throughout your studies, whenever you come into contact",
+    "target": "在你的學習過程中， 每當你接觸到英語時，"
+  },
+  {
+    "lesson": "3",
+    "segment": 4,
+    "timestamp": "00:00:13,066 --> 00:00:15,974",
+    "source": "with English, you have heard about the concept of noun,",
+    "target": "你都會聽到名詞、 動詞、形容詞、"
+  },
+  {
+    "lesson": "3",
+    "segment": 5,
+    "timestamp": "00:00:16,040 --> 00:00:20,160",
+    "source": "verb, adjective, adverb, which are the four basic types of words.",
+    "target": "副詞的概念，它們是 單字的四種基本類型。"
+  },
+  {
+    "lesson": "3",
+    "segment": 6,
+    "timestamp": "00:00:20,720 --> 00:00:24,734",
+    "source": "In this course, we will go through all four types of words so that you can write",
+    "target": "在本課程中，我們將學習 所有四種類型的單詞，"
+  },
+  {
+    "lesson": "3",
+    "segment": 7,
+    "timestamp": "00:00:24,800 --> 00:00:28,040",
+    "source": "well and speak fluently in the correct grammatical order.",
+    "target": "以便您能夠以正確的文法順序 寫出好文章並且流利地表達。"
+  },
+  {
+    "lesson": "3",
+    "segment": 8,
+    "timestamp": "00:00:29,520 --> 00:00:32,494",
+    "source": "We'll start with nouns first, and our goal is to remember",
+    "target": "我們先從名詞開始， 而且我們的目標是記住"
+  },
+  {
+    "lesson": "3",
+    "segment": 9,
+    "timestamp": "00:00:32,560 --> 00:00:34,534",
+    "source": "and distinguish the types of nouns.",
+    "target": "同時區分名詞的類型。"
+  },
+  {
+    "lesson": "3",
+    "segment": 10,
+    "timestamp": "00:00:34,600 --> 00:00:36,840",
+    "source": "So are you guys ready? Let's go.",
+    "target": "準備好了嗎？ 開始上課。"
+  },
+  {
+    "lesson": "3",
+    "segment": 11,
+    "timestamp": "00:00:39,480 --> 00:00:43,134",
+    "source": "As I introduced to you in the first lesson, the Prep's Basic Grammar Course",
+    "target": "正如我在第一課中為大家 介紹的，Prep 的基本文法課程"
+  },
+  {
+    "lesson": "3",
+    "segment": 12,
+    "timestamp": "00:00:43,200 --> 00:00:45,240",
+    "source": "will be guided in a rather special way.",
+    "target": "的授課方式會很特別。"
+  },
+  {
+    "lesson": "3",
+    "segment": 13,
+    "timestamp": "00:00:45,560 --> 00:00:48,360",
+    "source": "Instead of listing a whole bunch of theories which are both boring",
+    "target": "我們不會列舉一大堆 既枯燥又難以應用的"
+  },
+  {
+    "lesson": "3",
+    "segment": 14,
+    "timestamp": "00:00:48,426 --> 00:00:51,734",
+    "source": "and difficult to apply, I will give challenges, situations,",
+    "target": "理論，而是提出挑戰、情境"
+  },
+  {
+    "lesson": "3",
+    "segment": 15,
+    "timestamp": "00:00:51,800 --> 00:00:56,600",
+    "source": "and contexts so that everyone can recognize the knowledge, actively absorb it,",
+    "target": "以及背景，這樣，大家都能 認識到這些知識，並積極吸收這些知識，"
+  },
+  {
+    "lesson": "3",
+    "segment": 16,
+    "timestamp": "00:00:56,667 --> 00:00:58,240",
+    "source": "and quickly turn it into their own.",
+    "target": "而且迅速將其轉化為自己的知識。"
+  },
+  {
+    "lesson": "3",
+    "segment": 17,
+    "timestamp": "00:00:58,280 --> 00:01:00,840",
+    "source": "Let's start with a fairly easy challenge first.",
+    "target": "我們先從一個比較簡單的 挑戰開始吧。"
+  },
+  {
+    "lesson": "3",
+    "segment": 19,
+    "timestamp": "00:01:04,840 --> 00:01:07,760",
+    "source": "Please connect the following images with the corresponding type.",
+    "target": "請將下列圖片與 相對應的類型連接。"
+  },
+  {
+    "lesson": "3",
+    "segment": 20,
+    "timestamp": "00:01:08,200 --> 00:01:11,200",
+    "source": "Let's do this exercise within one minute. Let's go.",
+    "target": "請在一分鐘內完成這個練習。 開始。"
+  },
+  {
+    "lesson": "3",
+    "segment": 21,
+    "timestamp": "00:01:11,600 --> 00:01:14,374",
+    "source": "Please pause the video to finish the work and continue to play",
+    "target": "請暫停影片，完成工作， 完成後"
+  },
+  {
+    "lesson": "3",
+    "segment": 22,
+    "timestamp": "00:01:14,440 --> 00:01:16,060",
+    "source": "the video when you are ready.",
+    "target": "再繼續播放影片。"
+  },
+  {
+    "lesson": "3",
+    "segment": 23,
+    "timestamp": "00:01:18,000 --> 00:01:20,894",
+    "source": "Before diving deeper into understanding nouns, we must first",
+    "target": "在深入瞭解名詞之前， 我們必須先將常見的"
+  },
+  {
+    "lesson": "3",
+    "segment": 24,
+    "timestamp": "00:01:20,960 --> 00:01:22,280",
+    "source": "classify the common groups.",
+    "target": "名詞類別分類。"
+  },
+  {
+    "lesson": "3",
+    "segment": 25,
+    "timestamp": "00:01:22,640 --> 00:01:27,040",
+    "source": "The first group, a singer, a tree, or a dog, are all common nouns.",
+    "target": "第 1 組，a singer、a tree 或 a dog，都是普通名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 26,
+    "timestamp": "00:01:27,360 --> 00:01:28,360",
+    "source": "President Obama,",
+    "target": "President Obama、"
+  },
+  {
+    "lesson": "3",
+    "segment": 27,
+    "timestamp": "00:01:28,760 --> 00:01:33,040",
+    "source": "the Statue of Liberty, and France, on the other hand, are proper nouns.",
+    "target": "the Statue of Liberty，以及 France， 則是專有名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 28,
+    "timestamp": "00:01:33,400 --> 00:01:35,880",
+    "source": "Next, we have happiness, courage, and anger.",
+    "target": "接下來是 happiness、 courage 和 anger。"
+  },
+  {
+    "lesson": "3",
+    "segment": 29,
+    "timestamp": "00:01:36,120 --> 00:01:38,600",
+    "source": "These are definitely abstract nouns.",
+    "target": "這些顯然都是抽象名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 30,
+    "timestamp": "00:01:38,920 --> 00:01:42,720",
+    "source": "Finally, a family, a football team, or an orchestra,",
+    "target": "最後，a family、a football team 或 an orchestra 這樣的名詞"
+  },
+  {
+    "lesson": "3",
+    "segment": 31,
+    "timestamp": "00:01:42,920 --> 00:01:44,920",
+    "source": "these nouns are collective nouns.",
+    "target": "是集合名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 32,
+    "timestamp": "00:01:47,120 --> 00:01:51,040",
+    "source": "Having grasped the overview, let's go into detail about each type, everyone.",
+    "target": "大家了解概況後， 我們將為大家具體介紹各個類型。"
+  },
+  {
+    "lesson": "3",
+    "segment": 33,
+    "timestamp": "00:01:51,520 --> 00:01:52,720",
+    "source": "First is common noun.",
+    "target": "首先是普通名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 34,
+    "timestamp": "00:01:54,160 --> 00:01:57,734",
+    "source": "Look at the picture I give below and match the given nouns with the corresponding",
+    "target": "請看以下圖片，並且將給出的名詞 跟圖片中對應的點"
+  },
+  {
+    "lesson": "3",
+    "segment": 35,
+    "timestamp": "00:01:57,800 --> 00:01:58,800",
+    "source": "points on the picture.",
+    "target": "配對起來。"
+  },
+  {
+    "lesson": "3",
+    "segment": 36,
+    "timestamp": "00:01:59,040 --> 00:02:01,480",
+    "source": "Then try to think about what common nouns refer to.",
+    "target": "然後試著思考一下 普通名詞指的是什麼。"
+  },
+  {
+    "lesson": "3",
+    "segment": 37,
+    "timestamp": "00:02:01,920 --> 00:02:03,960",
+    "source": "You will have one minute to do this exercise.",
+    "target": "你有一分鐘完成這個練習。"
+  },
+  {
+    "lesson": "3",
+    "segment": 38,
+    "timestamp": "00:02:04,400 --> 00:02:07,120",
+    "source": "Pause the video for one minute and then come back when you're done.",
+    "target": "暫停影片一分鐘， 看完後再繼續播放。"
+  },
+  {
+    "lesson": "3",
+    "segment": 39,
+    "timestamp": "00:02:07,280 --> 00:02:08,440",
+    "source": "One minute starts now.",
+    "target": "一分鐘計時開始。"
+  },
+  {
+    "lesson": "3",
+    "segment": 40,
+    "timestamp": "00:02:10,360 --> 00:02:12,040",
+    "source": "And here are the answers, everyone.",
+    "target": "這裡是答案。"
+  },
+  {
+    "lesson": "3",
+    "segment": 41,
+    "timestamp": "00:02:12,520 --> 00:02:16,360",
+    "source": "All of these words are common nouns, which are words that refer to people, like",
+    "target": "這些單字都是普通名詞， 指的是人，比如"
+  },
+  {
+    "lesson": "3",
+    "segment": 42,
+    "timestamp": "00:02:16,520 --> 00:02:21,960",
+    "source": "\"father\", \"mother\", \"son\", animals such as \"bird\", objects like \"picnic mat\",",
+    "target": "father、mother、son，指動物有 bird， 指物體的是 picnic mat，或是指"
+  },
+  {
+    "lesson": "3",
+    "segment": 43,
+    "timestamp": "00:02:22,120 --> 00:02:23,640",
+    "source": "or places such as \"building\".",
+    "target": "地方的是 building。"
+  },
+  {
+    "lesson": "3",
+    "segment": 44,
+    "timestamp": "00:02:25,760 --> 00:02:27,720",
+    "source": "Next, let's learn about proper nouns.",
+    "target": "接下來，我們來學習專有名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 45,
+    "timestamp": "00:02:29,120 --> 00:02:30,300",
+    "source": "Look at this list.",
+    "target": "請看此清單。"
+  },
+  {
+    "lesson": "3",
+    "segment": 46,
+    "timestamp": "00:02:30,367 --> 00:02:33,500",
+    "source": "Which of the following items do you think will be classified as proper nouns?",
+    "target": "你認為下列哪些可歸入專有名詞？"
+  },
+  {
+    "lesson": "3",
+    "segment": 49,
+    "timestamp": "00:03:12,280 --> 00:03:16,534",
+    "source": "At first glance, we might choose all, but in this list, only the following",
+    "target": "乍看之下，我們可能會 選擇全部，不過在這個清單中，"
+  },
+  {
+    "lesson": "3",
+    "segment": 50,
+    "timestamp": "00:03:16,600 --> 00:03:17,920",
+    "source": "groups are proper nouns.",
+    "target": "只有以下幾組是專有名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 51,
+    "timestamp": "00:03:18,520 --> 00:03:21,400",
+    "source": "Proper names, for example: Tom, Mary.",
+    "target": "專有的姓名，例如：Tom、Mary。"
+  },
+  {
+    "lesson": "3",
+    "segment": 53,
+    "timestamp": "00:03:27,567 --> 00:03:32,333",
+    "source": "Months of the year, for example: January, March, September.",
+    "target": "一年中的月份，例如 January、March、September。"
+  },
+  {
+    "lesson": "3",
+    "segment": 56,
+    "timestamp": "00:03:42,067 --> 00:03:46,040",
+    "source": "Some holidays, events, for example: Valentine's Day,",
+    "target": "一些節日、活動， 例如，Valentine's Day、"
+  },
+  {
+    "lesson": "3",
+    "segment": 57,
+    "timestamp": "00:03:46,440 --> 00:03:48,280",
+    "source": "Halloween, Mother's Day.",
+    "target": "Halloween、Mother's Day。"
+  },
+  {
+    "lesson": "3",
+    "segment": 58,
+    "timestamp": "00:03:48,680 --> 00:03:53,640",
+    "source": "For the rest, the four directions, north, west, south, east, are not proper nouns.",
+    "target": "其餘的方向名詞，north、 west、south、east，不是專有名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 59,
+    "timestamp": "00:03:53,960 --> 00:03:57,680",
+    "source": "Similarly, the seasons of the year, such as spring or autumn,",
+    "target": "同樣，一年中的季節， 比如 spring 或 autumn，"
+  },
+  {
+    "lesson": "3",
+    "segment": 60,
+    "timestamp": "00:03:57,920 --> 00:04:03,080",
+    "source": "or times of the day, such as morning and evening, are also not proper nouns.",
+    "target": "或是一天中的時間，比如 morning 和 evening，也不是專有名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 61,
+    "timestamp": "00:04:05,120 --> 00:04:09,080",
+    "source": "In summary, common nouns refer to people, animals, things, or places.",
+    "target": "總而言之，普通名詞指的是人、 動物、事物或地點。"
+  },
+  {
+    "lesson": "3",
+    "segment": 62,
+    "timestamp": "00:04:09,720 --> 00:04:13,014",
+    "source": "Proper nouns, on the other hand, are the names of people, places,",
+    "target": "而專有名詞則是指人名、地名、語言，"
+  },
+  {
+    "lesson": "3",
+    "segment": 64,
+    "timestamp": "00:04:18,386 --> 00:04:22,160",
+    "source": "Through the knowledge we've just learned, let's practice a little bit, everyone.",
+    "target": "大家一起來運用剛剛學到的 知識來練習吧。"
+  },
+  {
+    "lesson": "3",
+    "segment": 65,
+    "timestamp": "00:04:22,640 --> 00:04:24,200",
+    "source": "I will give you a series of nouns.",
+    "target": "我將給大家一組名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 66,
+    "timestamp": "00:04:24,266 --> 00:04:26,894",
+    "source": "Within 30 seconds, quickly arrange them into two groups",
+    "target": "請在 30 秒內迅速將其分成兩組，"
+  },
+  {
+    "lesson": "3",
+    "segment": 67,
+    "timestamp": "00:04:26,960 --> 00:04:28,800",
+    "source": "of common nouns and proper nouns.",
+    "target": "即普通名詞和專有名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 68,
+    "timestamp": "00:04:29,120 --> 00:04:32,374",
+    "source": "Remember to write it down so you can remember the words, and don't forget",
+    "target": "記得把單字寫下來， 這樣你就能記住它們，而且不要忘記"
+  },
+  {
+    "lesson": "3",
+    "segment": 69,
+    "timestamp": "00:04:32,440 --> 00:04:34,080",
+    "source": "to capitalize the proper nouns.",
+    "target": "專有名詞的開頭要大寫。"
+  },
+  {
+    "lesson": "3",
+    "segment": 70,
+    "timestamp": "00:04:34,480 --> 00:04:35,520",
+    "source": "30 seconds start.",
+    "target": "30 秒計時開始。"
+  },
+  {
+    "lesson": "3",
+    "segment": 71,
+    "timestamp": "00:04:39,200 --> 00:04:41,880",
+    "source": "Please pause the video for 30 seconds until you make it.",
+    "target": "請暫停影片 30 秒完成練習。"
+  },
+  {
+    "lesson": "3",
+    "segment": 72,
+    "timestamp": "00:05:12,000 --> 00:05:13,000",
+    "source": "Time's up, everyone.",
+    "target": "時間到。"
+  },
+  {
+    "lesson": "3",
+    "segment": 73,
+    "timestamp": "00:05:13,280 --> 00:05:14,440",
+    "source": "Not difficult, right?",
+    "target": "不難吧？"
+  },
+  {
+    "lesson": "3",
+    "segment": 74,
+    "timestamp": "00:05:14,760 --> 00:05:15,920",
+    "source": "And here is the answer.",
+    "target": "答案在這裡。"
+  },
+  {
+    "lesson": "3",
+    "segment": 75,
+    "timestamp": "00:05:16,400 --> 00:05:21,760",
+    "source": "Common nouns are a book, a laptop, a fish, an umbrella, a car.",
+    "target": "普通名詞有 a book、a laptop、 a fish、an umbrella、a car。"
+  },
+  {
+    "lesson": "3",
+    "segment": 76,
+    "timestamp": "00:05:22,240 --> 00:05:25,920",
+    "source": "Proper nouns include Adele, Christmas, October.",
+    "target": "專有名詞包括 Adele、 Christmas、October。"
+  },
+  {
+    "lesson": "3",
+    "segment": 77,
+    "timestamp": "00:05:27,920 --> 00:05:31,094",
+    "source": "In life, there are small moments that can make us smile, feel joy,",
+    "target": "生活中，有許多微小時刻 可以讓我們微笑、感到快樂、"
+  },
+  {
+    "lesson": "3",
+    "segment": 78,
+    "timestamp": "00:05:31,160 --> 00:05:32,520",
+    "source": "gratitude, or kindness.",
+    "target": "感恩或善良。"
+  },
+  {
+    "lesson": "3",
+    "segment": 79,
+    "timestamp": "00:05:32,880 --> 00:05:37,134",
+    "source": "These emotions and qualities are represented by abstract nouns.",
+    "target": "這些情感和品質是以 抽象名詞來表示。"
+  },
+  {
+    "lesson": "3",
+    "segment": 80,
+    "timestamp": "00:05:37,200 --> 00:05:41,534",
+    "source": "Now, let's take a moment to learn about abstract noun, one of the most",
+    "target": "現在，讓我們花點時間來了解 抽象名詞，這是英語中"
+  },
+  {
+    "lesson": "3",
+    "segment": 81,
+    "timestamp": "00:05:41,600 --> 00:05:44,734",
+    "source": "common types of nouns in English.",
+    "target": "最常見的名詞類型之一。"
+  },
+  {
+    "lesson": "3",
+    "segment": 82,
+    "timestamp": "00:05:44,800 --> 00:05:49,360",
+    "source": "Abstract noun are words that refer to feelings, qualities, ideals, or concepts.",
+    "target": "抽象名詞是指表示 感覺、品質、理想或概念的單字。"
+  },
+  {
+    "lesson": "3",
+    "segment": 83,
+    "timestamp": "00:05:49,880 --> 00:05:53,480",
+    "source": "They are things we cannot hold or see tangibly, but we can feel.",
+    "target": "它們是我們無法觸摸 或看到，卻能感受到的東西。"
+  },
+  {
+    "lesson": "3",
+    "segment": 84,
+    "timestamp": "00:05:53,960 --> 00:05:58,200",
+    "source": "For example, happiness, the feeling that everyone wants to have.",
+    "target": "例如，happiness，這是每個人 都渴望擁有的感覺。"
+  },
+  {
+    "lesson": "3",
+    "segment": 85,
+    "timestamp": "00:05:58,680 --> 00:06:01,520",
+    "source": "Gratitude, feeling grateful when someone helps you.",
+    "target": "Gratitude，即對幫助過你 的人心存感激。"
+  },
+  {
+    "lesson": "3",
+    "segment": 86,
+    "timestamp": "00:06:02,000 --> 00:06:04,800",
+    "source": "Kindness, a good quality that we show when we help others.",
+    "target": "Kindness，是一種我們在幫助他人時 所展現的美好特質。"
+  },
+  {
+    "lesson": "3",
+    "segment": 87,
+    "timestamp": "00:06:05,360 --> 00:06:09,120",
+    "source": "In addition to the examples above, there are many other abstract nouns",
+    "target": "除了以上例子之外， 考試中也常出現"
+  },
+  {
+    "lesson": "3",
+    "segment": 88,
+    "timestamp": "00:06:09,280 --> 00:06:12,200",
+    "source": "that appear frequently in exams, especially in the reading",
+    "target": "許多其他抽象名詞， 尤其是在"
+  },
+  {
+    "lesson": "3",
+    "segment": 89,
+    "timestamp": "00:06:12,440 --> 00:06:14,360",
+    "source": "section of the TOEIC test.",
+    "target": "TOEIC 考試的閱讀部分。"
+  },
+  {
+    "lesson": "3",
+    "segment": 90,
+    "timestamp": "00:06:15,760 --> 00:06:18,440",
+    "source": "With the last group, I have another exercise for everyone.",
+    "target": "最後一組，我給大家 安排了一個練習。"
+  },
+  {
+    "lesson": "3",
+    "segment": 91,
+    "timestamp": "00:06:18,840 --> 00:06:22,174",
+    "source": "In the sentences I give below, two types of nouns will be marked in two",
+    "target": "在我給的以下句子中， 兩種類型的名詞"
+  },
+  {
+    "lesson": "3",
+    "segment": 92,
+    "timestamp": "00:06:22,240 --> 00:06:24,840",
+    "source": "different colors, and you guys try to see the difference between",
+    "target": "將用兩種不同的顏色標記， 請大家試著找出"
+  },
+  {
+    "lesson": "3",
+    "segment": 93,
+    "timestamp": "00:06:24,906 --> 00:06:26,080",
+    "source": "these two types of nouns.",
+    "target": "這兩種類型名詞之間的差異。"
+  },
+  {
+    "lesson": "3",
+    "segment": 94,
+    "timestamp": "00:06:26,480 --> 00:06:29,134",
+    "source": "Let's pause the next screen to think carefully, then come back",
+    "target": "我們暫停下一個畫面， [準備好後繼續播放影片！]"
+  },
+  {
+    "lesson": "3",
+    "segment": 95,
+    "timestamp": "00:06:29,200 --> 00:06:30,120",
+    "source": "to the lesson with me.",
+    "target": "仔細思考，然後再回到課程。"
+  },
+  {
+    "lesson": "3",
+    "segment": 96,
+    "timestamp": "00:06:32,000 --> 00:06:36,400",
+    "source": "As you guys may have noticed, each sentence contains two types of nouns.",
+    "target": "大家可能已經注意到， 各個句子都包含兩種類型的名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 97,
+    "timestamp": "00:06:36,600 --> 00:06:39,770",
+    "source": "One is the common noun that we talked about at the beginning of the lesson,",
+    "target": "其中一個是我們在課程開始時 討論過的普通名詞，"
+  },
+  {
+    "lesson": "3",
+    "segment": 98,
+    "timestamp": "00:06:39,840 --> 00:06:44,120",
+    "source": "and the other is a noun that indicates a plural, a group of those common nouns.",
+    "target": "另一個是表示複數的 名詞，即一組普通名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 99,
+    "timestamp": "00:06:44,520 --> 00:06:49,214",
+    "source": "\"Family\", \"band\", or \"crew\" are all collective nouns, nouns that refer",
+    "target": "Family、band 或 crew 都是集合名詞，指的是"
+  },
+  {
+    "lesson": "3",
+    "segment": 100,
+    "timestamp": "00:06:49,280 --> 00:06:51,160",
+    "source": "to a group of people or things.",
+    "target": "一群人或事物的名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 101,
+    "timestamp": "00:06:51,560 --> 00:06:55,334",
+    "source": "I have included some other collective nouns for groups of people, animals,",
+    "target": "我在影片下方的附件中 收錄了一些其他用於"
+  },
+  {
+    "lesson": "3",
+    "segment": 102,
+    "timestamp": "00:06:55,400 --> 00:06:58,560",
+    "source": "or objects in the attached file below the video for your reference.",
+    "target": "人、動物或事物群體的 集合名詞以提供參考。"
+  },
+  {
+    "lesson": "3",
+    "segment": 103,
+    "timestamp": "00:07:00,000 --> 00:07:03,374",
+    "source": "Before moving on to the next part, we'll do an exercise to see how",
+    "target": "在進入下一部分之前， 我們將做一個習題，看看"
+  },
+  {
+    "lesson": "3",
+    "segment": 104,
+    "timestamp": "00:07:03,440 --> 00:07:05,080",
+    "source": "well you guys understand the lesson.",
+    "target": "大家對這節課的理解程度。"
+  },
+  {
+    "lesson": "3",
+    "segment": 105,
+    "timestamp": "00:07:06,520 --> 00:07:10,080",
+    "source": "Four columns will appear on the screen corresponding to four types of nouns:",
+    "target": "螢幕上將出現四個縱行， 分別對應四種類型的名詞："
+  },
+  {
+    "lesson": "3",
+    "segment": 106,
+    "timestamp": "00:07:10,280 --> 00:07:13,720",
+    "source": "common nouns, proper nouns, abstract nouns, and collective nouns.",
+    "target": "普通名詞、專有名詞、 抽象名詞和集合名詞。"
+  },
+  {
+    "lesson": "3",
+    "segment": 107,
+    "timestamp": "00:07:14,360 --> 00:07:18,560",
+    "source": "Your task is to put the words in the box into the corresponding noun type column.",
+    "target": "你的任務是將方格中的單字 填入到相對應的名詞類型行之內。"
+  },
+  {
+    "lesson": "3",
+    "segment": 108,
+    "timestamp": "00:07:19,000 --> 00:07:19,960",
+    "source": "Okay, let's start.",
+    "target": "好，開始。"
+  },
+  {
+    "lesson": "3",
+    "segment": 110,
+    "timestamp": "00:07:28,160 --> 00:07:29,520",
+    "source": "Let's check the answers with me.",
+    "target": "我們來核對答案吧。"
+  },
+  {
+    "lesson": "3",
+    "segment": 111,
+    "timestamp": "00:07:30,000 --> 00:07:32,880",
+    "source": "In the common noun column, there will be the following words:",
+    "target": "普通名詞欄 將包含以下單字："
+  },
+  {
+    "lesson": "3",
+    "segment": 112,
+    "timestamp": "00:07:33,400 --> 00:07:35,600",
+    "source": "\"a tree\", \"a singer\", and \"a cat\".",
+    "target": "a tree、a singer 和 a cat。"
+  },
+  {
+    "lesson": "3",
+    "segment": 114,
+    "timestamp": "00:07:41,160 --> 00:07:44,760",
+    "source": "Abstract noun have \"happiness\", \"kindness\", and \"gratitude\",",
+    "target": "抽象名詞包含 happiness、 kindness 和 gratitude。"
+  },
+  {
+    "lesson": "3",
+    "segment": 115,
+    "timestamp": "00:07:45,760 --> 00:07:50,240",
+    "source": "The remaining words are collective noun consisting of \"crew\", \"band\", and \"family\".",
+    "target": "其餘單字是集合名詞， 包含 crew、band 以及 family。"
+  },
+  {
+    "lesson": "3",
+    "segment": 116,
+    "timestamp": "00:07:52,360 --> 00:07:56,774",
+    "source": "We have finished the first lesson on nouns - just the beginning, but there is",
+    "target": "我們已經完成了 名詞的第一課 - 雖然只是個開始，"
+  },
+  {
+    "lesson": "3",
+    "segment": 117,
+    "timestamp": "00:07:56,840 --> 00:07:58,480",
+    "source": "already a lot of useful knowledge.",
+    "target": "但是已經學到了很多有用的知識。"
+  },
+  {
+    "lesson": "3",
+    "segment": 118,
+    "timestamp": "00:07:58,760 --> 00:08:00,840",
+    "source": "I will summarize it for everyone to follow.",
+    "target": "我將為大家進行總結， 讓大家能夠跟上進度。"
+  },
+  {
+    "lesson": "3",
+    "segment": 119,
+    "timestamp": "00:08:01,400 --> 00:08:02,694",
+    "source": "Types of nouns in English:",
+    "target": "英語的名詞類型："
+  },
+  {
+    "lesson": "3",
+    "segment": 120,
+    "timestamp": "00:08:02,760 --> 00:08:07,080",
+    "source": "Common nouns include people, things, animals, places.",
+    "target": "普通名詞包含人、 事物、動物、地點。"
+  },
+  {
+    "lesson": "3",
+    "segment": 121,
+    "timestamp": "00:08:07,600 --> 00:08:09,200",
+    "source": "Proper nouns are proper names.",
+    "target": "專有名詞是專有名稱。"
+  },
+  {
+    "lesson": "3",
+    "segment": 122,
+    "timestamp": "00:08:09,520 --> 00:08:14,520",
+    "source": "Days of the week, months of the year, place names like countries, mountains,",
+    "target": "星期幾、月份、 地名，像是國家、山嶽、"
+  },
+  {
+    "lesson": "3",
+    "segment": 123,
+    "timestamp": "00:08:14,840 --> 00:08:20,880",
+    "source": "seas, rivers, lakes, directions like east, west, south, north,",
+    "target": "海洋、河流、湖泊，方向（比如東、 西、南、北），"
+  },
+  {
+    "lesson": "3",
+    "segment": 124,
+    "timestamp": "00:08:21,320 --> 00:08:26,160",
+    "source": "languages, seasons of the year, times of day, or some holidays, events.",
+    "target": "語言、季節、一天中的時間， 或是某些節慶、事件。"
+  },
+  {
+    "lesson": "3",
+    "segment": 125,
+    "timestamp": "00:08:26,720 --> 00:08:31,280",
+    "source": "Abstract nouns include emotions, ideals, concepts, qualities,",
+    "target": "抽象名詞包括情緒、理想、 概念、品質，"
+  },
+  {
+    "lesson": "3",
+    "segment": 126,
+    "timestamp": "00:08:31,760 --> 00:08:36,200",
+    "source": "and collective noun refer to groups of people, animals, things, etc.",
+    "target": "而集合名詞指的是一群 人、動物、事物等等。"
+  },
+  {
+    "lesson": "3",
+    "segment": 127,
+    "timestamp": "00:08:37,520 --> 00:08:41,214",
+    "source": "Distinguishing the types of noun is the basis for us to write and speak more",
+    "target": "區分名詞的類型是我們日後 更精確地寫作和"
+  },
+  {
+    "lesson": "3",
+    "segment": 128,
+    "timestamp": "00:08:41,280 --> 00:08:44,094",
+    "source": "accurately later, knowing what type of word to use",
+    "target": "說話的基礎， 知道用什麼樣的字"
+  },
+  {
+    "lesson": "3",
+    "segment": 129,
+    "timestamp": "00:08:44,160 --> 00:08:47,934",
+    "source": "to express what we want to say, or helping us choose the correct answer",
+    "target": "來表達我們想說的意思， 或是幫助我們選擇"
+  },
+  {
+    "lesson": "3",
+    "segment": 130,
+    "timestamp": "00:08:48,000 --> 00:08:51,400",
+    "source": "for the types of verb conjugation questions in Part 5 and 6.",
+    "target": "第 5 部分和第 6 部分中 各種動詞變化題的正確答案。"
+  },
+  {
+    "lesson": "3",
+    "segment": 131,
+    "timestamp": "00:08:51,640 --> 00:08:55,040",
+    "source": "So remember to learn carefully from now on to use for a long time.",
+    "target": "所以，從現在開始要認真學習， 這樣才能長期受益。"
+  },
+  {
+    "lesson": "3",
+    "segment": 132,
+    "timestamp": "00:08:55,400 --> 00:08:58,694",
+    "source": "In order to do that, remember to take thorough and systematic",
+    "target": "為了做到這一點， 請記得在你的筆記簿上做詳細、"
+  },
+  {
+    "lesson": "3",
+    "segment": 133,
+    "timestamp": "00:08:58,760 --> 00:09:02,240",
+    "source": "notes in your notebook. After resting, review, and do all the homework",
+    "target": "系統化的筆記。 休息一會兒， 然後複習並完成所有作業，"
+  },
+  {
+    "lesson": "3",
+    "segment": 134,
+    "timestamp": "00:09:02,440 --> 00:09:04,280",
+    "source": "before moving on to new knowledge.",
+    "target": "之後才能學習新知識。"
+  },
+  {
+    "lesson": "3",
+    "segment": 135,
+    "timestamp": "00:09:04,760 --> 00:09:06,400",
+    "source": "I will wait for you in the next lesson.",
+    "target": "下一堂課見。"
+  },
+  {
+    "lesson": "4",
+    "segment": 1,
+    "timestamp": "00:00:07,120 --> 00:00:08,920",
+    "source": "Hello, and welcome back, everyone.",
+    "target": "大家好，歡迎回到本課程。"
+  },
+  {
+    "lesson": "4",
+    "segment": 2,
+    "timestamp": "00:00:09,120 --> 00:00:10,200",
+    "source": "How are you doing today?",
+    "target": "大家今天怎麼樣啊？"
+  },
+  {
+    "lesson": "4",
+    "segment": 3,
+    "timestamp": "00:00:10,560 --> 00:00:12,520",
+    "source": "Welcome back to Prep's Basic Grammar Course.",
+    "target": "歡迎回到 Prep 的 基礎文法課程，"
+  },
+  {
+    "lesson": "4",
+    "segment": 4,
+    "timestamp": "00:00:12,920 --> 00:00:16,320",
+    "source": "Languages across the world are diverse, each with its own rules.",
+    "target": "世界各地的語言各不相同， 每種語言都有自己的規則。"
+  },
+  {
+    "lesson": "4",
+    "segment": 5,
+    "timestamp": "00:00:16,720 --> 00:00:20,974",
+    "source": "We can't simply apply our grammar rules to English and vice versa, or we might",
+    "target": "我們不能簡單地將我們的文法規則 應用於英語，反之亦然，否則我們可能會發現"
+  },
+  {
+    "lesson": "4",
+    "segment": 6,
+    "timestamp": "00:00:21,040 --> 00:00:23,080",
+    "source": "find ourselves in confusing situations.",
+    "target": "自己陷入了混亂的境地。"
+  },
+  {
+    "lesson": "4",
+    "segment": 7,
+    "timestamp": "00:00:23,600 --> 00:00:25,920",
+    "source": "Today, we'll explore noun with three objectives.",
+    "target": "今天，我們將圍繞三個目標 來探討名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 8,
+    "timestamp": "00:00:26,400 --> 00:00:29,520",
+    "source": "Differentiate between countable and uncountable nouns.",
+    "target": "區分可數名詞 和不可數名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 9,
+    "timestamp": "00:00:30,000 --> 00:00:32,320",
+    "source": "Apply the rules of pluralizing nouns.",
+    "target": "運用名詞複數形式的規則。"
+  },
+  {
+    "lesson": "4",
+    "segment": 10,
+    "timestamp": "00:00:32,760 --> 00:00:35,200",
+    "source": "Distinguish between singular and plural nouns.",
+    "target": "區分單數名詞和複數名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 11,
+    "timestamp": "00:00:36,560 --> 00:00:39,880",
+    "source": "Let's start by understanding countable and uncountable nouns.",
+    "target": "我們先來瞭解可數名詞 和不可數名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 12,
+    "timestamp": "00:00:40,280 --> 00:00:42,280",
+    "source": "Ready? Let's get right into it.",
+    "target": "準備好了嗎？ 我們進入正題吧。"
+  },
+  {
+    "lesson": "4",
+    "segment": 13,
+    "timestamp": "00:00:45,360 --> 00:00:48,920",
+    "source": "In English, some nouns are easily countable, like one apple,",
+    "target": "在英語中，有些名詞 很容易計數，比如 one apple、"
+  },
+  {
+    "lesson": "4",
+    "segment": 14,
+    "timestamp": "00:00:49,040 --> 00:00:50,440",
+    "source": "two apples, and so on.",
+    "target": "two apples 等等。"
+  },
+  {
+    "lesson": "4",
+    "segment": 15,
+    "timestamp": "00:00:50,760 --> 00:00:52,360",
+    "source": "We call these countable nouns.",
+    "target": "我們稱這些為可數名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 16,
+    "timestamp": "00:00:52,680 --> 00:00:56,320",
+    "source": "Others, like milk or sugar, can't be counted directly.",
+    "target": "而像 milk 或 sugar 這樣的東西， 則無法直接計數。"
+  },
+  {
+    "lesson": "4",
+    "segment": 17,
+    "timestamp": "00:00:56,640 --> 00:01:01,134",
+    "source": "Instead, we need to use units to express their quantity, such as one carton",
+    "target": "相反，我們需要用單位 來表示它們的數量，比如"
+  },
+  {
+    "lesson": "4",
+    "segment": 18,
+    "timestamp": "00:01:01,200 --> 00:01:03,120",
+    "source": "of milk or one teaspoon of sugar.",
+    "target": "one carton of milk 或者 one teaspoon of sugar。"
+  },
+  {
+    "lesson": "4",
+    "segment": 19,
+    "timestamp": "00:01:03,760 --> 00:01:06,000",
+    "source": "These are called uncountable nouns.",
+    "target": "這些被稱為不可數名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 20,
+    "timestamp": "00:01:07,440 --> 00:01:11,814",
+    "source": "For example, we can easily count one apple, two apples, or one carrot,",
+    "target": "例如，我們可以輕易地數出 one apple、two apples，或是"
+  },
+  {
+    "lesson": "4",
+    "segment": 21,
+    "timestamp": "00:01:11,880 --> 00:01:14,880",
+    "source": "two carrots because they are distinct individual items.",
+    "target": "one carrot、two carrots， 因為它們是不同的個別物品。"
+  },
+  {
+    "lesson": "4",
+    "segment": 22,
+    "timestamp": "00:01:15,360 --> 00:01:19,400",
+    "source": "However, we can't say \"one milk\", \"two milks\" because milk is a substance,",
+    "target": "但是，我們不能說 one milk、two milks， 因為牛奶是一種物質，而不是"
+  },
+  {
+    "lesson": "4",
+    "segment": 23,
+    "timestamp": "00:01:19,720 --> 00:01:21,160",
+    "source": "not something we count directly.",
+    "target": "我們可以直接計數的東西。"
+  },
+  {
+    "lesson": "4",
+    "segment": 24,
+    "timestamp": "00:01:21,680 --> 00:01:25,854",
+    "source": "To express the quantity of milk, we need a container or a unit like carton",
+    "target": "為了表達牛奶的量， 我們需要一個容器或單位，比如"
+  },
+  {
+    "lesson": "4",
+    "segment": 25,
+    "timestamp": "00:01:25,920 --> 00:01:29,667",
+    "source": "or glass, resulting in phrases like \"two cartons of milk\"",
+    "target": "carton 或 glass，故而得到像是 two cartons of milk 或者"
+  },
+  {
+    "lesson": "4",
+    "segment": 26,
+    "timestamp": "00:01:28,933 --> 00:01:30,833",
+    "source": "or \"two glasses of milk\".",
+    "target": "two glasses of milk 的片語。"
+  },
+  {
+    "lesson": "4",
+    "segment": 27,
+    "timestamp": "00:01:32,880 --> 00:01:36,534",
+    "source": "In English, these nouns that we can directly count and use with numbers",
+    "target": "在英語中，這些可以直接計數 並且能夠與數字一起使用的名詞"
+  },
+  {
+    "lesson": "4",
+    "segment": 28,
+    "timestamp": "00:01:36,600 --> 00:01:38,080",
+    "source": "are called countable nouns.",
+    "target": "稱為可數名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 29,
+    "timestamp": "00:01:38,480 --> 00:01:40,720",
+    "source": "They represent individual separate items.",
+    "target": "它們代表各個獨立的物品。"
+  },
+  {
+    "lesson": "4",
+    "segment": 30,
+    "timestamp": "00:01:41,160 --> 00:01:45,280",
+    "source": "For example, three books, four oranges, and five pens.",
+    "target": "例如，three books、 four organges 和 five pens。"
+  },
+  {
+    "lesson": "4",
+    "segment": 31,
+    "timestamp": "00:01:47,360 --> 00:01:51,400",
+    "source": "Some nouns cannot be counted directly and therefore don't go with numbers alone.",
+    "target": "有些名詞不能直接計數， 因此不能只用數字來表示。"
+  },
+  {
+    "lesson": "4",
+    "segment": 32,
+    "timestamp": "00:01:51,840 --> 00:01:55,934",
+    "source": "These are called uncountable nouns, and they often represent things we",
+    "target": "這些被稱為不可數名詞， 它們通常代表我們認為是"
+  },
+  {
+    "lesson": "4",
+    "segment": 33,
+    "timestamp": "00:01:56,000 --> 00:01:58,160",
+    "source": "consider as wholes or substances.",
+    "target": "整體或物質的事物。"
+  },
+  {
+    "lesson": "4",
+    "segment": 34,
+    "timestamp": "00:01:58,680 --> 00:02:01,520",
+    "source": "For example, chocolate, water, bread.",
+    "target": "例如，chocolate、water、bread。"
+  },
+  {
+    "lesson": "4",
+    "segment": 35,
+    "timestamp": "00:02:01,920 --> 00:02:05,800",
+    "source": "It's important to remember that uncountable nouns don't have a plural form.",
+    "target": "要記住的是， 不可數名詞沒有複數形式。"
+  },
+  {
+    "lesson": "4",
+    "segment": 36,
+    "timestamp": "00:02:06,160 --> 00:02:10,214",
+    "source": "When we want to specify their quantity, we use them together with other nouns.",
+    "target": "如果想要具體說明它們的數量， 我們會將它們與其他名詞一起使用。"
+  },
+  {
+    "lesson": "4",
+    "segment": 37,
+    "timestamp": "00:02:10,280 --> 00:02:15,160",
+    "source": "For example, two bars of chocolate, four glasses of water, five loaves of bread.",
+    "target": "例如，two bars of chocolate， four glasses of water，five loaves of bread。"
+  },
+  {
+    "lesson": "4",
+    "segment": 38,
+    "timestamp": "00:02:17,080 --> 00:02:19,840",
+    "source": "We'll delve deeper into these expressions in another lesson.",
+    "target": "我們會在另一堂課中 更深入地探討這些表達方式。"
+  },
+  {
+    "lesson": "4",
+    "segment": 39,
+    "timestamp": "00:02:20,200 --> 00:02:23,640",
+    "source": "Now, you might be wondering which nouns are considered uncountable.",
+    "target": "現在，大家可能想知道 哪些名詞被認為是不可數名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 40,
+    "timestamp": "00:02:24,080 --> 00:02:26,934",
+    "source": "While there aren't any hard and fast rules, some common groups",
+    "target": "雖然沒有硬性規定， 但是一些常見的分組"
+  },
+  {
+    "lesson": "4",
+    "segment": 41,
+    "timestamp": "00:02:27,000 --> 00:02:28,160",
+    "source": "can help you identify them.",
+    "target": "可以幫助大家識別它們。"
+  },
+  {
+    "lesson": "4",
+    "segment": 42,
+    "timestamp": "00:02:29,600 --> 00:02:33,040",
+    "source": "I'm going to show you a series of images representing different groups.",
+    "target": "我將為大家展示一系列 代表不同群組的圖片。"
+  },
+  {
+    "lesson": "4",
+    "segment": 43,
+    "timestamp": "00:02:33,360 --> 00:02:36,520",
+    "source": "Your task is to guess the name of each group based on the images.",
+    "target": "大家的任務是根據圖片 猜出每組的名稱。"
+  },
+  {
+    "lesson": "4",
+    "segment": 44,
+    "timestamp": "00:02:37,040 --> 00:02:38,840",
+    "source": "Ready? You have one minute.",
+    "target": "準備好了嗎？ 你有一分鐘時間。"
+  },
+  {
+    "lesson": "4",
+    "segment": 45,
+    "timestamp": "00:02:38,920 --> 00:02:41,360",
+    "source": "Pause the video, and then we'll go over them together.",
+    "target": "暫停影片，然後 我們一起來看看。"
+  },
+  {
+    "lesson": "4",
+    "segment": 46,
+    "timestamp": "00:02:43,480 --> 00:02:47,854",
+    "source": "The first group shows furniture, luggage, and equipment, which are often considered",
+    "target": "第一組中顯示了家具、行李和設備， 這些在英語中通常被認為是"
+  },
+  {
+    "lesson": "4",
+    "segment": 47,
+    "timestamp": "00:02:47,920 --> 00:02:50,040",
+    "source": "collective and uncountable in English.",
+    "target": "集合且不可數名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 48,
+    "timestamp": "00:02:50,560 --> 00:02:55,000",
+    "source": "The second group depicts materials like sugar, coffee, liquids, and ice.",
+    "target": "第二組描繪了 糖、咖啡、液體和冰等材料。"
+  },
+  {
+    "lesson": "4",
+    "segment": 49,
+    "timestamp": "00:02:55,520 --> 00:02:59,840",
+    "source": "The third group portrays abstract ideas, emotions, feelings, concepts, or qualities",
+    "target": "第三組描繪的是抽象的想法、 情感、感覺、概念或品質，"
+  },
+  {
+    "lesson": "4",
+    "segment": 50,
+    "timestamp": "00:03:00,080 --> 00:03:01,960",
+    "source": "like happiness, luck, or victory.",
+    "target": "例如幸福、幸運或勝利。"
+  },
+  {
+    "lesson": "4",
+    "segment": 51,
+    "timestamp": "00:03:02,440 --> 00:03:06,520",
+    "source": "And the last group illustrates natural phenomena like rain and lightning.",
+    "target": "最後一組描繪了諸如雨和 閃電之類的自然現象。"
+  },
+  {
+    "lesson": "4",
+    "segment": 52,
+    "timestamp": "00:03:06,920 --> 00:03:08,200",
+    "source": "You're getting the hang of this.",
+    "target": "大家越來越厲害了。"
+  },
+  {
+    "lesson": "4",
+    "segment": 53,
+    "timestamp": "00:03:10,080 --> 00:03:14,200",
+    "source": "Now, let's do a quick exercise to practice what we've learned before moving on.",
+    "target": "現在，讓我們做一個快速練習 來鞏固所學知識，然後再繼續學習。"
+  },
+  {
+    "lesson": "4",
+    "segment": 54,
+    "timestamp": "00:03:14,560 --> 00:03:17,240",
+    "source": "I'll show you a series of nouns along with their pictures.",
+    "target": "我會給大家一組名詞及其圖片。"
+  },
+  {
+    "lesson": "4",
+    "segment": 55,
+    "timestamp": "00:03:17,640 --> 00:03:21,254",
+    "source": "Your task is to quickly categorize them into two groups, countable",
+    "target": "大家的任務是快速地將它們 劃分為兩組：可數名詞和"
+  },
+  {
+    "lesson": "4",
+    "segment": 56,
+    "timestamp": "00:03:21,320 --> 00:03:23,120",
+    "source": "nouns and uncountable nouns.",
+    "target": "不可數名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 57,
+    "timestamp": "00:03:23,520 --> 00:03:26,160",
+    "source": "Pause the video for 30 seconds. Ready?",
+    "target": "請暫停影片 30 秒。 準備好了嗎？"
+  },
+  {
+    "lesson": "4",
+    "segment": 58,
+    "timestamp": "00:03:26,600 --> 00:03:28,880",
+    "source": "3, 2, 1, go.",
+    "target": "3、2、1，開始。"
+  },
+  {
+    "lesson": "4",
+    "segment": 59,
+    "timestamp": "00:03:30,760 --> 00:03:32,000",
+    "source": "This is the answer.",
+    "target": "這是答案。"
+  },
+  {
+    "lesson": "4",
+    "segment": 60,
+    "timestamp": "00:03:32,440 --> 00:03:35,600",
+    "source": "Pause the video to check your answers, then resume when you're ready.",
+    "target": "暫停影片查看答案， 準備好之後再繼續觀看。"
+  },
+  {
+    "lesson": "4",
+    "segment": 61,
+    "timestamp": "00:03:37,400 --> 00:03:40,480",
+    "source": "In the next part of the lesson, we'll explore more about nouns.",
+    "target": "在接下來的課程中， 我們將進一步探討名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 62,
+    "timestamp": "00:03:40,800 --> 00:03:42,480",
+    "source": "Remember the example at the beginning?",
+    "target": "還記得開頭那個例子嗎？"
+  },
+  {
+    "lesson": "4",
+    "segment": 63,
+    "timestamp": "00:03:42,840 --> 00:03:46,000",
+    "source": "We had two apples, two carrots, but not two milks.",
+    "target": "We had two apples, two carrots, but not two milks."
+  },
+  {
+    "lesson": "4",
+    "segment": 64,
+    "timestamp": "00:03:46,520 --> 00:03:50,400",
+    "source": "This is because only countable nouns have singular and plural forms,",
+    "target": "這是因為只有可數名詞才有 單數和複數形式，"
+  },
+  {
+    "lesson": "4",
+    "segment": 65,
+    "timestamp": "00:03:50,520 --> 00:03:53,360",
+    "source": "while uncountable nouns are always in singular form.",
+    "target": "而不可數名詞總是單數。"
+  },
+  {
+    "lesson": "4",
+    "segment": 66,
+    "timestamp": "00:03:54,800 --> 00:03:58,814",
+    "source": "Instead of bombarding you with rules, I'll show you practical examples of plural",
+    "target": "我不會用規則轟炸大家， 而是為大家提供實際的"
+  },
+  {
+    "lesson": "4",
+    "segment": 67,
+    "timestamp": "00:03:58,880 --> 00:04:01,774",
+    "source": "nouns so you can deduce the rules yourselves, which will help",
+    "target": "複數名詞範例，這樣大家就可以 自己推斷規則，"
+  },
+  {
+    "lesson": "4",
+    "segment": 68,
+    "timestamp": "00:04:01,840 --> 00:04:03,300",
+    "source": "you remember them better.",
+    "target": "這有助於讓大家記得更清楚。"
+  },
+  {
+    "lesson": "4",
+    "segment": 69,
+    "timestamp": "00:04:03,400 --> 00:04:07,654",
+    "source": "First, analyze these two example groups and help me identify the most basic",
+    "target": "首先，分析這兩個範例分組， 並且幫助我找出英文中"
+  },
+  {
+    "lesson": "4",
+    "segment": 70,
+    "timestamp": "00:04:07,720 --> 00:04:09,600",
+    "source": "rule for forming plurals in English.",
+    "target": "構成複數的最基本規則。"
+  },
+  {
+    "lesson": "4",
+    "segment": 71,
+    "timestamp": "00:04:10,040 --> 00:04:11,520",
+    "source": "Pause the video in one minute.",
+    "target": "一分鐘後暫停影片。"
+  },
+  {
+    "lesson": "4",
+    "segment": 72,
+    "timestamp": "00:04:13,440 --> 00:04:16,400",
+    "source": "We can clearly see two basic ways to form plural nouns,",
+    "target": "我們可以清楚地看到構成 名詞複數的兩種基本方法，"
+  },
+  {
+    "lesson": "4",
+    "segment": 73,
+    "timestamp": "00:04:16,520 --> 00:04:20,574",
+    "source": "adding S as shown in the first two examples and adding ES as",
+    "target": "如前兩個例子所示新增 s， 以及在其餘範例中如所示"
+  },
+  {
+    "lesson": "4",
+    "segment": 74,
+    "timestamp": "00:04:20,640 --> 00:04:21,880",
+    "source": "in the remaining examples.",
+    "target": "加上 es。"
+  },
+  {
+    "lesson": "4",
+    "segment": 75,
+    "timestamp": "00:04:24,360 --> 00:04:26,960",
+    "source": "Have you noticed a pattern with the words that take S?",
+    "target": "大家有沒有註意到以字母 s 結尾 的單字有什麼規律？"
+  },
+  {
+    "lesson": "4",
+    "segment": 76,
+    "timestamp": "00:04:27,280 --> 00:04:29,200",
+    "source": "Pay attention to the endings of the nouns.",
+    "target": "注意名詞的字尾。"
+  },
+  {
+    "lesson": "4",
+    "segment": 77,
+    "timestamp": "00:04:29,480 --> 00:04:31,934",
+    "source": "We add '-ES' if the noun ends in '-CH'",
+    "target": "如果名詞是以 -CH 結尾， 就在名詞後面加上 -ES，"
+  },
+  {
+    "lesson": "4",
+    "segment": 79,
+    "timestamp": "00:04:37,040 --> 00:04:42,000",
+    "source": "'-X' like 'boxes', '-Z' like 'quizzes', and '-O' like 'potatoes'.",
+    "target": "以 -X 結尾，比如 boxes；以 -Z 結尾，比如 quizzes； 以及以 -O 結尾，比如 potatoes。"
+  },
+  {
+    "lesson": "4",
+    "segment": 80,
+    "timestamp": "00:04:42,440 --> 00:04:45,720",
+    "source": "Remember that there are exceptions to the rule for nouns ending in O.",
+    "target": "請記住，以 O 結尾的名詞 也有例外。"
+  },
+  {
+    "lesson": "4",
+    "segment": 81,
+    "timestamp": "00:04:46,040 --> 00:04:49,800",
+    "source": "Some only take S, such as pianos, photos, and radios.",
+    "target": "有些名詞只加上 s，比如 pianos、 photos 和 radios。"
+  },
+  {
+    "lesson": "4",
+    "segment": 82,
+    "timestamp": "00:04:50,080 --> 00:04:53,720",
+    "source": "However, in most other cases, we add S to indicate the plural.",
+    "target": "但在大多數其他情況下， 我們會在後面加上 S 來表示複數。"
+  },
+  {
+    "lesson": "4",
+    "segment": 83,
+    "timestamp": "00:04:55,880 --> 00:04:57,200",
+    "source": "These are general rules.",
+    "target": "這些是一般性規則。"
+  },
+  {
+    "lesson": "4",
+    "segment": 84,
+    "timestamp": "00:04:57,560 --> 00:05:00,360",
+    "source": "Of course, there are exceptions because this is English.",
+    "target": "當然，也存在例外情況， 因為這是英語。"
+  },
+  {
+    "lesson": "4",
+    "segment": 85,
+    "timestamp": "00:05:00,840 --> 00:05:03,694",
+    "source": "But don't worry, with your effort and regular practice,",
+    "target": "但別擔心， 只要大家努力練習，堅持不懈，"
+  },
+  {
+    "lesson": "4",
+    "segment": 86,
+    "timestamp": "00:05:03,760 --> 00:05:05,960",
+    "source": "you'll quickly memorize and apply them all.",
+    "target": "就會很快記住並且運用它們。"
+  },
+  {
+    "lesson": "4",
+    "segment": 87,
+    "timestamp": "00:05:06,200 --> 00:05:09,480",
+    "source": "Now, let's examine the following examples and deduce the rules.",
+    "target": "現在，讓我們來看下面的例子， 並且從中找出規律。"
+  },
+  {
+    "lesson": "4",
+    "segment": 89,
+    "timestamp": "00:05:12,920 --> 00:05:16,814",
+    "source": "If a noun ends in a consonant followed by Y, like 'baby', we change",
+    "target": "如果名詞以子音後面跟著 Y 結尾， 比如 baby，我們將 Y 改為 I，"
+  },
+  {
+    "lesson": "4",
+    "segment": 90,
+    "timestamp": "00:05:16,880 --> 00:05:19,440",
+    "source": "the Y to I and add -ES, 'babies'.",
+    "target": "並加上 -ES，即 babies。"
+  },
+  {
+    "lesson": "4",
+    "segment": 91,
+    "timestamp": "00:05:20,200 --> 00:05:23,920",
+    "source": "Conversely, if a noun ends in a vowel followed by Y, like 'key',",
+    "target": "反之，如果名詞是以母音字母 Y 結尾， 比如 key，則只需"
+  },
+  {
+    "lesson": "4",
+    "segment": 92,
+    "timestamp": "00:05:24,120 --> 00:05:26,880",
+    "source": "we simply add -S, for example, 'keys'.",
+    "target": "添加 -S，比如 keys。"
+  },
+  {
+    "lesson": "4",
+    "segment": 93,
+    "timestamp": "00:05:27,480 --> 00:05:32,960",
+    "source": "Next, for a noun ending in F or FE, we usually change the F or FE",
+    "target": "接下來，以 F 或 FE 結尾的名詞， 我們通常會將 F 或 FE 改為 V，"
+  },
+  {
+    "lesson": "4",
+    "segment": 95,
+    "timestamp": "00:05:36,200 --> 00:05:38,480",
+    "source": "For example, 'knife' becomes 'knives'.",
+    "target": "例如，knife 變成 knives。"
+  },
+  {
+    "lesson": "4",
+    "segment": 96,
+    "timestamp": "00:05:38,840 --> 00:05:42,160",
+    "source": "However, as always in English, the language of exceptions,",
+    "target": "然而，正如英語這個例外充斥 的語言一貫如此，"
+  },
+  {
+    "lesson": "4",
+    "segment": 97,
+    "timestamp": "00:05:42,560 --> 00:05:47,214",
+    "source": "nouns ending in EF, IEF, IFF, OOF, only",
+    "target": "以 EF、IEF、IFF、OOF 結尾的名詞，"
+  },
+  {
+    "lesson": "4",
+    "segment": 99,
+    "timestamp": "00:05:50,200 --> 00:05:51,640",
+    "source": "for example, 'chef' becomes 'chefs'.",
+    "target": "例如，chef 變成 chefs。"
+  },
+  {
+    "lesson": "4",
+    "segment": 100,
+    "timestamp": "00:05:52,280 --> 00:05:55,800",
+    "source": "Pause the video for 45 seconds to think about these examples.",
+    "target": "暫停影片 45 秒， 思考一下這些例子。"
+  },
+  {
+    "lesson": "4",
+    "segment": 101,
+    "timestamp": "00:05:57,920 --> 00:06:01,200",
+    "source": "Some English nouns have identical singular and plural forms.",
+    "target": "有些英語名詞的 單數和複數形式相同。"
+  },
+  {
+    "lesson": "4",
+    "segment": 102,
+    "timestamp": "00:06:01,520 --> 00:06:03,680",
+    "source": "The most common words in this group are 'deer',",
+    "target": "最常見的這類單字是 deer、"
+  },
+  {
+    "lesson": "4",
+    "segment": 103,
+    "timestamp": "00:06:04,440 --> 00:06:07,360",
+    "source": "'fish', 'means', 'sheep'.",
+    "target": "fish、means、sheep。"
+  },
+  {
+    "lesson": "4",
+    "segment": 104,
+    "timestamp": "00:06:09,320 --> 00:06:12,720",
+    "source": "Finally, we have a group of nine common irregular nouns,",
+    "target": "最後，我們有 9 個常見的不規則名詞， 這意味著它們的複數形式"
+  },
+  {
+    "lesson": "4",
+    "segment": 105,
+    "timestamp": "00:06:12,880 --> 00:06:16,774",
+    "source": "meaning their plural forms change entirely, not just by adding",
+    "target": "完全不同，而不只是像其他情況那樣"
+  },
+  {
+    "lesson": "4",
+    "segment": 106,
+    "timestamp": "00:06:16,840 --> 00:06:18,840",
+    "source": "-S or -ES like in other cases.",
+    "target": "僅添加 -S 或 -ES。"
+  },
+  {
+    "lesson": "4",
+    "segment": 107,
+    "timestamp": "00:06:19,360 --> 00:06:23,720",
+    "source": "These words are 'man', 'woman', 'child', 'ox',",
+    "target": "這些單字為 man、woman、child、ox、"
+  },
+  {
+    "lesson": "4",
+    "segment": 108,
+    "timestamp": "00:06:24,320 --> 00:06:28,920",
+    "source": "'foot', 'goose', 'tooth', 'mouse', 'louse',",
+    "target": "foot、goose、tooth、mouse、louse，"
+  },
+  {
+    "lesson": "4",
+    "segment": 109,
+    "timestamp": "00:06:29,600 --> 00:06:36,120",
+    "source": "and their plural forms are 'men', 'women', 'children', 'oxen', 'feet',",
+    "target": "它們的複數形式是 men、 women、children、oxen、feet、"
+  },
+  {
+    "lesson": "4",
+    "segment": 110,
+    "timestamp": "00:06:36,640 --> 00:06:40,360",
+    "source": "'geese', 'teeth', 'mice', 'lice'.",
+    "target": "geese、teeth、mice、lice。"
+  },
+  {
+    "lesson": "4",
+    "segment": 112,
+    "timestamp": "00:06:43,760 --> 00:06:44,680",
+    "source": "Here's a summary.",
+    "target": "以下是總結。"
+  },
+  {
+    "lesson": "4",
+    "segment": 113,
+    "timestamp": "00:06:46,080 --> 00:06:47,040",
+    "source": "The general rule:",
+    "target": "一般規則："
+  },
+  {
+    "lesson": "4",
+    "segment": 114,
+    "timestamp": "00:06:47,640 --> 00:06:49,360",
+    "source": "add -S or -ES after the noun.",
+    "target": "名詞後面加上 -S 或 -ES。"
+  },
+  {
+    "lesson": "4",
+    "segment": 115,
+    "timestamp": "00:06:50,040 --> 00:06:54,840",
+    "source": "Add -ES to noun ending in -CH, -SH, -S, -X, -Z, and -O, with some exceptions.",
+    "target": "以 -CH、-SH、-S、-X、-Z 和 -O 結尾的 名詞後加 -ES，但是也有一些例外。"
+  },
+  {
+    "lesson": "4",
+    "segment": 116,
+    "timestamp": "00:06:55,440 --> 00:06:56,320",
+    "source": "The other cases:",
+    "target": "其他情況："
+  },
+  {
+    "lesson": "4",
+    "segment": 117,
+    "timestamp": "00:06:56,920 --> 00:07:00,960",
+    "source": "Nouns ending in consonant plus Y, change Y to I and add ES.",
+    "target": "以子音字母加上 Y 結尾的名詞 ，將 Y 改為 I，再加上 ES。"
+  },
+  {
+    "lesson": "4",
+    "segment": 118,
+    "timestamp": "00:07:01,560 --> 00:07:03,960",
+    "source": "Nouns ending in vowel plus Y, add S.",
+    "target": "以母音字母加 Y 結尾的名詞，加上 S。"
+  },
+  {
+    "lesson": "4",
+    "segment": 119,
+    "timestamp": "00:07:04,560 --> 00:07:08,640",
+    "source": "Nouns ending in F/FE, usually change to V and add ES.",
+    "target": "以 F/FE 結尾的名詞， 通常會變成 V 並加上 ES。"
+  },
+  {
+    "lesson": "4",
+    "segment": 120,
+    "timestamp": "00:07:14,080 --> 00:07:18,534",
+    "source": "Nouns ending in -EF, -IEF, -IFF, -OOF, add S.",
+    "target": "以 -EF、-IEF、-IFF、-OOF 結尾的名詞，加上 S。"
+  },
+  {
+    "lesson": "4",
+    "segment": 121,
+    "timestamp": "00:07:18,600 --> 00:07:21,400",
+    "source": "Some nouns have identical singular and plural forms.",
+    "target": "有些名詞的單數形式 和複數形式相同。"
+  },
+  {
+    "lesson": "4",
+    "segment": 122,
+    "timestamp": "00:07:22,120 --> 00:07:23,560",
+    "source": "Nine irregular nouns.",
+    "target": "9 個不規則名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 123,
+    "timestamp": "00:07:24,040 --> 00:07:26,080",
+    "source": "Did everyone have time to note down all the cases?",
+    "target": "大家都把所有的內容都記下來嗎？"
+  },
+  {
+    "lesson": "4",
+    "segment": 124,
+    "timestamp": "00:07:26,480 --> 00:07:29,774",
+    "source": "If so, please pause the video to review them, then come back",
+    "target": "如果是這樣，請暫停影片查看 這些內容，然後再一起完成"
+  },
+  {
+    "lesson": "4",
+    "segment": 125,
+    "timestamp": "00:07:29,840 --> 00:07:31,160",
+    "source": "for final exercise together.",
+    "target": "最後的練習。"
+  },
+  {
+    "lesson": "4",
+    "segment": 126,
+    "timestamp": "00:07:34,880 --> 00:07:36,520",
+    "source": "Ready? Let's begin.",
+    "target": "準備好了嗎？ 我們開始吧。"
+  },
+  {
+    "lesson": "4",
+    "segment": 127,
+    "timestamp": "00:07:36,840 --> 00:07:38,360",
+    "source": "On the screen, you'll see two columns.",
+    "target": "螢幕上會顯示兩個縱行。"
+  },
+  {
+    "lesson": "4",
+    "segment": 128,
+    "timestamp": "00:07:38,800 --> 00:07:42,600",
+    "source": "Your task is to write the plural form of the given singular nouns.",
+    "target": "大家的任務是寫出 下列單數名詞的複數。"
+  },
+  {
+    "lesson": "4",
+    "segment": 129,
+    "timestamp": "00:07:42,920 --> 00:07:44,620",
+    "source": "Go ahead and start practicing.",
+    "target": "開始練習吧。"
+  },
+  {
+    "lesson": "4",
+    "segment": 130,
+    "timestamp": "00:07:46,200 --> 00:07:47,000",
+    "source": "Have you finished?",
+    "target": "大家都做完了嗎？"
+  },
+  {
+    "lesson": "4",
+    "segment": 131,
+    "timestamp": "00:07:47,360 --> 00:07:51,040",
+    "source": "Pause the video to compare your answers with the correct ones on the screen.",
+    "target": "暫停影片，將你的答案與螢幕上的 正確答案進行比較。"
+  },
+  {
+    "lesson": "4",
+    "segment": 132,
+    "timestamp": "00:07:53,120 --> 00:07:56,240",
+    "source": "We've covered many things today, but it's incredibly useful information.",
+    "target": "我們今天討論了很多內容， 但是這些資訊都非常有用。"
+  },
+  {
+    "lesson": "4",
+    "segment": 133,
+    "timestamp": "00:07:56,880 --> 00:08:00,574",
+    "source": "This knowledge will come in handy later when we tackle verb conjugation",
+    "target": "這些知識在之後我們 學習 TOEIC 考試中的"
+  },
+  {
+    "lesson": "4",
+    "segment": 134,
+    "timestamp": "00:08:00,640 --> 00:08:02,440",
+    "source": "exercises in the TOEIC test.",
+    "target": "動詞變化習題時會派上用場。"
+  },
+  {
+    "lesson": "4",
+    "segment": 135,
+    "timestamp": "00:08:04,000 --> 00:08:07,760",
+    "source": "To help you remember everything we've learned, here's a mini challenge.",
+    "target": "為了幫助大家記住我們所學的所有內容， 這裡有一個小挑戰。"
+  },
+  {
+    "lesson": "4",
+    "segment": 136,
+    "timestamp": "00:08:08,080 --> 00:08:11,534",
+    "source": "I'll give you three sentences, each containing an error related",
+    "target": "我將給大家三個句子， 各個句子都包含一個"
+  },
+  {
+    "lesson": "4",
+    "segment": 137,
+    "timestamp": "00:08:11,600 --> 00:08:12,920",
+    "source": "to nouns and their number.",
+    "target": "與名詞及其數量相關的錯誤。"
+  },
+  {
+    "lesson": "4",
+    "segment": 138,
+    "timestamp": "00:08:13,360 --> 00:08:16,400",
+    "source": "You have 40 seconds to identify and correct these mistakes.",
+    "target": "你有 40 秒的時間來找出 並修正這些錯誤。"
+  },
+  {
+    "lesson": "4",
+    "segment": 139,
+    "timestamp": "00:08:16,760 --> 00:08:17,200",
+    "source": "Ready?",
+    "target": "準備好了嗎？"
+  },
+  {
+    "lesson": "4",
+    "segment": 140,
+    "timestamp": "00:08:17,640 --> 00:08:20,280",
+    "source": "Pause the video for 40 seconds to do this exercise.",
+    "target": "請暫停影片 40 秒 完成下列練習。"
+  },
+  {
+    "lesson": "4",
+    "segment": 142,
+    "timestamp": "00:08:26,520 --> 00:08:30,800",
+    "source": "Remember that it refers to a natural phenomenon, making it an uncountable noun.",
+    "target": "請記住，它指的是一種自然現象， 因此是不可數名詞。"
+  },
+  {
+    "lesson": "4",
+    "segment": 143,
+    "timestamp": "00:08:31,240 --> 00:08:32,680",
+    "source": "Therefore, it cannot be plural.",
+    "target": "因此，它不可能是複數形式。"
+  },
+  {
+    "lesson": "4",
+    "segment": 144,
+    "timestamp": "00:08:33,040 --> 00:08:35,320",
+    "source": "We need to change 'sunshines' to 'sunshine'.",
+    "target": "我們需要把 sunshines 改成 sunshine。"
+  },
+  {
+    "lesson": "4",
+    "segment": 145,
+    "timestamp": "00:08:35,840 --> 00:08:39,734",
+    "source": "The second sentence includes the word 'series', which falls under the category",
+    "target": "第二句中有 series 一字， 此單字屬於名詞範疇，"
+  },
+  {
+    "lesson": "4",
+    "segment": 146,
+    "timestamp": "00:08:39,800 --> 00:08:42,680",
+    "source": "of noun with identical singular and plural forms.",
+    "target": "單數和複數形式相同。"
+  },
+  {
+    "lesson": "4",
+    "segment": 147,
+    "timestamp": "00:08:43,000 --> 00:08:46,960",
+    "source": "To make it grammatically correct, we simply remove the ES at the end,",
+    "target": "為了使其語法正確， 我們只需刪除末尾的 ES，"
+  },
+  {
+    "lesson": "4",
+    "segment": 148,
+    "timestamp": "00:08:47,160 --> 00:08:48,480",
+    "source": "leaving it as 'series'.",
+    "target": "將其保留為 series。"
+  },
+  {
+    "lesson": "4",
+    "segment": 149,
+    "timestamp": "00:08:49,040 --> 00:08:51,160",
+    "source": "The last sentence presents another exception.",
+    "target": "最後一句中有另一個例外情況。"
+  },
+  {
+    "lesson": "4",
+    "segment": 150,
+    "timestamp": "00:08:51,640 --> 00:08:56,600",
+    "source": "While 'piano' does end in O, we only add S instead of ES to form its plural.",
+    "target": "雖然 piano 以 O 結尾，但我們只在後面 加 S 而不是 ES 來構成它的複數形式。"
+  },
+  {
+    "lesson": "4",
+    "segment": 151,
+    "timestamp": "00:08:57,040 --> 00:08:58,720",
+    "source": "So we change 'pianoes' to 'pianos'.",
+    "target": "所以我們將 pianoes 改為 pianos。"
+  },
+  {
+    "lesson": "4",
+    "segment": 152,
+    "timestamp": "00:09:00,920 --> 00:09:05,694",
+    "source": "Today, we explored countable nouns and uncountable nouns, as well as the",
+    "target": "今天，我們探討了可數名詞 和不可數名詞，以及"
+  },
+  {
+    "lesson": "4",
+    "segment": 153,
+    "timestamp": "00:09:05,760 --> 00:09:08,440",
+    "source": "rules for singular nouns and plural nouns.",
+    "target": "單數名詞和複數名詞的規則。"
+  },
+  {
+    "lesson": "4",
+    "segment": 154,
+    "timestamp": "00:09:08,760 --> 00:09:12,640",
+    "source": "Remember to take notes for easy review and apply this knowledge to your homework.",
+    "target": "別忘了記筆記以便複習，並且 將這些知識運用到你的作業中。"
+  },
+  {
+    "lesson": "4",
+    "segment": 155,
+    "timestamp": "00:09:13,120 --> 00:09:17,080",
+    "source": "This will deepen your understanding and help you retain the information long term.",
+    "target": "這將加深你的理解，並且 幫助大家長期記住這些資訊。"
+  },
+  {
+    "lesson": "4",
+    "segment": 156,
+    "timestamp": "00:09:17,600 --> 00:09:18,880",
+    "source": "See you in our next lesson.",
+    "target": "下堂課再見。"
+  },
+  {
+    "lesson": "4",
+    "segment": 157,
+    "timestamp": "00:09:19,280 --> 00:09:20,480",
+    "source": "Goodbye and see you next time.",
+    "target": "再見，下次見。"
+  },
+  {
+    "lesson": "5",
+    "segment": 1,
+    "timestamp": "00:00:07,120 --> 00:00:08,520",
+    "source": "Hello and welcome back.",
+    "target": "大家好，歡迎回到本課程。"
+  },
+  {
+    "lesson": "5",
+    "segment": 2,
+    "timestamp": "00:00:08,960 --> 00:00:11,840",
+    "source": "It's a beautiful day to learn something new, and here's another",
+    "target": "今天是個學習新知識的好日子， Prep 又為我們帶來了一堂"
+  },
+  {
+    "lesson": "5",
+    "segment": 4,
+    "timestamp": "00:00:13,640 --> 00:00:17,480",
+    "source": "Welcome you all to the last lesson on nouns in the Basic Grammar Course.",
+    "target": "歡迎來到基礎文法 課程中名詞的最後一課。"
+  },
+  {
+    "lesson": "5",
+    "segment": 5,
+    "timestamp": "00:00:18,000 --> 00:00:20,240",
+    "source": "Have you ever seen the symbol S in English?",
+    "target": "大家見過 英文符號 S 嗎？"
+  },
+  {
+    "lesson": "5",
+    "segment": 6,
+    "timestamp": "00:00:20,560 --> 00:00:24,894",
+    "source": "I guess you have seen it a lot, but S has different meanings and uses",
+    "target": "我想大家可能已經見過很多次了， 但是 S 有不同的含義和用法，"
+  },
+  {
+    "lesson": "5",
+    "segment": 7,
+    "timestamp": "00:00:24,960 --> 00:00:26,920",
+    "source": "that not everyone knows all of them.",
+    "target": "並不是每個人都知道全部。"
+  },
+  {
+    "lesson": "5",
+    "segment": 8,
+    "timestamp": "00:00:27,320 --> 00:00:30,254",
+    "source": "So through this lesson, we will understand more about its use",
+    "target": "因此，透過本節課， 我們將更深入了解其用途。"
+  },
+  {
+    "lesson": "5",
+    "segment": 9,
+    "timestamp": "00:00:30,333 --> 00:00:31,867",
+    "source": "with the main goal being:",
+    "target": "我們的主要目標是："
+  },
+  {
+    "lesson": "5",
+    "segment": 11,
+    "timestamp": "00:00:35,160 --> 00:00:37,160",
+    "source": "Master the possessive case of nouns.",
+    "target": "掌握名詞所有格。"
+  },
+  {
+    "lesson": "5",
+    "segment": 13,
+    "timestamp": "00:00:44,160 --> 00:00:45,800",
+    "source": "Let's start with an example.",
+    "target": "我們先來看一個例子。"
+  },
+  {
+    "lesson": "5",
+    "segment": 14,
+    "timestamp": "00:00:46,320 --> 00:00:48,640",
+    "source": "This is Sam. He bought a book at a store.",
+    "target": "This is Sam. He bought a book at a store."
+  },
+  {
+    "lesson": "5",
+    "segment": 15,
+    "timestamp": "00:00:49,200 --> 00:00:50,040",
+    "source": "This is Sam's book.",
+    "target": "This is Sam's book."
+  },
+  {
+    "lesson": "5",
+    "segment": 16,
+    "timestamp": "00:00:50,480 --> 00:00:52,400",
+    "source": "What does the S in this sentence represent?",
+    "target": "這個句子裡的 s 代表什麼？"
+  },
+  {
+    "lesson": "5",
+    "segment": 17,
+    "timestamp": "00:00:52,840 --> 00:00:54,840",
+    "source": "Is it an abbreviation of the verb to be?",
+    "target": "它是動詞 to be 的縮寫嗎？"
+  },
+  {
+    "lesson": "5",
+    "segment": 18,
+    "timestamp": "00:00:55,120 --> 00:00:57,720",
+    "source": "If so, the sentence will become Sam's Book.",
+    "target": "如果是這樣，那麼這個句子 就會變成 Sam's Book。"
+  },
+  {
+    "lesson": "5",
+    "segment": 19,
+    "timestamp": "00:00:58,000 --> 00:00:59,800",
+    "source": "It doesn't sound very reasonable, right?",
+    "target": "聽起來不太合理，對吧？"
+  },
+  {
+    "lesson": "5",
+    "segment": 20,
+    "timestamp": "00:01:00,000 --> 00:01:02,960",
+    "source": "Obviously, Sam is a person and he cannot be a book.",
+    "target": "顯然，Sam 是一個人， 他不可能變成一本書。"
+  },
+  {
+    "lesson": "5",
+    "segment": 21,
+    "timestamp": "00:01:03,240 --> 00:01:04,640",
+    "source": "So what is in this case?",
+    "target": "那麼，這到底是怎麼回事呢？"
+  },
+  {
+    "lesson": "5",
+    "segment": 22,
+    "timestamp": "00:01:05,080 --> 00:01:08,240",
+    "source": "Sam bought the book, so that book belongs to Sam, or Sam's book.",
+    "target": "Sam 買了這本書，所以書是 屬於 Sam 的，或是 Sam 的書。"
+  },
+  {
+    "lesson": "5",
+    "segment": 23,
+    "timestamp": "00:01:08,640 --> 00:01:10,480",
+    "source": "The S here is used to indicate possession.",
+    "target": "這裡的 s 用來表示所有格。"
+  },
+  {
+    "lesson": "5",
+    "segment": 24,
+    "timestamp": "00:01:10,880 --> 00:01:14,014",
+    "source": "A noun in English can possess another noun, and that case is",
+    "target": "英語中的名詞可以 擁有另一個名詞，"
+  },
+  {
+    "lesson": "5",
+    "segment": 25,
+    "timestamp": "00:01:14,080 --> 00:01:15,160",
+    "source": "called possessive case.",
+    "target": "這種形式稱為所有格。"
+  },
+  {
+    "lesson": "5",
+    "segment": 27,
+    "timestamp": "00:01:21,800 --> 00:01:23,228",
+    "source": "and 'book' is noun number two.",
+    "target": "Book 就是名詞 2。"
+  },
+  {
+    "lesson": "5",
+    "segment": 28,
+    "timestamp": "00:01:23,280 --> 00:01:27,040",
+    "source": "Convert this phrase into symbolic form, then we will have N1's N2.",
+    "target": "將這個片語轉換為符號形式， 然後我們將得到 N1's N2。"
+  },
+  {
+    "lesson": "5",
+    "segment": 29,
+    "timestamp": "00:01:27,560 --> 00:01:32,000",
+    "source": "In this case, noun one is the possessive noun and noun two is the possessed noun.",
+    "target": "在這種情況下，名詞 1 是所有格名詞， 名詞 2 是被所有格名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 30,
+    "timestamp": "00:01:32,320 --> 00:01:35,920",
+    "source": "So does the possessive case simply involve adding \"s\" between two nouns?",
+    "target": "那麼所有格是不是只要在 兩個名詞之間加上 s 就行了？"
+  },
+  {
+    "lesson": "5",
+    "segment": 32,
+    "timestamp": "00:01:40,480 --> 00:01:42,520",
+    "source": "Decide if there is any that sounds wrong.",
+    "target": "判斷其中是否有任何聽起來不妥的地方。"
+  },
+  {
+    "lesson": "5",
+    "segment": 33,
+    "timestamp": "00:01:42,840 --> 00:01:45,680",
+    "source": "You can pause the video for one minute to do this exercise,",
+    "target": "可暫停影片一分鐘來完成這個練習，"
+  },
+  {
+    "lesson": "5",
+    "segment": 34,
+    "timestamp": "00:01:45,880 --> 00:01:47,160",
+    "source": "then I will explain the answer.",
+    "target": "然後我會講解答案。"
+  },
+  {
+    "lesson": "5",
+    "segment": 35,
+    "timestamp": "00:01:47,720 --> 00:01:50,414",
+    "source": "Decide whether the possessive case is used correctly in each",
+    "target": "判斷下列各句所有格的使用"
+  },
+  {
+    "lesson": "5",
+    "segment": 36,
+    "timestamp": "00:01:50,480 --> 00:01:52,060",
+    "source": "of the following sentences.",
+    "target": "是否正確。"
+  },
+  {
+    "lesson": "5",
+    "segment": 37,
+    "timestamp": "00:01:53,720 --> 00:01:55,680",
+    "source": "All right, guys, have you all got the answers?",
+    "target": "好了，各位，大家都找到答案了嗎？"
+  },
+  {
+    "lesson": "5",
+    "segment": 38,
+    "timestamp": "00:01:56,280 --> 00:01:57,520",
+    "source": "The third sentence is wrong.",
+    "target": "第三個句子是錯的。"
+  },
+  {
+    "lesson": "5",
+    "segment": 39,
+    "timestamp": "00:01:57,800 --> 00:01:58,840",
+    "source": "And why is that wrong?",
+    "target": "為什麼它是錯的呢？"
+  },
+  {
+    "lesson": "5",
+    "segment": 40,
+    "timestamp": "00:01:59,200 --> 00:02:00,930",
+    "source": "Let's take a closer Let's take a look at it.",
+    "target": "我們仔細看看。"
+  },
+  {
+    "lesson": "5",
+    "segment": 41,
+    "timestamp": "00:02:01,000 --> 00:02:02,720",
+    "source": "The book's cover is very beautiful.",
+    "target": "The book's cover is very beautiful."
+  },
+  {
+    "lesson": "5",
+    "segment": 42,
+    "timestamp": "00:02:03,600 --> 00:02:07,320",
+    "source": "The possessive noun here is \"the book\" while the possessed noun is \"cover\".",
+    "target": "這裡的所有格名詞是 the book， 而被所有格名詞是 cover。"
+  },
+  {
+    "lesson": "5",
+    "segment": 43,
+    "timestamp": "00:02:07,600 --> 00:02:10,654",
+    "source": "But this sentence is wrong, which shows that things or objects",
+    "target": "不過這句話是錯的，因為"
+  },
+  {
+    "lesson": "5",
+    "segment": 44,
+    "timestamp": "00:02:10,720 --> 00:02:13,960",
+    "source": "in English will generally not have a possessive case.",
+    "target": "英語中的事物或物體 通常沒有所有格。"
+  },
+  {
+    "lesson": "5",
+    "segment": 45,
+    "timestamp": "00:02:14,280 --> 00:02:17,320",
+    "source": "Instead, we will have to write it as the cover of the book,",
+    "target": "相反，我們必須將其寫成 the cover of the book，"
+  },
+  {
+    "lesson": "5",
+    "segment": 46,
+    "timestamp": "00:02:17,480 --> 00:02:19,680",
+    "source": "whose structure is N1 of N2.",
+    "target": "其結構為 N1 of N2。"
+  },
+  {
+    "lesson": "5",
+    "segment": 47,
+    "timestamp": "00:02:20,120 --> 00:02:24,600",
+    "source": "In this case, noun one is the possessed noun, and noun two is the possessive noun.",
+    "target": "在這種情況下，名詞 1 是被所有格名詞， 名詞 2 是所有格名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 48,
+    "timestamp": "00:02:25,320 --> 00:02:27,120",
+    "source": "So in which cases can it be used?",
+    "target": "那麼，它可以使用在什麼情況下呢？"
+  },
+  {
+    "lesson": "5",
+    "segment": 49,
+    "timestamp": "00:02:27,240 --> 00:02:30,720",
+    "source": "Let's look back at the correct sentences to summarize the knowledge.",
+    "target": "讓我們回顧一下正確的 句子，總結所學內容。"
+  },
+  {
+    "lesson": "5",
+    "segment": 50,
+    "timestamp": "00:02:32,120 --> 00:02:36,174",
+    "source": "\"Father\" is a noun referring to a person, which is definitely a group of nouns",
+    "target": "Father 是指人的名詞， 這當然是一類可以與"
+  },
+  {
+    "lesson": "5",
+    "segment": 51,
+    "timestamp": "00:02:36,240 --> 00:02:38,120",
+    "source": "that can be used with the possessive case.",
+    "target": "所有格一起使用的名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 52,
+    "timestamp": "00:02:38,680 --> 00:02:41,694",
+    "source": "\"Cat\" is an animal, so noun referring to animals can also",
+    "target": "Cat 是一種動物， 所以指涉動物的名詞"
+  },
+  {
+    "lesson": "5",
+    "segment": 53,
+    "timestamp": "00:02:41,760 --> 00:02:43,520",
+    "source": "be used with the possessive case.",
+    "target": "也可以使用所有格。"
+  },
+  {
+    "lesson": "5",
+    "segment": 54,
+    "timestamp": "00:02:44,000 --> 00:02:45,720",
+    "source": "\"Minute\" is a noun referring to time.",
+    "target": "Minute 表示時間的名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 55,
+    "timestamp": "00:02:46,040 --> 00:02:49,854",
+    "source": "Remember, familiar concepts related to time and place can also be",
+    "target": "請記住，與時間和地點相關的 熟悉概念也可以跟"
+  },
+  {
+    "lesson": "5",
+    "segment": 56,
+    "timestamp": "00:02:49,920 --> 00:02:51,160",
+    "source": "used with the possessive case.",
+    "target": "所有格一起使用。"
+  },
+  {
+    "lesson": "5",
+    "segment": 57,
+    "timestamp": "00:02:52,640 --> 00:02:56,320",
+    "source": "In this sentence, \"baker's\" is the possessive form of the noun",
+    "target": "在這個句子中， baker's 是名詞 baker 的"
+  },
+  {
+    "lesson": "5",
+    "segment": 58,
+    "timestamp": "00:02:56,480 --> 00:02:59,014",
+    "source": "\"baker\", referring to the place where the baker",
+    "target": "所有格形式，指的是麵包師傅"
+  },
+  {
+    "lesson": "5",
+    "segment": 59,
+    "timestamp": "00:02:59,080 --> 00:03:01,600",
+    "source": "works or sells bread, that is, the bakery.",
+    "target": "工作或出售麵包的地方， 也就是麵包店。"
+  },
+  {
+    "lesson": "5",
+    "segment": 60,
+    "timestamp": "00:03:02,000 --> 00:03:07,014",
+    "source": "We use the possessive case, \"baker's\", to imply the location of the baker's",
+    "target": "我們使用所有格 baker's 來表示麵包師的工作場所，"
+  },
+  {
+    "lesson": "5",
+    "segment": 61,
+    "timestamp": "00:03:07,080 --> 00:03:11,080",
+    "source": "workplace without needing to add another noun like \"shop\" or \"store\".",
+    "target": "而無需添加像 shop 或 store 這樣的其他名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 62,
+    "timestamp": "00:03:11,640 --> 00:03:16,054",
+    "source": "This construction is common with certain professions where the possessive form not",
+    "target": "這種結構在某些職業中 很常見，所有格形式"
+  },
+  {
+    "lesson": "5",
+    "segment": 63,
+    "timestamp": "00:03:16,120 --> 00:03:20,240",
+    "source": "only refers to the person, but also to the place associated with their work.",
+    "target": "不僅指人，也指與 其工作相關的地點。"
+  },
+  {
+    "lesson": "5",
+    "segment": 64,
+    "timestamp": "00:03:20,760 --> 00:03:21,440",
+    "source": "Next one.",
+    "target": "下一題。"
+  },
+  {
+    "lesson": "5",
+    "segment": 65,
+    "timestamp": "00:03:21,600 --> 00:03:24,774",
+    "source": "This is also a quite common use of the possessive case when we don't want",
+    "target": "如果我們不想重複名詞 這也是所有格的一種"
+  },
+  {
+    "lesson": "5",
+    "segment": 66,
+    "timestamp": "00:03:24,840 --> 00:03:26,600",
+    "source": "to repeat the noun to avoid repetition.",
+    "target": "相當常見的用法，以避免重複時。"
+  },
+  {
+    "lesson": "5",
+    "segment": 67,
+    "timestamp": "00:03:26,840 --> 00:03:28,880",
+    "source": "Just leave the possessive noun followed by S.",
+    "target": "只要保留所有格名詞， 後面跟著 s。"
+  },
+  {
+    "lesson": "5",
+    "segment": 68,
+    "timestamp": "00:03:29,160 --> 00:03:31,920",
+    "source": "In the sentence \"Julie's\" means \"Julie's book\".",
+    "target": "句子中的 Julie's 指的是 Julie's book。"
+  },
+  {
+    "lesson": "5",
+    "segment": 69,
+    "timestamp": "00:03:32,400 --> 00:03:35,480",
+    "source": "Government is the group of people who are responsible for controlling",
+    "target": "Government 是指負責 管理一個國家或地區的"
+  },
+  {
+    "lesson": "5",
+    "segment": 70,
+    "timestamp": "00:03:35,546 --> 00:03:36,720",
+    "source": "a country or a state.",
+    "target": "一群人。"
+  },
+  {
+    "lesson": "5",
+    "segment": 71,
+    "timestamp": "00:03:37,120 --> 00:03:39,694",
+    "source": "In general, nouns referring to organizations can",
+    "target": "一般來說， 指涉組織的名詞"
+  },
+  {
+    "lesson": "5",
+    "segment": 72,
+    "timestamp": "00:03:39,760 --> 00:03:41,600",
+    "source": "also be used with the possessive case.",
+    "target": "也可以與所有格連用。"
+  },
+  {
+    "lesson": "5",
+    "segment": 73,
+    "timestamp": "00:03:43,120 --> 00:03:47,174",
+    "source": "Now, let's take about 30 seconds to review the summary table on the",
+    "target": "現在，讓我們花大約30 秒鐘複習"
+  },
+  {
+    "lesson": "5",
+    "segment": 74,
+    "timestamp": "00:03:47,240 --> 00:03:48,560",
+    "source": "possessive form of noun.",
+    "target": "名詞所有格形式總結表。"
+  },
+  {
+    "lesson": "5",
+    "segment": 75,
+    "timestamp": "00:03:50,480 --> 00:03:52,400",
+    "source": "That's just about the cases of use.",
+    "target": "以上就是關於使用個案。"
+  },
+  {
+    "lesson": "5",
+    "segment": 76,
+    "timestamp": "00:03:52,600 --> 00:03:54,400",
+    "source": "Now, let's learn how to write it correctly.",
+    "target": "現在，我們來學習 如何正確書寫。"
+  },
+  {
+    "lesson": "5",
+    "segment": 77,
+    "timestamp": "00:03:54,880 --> 00:03:56,640",
+    "source": "There are some rules to pay attention to.",
+    "target": "有一些規則需要注意。"
+  },
+  {
+    "lesson": "5",
+    "segment": 78,
+    "timestamp": "00:03:57,000 --> 00:04:00,160",
+    "source": "Let's go back to the second wrong sentence in the examples we just had.",
+    "target": "讓我們返回剛才例子中的 第二個錯誤句子。"
+  },
+  {
+    "lesson": "5",
+    "segment": 79,
+    "timestamp": "00:04:01,560 --> 00:04:02,560",
+    "source": "Oops, what's wrong?",
+    "target": "哪裡出錯了？"
+  },
+  {
+    "lesson": "5",
+    "segment": 80,
+    "timestamp": "00:04:02,960 --> 00:04:03,960",
+    "source": "It looks like it's okay.",
+    "target": "看起來沒問題啊。"
+  },
+  {
+    "lesson": "5",
+    "segment": 81,
+    "timestamp": "00:04:04,080 --> 00:04:07,800",
+    "source": "The possessive case is S, and \"students\" are plural, so they have an S.",
+    "target": "所有格是 s，而 students 是複數， 所以要加上 s。"
+  },
+  {
+    "lesson": "5",
+    "segment": 82,
+    "timestamp": "00:04:08,480 --> 00:04:11,960",
+    "source": "But it looks a little weird to see two S next to each other, doesn't it?",
+    "target": "但是兩個 s 並排出現 看起來有點奇怪，不是嗎？"
+  },
+  {
+    "lesson": "5",
+    "segment": 83,
+    "timestamp": "00:04:12,240 --> 00:04:14,974",
+    "source": "If anyone feels a little bit stuck here, then you're right.",
+    "target": "如果有誰感覺不知道如何 處理，那你的感覺是對的。"
+  },
+  {
+    "lesson": "5",
+    "segment": 84,
+    "timestamp": "00:04:15,040 --> 00:04:16,720",
+    "source": "That's not how we write it in English.",
+    "target": "英文中不是這樣子寫的。"
+  },
+  {
+    "lesson": "5",
+    "segment": 85,
+    "timestamp": "00:04:17,240 --> 00:04:21,734",
+    "source": "For plural nouns that are added to the end of S or ES, when using the possessive",
+    "target": "對於加在 s 或 es 後面的複數名詞， 當使用所有格時，"
+  },
+  {
+    "lesson": "5",
+    "segment": 86,
+    "timestamp": "00:04:21,800 --> 00:04:24,840",
+    "source": "case, we just add an apostrophe, not an S, everyone.",
+    "target": "我們只需加上撇號，而不是 s。"
+  },
+  {
+    "lesson": "5",
+    "segment": 87,
+    "timestamp": "00:04:25,320 --> 00:04:29,134",
+    "source": "Here we have to put \"students'\" apostrophe, to be correct, equivalent",
+    "target": "這裡我們需要為 students 的撇號，才算正確，"
+  },
+  {
+    "lesson": "5",
+    "segment": 88,
+    "timestamp": "00:04:29,200 --> 00:04:30,160",
+    "source": "to the structure below.",
+    "target": "相當於下面的結構。"
+  },
+  {
+    "lesson": "5",
+    "segment": 89,
+    "timestamp": "00:04:31,400 --> 00:04:34,334",
+    "source": "At this point, I guess some of you will ask, what about other",
+    "target": "此時，我想有些人會問，那麼名詞的"
+  },
+  {
+    "lesson": "5",
+    "segment": 90,
+    "timestamp": "00:04:34,400 --> 00:04:35,760",
+    "source": "plural cases of noun?",
+    "target": "其他複數形式呢？"
+  },
+  {
+    "lesson": "5",
+    "segment": 91,
+    "timestamp": "00:04:35,960 --> 00:04:39,694",
+    "source": "Because we learned a lot of different plural forms yesterday, and also,",
+    "target": "因為我們昨天學習了很多 不同的複數形式，"
+  },
+  {
+    "lesson": "5",
+    "segment": 92,
+    "timestamp": "00:04:39,760 --> 00:04:43,640",
+    "source": "nouns ending in -S, but not plural, are they the same as the above rule?",
+    "target": "還有以 -S 結尾但不是複數的 名詞，它們和上面的規則一樣嗎？"
+  },
+  {
+    "lesson": "5",
+    "segment": 93,
+    "timestamp": "00:04:44,040 --> 00:04:47,760",
+    "source": "To answer this question, everyone, let's do the following exercise together,",
+    "target": "為了回答這個問題， 大家一起來做下面的練習，"
+  },
+  {
+    "lesson": "5",
+    "segment": 94,
+    "timestamp": "00:04:48,000 --> 00:04:50,800",
+    "source": "which is also a chance to practice the knowledge we just learned.",
+    "target": "這也是一個練習我們 剛剛學到的知識的機會。"
+  },
+  {
+    "lesson": "5",
+    "segment": 95,
+    "timestamp": "00:04:52,200 --> 00:04:55,694",
+    "source": "Pause the video in one minute, identify all the possessive cases",
+    "target": "暫停影片一分鐘，找出在下列段落中 [找出所有名詞所有格]"
+  },
+  {
+    "lesson": "5",
+    "segment": 96,
+    "timestamp": "00:04:55,760 --> 00:04:58,680",
+    "source": "of noun used in the following paragraph. Ready?",
+    "target": "用到的所有名詞的所有格形式。 準備好了嗎？"
+  },
+  {
+    "lesson": "5",
+    "segment": 97,
+    "timestamp": "00:04:59,080 --> 00:05:00,567",
+    "source": "Time starts now.",
+    "target": "計時開始。"
+  },
+  {
+    "lesson": "5",
+    "segment": 99,
+    "timestamp": "00:05:12,120 --> 00:05:15,400",
+    "source": "First, let's point out all the cases of possessive nouns.",
+    "target": "首先，讓我們指出 所有格名詞的所有格形式。"
+  },
+  {
+    "lesson": "5",
+    "segment": 101,
+    "timestamp": "00:05:20,280 --> 00:05:22,494",
+    "source": "So we just put an apostrophe, not S.",
+    "target": "所以我們只放一個撇號，不加 s。"
+  },
+  {
+    "lesson": "5",
+    "segment": 102,
+    "timestamp": "00:05:22,560 --> 00:05:24,000",
+    "source": "Everyone pay attention about it.",
+    "target": "大家都要注意這一句。"
+  },
+  {
+    "lesson": "5",
+    "segment": 103,
+    "timestamp": "00:05:24,520 --> 00:05:25,974",
+    "source": "\"Her children's favorite cat.\"",
+    "target": "Her children's favorite cat."
+  },
+  {
+    "lesson": "5",
+    "segment": 104,
+    "timestamp": "00:05:26,040 --> 00:05:29,560",
+    "source": "Oh, this is one of the plural exception cases we mentioned in the last lesson.",
+    "target": "這是我們在上一課中提到的 複數例外情況之一。"
+  },
+  {
+    "lesson": "5",
+    "segment": 105,
+    "timestamp": "00:05:30,000 --> 00:05:31,840",
+    "source": "\"Children\" is the plural of \"child\".",
+    "target": "Children 是 Child 的複數形式。"
+  },
+  {
+    "lesson": "5",
+    "segment": 106,
+    "timestamp": "00:05:31,920 --> 00:05:35,854",
+    "source": "Nouns that become plural without adding S or ES, we still put",
+    "target": "名詞複數形式不加 s 或 es 時，"
+  },
+  {
+    "lesson": "5",
+    "segment": 107,
+    "timestamp": "00:05:35,920 --> 00:05:37,560",
+    "source": "the possessive case as \"'s\".",
+    "target": "所有格仍用 's。"
+  },
+  {
+    "lesson": "5",
+    "segment": 108,
+    "timestamp": "00:05:38,000 --> 00:05:42,414",
+    "source": "\"My neighbor's son\" - \"neighbor\" is singular, and the addition of S indicates",
+    "target": "My neighbor's son - neighbor 為單數，加上 s 表示"
+  },
+  {
+    "lesson": "5",
+    "segment": 109,
+    "timestamp": "00:05:42,480 --> 00:05:44,680",
+    "source": "possession, showing that it is the neighbor's son.",
+    "target": "所有權，表明它是鄰居的兒子。"
+  },
+  {
+    "lesson": "5",
+    "segment": 110,
+    "timestamp": "00:05:45,160 --> 00:05:49,574",
+    "source": "\"James' hobby\" - \"James\" here is a singular noun, but it ends with an -s,",
+    "target": "James' hobby - James 在這裡為 單數名詞，但是以 -s 結尾，"
+  },
+  {
+    "lesson": "5",
+    "segment": 111,
+    "timestamp": "00:05:49,640 --> 00:05:52,280",
+    "source": "and according to the way we add the possessive case here,",
+    "target": "根據我們在這裡添加 所有格的方式，"
+  },
+  {
+    "lesson": "5",
+    "segment": 112,
+    "timestamp": "00:05:52,440 --> 00:05:54,040",
+    "source": "we only need an apostrophe.",
+    "target": "我們只需要一個撇號。"
+  },
+  {
+    "lesson": "5",
+    "segment": 113,
+    "timestamp": "00:05:54,600 --> 00:05:57,934",
+    "source": "\"James's bag\", but immediately after that, we see that still \"James\",",
+    "target": "James's bag，但緊接著， 我們看到的仍然是 James，"
+  },
+  {
+    "lesson": "5",
+    "segment": 114,
+    "timestamp": "00:05:58,000 --> 00:05:59,854",
+    "source": "a singular noun ending in -s.",
+    "target": "以 -s 結尾的單數名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 115,
+    "timestamp": "00:05:59,920 --> 00:06:03,120",
+    "source": "We can also add S, so both ways of writing are acceptable.",
+    "target": "我們也可以加上 s，所以 兩種寫法都可以接受。"
+  },
+  {
+    "lesson": "5",
+    "segment": 116,
+    "timestamp": "00:06:05,200 --> 00:06:07,974",
+    "source": "At this point, I believe you have a clearer understanding",
+    "target": "到目前為止，我想大家對所有格的"
+  },
+  {
+    "lesson": "5",
+    "segment": 117,
+    "timestamp": "00:06:08,040 --> 00:06:10,200",
+    "source": "of how to use and write the possessive case.",
+    "target": "用法和書寫方式 應該有更清晰的瞭解。"
+  },
+  {
+    "lesson": "5",
+    "segment": 118,
+    "timestamp": "00:06:10,640 --> 00:06:12,080",
+    "source": "Let me summarize it a little.",
+    "target": "現總結如下。"
+  },
+  {
+    "lesson": "5",
+    "segment": 119,
+    "timestamp": "00:06:15,440 --> 00:06:18,894",
+    "source": "Structure one, when noun one is a singular noun or a plural noun,",
+    "target": "結構 1，當名詞 1 為 單數名詞或複數名詞，"
+  },
+  {
+    "lesson": "5",
+    "segment": 120,
+    "timestamp": "00:06:18,960 --> 00:06:20,000",
+    "source": "but not ending in -s.",
+    "target": "但不以 -s 結尾。"
+  },
+  {
+    "lesson": "5",
+    "segment": 121,
+    "timestamp": "00:06:20,480 --> 00:06:24,560",
+    "source": "Structure two, when noun one is a singular or plural noun ending in s.",
+    "target": "結構 2，當名詞1是以 s 結尾 的單數或複數名詞時。"
+  },
+  {
+    "lesson": "5",
+    "segment": 122,
+    "timestamp": "00:06:25,040 --> 00:06:27,280",
+    "source": "So according to you, which of the two nouns,",
+    "target": "所以由你看來， 名詞 1 和名詞 2 中，"
+  },
+  {
+    "lesson": "5",
+    "segment": 123,
+    "timestamp": "00:06:27,360 --> 00:06:30,974",
+    "source": "noun one and noun two, is the main noun, meaning the noun we will use",
+    "target": "哪一個是主要名詞， 也就是我們後面用來"
+  },
+  {
+    "lesson": "5",
+    "segment": 124,
+    "timestamp": "00:06:31,040 --> 00:06:32,520",
+    "source": "to conjugate the verb later?",
+    "target": "進行動詞變化的名詞？"
+  },
+  {
+    "lesson": "5",
+    "segment": 126,
+    "timestamp": "00:06:36,360 --> 00:06:37,880",
+    "source": "learned in the previous exercise.",
+    "target": "所有格例子。"
+  },
+  {
+    "lesson": "5",
+    "segment": 128,
+    "timestamp": "00:06:40,640 --> 00:06:44,080",
+    "source": "Here noun one is \"cat\", noun two is \"fur\", meaning \"the cats' fur\".",
+    "target": "這裡名詞 1 是「cat」，名詞 2 是 fur，意思就是貓的毛。"
+  },
+  {
+    "lesson": "5",
+    "segment": 129,
+    "timestamp": "00:06:44,240 --> 00:06:46,920",
+    "source": "So does this phrase refer to the cat or its fur?",
+    "target": "那麼，這個短句指的是 貓本身還是它的毛呢？"
+  },
+  {
+    "lesson": "5",
+    "segment": 130,
+    "timestamp": "00:06:47,400 --> 00:06:49,800",
+    "source": "That's right. It's the cats' fur, not the cat.",
+    "target": "沒錯。 指的是貓的毛，不是貓本身。"
+  },
+  {
+    "lesson": "5",
+    "segment": 131,
+    "timestamp": "00:06:49,960 --> 00:06:52,280",
+    "source": "So noun two, that is \"fur\", is the main noun.",
+    "target": "所以名詞 2， 也就是 fur 是主要名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 132,
+    "timestamp": "00:06:52,600 --> 00:06:55,480",
+    "source": "Let's look at another example to test if this rule is correct.",
+    "target": "讓我們來看另一個例子， 檢驗一下這條規則是否正確。"
+  },
+  {
+    "lesson": "5",
+    "segment": 133,
+    "timestamp": "00:06:56,120 --> 00:06:57,080",
+    "source": "My neighbor's son.",
+    "target": "My neighbor's son."
+  },
+  {
+    "lesson": "5",
+    "segment": 134,
+    "timestamp": "00:06:58,320 --> 00:07:01,120",
+    "source": "Here, noun one is \"neighbor\" and noun two is \"son\".",
+    "target": "在這裡，名詞 1 是 neighbor， 而且名詞 2 是 son。"
+  },
+  {
+    "lesson": "5",
+    "segment": 135,
+    "timestamp": "00:07:01,320 --> 00:07:03,120",
+    "source": "This phrase means \"the neighbor's son\".",
+    "target": "這句話的意思是鄰居的兒子。"
+  },
+  {
+    "lesson": "5",
+    "segment": 136,
+    "timestamp": "00:07:03,280 --> 00:07:06,080",
+    "source": "So the main noun is noun two, \"son\", not the \"neighbor\".",
+    "target": "所以主要名詞是名詞 2， son，而不是 neighbor。"
+  },
+  {
+    "lesson": "5",
+    "segment": 137,
+    "timestamp": "00:07:07,640 --> 00:07:11,654",
+    "source": "From the above two examples, I concluded for you that in the case",
+    "target": "從以上兩個例子可以看出，"
+  },
+  {
+    "lesson": "5",
+    "segment": 138,
+    "timestamp": "00:07:11,720 --> 00:07:15,040",
+    "source": "of possessive case, noun two will always be the main noun.",
+    "target": "在所有格中， 名詞 2 總是主要名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 139,
+    "timestamp": "00:07:15,240 --> 00:07:19,214",
+    "source": "So if you encounter an exercise about conjugating verbs with a subject",
+    "target": "所以，如果遇到一個 關於動詞變化的練習，"
+  },
+  {
+    "lesson": "5",
+    "segment": 140,
+    "timestamp": "00:07:19,280 --> 00:07:22,520",
+    "source": "in possessive case, always look at the second noun after",
+    "target": "而主詞是所有格， 那麼一定要看後面的第二個名詞"
+  },
+  {
+    "lesson": "5",
+    "segment": 141,
+    "timestamp": "00:07:22,760 --> 00:07:24,760",
+    "source": "to conjugate the verb accordingly.",
+    "target": "以相對應地變化動詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 142,
+    "timestamp": "00:07:26,200 --> 00:07:29,160",
+    "source": "Let's do an exercise together to review the knowledge we just had.",
+    "target": "讓我們一起做一個練習 來複習剛才學到的知識。"
+  },
+  {
+    "lesson": "5",
+    "segment": 143,
+    "timestamp": "00:07:29,600 --> 00:07:33,614",
+    "source": "Identity the possessive phrases in the following paragraph and indicate",
+    "target": "找出下列段落中的 所有格片語，並指出"
+  },
+  {
+    "lesson": "5",
+    "segment": 144,
+    "timestamp": "00:07:33,680 --> 00:07:35,480",
+    "source": "which is the main noun in each phrase.",
+    "target": "各個片語中哪一個是主要名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 145,
+    "timestamp": "00:07:36,960 --> 00:07:39,800",
+    "source": "Pause the video for 30 seconds to do this exercise.",
+    "target": "請暫停影片 30 秒完成習題。"
+  },
+  {
+    "lesson": "5",
+    "segment": 146,
+    "timestamp": "00:07:41,840 --> 00:07:44,280",
+    "source": "Time's up. Check the answers with me, everyone.",
+    "target": "時間到。 請大家跟我核對答案。"
+  },
+  {
+    "lesson": "5",
+    "segment": 147,
+    "timestamp": "00:07:44,680 --> 00:07:47,374",
+    "source": "We have the first possessive case, \"my sister's name\",",
+    "target": "第一個所有格例子是 my sister's name，"
+  },
+  {
+    "lesson": "5",
+    "segment": 148,
+    "timestamp": "00:07:47,440 --> 00:07:48,880",
+    "source": "with the main noun being \"name\".",
+    "target": "其中主要名詞是 name。"
+  },
+  {
+    "lesson": "5",
+    "segment": 149,
+    "timestamp": "00:07:49,320 --> 00:07:52,960",
+    "source": "The second phrase is \"Sarah's friends\", with \"friends\" as the main noun.",
+    "target": "第二個片語是 Sarah's friends， 而 friends 是主要名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 150,
+    "timestamp": "00:07:53,400 --> 00:07:55,560",
+    "source": "The third phrase is \"Mark's game collection\",",
+    "target": "第三個片語是 Mark's game collection，"
+  },
+  {
+    "lesson": "5",
+    "segment": 151,
+    "timestamp": "00:07:55,640 --> 00:07:57,760",
+    "source": "with the main noun being \"game collection\".",
+    "target": "其中主要名詞是 game collection。"
+  },
+  {
+    "lesson": "5",
+    "segment": 152,
+    "timestamp": "00:07:58,200 --> 00:08:01,640",
+    "source": "Next is the phrase \"Lisa's favorite game\", with \"game\" as the main noun.",
+    "target": "接下來是片語 Lisa's favorite game， 而 game 是主要名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 153,
+    "timestamp": "00:08:01,920 --> 00:08:05,800",
+    "source": "The fifth phrase is \"my mom's chocolate cake\", with \"cake\" as the main noun.",
+    "target": "第五個片語是 my mom's chocolate cake，cake 是主要名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 154,
+    "timestamp": "00:08:06,160 --> 00:08:09,400",
+    "source": "Finally, there is \"friends' presence\", with \"presence\" as the main noun.",
+    "target": "最後是 friends' presence， 以 presence 作為主要名詞。"
+  },
+  {
+    "lesson": "5",
+    "segment": 155,
+    "timestamp": "00:08:10,760 --> 00:08:13,320",
+    "source": "The lesson on the possessive case of nouns ends here.",
+    "target": "以上是關於名詞所有格的 所有內容。"
+  },
+  {
+    "lesson": "5",
+    "segment": 156,
+    "timestamp": "00:08:13,640 --> 00:08:16,894",
+    "source": "Along with the types of nouns that can be used with the possessive case",
+    "target": "除了瞭解所有格名詞的用法和 需要注意的書寫規則之外，"
+  },
+  {
+    "lesson": "5",
+    "segment": 157,
+    "timestamp": "00:08:16,960 --> 00:08:20,654",
+    "source": "and the rules of writing to keep in mind, we have a better understanding of how",
+    "target": "我們還能更佳地瞭解 如何正確使用它，"
+  },
+  {
+    "lesson": "5",
+    "segment": 158,
+    "timestamp": "00:08:20,720 --> 00:08:23,520",
+    "source": "to use it correctly so that we can use it in the exam later.",
+    "target": "以便我們在未來的測驗中 能夠正確使用它。"
+  },
+  {
+    "lesson": "5",
+    "segment": 159,
+    "timestamp": "00:08:23,960 --> 00:08:27,774",
+    "source": "There is only one more lesson on quantifiers, and we will complete all",
+    "target": "關於量詞只剩最後一課了， 學完後，"
+  },
+  {
+    "lesson": "5",
+    "segment": 160,
+    "timestamp": "00:08:27,840 --> 00:08:30,533",
+    "source": "the knowledge about nouns in the basic grammar course.",
+    "target": "我們就完成了基礎文法課程中 關於名詞的所有知識。"
+  },
+  {
+    "lesson": "5",
+    "segment": 161,
+    "timestamp": "00:08:30,600 --> 00:08:32,593",
+    "source": "Don't forget to systematize and practice",
+    "target": "從現在開始，請記得"
+  },
+  {
+    "lesson": "5",
+    "segment": 162,
+    "timestamp": "00:08:32,600 --> 00:08:34,920",
+    "source": "from now on to make the knowledge your own, everyone.",
+    "target": "要有系統地學習和練習， 才能真正掌握這些知識。"
+  },
+  {
+    "lesson": "5",
+    "segment": 163,
+    "timestamp": "00:08:35,480 --> 00:08:36,720",
+    "source": "Goodbye and see you next time.",
+    "target": "再會，下次見。"
+  }
+]

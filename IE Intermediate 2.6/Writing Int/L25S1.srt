@@ -1,0 +1,332 @@
+﻿1
+00:00:11,710 --> 00:00:13,970
+Hey there, it's me.
+
+2
+00:00:14,790 --> 00:00:17,870
+Another day, another useful lesson from PREP.
+
+3
+00:00:18,470 --> 00:00:21,670
+Welcome back to our IELTS writing course.
+
+4
+00:00:22,110 --> 00:00:27,010
+To get a higher score in IELTS, you must use complex sentences.
+
+5
+00:00:27,930 --> 00:00:32,870
+A complex sentence combines a main idea with extra information.
+
+6
+00:00:33,750 --> 00:00:36,630
+Today, we will study the rules for three
+
+7
+00:00:36,630 --> 00:00:43,450
+types of grammar – relative clauses, contracted relative clauses, and conditionals.
+
+8
+00:00:47,840 --> 00:00:51,400
+First, let's look at the common structure of relative clauses.
+
+9
+00:00:52,300 --> 00:00:56,060
+Subject, verb, comma, who, which, or that.
+
+10
+00:00:56,540 --> 00:01:00,540
+Relative clauses start with words like who, which, or that.
+
+11
+00:01:00,980 --> 00:01:02,340
+Who describes a person?
+
+12
+00:01:02,800 --> 00:01:04,120
+Which describes an object?
+
+13
+00:01:04,120 --> 00:01:10,180
+However, which can also describe the entire idea before a comma.
+
+14
+00:01:10,900 --> 00:01:13,600
+That is used for both people and things,
+
+15
+00:01:13,880 --> 00:01:17,780
+but remember not to use that after a comma.
+
+16
+00:01:18,420 --> 00:01:22,440
+In IELTS Writing Task 1, relative clauses are
+
+17
+00:01:22,440 --> 00:01:24,900
+very useful in comparing data.
+
+18
+00:01:25,280 --> 00:01:28,380
+You can describe any information in the graph
+
+19
+00:01:28,380 --> 00:01:31,380
+by stating a date, and then compare it
+
+20
+00:01:31,380 --> 00:01:34,360
+to another data by adding a which clause.
+
+21
+00:01:34,880 --> 00:01:36,460
+Let's look at some examples.
+
+22
+00:01:37,540 --> 00:01:45,400
+According to the bar chart, by far the highest percentage is subject interest, at 40%, 
+
+23
+00:01:45,400 --> 00:01:50,160
+which is only 2% higher than that of gaining qualifications.
+
+24
+00:01:51,160 --> 00:01:57,840
+Relative clauses can also be used to provide more information about a noun or a phrase.
+
+25
+00:01:58,040 --> 00:02:03,200
+For example, online applications allowed people who
+
+26
+00:02:03,200 --> 00:02:06,040
+could not go to their offices to work from home.
+
+27
+00:02:06,620 --> 00:02:10,460
+In this sentence, the relative clause explains more
+
+28
+00:02:10,460 --> 00:02:12,720
+about a specific group of people.
+
+29
+00:02:13,160 --> 00:02:16,640
+Without this clause, we wouldn't know why
+
+30
+00:02:16,640 --> 00:02:19,720
+these specific people were working remotely.
+
+31
+00:02:20,380 --> 00:02:24,300
+And finally, relative clauses are also used to
+
+32
+00:02:24,300 --> 00:02:27,700
+connect and show the relation between two phrases.
+
+33
+00:02:36,100 --> 00:02:42,120
+The word "which" refers to the entire situation mentioned before the comma, 
+
+34
+00:02:42,340 --> 00:02:53,660
+using this structure connects the cause, bad communication, to the result, low productivity.
+
+35
+00:02:56,590 --> 00:03:00,230
+When a relative pronoun is a subject and
+
+36
+00:03:00,230 --> 00:03:03,410
+the verb is passive, we can contract the clause.
+
+37
+00:03:03,910 --> 00:03:07,650
+Let's look at this sentence in Sample Band 6 essay.
+
+38
+00:03:08,550 --> 00:03:11,970
+40% of people in the survey think
+
+39
+00:03:11,970 --> 00:03:15,430
+individuals should pay the costs of each course,
+
+40
+00:03:15,950 --> 00:03:19,170
+followed by employers at 35%.
+
+41
+00:03:19,450 --> 00:03:24,430
+In this sentence, followed by is a contracted relative clause.
+
+42
+00:03:24,430 --> 00:03:27,710
+The full version is, which is followed by.
+
+43
+00:03:28,650 --> 00:03:31,570
+When the relative pronoun is the subject of
+
+44
+00:03:31,570 --> 00:03:34,410
+the relative clause, and the verb is in
+
+45
+00:03:34,410 --> 00:03:38,050
+the passive form, the relative clause is contracted
+
+46
+00:03:38,050 --> 00:03:40,610
+to the past participle of the verb.
+
+47
+00:03:41,450 --> 00:03:44,170
+We have this structure that you can apply
+
+48
+00:03:45,920 --> 00:03:48,780
+easily in writing Task 1 essays,
+
+49
+00:03:48,780 --> 00:03:52,420
+subject, verb, followed by a noun or noun phrase.
+
+50
+00:03:52,730 --> 00:03:56,330
+However, please note that followed by is used
+
+51
+00:03:56,330 --> 00:03:58,830
+to say what comes after something else 
+
+52
+00:03:58,830 --> 00:04:01,490
+in a list or ordered set of things.
+
+53
+00:04:07,120 --> 00:04:09,510
+Similarly, we have another common contracted
+
+54
+00:04:09,510 --> 00:04:15,570
+relative clause, subject, verb, compared with a noun or noun phrase.
+
+55
+00:04:16,070 --> 00:04:21,350
+In this structure, compared to with is also a contracted relative clause.
+
+56
+00:04:21,470 --> 00:04:25,450
+The full version is, which is compared to with.
+
+57
+00:04:25,930 --> 00:04:29,710
+This structure can be used to compare any two subjects.
+
+58
+00:04:30,270 --> 00:04:56,990
+This sentence can be rewritten as each course, compared with employers at 35%.
+
+59
+00:05:01,730 --> 00:05:07,230
+Conditionals are used to show a logical link between a condition and its result.
+
+60
+00:05:08,110 --> 00:05:11,670
+This is essential for describing processes or making arguments.
+
+61
+00:05:12,290 --> 00:05:18,550
+The structure is if or unless subject, verb, comma, subject, verb.
+
+62
+00:05:18,770 --> 00:05:22,030
+Please note that unless means if not.
+
+63
+00:05:22,490 --> 00:05:25,510
+In both cases, if you start the sentence
+
+64
+00:05:25,510 --> 00:05:30,250
+with the conjunction if or unless, you must
+
+65
+00:05:30,250 --> 00:05:34,270
+use a comma to separate the condition from the result.
+
+66
+00:05:35,210 --> 00:05:36,630
+Here are some examples.
+
+67
+00:05:37,550 --> 00:05:41,790
+If the jam is too thin, pectin is added to thicken the mixture.
+
+68
+00:05:42,450 --> 00:05:45,450
+This sentence is from a Writing Task 1
+
+69
+00:05:45,450 --> 00:05:49,310
+essay describing the process of making cherry jam.
+
+70
+00:05:49,990 --> 00:06:04,610
+Another example of conditional structure is This
+
+71
+00:06:04,610 --> 00:06:09,090
+sentence is the same as If authorities do
+
+72
+00:06:09,090 --> 00:06:14,710
+not implement stricter environmental regulations, large corporations will
+
+73
+00:06:14,710 --> 00:06:18,070
+continue to prioritise profit over sustainability.
+
+74
+00:06:19,070 --> 00:06:20,310
+Great job everyone!
+
+75
+00:06:20,950 --> 00:06:25,590
+Identifying these structures is the first step to using them.
+
+76
+00:06:26,270 --> 00:06:29,790
+Practice finding these in high-level model answers
+
+77
+00:06:29,790 --> 00:06:36,290
+and then try to build them into your own Task 1 and Task 2 responses.
+
+78
+00:06:36,890 --> 00:06:42,230
+Now let's have a quick review of what we learned today through some questions.
+
+79
+00:06:47,740 --> 00:06:51,060
+Today's lesson covered a lot, so make sure
+
+80
+00:06:51,060 --> 00:06:55,860
+to organise and review your notes to remember and apply the knowledge effectively.
+
+81
+00:06:56,580 --> 00:06:57,780
+You've all done well.
+
+82
+00:06:58,460 --> 00:07:02,740
+Now take some time to relax and get ready for the next lessons.
+
+83
+00:07:02,740 --> 00:07:07,180
+I am Anna, goodbye and see you next time.
+

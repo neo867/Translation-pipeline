@@ -1,0 +1,716 @@
+﻿1
+00:00:11,820 --> 00:00:13,020
+Hello, everyone.
+
+2
+00:00:13,800 --> 00:00:17,900
+Welcome back to the next lesson on IELTS Writing Task 2.
+
+3
+00:00:18,960 --> 00:00:21,660
+Firstly, I have three pictures.
+
+4
+00:00:22,540 --> 00:00:25,740
+Can you help me guess the story behind these three pictures?
+
+5
+00:00:33,220 --> 00:00:34,320
+Have you guessed it yet?
+
+6
+00:00:34,660 --> 00:00:38,620
+This story is about people in a city cutting down trees.
+
+7
+00:00:39,150 --> 00:00:42,520
+Because of this, they had to suffer from air pollution.
+
+8
+00:00:43,640 --> 00:00:47,280
+After that, they had to plant trees together to fix the problem.
+
+9
+00:00:48,320 --> 00:00:54,740
+So, picture 1 is the cause, picture 2 is the effect, and picture 3 is the solution.
+
+10
+00:00:55,740 --> 00:00:58,740
+That's also a question type we're going to learn today.
+
+11
+00:00:59,420 --> 00:01:01,500
+Causes, effects, solutions.
+
+12
+00:01:02,340 --> 00:01:06,180
+Our lesson is divided into three parts.
+
+13
+00:01:06,900 --> 00:01:11,160
+Part 1, Task Analysis and Brainstorming.
+
+14
+00:01:12,000 --> 00:01:14,440
+Part 2, Sample Evaluation.
+
+15
+00:01:15,300 --> 00:01:17,880
+And Part 3, Sample Improvements.
+
+16
+00:01:18,560 --> 00:01:25,380
+To achieve three goals, understand how to analyse causes, effects, solutions questions.
+
+17
+00:01:26,020 --> 00:01:32,400
+Apply mind mapping technique to brainstorm ideas for causes, effects, solution questions.
+
+18
+00:01:33,420 --> 00:01:41,020
+Understand how to write a causes, effects, solutions essay at band 6 in Task Response and
+
+19
+00:01:41,020 --> 00:01:42,400
+Coherence and Cohesion.
+
+20
+00:01:42,700 --> 00:01:45,420
+So, let's move on to the first part.
+
+21
+00:01:49,900 --> 00:01:53,540
+Before analysing the question and outlining the essay,
+
+22
+00:01:54,240 --> 00:01:58,480
+let me introduce you to the causes, effects, solution questions.
+
+23
+00:01:59,200 --> 00:02:06,240
+A. To ask about causes and solutions, we may have, Why is this the case?
+
+24
+00:02:07,300 --> 00:02:08,759
+What can be done about this problem?
+
+25
+00:02:09,539 --> 00:02:11,120
+What do you think the causes are?
+
+26
+00:02:12,040 --> 00:02:13,840
+What solutions can you suggest?
+
+27
+00:02:15,140 --> 00:02:18,740
+State some reasons for this and provide possible solutions.
+
+28
+00:02:19,940 --> 00:02:22,900
+Effect can be positive or negative.
+
+29
+00:02:23,720 --> 00:02:27,440
+If it's negative, it's a problem and requires solutions.
+
+30
+00:02:28,240 --> 00:02:32,820
+B. To ask about problems and solutions, we have,
+
+31
+00:02:33,560 --> 00:02:37,100
+What issues does this cause and how can they be addressed?
+
+32
+00:02:38,640 --> 00:02:43,100
+C. To ask about causes and effects, we have,
+
+33
+00:02:44,220 --> 00:02:47,480
+What is your opinion on the primary causes of this?
+
+34
+00:02:47,980 --> 00:02:50,500
+What are the main effects of this?
+
+35
+00:02:51,420 --> 00:02:53,980
+Let's move on to Task Analysis.
+
+36
+00:02:54,540 --> 00:02:56,400
+Here is your today prompt.
+
+37
+00:02:56,400 --> 00:03:03,100
+The overuse of essential natural resources has become a serious global issue.
+
+38
+00:03:03,680 --> 00:03:05,400
+What problems does it cause?
+
+39
+00:03:05,700 --> 00:03:07,620
+How can we solve these problems?
+
+40
+00:03:08,340 --> 00:03:13,360
+At this point in the course, you are already familiar with how to analyse the prompt.
+
+41
+00:03:14,020 --> 00:03:17,260
+So, let's identify the key elements immediately.
+
+42
+00:03:17,880 --> 00:03:19,700
+First, our topic words.
+
+43
+00:03:20,420 --> 00:03:22,460
+Essential natural resources.
+
+44
+00:03:23,720 --> 00:03:25,440
+Next, the micro topic.
+
+45
+00:03:26,220 --> 00:03:29,860
+Overuse has become a serious global issue.
+
+46
+00:03:30,400 --> 00:03:34,800
+While we are here, let's take a quick moment to think about paraphrasing.
+
+47
+00:03:35,980 --> 00:03:39,920
+We don't want to repeat the word overuse too many times.
+
+48
+00:03:40,640 --> 00:03:42,560
+So, how can we say this differently?
+
+49
+00:03:43,900 --> 00:03:47,800
+A great band 7 alternative would be,
+
+50
+00:03:47,800 --> 00:03:50,200
+Being consumed at an alarming rate.
+
+51
+00:03:53,380 --> 00:03:55,500
+Finally, the instruction words.
+
+52
+00:03:55,500 --> 00:03:57,920
+What problems does it cause?
+
+53
+00:03:58,740 --> 00:04:00,640
+How can we solve these problems?
+
+54
+00:04:01,180 --> 00:04:02,920
+This confirms our structure.
+
+55
+00:04:03,720 --> 00:04:07,260
+One paragraph for problems and one for solutions.
+
+56
+00:04:08,080 --> 00:04:10,420
+Note one crucial detail here.
+
+57
+00:04:11,160 --> 00:04:14,540
+The prompt asks how to solve these problems.
+
+58
+00:04:15,519 --> 00:04:22,800
+This means your solutions must directly fix the specific problems you listed in paragraph 1.
+
+59
+00:04:22,800 --> 00:04:29,460
+If you mention pollution as a problem, you must provide a solution for pollution.
+
+60
+00:04:30,000 --> 00:04:32,500
+Now, let's move on to brainstorming.
+
+61
+00:04:32,960 --> 00:04:36,180
+I have the following mind map with natural resources, 
+
+62
+00:04:36,180 --> 00:04:39,860
+consumed at an alarming rate at the centre, 
+
+63
+00:04:39,860 --> 00:04:45,500
+and two branches, problems and solutions, 
+
+64
+00:04:45,500 --> 00:04:48,020
+corresponding to the two requirements in the question.
+
+65
+00:04:48,640 --> 00:04:52,340
+Now, let's read and evaluate the sample.
+
+66
+00:04:56,540 --> 00:04:59,120
+Let's read the following sample essay.
+
+67
+00:05:05,230 --> 00:05:08,310
+The outline of this sample is as follows.
+
+68
+00:05:14,580 --> 00:05:18,140
+Let's identify if this essay achieves band 5
+
+69
+00:05:18,140 --> 00:05:27,700
+or band 6 for task response
+
+70
+00:05:27,700 --> 00:05:29,680
+and coherence and cohesion.
+
+71
+00:05:30,720 --> 00:05:35,080
+Firstly, please pause the video for 3 minutes
+
+72
+00:05:35,080 --> 00:05:39,960
+to evaluate the essay based on this checklist for task response.
+
+73
+00:05:47,510 --> 00:05:49,750
+Alright, here's my answer.
+
+74
+00:05:50,250 --> 00:05:55,090
+If this essay is written by one of our preppies, surely they have paid a lot of
+
+75
+00:05:55,090 --> 00:06:00,330
+attention to the knowledge of task response that has been taught throughout the course.
+
+76
+00:06:01,030 --> 00:06:04,810
+Let's continue with the checklist for coherence.
+
+77
+00:06:10,350 --> 00:06:13,150
+Alright, here's my answer.
+
+78
+00:06:14,690 --> 00:06:18,750
+The essay only fully meets the requirement of the conclusion.
+
+79
+00:06:19,610 --> 00:06:23,190
+For the others, this essay only meets part of them.
+
+80
+00:06:24,310 --> 00:06:27,110
+Let's continue with the checklist for cohesion.
+
+81
+00:06:33,000 --> 00:06:35,020
+Okay, here's my answer.
+
+82
+00:06:35,800 --> 00:06:39,280
+We can see that this essay already meets
+
+83
+00:06:39,280 --> 00:06:43,320
+two requirements for cohesion in numbers 2 and 3.
+
+84
+00:06:44,400 --> 00:06:48,460
+In the next part, sample improvements, we'll find
+
+85
+00:06:48,460 --> 00:06:51,860
+out why some boxes are not ticked,
+
+86
+00:06:51,860 --> 00:06:56,720
+what we can learn from the sample, then analyse and see how to improve it.
+
+87
+00:07:00,840 --> 00:07:04,740
+First, let's quickly look at the introduction and conclusion.
+
+88
+00:07:05,520 --> 00:07:09,620
+As we can see, these two paragraphs are written quite well.
+
+89
+00:07:09,620 --> 00:07:13,800
+Since we have practiced writing introductions and conclusions extensively 
+
+90
+00:07:13,800 --> 00:07:20,860
+in previous lessons, most of you should be very comfortable with this format by now.
+
+91
+00:07:20,980 --> 00:07:23,100
+So, we don't need to fix them.
+
+92
+00:07:23,580 --> 00:07:28,280
+Let's focus our energy on the most important part, body paragraphs.
+
+93
+00:07:30,880 --> 00:07:39,520
+Firstly, I want you to know that this type of question requires discussing problems and solutions.
+
+94
+00:07:40,120 --> 00:07:42,860
+This means we need to address at least
+
+95
+00:07:42,860 --> 00:07:47,120
+two problems and two solutions in the body.
+
+96
+00:07:48,040 --> 00:07:53,500
+Therefore, using the FS structure would be more suitable than T.
+
+97
+00:07:54,340 --> 00:07:58,400
+For other causes, effects, solutions questions, you should
+
+98
+00:07:58,400 --> 00:08:04,080
+also use FS structure to meet the requirement of them and make it easier to write.
+
+99
+00:08:04,500 --> 00:08:09,120
+The two body paragraphs should be organised as follows.
+
+100
+00:08:13,690 --> 00:08:20,730
+You see, each body will address either causes or effects or problems or solutions.
+
+101
+00:08:22,130 --> 00:08:28,710
+So, how your body paragraphs will be organised depends on the requirement of each question.
+
+102
+00:08:29,610 --> 00:08:36,390
+For example, if the question asks about causes and effects, then you should have 
+
+103
+00:08:36,390 --> 00:08:40,049
+one body paragraph about causes and one about effects.
+
+104
+00:08:41,409 --> 00:08:47,290
+Let's find out why the previous essay failed, starting with body paragraph 1.
+
+105
+00:08:48,370 --> 00:08:50,290
+Pause here and look at the outline.
+
+106
+00:08:51,050 --> 00:08:53,110
+There are three major mistakes.
+
+107
+00:08:53,430 --> 00:08:56,670
+Mistake number one, no topic sentence.
+
+108
+00:08:57,190 --> 00:09:02,030
+The paragraph dives straight into details without announcing the main idea.
+
+109
+00:09:02,990 --> 00:09:07,070
+Mistake number two, quantity over quality.
+
+110
+00:09:07,990 --> 00:09:13,470
+It lists three different problems, water, habitat and oxygen.
+
+111
+00:09:14,510 --> 00:09:19,010
+My suggestion is that you should only choose two and develop them fully.
+
+112
+00:09:20,310 --> 00:09:23,510
+Mistake number three, illogical order.
+
+113
+00:09:24,290 --> 00:09:25,730
+Look at the trees point.
+
+114
+00:09:26,530 --> 00:09:30,310
+It explains the importance first, then the problem.
+
+115
+00:09:30,980 --> 00:09:36,090
+In IELTS, always state the problem first, then explain it.
+
+116
+00:09:36,230 --> 00:09:39,910
+For instance, I could improve this body as follows.
+
+117
+00:09:45,360 --> 00:09:47,260
+Now, body paragraph two.
+
+118
+00:09:48,140 --> 00:09:52,580
+Remember, solutions must directly solve the specific problems.
+
+119
+00:09:53,780 --> 00:09:58,880
+Mistake one, the solution of conducting surveys is vague.
+
+120
+00:09:59,560 --> 00:10:02,100
+How does a survey solve water scarcity?
+
+121
+00:10:02,860 --> 00:10:03,800
+It doesn't.
+
+122
+00:10:04,700 --> 00:10:08,700
+Mistake two, solutions two and three are just
+
+123
+00:10:08,700 --> 00:10:11,600
+repeating the same idea about education.
+
+124
+00:10:12,540 --> 00:10:13,980
+This wastes space.
+
+125
+00:10:14,660 --> 00:10:17,400
+To fix this, we need specific pairs.
+
+126
+00:10:18,340 --> 00:10:21,200
+If problem one is water waste, which is
+
+127
+00:10:21,200 --> 00:10:27,980
+a human bad habit, solution one must be education to teach people to save water.
+
+128
+00:10:28,870 --> 00:10:32,540
+If problem two is habitat destruction, which is
+
+129
+00:10:32,540 --> 00:10:40,300
+a result of industrial actions, solution two must be strict to regulations to stop deforestation.
+
+130
+00:10:40,860 --> 00:10:43,100
+This creates a perfect balance.
+
+131
+00:10:43,560 --> 00:10:48,160
+So, putting these matched pairs together, here is our final outline.
+
+132
+00:10:53,520 --> 00:10:56,120
+Now, let's read the corrected essay.
+
+133
+00:11:07,620 --> 00:11:11,880
+To improve cohesion for two body paragraphs, let's
+
+134
+00:11:11,880 --> 00:11:14,380
+apply the three steps that we learned before
+
+135
+00:11:14,380 --> 00:11:18,400
+to see what was already done and what will be added.
+
+136
+00:11:19,040 --> 00:11:23,640
+Step one, consider the relationship between two main ideas.
+
+137
+00:11:24,680 --> 00:11:27,240
+Choose the appropriate cohesive device.
+
+138
+00:11:28,300 --> 00:11:31,860
+With this problem solutions essay, the two paragraphs
+
+139
+00:11:31,860 --> 00:11:34,600
+have a cause and effect relationship.
+
+140
+00:11:35,380 --> 00:11:38,960
+For example, because of these problems, we need
+
+141
+00:11:38,960 --> 00:11:41,340
+the following solutions to solve them.
+
+142
+00:11:42,320 --> 00:11:45,440
+So, at the beginning of body two,
+
+143
+00:11:45,440 --> 00:11:48,620
+we need a cohesive device to show that relationship.
+
+144
+00:11:49,400 --> 00:11:52,120
+In the sample, the writer used therefore.
+
+145
+00:11:52,960 --> 00:11:55,360
+This is also the word that we can apply.
+
+146
+00:11:56,580 --> 00:12:00,040
+So, we have two topic sentences at the
+
+147
+00:12:00,040 --> 00:12:03,040
+beginning of the two paragraphs as follows.
+
+148
+00:12:03,040 --> 00:12:07,320
+Body one, the unreasonable use of natural resources
+
+149
+00:12:07,320 --> 00:12:09,520
+has led to some major problems.
+
+150
+00:12:10,160 --> 00:12:14,740
+Body two, therefore certain solutions should be applied
+
+151
+00:12:14,740 --> 00:12:16,120
+to handle these issues.
+
+152
+00:12:16,980 --> 00:12:21,980
+Step two, use appropriate cohesive devices based on
+
+153
+00:12:21,980 --> 00:12:23,800
+the purpose of each sentence.
+
+154
+00:12:24,540 --> 00:12:28,960
+Step three, identify if referencing and substitutions are
+
+155
+00:12:28,960 --> 00:12:31,420
+used in the sentences of each paragraph.
+
+156
+00:12:32,060 --> 00:12:34,160
+If not, then add them.
+
+157
+00:12:34,780 --> 00:12:40,200
+In the body of the sample, the writer used some cohesive devices as highlighted below.
+
+158
+00:12:46,060 --> 00:12:50,260
+These cohesive devices are used for the following purposes.
+
+159
+00:12:50,960 --> 00:12:55,100
+To introduce the first problem, we have to begin with.
+
+160
+00:12:55,260 --> 00:12:58,100
+To introduce the second and third problem,
+
+161
+00:12:58,100 --> 00:13:00,840
+we have besides and moreover.
+
+162
+00:13:01,360 --> 00:13:06,200
+To introduce the elaboration, we have thus, to show results.
+
+163
+00:13:07,320 --> 00:13:09,660
+And in other words, to explain.
+
+164
+00:13:10,880 --> 00:13:15,500
+To introduce the first solution, we have in the first place.
+
+165
+00:13:15,760 --> 00:13:22,260
+To introduce the second and third solution, we have furthermore and what is more.
+
+166
+00:13:22,920 --> 00:13:29,280
+However, please note that the word besides in writing is often considered informal.
+
+167
+00:13:29,960 --> 00:13:32,900
+So you should avoid using it in your essays.
+
+168
+00:13:33,740 --> 00:13:37,220
+We can learn the use of some cohesive devices in the sample.
+
+169
+00:13:38,000 --> 00:13:41,680
+However, since we're revising the essay following the
+
+170
+00:13:41,680 --> 00:13:44,600
+improved outline, we need to apply what we've
+
+171
+00:13:44,600 --> 00:13:47,500
+learned in the previous lessons to complete the writing.
+
+172
+00:13:48,200 --> 00:13:49,580
+Let's practice a bit.
+
+173
+00:13:54,760 --> 00:13:59,460
+So, in this lesson, we've learned about one,
+
+174
+00:14:00,000 --> 00:14:05,420
+causes, effects, solutions questions and two, steps to
+
+175
+00:14:05,420 --> 00:14:10,680
+improve task response and coherence and cohesion scores for this type.
+
+176
+00:14:11,380 --> 00:14:13,860
+Have you got all the knowledge in this lesson yet?
+
+177
+00:14:14,460 --> 00:14:16,860
+If so, congratulations.
+
+178
+00:14:18,180 --> 00:14:21,580
+For now, goodbye and see you in the next videos.
+
+179
+00:14:21,580 --> 00:14:22,800
+See you.
+

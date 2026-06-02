@@ -1,0 +1,252 @@
+[
+  {
+    "key": "checkout",
+    "english content": "Checkout",
+    "translated content": "結帳"
+  },
+  {
+    "key": "pay_order",
+    "english content": "Order payment",
+    "translated content": "訂單付款"
+  },
+  {
+    "key": "pending",
+    "english content": "Pending processing",
+    "translated content": "處理中"
+  },
+  {
+    "key": "success",
+    "english content": "Payment successful",
+    "translated content": "付款成功"
+  },
+  {
+    "key": "failure",
+    "english content": "Payment failed",
+    "translated content": "付款失敗"
+  },
+  {
+    "key": "unavailable",
+    "english content": "Unavailable",
+    "translated content": "無法使用"
+  },
+  {
+    "key": "info_notice",
+    "english content": "The course and all accompanying benefits will be added to this account after the payment process is successful!",
+    "translated content": "付款完成後，課程與所有相關權益將會加入此帳號！"
+  },
+  {
+    "key": "export_invoice",
+    "english content": "Issue Invoice",
+    "translated content": "開立發票"
+  },
+  {
+    "key": "invoice_company",
+    "english content": "Company",
+    "translated content": "公司"
+  },
+  {
+    "key": "invoice_personal",
+    "english content": "Individual",
+    "translated content": "個人"
+  },
+  {
+    "key": "invoice_buyer_name",
+    "english content": "Buyer's full name",
+    "translated content": "購買人全名"
+  },
+  {
+    "key": "placeholder_invoice_buyer_name",
+    "english content": "Enter buyer's full name",
+    "translated content": "請輸入購買人全名"
+  },
+  {
+    "key": "info_phone_number",
+    "english content": "Phone number",
+    "translated content": "電話號碼"
+  },
+  {
+    "key": "placeholder_phone_number",
+    "english content": "Enter phone number",
+    "translated content": "請輸入電話號碼"
+  },
+  {
+    "key": "placeholder_invoice_department",
+    "english content": "Enter department name",
+    "translated content": "請輸入部門名稱"
+  },
+  {
+    "key": "placeholder_invoice_tax_number",
+    "english content": "Enter tax identification number",
+    "translated content": "請輸入統一編號"
+  },
+  {
+    "key": "placeholder_invoice_address",
+    "english content": "Enter address",
+    "translated content": "請輸入地址"
+  },
+  {
+    "key": "placeholder_invoice_receiver_email",
+    "english content": "Enter email for receiving the invoice",
+    "translated content": "請輸入接收發票的電子信箱"
+  },
+  {
+    "key": "error_invoice_department",
+    "english content": "Enter company name",
+    "translated content": "請輸入公司名稱"
+  },
+  {
+    "key": "error_invoice_email",
+    "english content": "Please enter correct email format",
+    "translated content": "請輸入正確的電子信箱格式"
+  },
+  {
+    "key": "invoice_department",
+    "english content": "Name of department",
+    "translated content": "部門名稱"
+  },
+  {
+    "key": "invoice_tax_number",
+    "english content": "Tax identification number",
+    "translated content": "統一編號"
+  },
+  {
+    "key": "invoice_address",
+    "english content": "Address",
+    "translated content": "地址"
+  },
+  {
+    "key": "invoice_receiver_email",
+    "english content": "Email for receiving the invoice",
+    "translated content": "接收發票的電子信箱"
+  },
+  {
+    "key": "continue_checkout",
+    "english content": "Continue to payment",
+    "translated content": "繼續付款"
+  },
+  {
+    "key": "invalid_coupon",
+    "english content": "The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!",
+    "translated content": "此優惠券或促銷碼已無效。<br />請嘗試其他代碼，或直接付款！"
+  },
+  {
+    "key": "product_unavailable",
+    "english content": "The product you selected has changed.<br />Please choose again or contact support staff for assistance!",
+    "translated content": "您選擇的商品已變更。<br />請重新選擇或聯繫客服人員協助！"
+  },
+  {
+    "key": "checkout",
+    "english content": "checkout",
+    "translated content": "結帳"
+  },
+  {
+    "key": "return_shoppping",
+    "english content": "Return to shopping",
+    "translated content": "返回購物"
+  },
+  {
+    "key": "total_price",
+    "english content": "Total price",
+    "translated content": "總金額"
+  },
+  {
+    "key": "promo",
+    "english content": "Promotion",
+    "translated content": "促銷"
+  },
+  {
+    "key": "coupon_code",
+    "english content": "Coupon code",
+    "translated content": "優惠券代碼"
+  },
+  {
+    "key": "coupon_code_placeholder",
+    "english content": "Enter coupon code",
+    "translated content": "請輸入優惠券代碼"
+  },
+  {
+    "key": "discount_price_amount",
+    "english content": "Discounted price",
+    "translated content": "折扣後金額"
+  },
+  {
+    "key": "price_after_discount",
+    "english content": "Price after promotion",
+    "translated content": "促銷優惠後金額"
+  },
+  {
+    "key": "x_people_used_course",
+    "english content": "More than {x} Prep students have used this roadmap",
+    "translated content": "已有超過 {x} 位 Prep 學員使用這條學習路線"
+  },
+  {
+    "key": "product",
+    "english content": "Product",
+    "translated content": "商品"
+  },
+  {
+    "key": "select_promo",
+    "english content": "Select",
+    "translated content": "選擇"
+  },
+  {
+    "key": "gifts",
+    "english content": "Included gift",
+    "translated content": "包含贈品"
+  },
+  {
+    "key": "coupon_apply",
+    "english content": "Apply",
+    "translated content": "套用"
+  },
+  {
+    "key": "your_info",
+    "english content": "Your information",
+    "translated content": "您的資訊"
+  },
+  {
+    "key": "select_1_discount",
+    "english content": "Select a promotional code",
+    "translated content": "選擇促銷代碼"
+  },
+  {
+    "key": "no_promo_yet",
+    "english content": "No promotional code available",
+    "translated content": "目前沒有可用的促銷代碼"
+  },
+  {
+    "key": "empty_discount",
+    "english content": "Oops, there are currently no promotional programs for this product!",
+    "translated content": "很抱歉，目前此商品沒有可用的促銷活動！"
+  },
+  {
+    "key": "consent_text",
+    "english content": "By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!",
+    "translated content": "點擊 <span>繼續付款<span> 即表示您已閱讀並同意 Prep 的 <a>服務條款<a> 與 <a>資訊安全政策<a>！"
+  },
+  {
+    "key": "discount_conflict_with_current_coupon",
+    "english content": "This promotion cannot be used simultaneously with the current coupon!",
+    "translated content": "此促銷優惠無法與目前的折扣同時使用！"
+  },
+  {
+    "key": "coupon_apply_not_successfully",
+    "english content": "Coupon application failed",
+    "translated content": "優惠券套用失敗"
+  },
+  {
+    "key": "coupon_apply_successfully",
+    "english content": "Coupon applied successfully!",
+    "translated content": "優惠券套用成功！"
+  },
+  {
+    "key": "coupon_conflict_with_current_discount",
+    "english content": "This coupon cannot be used simultaneously with the current promotion!",
+    "translated content": "此優惠券無法與目前的促銷同時使用！"
+  },
+  {
+    "key": "maximum_discount_limitation",
+    "english content": "Apply a maximum discount of {x}% on the order value",
+    "translated content": "可為訂單金額套用最高 {x}% 的折扣"
+  }
+]

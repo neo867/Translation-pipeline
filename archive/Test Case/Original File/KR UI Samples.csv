@@ -1,0 +1,517 @@
+Group Key (Tech + Product),Key (Tech),vi-content,en-content,tw-content (human translation),Link image/ context
+payment.metadata,checkout,Checkout,Checkout,결제,Screenshot 2025-05-07 at 09.14.26.png
+,pay_order,Thanh toán đơn hàng,Order payment,주문 결제,
+,pending,Chờ xử lý,Pending processing,처리 대기 중,
+,success,Thanh toán thành công,Payment successful,결제 성공,
+,failure,Thanh toán thất bại,Payment failed,결제 실패,Screenshot 2025-05-07 at 09.16.33.png
+,unavailable,Không khả dụng,Unavailable,이용 불가,
+payment.checkout,info_notice,Khóa học và tất cả quyền lợi đi kèm sẽ được thêm vào tài khoản này sau khi quá trình thanh toán thành công!,The course and all accompanying benefits will be added to this account after the payment process is successful!,결제를 성공적으로 완료하면 강의를 비롯한 전체 혜택이 이 계정에 추가됩니다!,Screenshot 2025-05-07 at 09.14.26.png
+,export_invoice,Xuất hóa đơn,Issue Invoice,송장 발행,Screenshot 2025-05-07 at 09.14.26.png
+,invoice_company,Công ty,Company,회사,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_personal,Cá nhân,Individual,개인,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_buyer_name,Họ tên người mua hàng,Buyer's full name,구매자 성명,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_buyer_name,Nhập họ tên người mua hàng,Enter buyer's full name,구매자 성명 입력,Screenshot 2025-05-07 at 09.17.04.png
+,info_phone_number,Số điện thoại,Phone number,전화번호,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_phone_number,Nhập số điện thoại,Enter phone number,전화번호 입력,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_department,Nhập tên đơn vị,Enter department name,부서명 입력,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_tax_number,Nhập mã số thuế,Enter tax identification number,납세자 번호 입력,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_address,Nhập địa chỉ kinh doanh,Enter address,주소 입력,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_receiver_email,Nhập email nhận hóa đơn,Enter email for receiving the invoice,송장 수신 이메일 입력,Screenshot 2025-05-07 at 09.17.04.png
+,error_invoice_department,Nhập tên công ty đầy đủ,Enter company name,회사명 입력,Screenshot 2025-05-07 at 09.17.04.png
+,error_invoice_email,Vui lòng nhập đúng định dạng email,Please enter correct email format,올바른 이메일 형식으로 입력해 주세요,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_department,Tên đơn vị,Name of department,부서명,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_tax_number,Mã số thuế,Tax identification number,납세자 번호,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_address,Địa chỉ,Address,주소,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_receiver_email,Email nhận hóa đơn,Email for receiving the invoice,송장 수신 이메일,Screenshot 2025-05-07 at 09.17.04.png
+,continue_checkout,Tiếp tục thanh toán,Continue to payment,결제 진행,Screenshot 2025-05-07 at 09.17.04.png
+,invalid_coupon,Mã coupon hoặc khuyến mãi không còn khả dụng.<br />Hãy thử lại bằng mã khác hoặc Tiếp tục thanh toán không dùng mã!,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!,쿠폰 또는 프로모션 코드가 더 이상 유효하지 않습니다.<br />다른 코드로 다시 시도하거나 코드 없이 결제를 진행해 주세요!,
+,product_unavailable,Sản phẩm bạn lựa chọn đã có sự thay đổi.<br />Vui lòng chọn lại hoặc liên hệ nhân viên để được trợ giúp nhé!,The product you selected has changed.<br />Please choose again or contact support staff for assistance!,선택하신 상품이 변경되었습니다.<br />다시 선택하거나 고객 지원팀에 문의하여 도움을 요청해 주세요!,
+,checkout,Checkout,checkout,결제,Screenshot 2025-05-07 at 09.14.26.png
+,return_shoppping,Quay lại mua hàng,Return to shopping,쇼핑으로 돌아가기,
+,total_price,Tổng giá bán,Total price,총 가격,Screenshot 2025-05-07 at 09.14.40.png
+,promo,Khuyến mãi,Promotion,프로모션,Screenshot 2025-05-07 at 09.14.40.png
+,coupon_code,Mã Coupon,Coupon code,쿠폰 코드,Screenshot 2025-05-07 at 09.14.26.png
+,coupon_code_placeholder,Nhập mã Coupon,Enter coupon code,쿠폰 코드 입력,Screenshot 2025-05-07 at 09.14.26.png
+,discount_price_amount,Giá được giảm,Discounted price,할인 가격,Screenshot 2025-05-07 at 09.14.26.png
+,price_after_discount,Giá bán sau khuyến mãi,Price after promotion,프로모션 후 가격,Screenshot 2025-05-07 at 09.14.40.png
+,x_people_used_course,Hơn {x} học viên của Prep đã sử dụng lộ trình này!,More than {x} Prep students have used this roadmap,{x}명 이상의 Prep 학생이 이 로드맵을 사용했습니다.,Screenshot 2025-05-07 at 09.14.40.png
+,product,Sản phẩm,Product,제품,Screenshot 2025-05-07 at 09.14.40.png
+,select_promo,Chọn,Select,선택,
+,gifts,Quà tặng kèm,Included gift,포함된 선물,
+,coupon_apply,Áp dụng,Apply,신청,
+,your_info,Thông tin của bạn,Your information,회원님의 정보,Screenshot 2025-05-07 at 09.14.40.png
+,select_1_discount,Chọn 1 mã khuyến mãi,Select a promotional code,프로모션 코드 선택,
+,no_promo_yet,Chưa có mã khuyến mãi,No promotional code available,프로모션 코드가 없습니다,
+,empty_discount,"Oops, chưa có chương trình khuyến mãi nào cho sản phẩm này rồi!","Oops, there are currently no promotional programs for this product!",죄송합니다. 현재 이 제품을 위한 프로모션 프로그램이 없습니다!,
+,consent_text,Bằng việc nhấn <span>Tiếp tục thanh toán<span> bạn xác nhận đã đọc và đồng ý với <a>Điều kiện & Điều khoản</a> cùng <a>Chính sách bảo mật</a> thông tin của Prep!,"By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!",<span>결제 계속<span>을 클릭하시면 회원님이 Prep의 <a>이용 약관<a> 및 <a>정보 보안 정책<a>을 읽고 동의하였음을 확인하는 것입니다.,Screenshot 2025-05-07 at 09.14.26.png
+,discount_conflict_with_current_coupon,Khuyến mãi này không được áp dụng đồng thời với coupon hiện tại!,This promotion cannot be used simultaneously with the current coupon!,이 프로모션은 현재 사용 중인 쿠폰과 동시에 사용할 수 없습니다!,
+,coupon_apply_not_successfully,Áp dụng Coupon không thành công,Coupon application failed,쿠폰 적용 실패,
+,coupon_apply_successfully,Áp dụng mã Coupon thành công!,Coupon applied successfully!,쿠폰이 성공적으로 적용되었습니다!,
+,coupon_conflict_with_current_discount,Coupon này không được áp dụng đồng thời với khuyến mãi hiện tại!,This coupon cannot be used simultaneously with the current promotion!,이 쿠폰은 현재 진행 중인 프로모션과 동시에 사용할 수 없습니다!,
+,maximum_discount_limitation,Áp dụng giảm tối đa {x}% giá trị đơn hàng,Apply a maximum discount of {x}% on the order value,주문 금액에 최대 {x}% 할인을 적용하세요,
+,need_support_contact,Bạn vẫn còn phân vân? <br /> Liên hệ Prep để được <span>Tư vấn thêm</span>,Still unsure? <br /> Contact Prep to <span>Ask for advice</span>,아직 고민 중이신가요? <br /> Prep에 문의하여 <span>상담을 받아보세요</span>.,
+,back_to_homepage,Quay lại trang chủ,Back to homepage,홈페이지로 돌아가기,
+,sale_policy_not_support_in_market_title,"Rất tiếc, sản phẩm không hỗ trợ khu vực của bạn","We’re sorry, this product is not supported in your area",죄송합니다. 이 제품은 회원님의 지역에서 지원되지 않습니다.,
+,sale_policy_not_support_in_market_desc,Vui lòng truy cập trang chủ để cập nhật và khám phá các sản phẩm phù hợp tại khu vực của bạn,Please visit homepage to update and explore products suitable for your area,홈페이지를 방문하여 업데이트를 완료하고 회원님의 지역에 적합한 제품을 둘러보세요.,
+,program_consulting,Tư vấn chương trình học,Talk with our team,저희 팀에 문의하세요,
+,contact_support_notice,"Bạn hãy để lại thông tin, Prep sẽ liên hệ tư vấn cho mình ngay nha!","Please provide your details below, and Prep will reach out to you for a consultation as soon as possible.",아래에 회원님의 정보를 입력해 주세요. Prep에서 최대한 신속하게 연락드리겠습니다.,
+,contact_support,Liên hệ hỗ trợ,Contact support,지원팀에 문의하세요,Screenshot 2025-05-07 at 09.16.33.png
+,b2b_prevent_checkout_title,Bạn không thể sử dụng tính năng này,You cannot access this feature,이 기능에 접속할 수 없습니다,
+,b2b_prevent_checkout_desc,Tài khoản {username} là tài khoản doanh nghiệp và không thể thực hiện thanh toán trên nền tảng này. Vui lòng liên hệ với doanh nghiệp/ nhà cung cấp để được hỗ trợ,The account {username} is a business account and cannot make payments on this platform. Please contact the business/ provider for support,{username} 계정은 비즈니스 계정이기 때문에 이 플랫폼에서 결제할 수 없습니다. 지원을 받으려면 비즈니스/제공자에 문의해 주세요.,
+payment.payment,payment,Thanh toán,Payment,결제,Screenshot 2025-05-07 at 09.16.33.png
+,method,Hình thức thanh toán,Payment method,결제 수단,Screenshot 2025-05-07 at 09.16.33.png
+,info,Thông tin thanh toán,Payment information,결제 정보,Screenshot 2025-05-07 at 09.16.33.png
+,transfer_bank,Ngân hàng,Bank,은행,Screenshot 2025-05-07 at 09.16.33.png
+,3rd_info,Giải pháp thanh toán được cung cấp bởi,Payment solutions provided by,결제 솔루션 제공업체:,Screenshot 2025-05-07 at 09.16.33.png
+,transfer_info,Thông tin chuyển khoản,Transfer information,이체 정보,
+,transfer_account,Số tài khoản,Account number,계좌 번호,
+,transfer_holder_name,Tên chủ tài khoản,Account holder's name,예금주 이름,
+,transfer_message,Nội dung chuyển khoản,Transfer description,이체 내역,
+,transfer_amount,Số tiền cần chuyển,Amount to be transferred,이체 금액,
+,bank_select,Chọn ngân hàng,Select bank,은행 선택,
+,guide_title,Hướng dẫn thanh toán,Payment instructions,결제 방법,
+,guide_open_app,Mở ứng dụng ngân hàng trên thiết bị di động của bạn,Open the banking app on your mobile device,모바일 기기에서 뱅킹 앱을 엽니다.,
+,guide_scan_qr,"Trên ứng dụng, chọn tính năng Quét mã QR","In the app, select the QR code scanning feature",앱에서 QR 코드 스캔 기능을 선택합니다.,
+,guide_scan_and_process,Quét mã QR bên trên và thanh toán,Scan the QR code above and make the payment,위의 QR 코드를 스캔한 후 결제를 완료합니다.,
+,note_transfer_info_bank_transfer,"Sau khi bạn thanh toán thành công, vui lòng chờ trong 5 phút để hệ thống xử lý đơn hàng. Nếu quá thời gian trên mà chưa nhận được phản hồi, vui lòng cung câp hình ảnh thanh toán cho các bạn tư vấn tuyển sinh để được xác nhận đơn hàng!","After you successfully make the payment, please wait 5 minutes for the system to process your order. If you do not receive a response after this time, please provide a payment image to the admissions consultant to order confirmation!",결제를 완료한 후 시스템에서 회원님의 주문을 처리할 때까지 5분 정도 기다려 주세요. 이 시간 이후에도 응답이 전달되지 않는 경우 입학 상담원에게 결제 이미지를 제출해 주문을 확인해 주세요!,
+,failure,Thanh toán thất bại,Payment failed,결제 실패,
+,failure_notice,<strong>Ooop!</strong> Đã có vấn đề xảy ra khiến quá trình thanh toán không thành công.<br /> Hãy thử thanh toán lại hoặc liên hệ nhân viên hỗ trợ để được giúp đỡ ngay bạn nhé!,<strong>Oops!...</strong> Something went wrong causing the payment process to fail. <br /> Please try again or contact support staff for immediate assistance!,<strong>죄송합니다!</strong> 결제 과정에서 오류가 발생했습니다 <br /> 다시 시도하거나 지원팀에 문의하여 즉시 도움을 받으세요!,Screenshot 2025-05-07 at 09.16.33.png
+,success,Thanh toán thành công,Payment successful,결제 성공,
+,repayment,Thanh toán lại,Pay again,다시 결제,Screenshot 2025-05-07 at 09.16.33.png
+,start_learn,Bắt đầu học ngay bây giờ,Start learning now,지금 학습 시작,
+,complete_payment_in_time,Hãy hoàn tất quá trình thanh toán trong,Complete the payment process in,결제 과정을 다음 기간 내 완료하세요:,
+,complete_payment_in_time_lite,Thanh toán trong,Payment within,다음 기간 내 결제:,
+,coupon_expired_msg,Thời gian tồn tại của đơn hàng/ mã coupon đã hết. Vui lòng liên hệ với nhân viên hỗ trợ để được khởi tạo đơn hàng/ mã coupon mới!,The validity of the order/ coupon code has expired. Please contact support to create a new order/ coupon code!,주문/쿠폰 코드의 유효 기간이 만료되었습니다. 새로운 주문/쿠폰 코드를 생성하려면 고객 지원팀에 문의하세요!,
+,9pay_intro,Giao dịch được thực hiện bởi 9Pay - Cổng thanh toán điện tử được Ngân hàng nhà nước cấp phép làm trung gian thanh toán,The transaction is processed by 9Pay - an electronic payment gateway licensed by the State Bank to act as a payment intermediary,본 거래는 State Bank의 허가로 결제 중개 역할을 하는 전자 결제 게이트웨이인 9Pay를 통해 처리됩니다.,
+,note_transfer_info_9pay,"Sau khi thanh toán thành công, vui lòng chờ trong 5 phút để hệ thống xử lý đơn hàng của bạn, nếu quá thời gian trên mà chưa nhận được phản hồi, hãy chọn <span>Kiểm tra tiến trình đơn hàng</span>","After successful payment, please wait for 5 minutes for the system to process your order. If you do not receive a response after this time, please select <span>Check order status</span>",결제가 완료된 후 시스템에서 회원님의 주문을 처리할 때까지 5분 정도 기다려 주세요. 5분 후에도 응답이 전달되지 않으면 <span>주문 상태 확인</span>을 선택해 주세요.,
+,payment_processing_9pay,"Vui lòng chờ trong giây lát, đơn hàng của bạn đang được hệ thống xử lý. Dự kiến sẽ hoàn thành trong",Please wait a moment. Your order is being processed by the system. It is expected to be completed in,잠시만 기다려 주세요. 시스템에서 주문을 처리하는 중입니다. 다음 시간 내에 완료될 예정입니다:,
+,payment_pending_9pay,Quá trình thanh toán vẫn chưa thể hoàn thành.<br /> Hãy liên hệ Hotline của Prep để được hỗ trợ ngay bạn nhé!,The payment process has not been completed yet.<br />Please contact Prep's Hotline for immediate assistance!,결제가 아직 완료되지 않았습니다.<br />즉시 도움이 필요하신 경우 Prep 핫라인으로 문의해 주세요!,
+,contact_support_hotline,Liên hệ hotline hỗ trợ,Contact support hotline,지원 핫라인으로 문의,
+,pay,Thanh toán,Pay,결제,Screenshot 2025-05-07 at 09.14.40.png
+,payment_by,Thanh toán bằng,Pay by,결제 수단,Screenshot 2025-05-07 at 09.14.40.png
+,direct_payment_via,Thanh toán trực tiếp qua,Pay directly through,다음을 통해 직접 결제:,Screenshot 2025-05-07 at 09.14.40.png
+,or_pay_by_paypal_to_email,Hoặc chuyển khoản dùng Paypal tới email,Or transfer via PayPal to the email,또는 이메일로 PayPal을 통해 이체,Screenshot 2025-05-07 at 09.14.40.png
+,paypal_done_notice,"Sau khi thanh toán thành công, bạn vui lòng cung cấp hình ảnh thanh toán cho các bạn tư vấn tuyển sinh để được xác nhận đơn hàng!","After completing your payment, you might be required to send a screenshot of the payment confirmation to our support email at <a>support@prepedu.com</a>","결제 완료 후, 결제 확인 스크린샷을 <a>support@prepedu.com</a> 지원 이메일로 보내주셔야 할 수도 있습니다.",
+,payment_processing_msg_prefix,"Đơn hàng của bạn đang được hệ thống xử lý, dự kiến sẽ hoàn thành trong",Your order is being processed by the system and is expected to be completed in,주문이 시스템에서 처리 중이며 다음 시간 내에 완료될 예정입니다:,
+,payment_processing_msg_suffix,Vui lòng không tắt thông báo này trước khi nhận được phản hồi từ phía Prep!,Please do not turn off this notification before receiving a response from Prep!,Prep에서 응답이 전달되기 전까지 이 알림을 끄지 마세요!,
+,payment_pending_msg,Quá trình thanh toán vẫn chưa thể hoàn thành. Vui lòng thử lại hoặc liên hệ Prep để được hỗ trợ ngay bạn nhé!,The payment process could not be completed. Please try again or contact Prep for immediate assistance!,결제를 완료하지 못했습니다. 다시 시도하거나 Prep에 문의하여 즉시 도움을 받아보세요!,
+,success_notice,"<strong>Hooray!</strong> Chúc mừng bạn đã thanh toán thành công. <br /> Bây giờ, bạn đã có thể bắt đầu học tập ngay rồi nhé. <br /> Chúc bạn sớm đạt được kết quả như mong muốn!","<strong>Hooray!</strong> Congratulations on your successful payment. <br /> Now, you can start studying right away! <br /> Wishing you achieve your desired results soon!",<strong>축하드립니다!</strong> 결제가 성공적으로 완료되었습니다. <br /> 이제 즉시 학습을 시작하실 수 있습니다! <br /> 원하는 목표를 빨리 달성하시길 기원합니다!,
+,payment_suspended,Quá trình thanh toán đang bị gián đoạn. <br />Hãy liên hệ Hotline của Prep để được hỗ trợ ngay bạn nhé!,The payment process is currently interrupted.<br />Please contact Prep's Hotline for immediate assistance!,현재 결제가 중단되었습니다.<br />즉시 도움을 받으시려면 Prep 핫라인으로 문의해 주세요!,
+,unavailable,Không khả dụng,Unavailable,이용 불가,
+,unavailable_description,<span>Ooop!</span> Đơn hàng của bạn không còn tồn tại.<br />Vui lòng liên hệ nhân viên hỗ trợ để được khởi tạo đơn hàng mới bạn nhé!,<span>Ooop!</span> Your order no longer exists.<br />Please contact support staff to create a new order!,<span>죄송합니다!</span> 주문이 더 이상 존재하지 않습니다.<br />새로운 주문을 생성하려면 고객 지원팀에 문의해 주세요!,
+,support,Hỗ trợ,Support,지원,
+,support_payment,Hỗ trợ thanh toán,Payment support,결제 지원,
+,qr_code_expired,Mã QR đã hết hạn,QR code has expired,QR 코드가 만료되었습니다.,
+,click_to_reload,Nhấn để tải lại,Click to reload,클릭하여 다시 로드,
+payment.verify,notice,Vui lòng xác nhận số điện thoại để tiếp tục thanh toán!,Please confirm your phone number to continue with the payment!,결제를 계속하려면 회원님의 전화번호를 확인해 주세요!,
+,resend_after,Gửi lại mã sau {x}s,Resend the code after {x}s,{x}초 후에 다시 코드 전송,
+,send_code,Gửi mã xác nhận,Send verification code,인증 코드 전송,
+,counter,Còn {x} lần,{x} attempts remaining,시도 {x}회 남음,
+,otp_send_limit,Bạn đã hết lượt gửi mã OTP. Vui lòng thử lại sau 15 phút!,You have used up all your attempts to send the OTP. Please try again in 15 minutes!,OTP 전송 시도 횟수를 모두 사용하셨습니다. 15분 후에 다시 시도해 주세요!,
+,otp_input,Mã OTP xác nhận,Confirmation OTP code,OTP 확인 코드,
+,send_otp_successfully,Gửi mã OTP thành công,OTP code sent successfully,OTP 코드 전송 완료,
+payment.common,i_understand,Tôi đã hiểu,I understand,이해했습니다,
+,days,ngày,days,일,
+,hours,giờ,hours,시간,
+,minutes,phút,minutes,분,
+,seconds,giây,seconds,초,
+,copy,Sao chép,Copy,복사,
+,copy_successful,Sao chép thành công,Copy successful,복사 완료,
+,step,Bước,Step,단계,
+,value,Trị giá,Value,값,
+,an_error_occurred,Có lỗi xảy ra,An error occurred,오류 발생,
+,note,Lưu ý,Note,참고,
+,search,Tìm kiếm,Search,검색,
+,select,Lựa chọn,Select,선택,
+,no_matching_results,Không tìm thấy kết quả phù hợp,No matching results found,일치하는 결과가 없습니다,
+,view_more,Xem thêm,View more,더 보기,
+,email,Email,Email,이메일,
+,prep_has_received_your_info,Prep đã nhận thông tin của bạn,Prep has received your information,Prep에서 회원님의 정보를 받았습니다.,
+,prep_will_contact_you_soon,"Hãy chú ý điện thoại, Prep sẽ liên hệ sớm","Be mindful of your phone, Prep will contact you soon",Prep에서 곧 휴대전화로 연락드리겠습니다.,
+,an_error_occurred_try_again,Có lỗi xảy ra. Vui lòng thử lại,An error occurred. Please try again,오류가 발생했습니다. 다시 시도해 주세요.,
+profile.navbar,account,Tài khoản,Account,계정,Screenshot 2025-05-06 at 16.07.50.png
+,password,Mật khẩu,Password,비밀번호,Screenshot 2025-05-06 at 16.07.50.png
+,device_management,Quản lý thiết bị,Device Management,기기 관리,Screenshot 2025-05-06 at 16.07.50.png
+,activation_code,Mã kích hoạt,Activation code,활성화 코드,Screenshot 2025-05-06 at 16.07.50.png
+profile.device_management,account_verification_title,Xác minh tài khoản,Account verification,계정 인증,
+,account_verification_desc,Để truy cập Quản lý thiết bị bạn cần xác minh tài khoản,"To access Device Management, you need to verify your account",기기 관리를 이용하려면 계정을 인증해야 합니다.,
+,list_devices_title,Danh sách các thiết bị bạn đang sử dụng,List of devices you are using,회원님이 사용 중인 기기 목록,Screenshot 2025-05-06 at 16.10.16.png
+,count_devices,{x}/{y} thiết bị,{x}/{y} devices,{x}/{y} 기기,Screenshot 2025-05-06 at 16.10.16.png
+,last_visited,Lần truy cập cuối,Last login,마지막 로그인,Screenshot 2025-05-06 at 16.10.16.png
+,contact_support_via_email_title,Liên hệ hỗ trợ qua email,Contact support via email,이메일로 지원팀에 문의하세요.,
+,contact_support_via_email_desc,Liên hệ với chúng tôi qua email <a href='mailto:support@prepedu.com'>support@prepedu.com</a> để được hỗ trợ tốt nhất,Contact us at <a href='mailto:support@prepedu.com'>support@prepedu.com</a> for the best assistance,<a href='mailto:support@prepedu.com'>support@prepedu.com</a>으로 문의하여 최상의 지원을 받아보세요.,
+,confirm_remove_device_title,Xác nhận xoá thiết bị,Confirm removing device,기기 삭제 확인,Screenshot 2025-05-06 at 16.12.27.png
+,confirm_remove_device_desc,Thiết bị này sẽ bị xóa khỏi danh sách được cấp quyền truy cập của bạn,This device will be removed from your access list,회원님의 접속 목록에서 이 기기는 제거됩니다.,Screenshot 2025-05-06 at 16.12.27.png
+,remove_device_successfully,Xoá thiết bị thành công,Successfully deleted device,기기 제거 완료,
+,can_login_on_move_device_mobile_app,Bạn có thể đăng nhập thêm trên {num} mobile app,You can log in on {num} more mobile devices,{num}개의 모바일 기기에 더 로그인할 수 있습니다.,Screenshot 2025-05-06 at 16.10.16.png
+,can_login_on_move_device_browser,Bạn có thể đăng nhập thêm trên {num} trình duyệt website,You can log in on {num} more web browsers,{num}개의 웹 브라우저에 더 로그인할 수 있습니다.,Screenshot 2025-05-06 at 16.10.16.png
+,can_login_on_move_device_tablet,Bạn có thể đăng nhập thêm trên {num} thiết bị tablet,You can log in on {num} more tablet devices,{num}개의 태블릿 기기에 더 로그인할 수 있습니다,Screenshot 2025-05-06 at 16.10.16.png
+,device_access_limit_title,Giới hạn thiết bị truy cập,Device access limit,기기 접속 제한,
+,device_access_limit_desc,Bạn không thể truy cập do tài khoản này hiện đang vượt quá số lượng thiết bị cho phép. Vui lòng truy cập Quản lý thiết bị để kiểm tra,You cannot access because this account has exceeded the allowed number of devices. Please access Device Management to check,허용된 기기 수를 초과하여 이 계정에 접속할 수 없습니다. 기기 관리에서 확인하세요.,
+profile.account,contact_to_change_email,Vui lòng liên hệ với chúng tôi trong trường hợp bạn muốn đổi email,Please contact us if you want to change your email,이메일 주소를 변경하려면 저희에게 문의해 주세요,Screenshot 2025-05-06 at 16.15.54.png
+auth,auth_intro_1,Tham gia ngay cùng Nền tảng Học và Luyện thi thông minh,Join the Smart learning and test preparation platform now,지금 바로 스마트 학습 및 시험 준비 플랫폼에 가입하세요,
+,auth_intro_2,Kiểm tra trình độ hoàn toàn miễn phí.,Completely free Entry test.,입문 테스트는 완전 무료입니다.,
+,auth_intro_3,"Chỉ cần một tài khoản duy nhất, bạn có thể thực hiện các bài Kiểm tra đầu vào để xác định trình độ nhanh chóng","With just one account, you can take the Entry test to quickly determine your level",하나의 계정으로 입문 테스트를 받고 빠르게 회원님의 레벨을 확인해 보세요.,
+,auth_intro_b2b_1,Nền tảng Học và Luyện thi thông minh,Smart learning and test prep platform,스마트 학습 및 시험 준비 플랫폼,
+,auth_intro_b2b_2,Học ngoại ngữ thật dễ dàng với lộ trình Học và Luyện Thi toàn diện được cá nhân hóa,"Learning a foreign language is easy with a personalized, comprehensive study and exam preparation roadmap",맞춤형 종합 학습 및 시험 준비 로드맵을 통해 외국어를 쉽게 학습할 수 있습니다.,
+,auth_selector_title,Tham gia ngay cùng Prep - Nền tảng học và luyện thi thông minh,Join Prep - a smart learning and test preparation platform now,"지금 바로 스마트 학습 및 시험 준비 플랫폼, Prep에 가입하세요.",
+,consent_text,"Bằng cách tham gia, bạn xác nhận đã đọc và đồng ý với {{Điều khoản & Điều kiện}} cùng {{Chính sách bảo mật}} của Prep","By joining, you confirm that you have read and agreed to Prep's {{Terms & Conditions}} and {{Privacy Policy}}",가입하시면 Prep의 {{Terms & Conditions}} 및 {{Privacy Policy}}을 읽고 동의하는 것입니다.,
+,consent_checkbox_label,Tôi đã đọc và đồng ý với {{Điều khoản & Điều kiện}} cùng {{Chính sách bảo mật}} của Prep,I have read and agree to Prep's {{Terms & Conditions}} and {{Privacy Policy}},본인은 Prep의 {{Terms & Conditions}} 및 {{Privacy Policy}}을 읽고 이에 동의합니다.,
+,phone_err_already_register_title,Số điện thoại này đã được đăng ký,This phone number is already registered,이미 등록된 전화번호입니다.,
+,phone_err_already_register_desc,Bạn có thể <span>Đăng nhập bằng số điện thoại</span> hoặc sử dụng số điện thoại khác,You can <span>Log in with phone number</span> or use a different one,<span>전화번호로 로그인</span>하거나 다른 전화번호를 사용하실 수 있습니다.,
+,register_done_title,Chào mừng bạn <br /> đến với Prep,Welcome <br /> to Prep,<br /> Prep에 오신 것을 환영합니다.,
+,register_done_desc,<span>Bổ sung thông tin</span> để có cơ hội nhận thêm <br /><span>nhiều ưu đãi hấp dẫn</span> nhé,<span>Update information</span> for a chance to receive <br /><span>more exciting offers</span>,<span>정보를 업데이트</span>하시면 <br /><span>더 좋은 혜택</span>을 받으실 수 있습니다.,
+,continue_discover,Tiếp tục khám phá,Continue exploring,계속 살펴보세요,
+,click_here_to_login_by,Nhấn vào đây để đăng nhập bằng,Click here to log in with,여기를 클릭하여 다음으로 로그인하세요:,
+,forgot_password,Quên mật khẩu?,Forgot password?,비밀번호를 잊어버리셨나요?,
+,update_new_password,Cập nhật mật khẩu mới,Update new password,새 비밀번호 업데이트,
+,continue_login,Tiếp tục đăng nhập,Continue to log in,로그인 계속하기,
+,update_password_successfully,Cập nhật mật khẩu thành công,Successfully updated password,비밀번호 업데이트 완료,
+,need_more_infor_to_continue,Có vẻ như chúng tôi cần thêm thông tin để tiếp tục,It seems we need more information to proceed,계속 진행하기 위해서는 추가 정보가 필요합니다.,
+activation_code,search_code,Tìm kiếm mã,Search code,검색 코드,Screenshot 2025-05-06 at 16.17.19.png
+,my_codes,Mã của tôi,My activation code,내 활성화 코드,Screenshot 2025-05-06 at 16.17.19.png
+,search_code_title,Nhập mã kích hoạt để trải nghiệm ngay,Enter the activation code to start your experience now,지금 바로 체험을 시작하려면 활성화 코드를 입력하세요.,Screenshot 2025-05-06 at 16.17.19.png
+,search_code_placeholder,Nhập mã kích hoạt,Enter activation code,활성화 코드 입력,Screenshot 2025-05-06 at 16.17.19.png
+,activation_code_benefit_note,Lưu ý: Quyền lợi sẽ được cộng dồn (nếu có) trong trường hợp bạn đã sở hữu khoá học tương ứng trước đó,Note: Learning benefits will accumulate (if applicable) if you already own the corresponding course,"참고: 해당 강의를 이미 소유한 경우, 학습 혜택이 누적됩니다(해당되는 경우).",Screenshot 2025-05-06 at 16.17.19.png
+,learning_benefits,Quyền lợi học tập,Learning benefits,학습 혜택,Screenshot 2025-05-06 at 16.17.30.png
+,not_activated,Chưa kích hoạt,Not activated,활성화되지 않음,Screenshot 2025-05-06 at 16.17.30.png
+,activated,Đã kích hoạt,Activated,활성화됨,Screenshot 2025-05-06 at 16.17.30.png
+,expired,Đã hết hạn,Expired,만료됨,Screenshot 2025-05-06 at 16.17.42.png
+,expiration_date,Ngày hết hạn,Expiration date,만료일,Screenshot 2025-05-06 at 16.17.42.png
+,activation_date,Ngày kích hoạt,Activation date,활성화 날짜,Screenshot 2025-05-06 at 16.17.30.png
+,activation_code_list,Danh sách mã kích hoạt,Activation code list,활성화 코드 목록,Screenshot 2025-05-06 at 16.17.30.png
+,activate_successful_title,Kích hoạt thành công,Activation successful,활성화 성공,
+,activate_successful_title_1,Bạn đã kích hoạt mã thành công,You have successfully activated your code,코드를 성공적으로 활성화했습니다,
+,activate_successful_desc,Chúc mừng! Mã của bạn đã được kích hoạt. Bắt đầu học ngay thôi!,Congratulations! Your code has been activated. Start learning now!,축하드립니다! 코드가 활성화되었습니다. 지금 바로 학습을 시작해 보세요!,
+,activate_failed,Kích hoạt thất bại,Activation failed,활성화 실패,
+,buy_activation_code,Mua mã kích hoạt,Buy activation code,활성화 코드 구매,
+,activate_new_code,Kích hoạt mã mới,Activate a new code,새로운 코드 활성화,
+,not_found_activation_code_title,Bạn chưa có mã kích hoạt,You have not got any activation code,활성화 코드가 없습니다.,
+,not_found_activation_code_desc,Vui lòng theo dõi các sự kiện của Prep để có cơ hội nhận được mã kích hoạt miễn phí hoặc mua mã kích hoạt để trải nghiệm,Get your activation code by following Prep's events or purchase one to start,Prep 이벤트를 팔로우하거나 구매를 완료하여 활성화 코드를 받아보세요.,
+,cf_activate_title,Bạn có muốn kích hoạt mã?,Do you want to activate the code?,코드를 활성화하시겠어요?,
+,cf_activate_desc,"Sau khi chọn Xác nhận, các quyền lợi học tập sẽ được kích hoạt từ ngày {today}","After you confirm, your learning benefits will be effective from {today}",확인을 완료하면 학습 혜택이 {today}부터 적용됩니다.,
+,cf_activate_warning_refundable,Mã kích hoạt sẽ không thể hoàn lại trong mọi trường hợp. Vui lòng kiểm tra quyền lợi và thời hạn sử dụng trước khi kích hoạt,Please note that the activation code is non-refundable under any circumstances. Make sure to check the benefits and validity period before activating,활성화 코드는 어떠한 경우에도 환불되지 않으니 유의하시기 바랍니다. 활성화하기 전에 혜택과 유효 기간을 반드시 확인하세요.,
+,page_title_activation_code,Nhập mã kích hoạt<br />để trải nghiệm ngay!,Enter the activation code<br />to start your experience now,활성화 코드를 입력하여<br />지금 바로 체험을 시작하세요.,
+,activated_account,Tài khoản kích hoạt,Activated account,활성화된 계정,
+,activate,Kích hoạt,Activate,활성화,
+product,completed_product_line_at_prep,Đã học {productLineName} tại Prep,Improved their {productLineName} Scores by studying on Prep,Prep에서 학습하여 {productLineName} 점수가 향상되었습니다.,Screenshot 2025-05-06 at 16.06.14.png
+,create_study_plan,Thiết kế lộ trình học,Create a Study Plan,학습 계획 작성,Screenshot 2025-05-06 at 16.06.14.png
+,select_roadmap_n_experience,Chọn lộ trình học và Trải nghiệm ngay,Choose a roadmap and experience now,로드맵을 선택하고 지금 경험을 시작해 보세요,Screenshot 2025-05-06 at 16.06.29.png
+,view_roadmap,Xem lộ trình,View roadmap,로드맵 보기,
+,n_programs,{n} chặng,{n} programs,{n}개 프로그램,Screenshot 2025-05-06 at 16.26.06.png
+,include_n_small_courses,Gồm {n} khoá học nhỏ,Including {n} courses,{n}개 강의 포함,Screenshot 2025-05-06 at 16.26.06.png
+,n_lessons,{n} bài,{n} lessons,{n}개 수업,Screenshot 2025-05-06 at 16.26.06.png
+,marking_with_teachers,Chấm chữa với giáo viên,Marking with teachers,강사와 함께 채점,Screenshot 2025-05-06 at 16.26.06.png
+,own_the_roadmap,Sử dụng lộ trình,Extended access to learning contents,학습 콘텐츠에 대한 액세스 확대,Screenshot 2025-05-06 at 16.26.06.png
+,commitment_to_outcome_goals,Cam kết mục tiêu đầu ra,Guaranteed final scores,최종 점수 보장,Screenshot 2025-05-06 at 16.26.06.png
+,estimated_completion_time,Thời gian hoàn thành dự kiến {n} tháng khi bạn duy trì việc học 6 giờ mỗi tuần,Estimated completion time is {n} months if you study for 6 hours per week,회원님이 주 6시간 학습하는 경우 예상 완료 기간은 {n}개월입니다.,
+,view_roadmap_details,Xem chi tiết lộ trình,View roadmap details,로드맵 세부 정보 보기,Screenshot 2025-05-06 at 16.25.02.png
+,study_n_practice_tests,Học và luyện đề,Study and practice tests,학습 및 테스트 연습,Screenshot 2025-05-06 at 16.25.02.png
+,comprehansive_study_n_practice_tests,Học và luyện đề toàn diện,Study & Test Practice Pro Package,학습 및 연습 테스트 Pro 패키지(Study & Test Practice Pro Package),Screenshot 2025-05-06 at 16.25.02.png
+,active_self_study,Tự học chủ động,Standard Study Package,표준 학습 패키지(Standard Study Package),Screenshot 2025-05-06 at 16.25.02.png
+,select_course,Chọn khoá học,Select Package,패키지 선택,Screenshot 2025-05-06 at 16.30.37.png
+,recommendation,Đề xuất,Recommendation,추천,Screenshot 2025-05-06 at 16.25.02.png
+,register_now,Đăng ký học ngay,Register now,지금 등록,Screenshot 2025-05-06 at 16.25.02.png
+,pro,Pro,Pro,Pro,
+,coupon_applied_code,Đã áp dụng Coupon,Coupon applied,쿠폰 적용됨,
+,learning_roadmap,Lộ trình học,Roadmap,로드맵,Screenshot 2025-05-06 at 16.26.06.png
+,lecture_videos,Video bài giảng,Lecture videos,강의 영상,
+,comparison,So sánh,Comparison,비교,Screenshot 2025-05-06 at 16.26.06.png
+,roadmap,Lộ trình,Roadmap,로드맵,Screenshot 2025-05-06 at 16.26.06.png
+,roadmap_overview,Tổng quan lộ trình học,Roadmap overview,로드맵 개요,Screenshot 2025-05-06 at 16.26.06.png
+,view_teacher_details,Xem chi tiết,View Profile,프로필 보기,
+,details_of_n_lessons,Chi tiết {n} bài học,Details of {n} lessons,{n}개 수업 세부 정보,Screenshot 2025-05-06 at 16.39.04.png
+,watch_the_lecture_video,Xem thử video bài giảng,Watch the lecture video,강의 영상 보기,
+,n_learning_lessons,{n} bài học,{n} lessons,{n}개 수업,Screenshot 2025-05-06 at 16.39.04.png
+,n_tests,{n} bài kiểm tra,{n} tests,{n}개 테스트,Screenshot 2025-05-06 at 16.39.04.png
+,watch_the_actual_lecture_video,Xem thử video bài giảng thực tế,Watch the lecture video,강의 영상 보기,
+,lecture_video_desc,"Trải nghiệm xem thử không thể thay thế cho trải nghiệm học thực tế do hệ thống bài giảng, bài thực hành, tương tác trong quá trình học sẽ thú vị hơn.","A trial watching experience cannot replace the actual learning experience, as the system of lectures, exercises, and interactions during learning will be more engaging.","체험 강의로 실제 학습의 일부분을 경험해 보세요. 실제 학습 과정에서는 강의, 연습, 학습 중 상호작용 시스템을 통해 이보다 훨씬 효과적인 교육을 제공합니다.",
+,n_trial_lessons,{n} bài học thử,{n} trial lessons,{n}개 체험 수업,
+,learning_benefit_when_purchase,Quyền lợi học tập khi mua hàng,Benefits,혜택,Screenshot 2025-05-06 at 16.40.29.png
+,experience_technology,Trải nghiệm công nghệ,Experience today,오늘 바로 체험해 보세요,Screenshot 2025-05-06 at 16.41.10.png
+,prep_help_solve_your_queries,<gradient>Prep giúp bạn</gradient><br />tháo gỡ mọi thắc mắc,Prep helps answer all your questions,Prep이 모든 질문에 답해 드리겠습니다,Screenshot 2025-05-06 at 16.48.21.png
+,ask_more,Đặt thêm câu hỏi,Ask another question,다른 질문하기,Screenshot 2025-05-06 at 16.48.21.png
+,register_learning_program,Đăng ký chương trình học,Register,등록,Screenshot 2025-05-06 at 16.40.29.png
+,benefits,Quyền lợi,Benefits,혜택,Screenshot 2025-05-06 at 16.40.29.png
+,hello_anonymous,Xin chào Bạn!,Hello!,안녕하세요!,Screenshot 2025-05-06 at 16.42.31.png
+,hello_name,"Xin chào, {name}!","Hello, {name}!","{name} 님, 안녕하세요!",Screenshot 2025-05-06 at 16.42.31.png
+,my_level_is,Trình độ của tôi,My level is,내 레벨은,Screenshot 2025-05-06 at 16.42.31.png
+,my_goal_is,Mục tiêu của tôi,My goal is,내 목표는,Screenshot 2025-05-06 at 16.42.31.png
+,not_sure_about_my_level,Bạn chưa rõ trình độ bản thân?,Not sure about your level? Take an,레벨이 맞는지 잘 모르시겠나요? 다음을 이용해 보세요:,Screenshot 2025-05-06 at 16.42.31.png
+,choose_package_conquer_roadmap,Chọn gói phù hợp <br />Chinh phục lộ trình {roadmapName},Choose the right package <br />Roadmap {roadmapName},적합한 패키지 선택하기 <br />로드맵 {roadmapName},Screenshot 2025-05-06 at 16.25.02.png
+,stage_index,Chặng {index},Stage {index},{Index} 단계,Screenshot 2025-05-06 at 16.41.10.png
+,coupon_not_be_use_auto_discount,Coupon áp dụng thành công và không đi kèm chương trình giảm giá tự động,Coupon applied successfully and does not accompany any automatic discount program,쿠폰이 성공적으로 적용되었으며 자동 할인 프로그램은 적용되지 않습니다.,
+,fail_to_apply_coupon,Áp dụng mã coupon không thành công,Failed to apply the coupon,쿠폰 적용 실패,
+,coupon_apply_successfully,Áp dụng mã coupon thành công,Coupon applied successfully,쿠폰이 성공적으로 적용되었습니다,
+,skill_interested_in,Kỹ năng bạn quan tâm,Skills you're interested in,관심 있는 스킬:,
+,coupon_code_placeholder,Nhập mã Coupon,Enter coupon code,쿠폰 코드 입력,Screenshot 2025-05-06 at 16.41.10.png
+tp,tp_line,Luyện đề {line},{line} Test Practice,{line} 테스트 연습,
+,tp_title_1,Luyện là trúng cùng bộ đôi phòng luyện Ảo Prep AI,Practice and succeed with Prep AI Virtual Room,Prep AI Virtual Room,
+,tp_title_2,& ngân hàng 1.000+ đề độc quyền,& library of 1.000+ exclusive tests,"및 비롯한 1,000개 이상의 독점 테스트 라이브러리로 연습을 통해 목표를 달성하세요.",
+,explore_more_test,Trải nghiệm 30+ bộ đề khác,Explore 30+ tests,30개 이상의 테스트를 살펴보세요,
+,exclusive_tp_pro_title,Đặc quyền <gradient>gói luyện đề PRO</gradient>,Exclusive <gradient>Test Practice PRO<gradient>,Prep만의 <gradient>Test Practice PRO<gradient>,
+,exclusive_tp_pro_desc,Sở hữu gói luyện đề PRO để được sử dụng những tính năng siêu việt nhất từ phòng luyện ảo Prep AI cùng kho đề độc quyền không giới hạn.,Upgrade to Test Practice PRO to unlock the most advanced features of the Prep AI Virtual Room and enjoy unlimited access to exclusive tests.,Test Practice PRO로 업그레이드하여 Prep AI Virtual Room의 최첨단 기능을 이용하고 Prep Edu만의 독점 테스트를 제한 없이 액세스해 보세요.,
+,try_tp_now,Luyện ngay,Try now,지금 체험하기,
+,free,Miễn phí,Free,무료,
+,subscribe,Đăng ký gói,Subscribe,구독하기,
+,subscribe_now,Nâng cấp ngay,Subscribe now,지금 구독하기,
+,n_tests,{n} Đề,{n} Test(s),{n}개 테스트,
+,discover_selective_tests,Khám phá những bộ đề hot nhất,Discover the selective tests,선별된 테스트 찾기,
+,test_list,Danh sách Test,Test list,테스트 목록,
+,retake,Làm lại,Retake,재시험,
+,start_now,Làm ngay,Start now,지금 시작하기,
+home_page,hero_line_1,Nền tảng Học,Smart learning,스마트 학습,Screenshot 2025-05-06 at 16.03.38.png
+,hero_line_2,và Luyện thi,and exam preparation,및 시험 준비,Screenshot 2025-05-06 at 16.03.38.png
+,hero_line_3,thông minh,platform,플랫폼,Screenshot 2025-05-06 at 16.03.38.png
+,explore_now,Khám phá ngay,Explore now,지금 살펴보기,Screenshot 2025-05-06 at 16.03.38.png
+,product_line_you_are_interested_in,Những chương trình học<br /> có thể phù hợp với bạn,Learning Programs<br /> That Might Suit You,회원님에게 딱 맞는<br />학습 프로그램,Screenshot 2025-05-06 at 16.04.56.png
+,learn_and_practice_every_time_every_where,Học và Luyện thi <br /> <gradient>mọi lúc mọi nơi</gradient>,"Study and Prepare <br /> <gradient>for Exams Anywhere, Anytime</gradient>",언제 어디서나 <br /></gradient>시험 공부 및 준비<gradient>,Screenshot 2025-05-06 at 16.05.22.png
+,in_all_devices_with_only_one_platform_prep,Trên mọi thiết bị chỉ với một nền tảng duy nhất - Prep,on just one platform: Prep,단 하나의 플랫폼에서: Prep,Screenshot 2025-05-06 at 16.05.22.png
+blog,highlight,Nổi bật,Highlights,하이라이트,Screenshot 2025-05-06 at 16.55.01.png
+,tag,Tag,Tags,태그,
+,categories,Chuyên mục,Categories,카테고리,
+,sort,Sắp xếp,Sort by,정렬 기준,Screenshot 2025-05-06 at 17.22.21.png
+,sort_by,Sắp xếp theo,Sorted by,정렬 기준,Screenshot 2025-05-06 at 17.22.21.png
+,newest,Mới nhất,Newest,최신순,Screenshot 2025-05-06 at 17.22.21.png
+,oldest,Cũ nhất,Oldest,오래된순,Screenshot 2025-05-06 at 17.22.21.png
+,no_article,Oops!... Chưa có bài viết nào cho danh mục này rồi. Prep sẽ cập nhật sớm nha!,Oops!... There are no posts for this category yet. Prep will update soon!,죄송합니다! 이 카테고리에 아직 게시물이 없습니다. Prep에서 곧 업데이트할 예정입니다!,
+,no_student,Oops!... Chưa có học viên điểm cao nào cho kỳ thi này rồi. Prep sẽ cập nhật sớm nha!,Oops!... There are no high-scoring students for this exam yet. Prep will update soon!,죄송합니다! 이 시험에서 아직 고득점을 받은 학생이 없습니다. Prep에서 곧 업데이트할 예정입니다!,
+,no_lang_support,"Bài viết hiện không hỗ trợ ngôn ngữ này, vui lòng chọn ngôn ngữ khác","This article does not support this language, please select another supported language",이 문서는 해당 언어를 지원하지 않습니다. 다른 지원 언어를 선택해 주세요.,
+,count_posts,Có {n} bài viết,There are {n} posts,게시글 {n}개,Screenshot 2025-05-06 at 17.22.21.png
+,article_has_been_translated_into_langs,Bài viết đã được dịch sang các ngôn ngữ,The article has been translated into multiple languages,이 문서는 여러 언어로 번역되었습니다,
+,count_character,{x}/{y} ký tự,{x}/{y} characters,{x}/{y}자,Screenshot 2025-05-06 at 17.19.02.png
+,content_publishing_rules,Quy tắc biên tập và xuất bản nội dung,Content publishing rules,콘텐츠 게시 규칙,Screenshot 2025-05-06 at 17.17.48.png
+,search_bar_blog,Tìm kiếm bài viết học tập,Search blog,블로그 검색,Screenshot 2025-05-06 at 16.55.24.png
+,search_bar_news,"Tìm kiếm tin sự kiện, hoạt động",Search news,뉴스 검색,
+,search_bar_student,Tìm kiếm tin vinh danh,Search rising stars news,떠오르는 스타 뉴스 검색,
+,search_placeholder,Tìm kiếm,Search,검색,Screenshot 2025-05-06 at 16.55.24.png
+,connect_with_prep,Kết nối với Prep,Connect with Prep,Prep과 소통하기,
+,personal_roadmap,Lộ trình cá nhân hoá,Personalized roadmap,맞춤형 로드맵,Screenshot 2025-05-06 at 16.55.24.png
+,interest_posts,Có thể bạn quan tâm,Most read,가장 많이 읽은 글,Screenshot 2025-05-06 at 17.18.00.png
+,table_of_content,Mục lục bài viết,Table of content,목차,Screenshot 2025-05-06 at 17.18.00.png
+blog.blog,handbook,Cẩm nang,Handbook,핸드북,Screenshot 2025-05-06 at 16.55.34.png
+blog.news_events,title,Sự kiện,Event,이벤트,
+,trending,Sự kiện nổi bật,Featured events,주요 이벤트,
+,latest,Sự kiện mới nhất,Latest events,최신 이벤트,
+,hero_event_address,Địa điểm:,Address:,주소:,
+,hero_event_time,Thời gian:,Time:,시간:,
+,hero_event_participants,Số lượng tham gia:,Number of participants:,참가자 수:,
+,hero_event_register,Đăng ký tham gia,Register,등록,
+,highlight_events,Sự kiện đáng chú ý,Highlight events,주요 이벤트,
+,related_posts,Bài viết liên quan,Related posts,관련 게시물,
+,promotions_event,Chương trình khuyến mãi,Promotion program,프로모션 프로그램,
+,promotion,Khuyến mãi,Promotions,프로모션,
+blog.student,hall_of_fame,Vinh danh học viên,Hall of fame,명예의 전당,
+,rising_star,Học viên điểm cao,Rising stars,떠오르는 스타,
+,new_talents,Gương mặt mới nhất,New talents,새로운 인재,
+,leaderboard,Bảng vàng Prep,Prep Leaderboard,Prep 순위표,
+,learned,Đã học,Completed,완료,
+,test_score,Điểm thi,Test scores,테스트 점수,
+blog.comment,title,Bình luận,Comment,의견,Screenshot 2025-05-06 at 17.19.02.png
+,fullname,Họ và tên,Full name,성명,Screenshot 2025-05-06 at 17.19.02.png
+,fullname_placeholder,Nhập họ và tên của bạn,Enter your full name,성명 입력,Screenshot 2025-05-06 at 17.19.02.png
+,email_placeholder,Nhập địa chỉ email của bạn,Enter your email address,이메일 주소 입력,Screenshot 2025-05-06 at 17.19.02.png
+,comment_placeholder,Nhập bình luận,Enter your comment,의견 입력,Screenshot 2025-05-06 at 17.19.02.png
+,submit,Gửi bình luận,Submit,제출,Screenshot 2025-05-06 at 17.19.02.png
+,reply,Phản hồi,Reply,답글,
+,load_more,Xem thêm {n} bình luận,View more {n} comments,의견 {n}개 더 보기,
+,expand,Xem {n} phản hồi,View {n} replies,답글 {n}개 보기,
+,collapse,Ẩn tất cả phản hồi,Hide all replies,모든 답글 숨기기,
+,submit_success,Gửi bình luận thành công,Comment submitted successfully,의견이 성공적으로 제출되었습니다,
+,submit_failed,Gửi bình luận thất bại,Comment submission failed,의견 제출 실패,
+,email_invalid,Địa chỉ email không hợp lệ!,Invalid email address!,이메일 주소가 유효하지 않습니다!,
+blog.premium,login_to_view,Bạn cần đăng nhập để xem nội dung này,Log in to view this content,이 콘텐츠를 보려면 로그인하세요,
+,login_now,Đăng nhập ngay,Log in,로그인하여,Screenshot 2025-05-06 at 17.25.12.png
+,to_view_personal_content,để trải nghiệm tuyến nội dung dành cho bạn,to experience the personlized premium content,맞춤형 프리미엄 콘텐츠를 경험하세요,Screenshot 2025-05-06 at 17.25.12.png
+,premium_content_introduce,Tuyến nội dung dành riêng cho bạn,Content tailored for you,회원님을 위한 맞춤형 콘텐츠,Screenshot 2025-05-06 at 16.55.24.png
+,premium_content,Nội dung premium,Premium content,프리미엄 콘텐츠,Screenshot 2025-05-06 at 16.55.24.png
+common.form,phone_label,Số điện thoại,Phone number,전화번호,Screenshot 2025-05-06 at 17.18.40.png
+,phone_placeholder,Nhập số điện thoại của bạn,Enter your phone number,회원님의 전화번호 입력,Screenshot 2025-05-06 at 17.18.40.png
+,phone_placeholder_1,Nhập số điện thoại,Enter phone number,전화번호 입력,Screenshot 2025-05-06 at 17.18.40.png
+,phone_err_required,Vui lòng nhập số điện thoại,Please enter your phone number,회원님의 전화번호를 입력해 주세요,Screenshot 2025-05-06 at 17.18.40.png
+,phone_err_wrong_format,Số điện thoại không đúng định dạng,Phone number is invalid format,전화번호의 형식이 유효하지 않습니다,
+,phone_err_wrong_format_1,,,,
+,field_err_required,Trường này không được để trống,This field cannot be left blank,이 필드는 비워둘 수 없습니다,
+,field_err_required_1,Trường thông tin không được để trống,Field cannot be empty,필드를 비워둘 수 없습니다,
+,full_name_label,Họ và tên,Full name,성명,Screenshot 2025-05-06 at 17.18.40.png
+,full_name_placeholder,Nhập họ và tên của bạn,Enter your full name,성명 입력,Screenshot 2025-05-06 at 17.18.40.png
+,full_name_err_max_length,Họ và tên không được quá {max} ký tự,Full name must not exceed {max} characters,성명은 {max}자를 초과할 수 없습니다,
+,yob_label,Năm sinh,Year of birth,생년월일,Screenshot 2025-05-06 at 17.18.40.png
+,yob_placeholder,Nhập năm sinh của bạn,Enter your year of birth,생년월일 입력,Screenshot 2025-05-06 at 17.18.40.png
+,social_netword_label,Bạn muốn liên hệ qua đâu,How would you like to be contacted?,어떤 수단으로 연락을 받고 싶으신가요?,
+,address_social_network_label,Đia chỉ {socialNetwork},Address {socialNetwork},주소 {socialNetwork},
+,address_social_network_placeholder,Nhập địa chỉ {socialNetwork},Enter {socialNetwork} address,{socialNetwork} 주소 입력,
+,address_social_network_err_wrong_format,"Địa chỉ không đúng định dạng, vui lòng kiểm tra lại!","Address is invalid format, please double-check!",주소의 형식이 유효하지 않습니다. 다시 한번 확인해 주세요!,
+,email_label,Email,Email,이메일,Screenshot 2025-05-06 at 17.18.40.png
+,email_placeholder,Nhập địa chỉ email của bạn,Enter your email address,이메일 주소 입력,Screenshot 2025-05-06 at 17.18.40.png
+,email_placeholder_1,Nhập email của bạn,Enter your email,이메일 입력,Screenshot 2025-05-06 at 17.18.40.png
+,email_err_wrong_format,"Email không đúng định dạng, vui lòng kiểm tra lại!","Email is invalid format, please double-check!",이메일의 형식이 유효하지 않습니다. 다시 한번 확인해 주세요!,
+,email_err_wrong_format_1,Vui lòng nhập địa chỉ email hợp lệ <br />(ví dụ: email@example.com),"Please enter a valid email address <br /> (e.g., email@example.com)",유효한 이메일 주소를 입력해 세요. <br /> (예: email@example.com),
+,you_are_label,Bạn là,You are,회원님:,
+,the_course_you_are_interested_in_label,Khóa học bạn quan tâm,The course you are interested in,관심 있는 강의:,
+,content_label,Nội dung,Content,콘텐츠,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder,Bạn có câu hỏi gì?,Share about you,회원님에 대해 알려주세요,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder_1,Hãy cho Prep biết trình độ hiện tại,Your current skill level,현재 스킬 레벨,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder_2,Mục tiêu mong muốn,Your desired learning goals,희망 학습 목표,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder_3,Vấn đề bạn đang gặp phải,Your issues,문제점,Screenshot 2025-05-07 at 09.01.33.png
+,current_level_label,Trình độ hiện tại,Current level,현재 레벨,Screenshot 2025-05-07 at 09.01.33.png
+,desired_goal_label,Mục tiêu đầu ra,Desired goal,희망 목표,Screenshot 2025-05-07 at 09.01.33.png
+,note_consent,"Bằng việc gửi đăng ký nhận tư vấn, bạn đã đồng ý với Chính sách bảo mật thông tin của Prep.","By submitting your registration for consultation, you agree to Prep's Privacy policy.",상담 등록을 제출하시면 회원님은 Prep의 개인정보 보호정책에 동의하시는 것입니다.,Screenshot 2025-05-06 at 17.18.40.png
+,submit_registration,Gửi đăng ký,Submit registration,등록 제출,
+,submit_successfully,Gửi câu hỏi thành công,Submitted successfully,제출 완료,
+,prep_will_contact_you_within_24h,Prep sẽ liên hệ bạn trong vòng 24 giờ,Prep will contact you within 24 hours,Prep에서 24시간 이내에 연락드리겠습니다,
+,dob_label,Ngày sinh,Date of birth,생년월일,
+,dob_placeholder,Chọn ngày tháng năm sinh,Select date of birth,생년월일 선택,
+,country_label,Quốc gia,Country,국가,
+,country_placeholder,Chọn quốc gia,Select Country,국가 선택,
+,province_label,Tỉnh thành,Province,지역,
+,province_placeholder,Chọn tỉnh thành,Select province,지역 선택,
+,career_label,Nghề nghiệp,Profession,직업,
+,career_placeholder,Chọn nghề nghiệp,Choose profession,직업 선택,
+,old_password_label,Mật khẩu cũ,Old password,이전 비밀번호,
+,password_label,Mật khẩu,Password,비밀번호,
+,password_placeholder,Nhập mật khẩu,Enter password,비밀번호 입력,
+,password_err_required,Vui lòng nhập mật khẩu,Please enter your password,비밀번호를 입력해 주세요,
+,password_err_min_max_length,Mật khẩu trong khoảng {min}-{max} ký tự,Password must be between {min}-{max} characters,비밀번호는 {min}~{max}자 사이여야 합니다,
+,password_err_duplicate_username_phone,Mật khẩu không được trùng số điện thoại/ username,Password cannot be the same as phone number/ username,비밀번호는 전화번호/사용자 이름과 같을 수 없습니다,
+,password_err_character_invalid,"Mật khẩu bắt buộc phải bao gồm ít nhất 01 chữ viết thường, 01 số và 01 chữ viết hoa","Password must include at least one lowercase letter, one number, and one uppercase letter","비밀번호는 소문자, 숫자, 대문자를 각각 최소 하나씩 포함해야 합니다",
+,confirm_password_label,Xác nhận mật khẩu,Confirm password,비밀번호 확인,
+,confirm_password_err_not_matching,Xác nhận mật khẩu không chính xác,Password confirmation is incorrect,비밀번호 확인의 비밀번호가 일치하지 않습니다,
+,username_label,Username,Username,사용자 이름,
+,username_placeholder,Nhập username,Enter username,사용자 이름 입력,
+,username_err_required,Vui lòng nhập username,Please enter your username,사용자 이름을 입력해 주세요,
+,username_password_err_required,Vui lòng nhập username và mật khẩu,Please enter your username and password,사용자 이름과 비밀번호를 입력해 주세요,
+,save_infor_successfully,Lưu thông tin thành công,Successfully saved information,정보가 성공적으로 저장되었습니다,
+,do_you_have_any_question,Bạn còn<br />câu hỏi khác?,Do you have<br /> any other questions?,다른 질문이<br /> 있으신가요?,
+,leave_your_information_for_contact_and_solve,"Hãy để lại thông tin, Prep sẽ liên hệ và hỗ trợ xử lý mọi vướng mắc của bạn","Please leave your information, and Prep will contact you to help resolve any issues",회원님의 정보를 남겨주시면 Prep에서 문제 해결을 위해 연락드리겠습니다.,
+common.header,home,Trang chủ,Home,홈,Screenshot 2025-05-06 at 16.03.38.png
+,courses,Khoá học,Course,과정,Screenshot 2025-05-06 at 16.03.38.png
+,blog,Blog,Blog,블로그,Screenshot 2025-05-06 at 16.03.38.png
+,news,Tin tức,News,뉴스,Screenshot 2025-05-06 at 16.03.38.png
+,dictionary,Từ điển,Dictionary,사전,
+,entry_test,Kiểm tra đầu vào,Entry test,입학시험,Screenshot 2025-05-06 at 16.03.38.png
+,build_roadmap,Xây dựng lộ trình,Create your study plan,학습 계획 작성,Screenshot 2025-05-06 at 16.06.14.png
+,test_practice,Luyện đề,Test Practice,테스트 연습,
+,target_commitment,Cam kết đầu ra,Output commitment,결과에 대한 약속,
+,start_learning,Bắt đầu học,Start,시작,Screenshot 2025-05-06 at 16.06.14.png
+,start,Bắt đầu,Start,시작,Screenshot 2025-05-06 at 16.06.14.png
+,settings,Cài đặt,Setting,설정,
+,logout,Đăng xuất,Log out,로그아웃,
+common.download_app,title,Tải ứng dụng trên điện thoại,Download PREP on,다음에 PREP 다운로드:,Screenshot 2025-05-07 at 09.08.06.png
+,subtitle,Tải về trên,Download on,다음에 다운로드,Screenshot 2025-05-07 at 09.08.06.png
+common.footer,connect_with_us,KẾT NỐI VỚI CHÚNG TÔI,CONNECT WITH US,Prep과 소통하세요,
+,expand_menu,Có thể bạn quan tâm,You might be interested,추천 주제,
+,cert_by,CHỨNG NHẬN BỞI,CERTIFIED BY,인증기관:,Screenshot 2025-05-07 at 09.08.06.png
+,download_mobile_app,TẢI ỨNG DỤNG TRÊN ĐIỆN THOẠI,DOWNLOAD PREP ON,다음에 PREP 다운로드:,Screenshot 2025-05-07 at 09.08.06.png
+common.contact,contact_hotline,Liên hệ Hotline,Contact Hotline,연락처 핫라인,
+,register_consultant,Đăng ký tư vấn,Register for a consultation,상담 등록,
+,message_to_prepbee_for_advice,Nhắn tin ngay cho PrepBee để được nhận tư vấn!,Message PrepBee now to ask for advice!,지금 바로 PrepBee에 메시지를 보내 상담을 요청하세요!,
+,program_consulting,Tư vấn chương trình học,Consult study program,학습 프로그램 상담,
+,contact_support_desc,"Bạn hãy để lại thông tin, Prep sẽ liên hệ tư vấn cho mình ngay nha!","Please leave your information, and Prep will contact you for consultation right away!",정보를 남겨주시면 Prep에서 바로 상담을 위해 연락드리겠습니다!,
+,contact_support_note,Vui lòng <span>liên hệ bộ phận CSKH</span> để được hỗ trợ,Please <span>contact customer support</span> for assistance,도움이 필요하시면 <span>고객 지원</span>에 문의해 주세요.,
+,need_support_contact,Bạn vẫn còn phân vân? <br /> Liên hệ Prep để được <span>Tư vấn thêm</span>,Still unsure? <br /> Contact Prep to <span>more advice</span>,아직 고민 중이신가요? <br />Prep에 문의하여 <span>더 많은 조언</span>을 받아보세요.,
+,register_for_updates,Đăng ký nhận thông tin,Register for updates,업데이트 등록,
+,contact_phone,Liên hệ {phone},Contact {phone},{phone} 번호로 문의,
+,contact_support_roadmap,Đăng ký tư vấn lộ trình học,Register for a learning roadmap consultation,학습 로드맵 상담 등록,
+common,verify,Xác minh,Verify,인증,
+,delete,Xoá,Delete,삭제,
+,i_understanded,Tôi đã hiểu,I understand,이해했습니다,
+,understood,Đã hiểu,Understood,이해했습니다,
+,confirm,Xác nhận,Confirm,확인,
+,resend_otp,Gửi lại mã,Resend code,코드 재전송,
+,login,Đăng nhập,Log in,로그인,
+,register,Đăng ký,Register,등록,
+,search,Tìm kiếm,Search,검색,
+,no_matching_results,Không tìm thấy kết quả phù hợp,No matching results found,일치하는 결과가 없습니다,
+,select,Lựa chọn,Select,선택,
+,error_alert,"Có lỗi xảy ra, Vui lòng thử lại",An error occurred. Please try again,오류가 발생했습니다. 다시 시도해 주세요.,
+,view_more,Xem thêm,View more,더 보기,
+,view_all,Xem tất cả,View all,모두 보기,
+,view_less,Ẩn bớt,Show less,덜 보기,
+,back,Quay lại,Back,돌아가기,
+,language,Ngôn ngữ,Language,언어,
+,select_language,Chọn ngôn ngữ,Select language,언어 선택,
+,static_page_ready_in_lang,Bài viết đã sẵn sàng tại các ngôn ngữ,The article is available in languages,이 문서는 다음 언어로 제공됩니다,
+,edit,Sửa,Edit,편집,
+,cancel,Huỷ,Cancel,취소,
+,save,Lưu,Save,저장,
+,continue,Tiếp tục,Continue,계속,
+,update,Cập nhật,Update,업데이트,
+,check,Kiểm tra,Check,확인,
+,apply,Áp dụng,Apply,신청,
+,save_infor,Lưu thông tin,Save,저장,
+,add_infor,Bổ sung thông tin,Update information,정보 업데이트,
+,scroll_to_continue,Cuộn xuống để tiếp tục,Scroll down to continue,계속하려면 아래로 스크롤하세요,
+,otp_authen_title,Xác thực OTP,OTP Authentication,OTP 인증,
+,otp_authen_desc,Mã OTP đã được Prep gửi đến số <span></span>,The OTP has been sent to the phone number <span></span> by Prep,Prep에서 OTP를 전화번호<span></span>로 전송했습니다,
+,otp_authen_desc_1,Mã OTP đã được Prep gửi đến số điện thoại <span></span>. Vui lòng nhập mã xác nhận bên dưới,The OTP code has been sent to the phone number <span></span> by Prep. Please enter the OTP code you receive below,Prep에서 OTP 코드를 전화번호<span></span>로 전송했습니다 수신한 OTP 코드를 아래에 입력하세요,
+,product,Sản phẩm,Product,제품,
+,all,Tất cả,All,전체,
+,note,Lưu ý,Note,참고,
+,login_or_register_to_continue,Vui lòng đăng nhập/ đăng ký để tiếp tục,Please log in or register to continue,계속하려면 로그인하거나 등록하세요.,
+,login_or_register,Đăng nhập/ Đăng ký,Log in or register,로그인 또는 등록,
+,switch_account,Đổi tài khoản,Switch account,계정 전환,
+,congratulations,Chúc mừng!,Congratulations!,축하드립니다!,
+,explore_now,Khám phá ngay,Explore now,지금 살펴보기,
+,n_students,{n} học viên,{n} students,{n}명의 학생,
+,experience_now,Trải nghiệm ngay,Experience now,지금 체험하기,
+,n_months,{n} tháng,{n} months,{n}개월,
+,n_days,{n} ngày,{n} days,{n}일,
+,accompanying_gifts,Quà tặng kèm,Accompanying gifts,함께 제공되는 선물,
+,value,Trị giá,Value,값,
+,details,Chi tiết,Details,세부 정보,
+,students,học viên,students,학생,
+,step_n,Bước {n},Step {n},단계 {n},
+,honoring_the_best_student_of_the_month,Vinh danh học viên xuất sắc nhất tháng {month},Honoring the student of the month,이달의 학생 선정,
+,archive_high_result_after_study_with_prep,đạt <span>thành tích cao</span> sau khi học tại Prep,Improved their IELTS Scores by studying on Prep,Prep에서 공부하여 IELTS 점수 향상,
+,n_age,{n} tuổi,{n} years old,{n}세,
+,exam_date,Ngày thi,Exam date,시험 일자,
+,list_students,Danh sách các học viên,List of students,학생 명단,
+dictionary.home,user_manual_title,Hướng dẫn<br />sử dụng,Prep's<br />User Manual,Prep<br />사용 설명서,
+dictionary.not_found,title,Không tìm thấy kết quả phù hợp cho <:keyword>,No exact match found for <:keyword> in English,<:keyword>와(과) 정확히 일치하는 영어 단어가 없습니다.,
+,description,"Rất tiếc, chúng tôi không tìm thấy kết quả nào khớp với tìm kiếm của bạn. Vui lòng thử:","Sorry, we couldn’t find any results matching your search. Please try:",죄송합니다. 검색어와 일치하는 결과를 찾을 수 없습니다 다음을 시도해 보세요:,
+,try_action_1,Kiểm tra lại từ khóa đã nhập,Checking your spelling,철자 확인 중,
+,try_action_2,Thử tìm kiếm với một cụm từ khác,Using different keywords,다른 키워드 사용,
+,suggestion_title,Gợi ý cho bạn:,We have these words with similar spellings or pronunciations:,다음과 같이 철자 또는 발음이 유사한 단어들이 있습니다:,
+dictionary.search_box,action_btn,Tìm kiếm,Search,검색,Screenshot 2025-05-07 at 09.26.12.png
+,placeholder,Bạn muốn tra từ gì?,Start typing any word or phrase,단어나 구문을 입력하세요,Screenshot 2025-05-07 at 09.26.12.png
+,action_item,Xem chi tiết,View details,자세히 보기,
+,loading_placeholder,Đang tìm kiếm dữ liệu...,Searching...,검색 중...,
+dictionary.word_detail,example,Ví dụ,Examples,예시,
+,n_examples,+{count} ví dụ,+{count} examples,+{count}개 예시,
+,different_pronunciation_action,Cách phát âm khác,Different pronunciation,다른 발음,
+,casual_meaning_label,Nghĩa phổ thông,Casual meaning,통상적 의미,
+,quick_navigation.prefix_guide_word,với nghĩa,as,다음으로:,
+,report_label,Báo lỗi,Report,신고,
+,antonyms_label,Từ trái nghĩa,Antonyms,반의어,
+,synonyms_label,Từ đồng nghĩa,Synonyms,동의어,
+,share_label,Chia sẻ,Share,공유,
+,link_copied,Đã sao chép,Link copied,링크 복사됨,
+,share_via,Chia sẻ qua,Share via,다음을 통해 공유:,
+,or_copy_link,Hoặc sao chép đường dẫn,Or copy link,또는 링크 복사,
+,collocation.label_tooltip,Các nhóm từ luôn kết hợp cùng nhau nhằm phản ánh cách diễn đạt tự nhiên của người bản xứ,"Words that naturally occur together in common combinations. (Fixed expressions or word pairs that sounds correct to people who have spoken the language all their lives, but might not be expected from the meaning)",일반적 조합에서 자연스럽게 함께 쓰이는 단어 (평생 해당 언어를 사용해 온 사람들에게는 올바르게 들리지만 의미상으로는 도출하기 어려울 수 있는 수정된 표현 및 단어 쌍),
+,audio.play_label,Nghe,Audio,오디오,
+,audio.stop_label,Dừng,Stop,중지,
+,audio.you_spoke_label,Bạn đọc,You spoke,회원님 스피킹 내용:,
+,audio.prep_spoke_label,Prep đọc,Sample,샘플,
+dictionary.word_detail.practice_prononciation,header_popup,Luyện tập phát âm,Practice pronunciation,발음 연습,
+,press_to_record,Nhấn để bắt đầu ghi âm,Press to record,눌러서 녹음,
+,remaining_time,Còn {remaining},{remaining} remaining,{remaining} 남음,
+,recording_limit,Giới hạn ghi âm là {limit} giây,Recording limit is {limit}s,녹음은 {limit}초로 제한됩니다,
+,your_speech_will_be_processed,Hệ thống sẽ tự động xử lý bài nói của bạn,Your speech will be processed automatically,녹음 내용은 자동으로 처리됩니다,
+,marking_loading,Bài nói của bạn đang được xử lý. Hãy chờ chút nhé!,Your speech is being processed. Please wait a moment!,녹음 내용을 처리 중입니다 잠시만 기다려 주세요!,
+,not_granted_microphone_error_msg,Bạn chưa cấp quyền truy cập Microphone. Vui lòng cấp quyền truy cập tại Cài đặt nhé,You have not granted access to the Microphone. Please enable access in Settings,마이크 접근 권한이 부여하지 않았습니다 설정에서 접근 권한을 활성화하세요,
+,tap_to_show_detail,Nhấn vào từng từ để xem cách phát âm chi tiết,Tap on each word to see detailed pronunciation,자세한 발음을 확인하려면 각 단어를 누르세요,
+,syllable,Âm tiết,Syllable,음절,
+,phonetic,Phiên âm,Phonetic,음성,
+,unclear,Không rõ,Unclear,불분명,
+,sound_like_ipa,Nghe như {ipa},Sounds like {ipa},{ipa}처럼 들립니다.,
+,marking_error_msg,"Rất tiếc, đã có lỗi xảy ra trong quá trình xử lý bài nói của bạn. Vui lòng thử lại sau!",Sorry! Something went wrong while processing your speech. Please try again later!,죄송합니다! 음성 처리 과정에서 문제가 발생했습니다 나중에 다시 시도해 주세요!,
+,record_again_action,Ghi âm lại,Record again,다시 녹음,
+,try_again_action,Thử lại,Try again,다시 시도,
+,motivate_msg_high_score,Quá đỉnh! Bạn phát âm chuẩn rồi đấy!,Awesome! Your pronunciation is spot on!,아주 좋습니다! 발음이 완벽하네요!,
+,motivate_msg_medium_score,Tốt lắm! Tiếp tục phát huy nào!,Great job! Keep it up!,잘하셨어요! 계속 노력을 이어가세요!,
+,motivate_msg_low_score,Cố gắng luyện tập thêm nhé!,Keep practicing to improve even more!,계속 연습하여 실력을 계속 향상하세요!,
+,prononciation_result_label,Kết quả phát âm,Result,결과,
+,result_good_label,Tốt,Good,좋음,
+,result_not_good_label,Cần cải thiện,Need improvement,개선 필요,

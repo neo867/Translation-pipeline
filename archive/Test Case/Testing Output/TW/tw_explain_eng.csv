@@ -1,0 +1,51 @@
+﻿id,explain_eng,explain_tw
+1,"Altogether the park covers 170 acres, that’s {{69}} hectares.",整體而言，這座公園占地170英畝，即69公頃。
+2,"There are also several smaller ones, ponds and a {{stream}} that flows through the park.",公園內還有幾個較小的景點，包括池塘和一條橫貫公園的 stream。
+3,They also collect and analyse {{data}} about the things they see.,他們也會針對所見的事物收集並分析 data。
+4,The park is a great environment to learn and practice reading a {{map}} and using a compass to navigate around the park.,這個公園是學習和練習閱讀 map，並使用指南針在公園內導航的良好環境。
+5,"That focuses (= concentrates) on your {{visitors}}, I would imagine.",我認為，這是以您的 visitors 為重點（= 集中注意力）。
+6,We all had a great time on the final boat trip down the {{river}} - that was the real highlight.,我們在沿著 river 進行的最後一趟船遊中玩得很開心——那才是真正的亮點。
+7,We've decided to plant a poplar tree in the museum {{gardens}}.,我們已決定在博物館的 gardens 種植一棵楊樹。
+8,Our pancake evening was well attended and made record {{profits}}.,我們的鬆餅晚會參與人數眾多，並創下 profits 紀錄。
+9,"Don't try to do too much that first evening as they'll be tired, so have dinner in the {{house}} or garden rather than eating out.",剛抵達的第一個晚上別安排太密集的行程，因為他們會很累，建議在 house 或花園裡用餐，而不是外出就餐。
+10,"The main entrance to the house has a lot of steps, so you might want to use the {{disabled entry}}. This is on the far side of the house from the car park.",進入這棟房子的主要入口有很多階梯，因此您可能會想使用 disabled entry。它位於房屋的另一側，與停車場相對。
+11,Children will probably be most interested in the {{adventure playground}}.,小朋友可能會對 adventure playground 最感興趣。
+12,"That's at the northern end of {{the larger lake}}, in a bend on the path that leads to the lake.",這裡位於 the larger lake 的北端，靠近通往湖泊的小徑彎道處。
+13,"The {{kitchen gardens}} are rectangular and surrounded by a wall. They’re to the north-east of the house, quite near the smaller lake.",kitchen gardens 呈長方形，並由圍牆環繞。它們位於房屋的東北側，距離較小的湖泊相當近。
+14,It must’ve been a great feeling to make something appetising out of bits of {{old bread}} that would’ve been thrown away otherwise.,將原本會丟棄的 old bread 改造成令人食指大動的美食，那種感覺一定很棒。
+15,It might be really good for drug storage in {{hospitals and pharmacies}}.,這對於hospitals and pharmacies的藥物儲存可能非常有益。
+16,"Recent studies indicate that vent populations are actually {{increasing}} globally, though we're still trying to understand why.",最新的研究指出，vents 種群在全球實際上正在 increasing，儘管我們仍在努力理解原因。
+17,The main challenge in verifying these hypotheses remains the {{technical limitations}} of our equipment - we simply can't monitor these sites as continuously as we'd like.,驗證這些假說的主要挑戰，仍來自於我們設備的 technical limitations——我們Simply無法像期望的那樣持續監控這些地點。
+18,"The bacteria communities found near these vents are particularly unique. Rather than using sunlight as an {{energy source}}, they harness chemical energy from the vent fluids.",在這些通風口附近發現的細菌群落特別獨特。它們不依賴 sunlight 作為 energy source，而是從通風口流體中獲取化學能。
+19,Our research over the past decade suggests these ecosystems operate {{independently}} of surface conditions.,我們過去十年的研究顯示，這些生態系統會 independently 於地表條件運作。
+20,"The passage states that AI surpassed human doctors in identifying a particular type of cancer, but does not mention whether it can replace human doctors ⇒ {{NOT GIVEN}}",文章指出 AI 在識別特定類型癌症方面超越了人類醫師，但未提及它是否能取代人類醫師 ⇒ NOT GIVEN
+21,"AI helps reduce the workload of administrative staff, not fully replace them. They are still needed for complex responsibilities. ⇒ {{FALSE}}",AI 有助於減輕行政人員的工作負擔，但並非完全取代他們。他們在處理複雜任務時仍不可或缺。 ⇒ FALSE
+22,"Using AI to predict disease outbreaks is one of the new applications that researchers are exploring, so it has not been used to predict disease outbreaks before ⇒ {{FALSE}}.",利用 AI 預測疾病爆發是研究人員正在探索的新應用之一，因此過去未曾用於預測疾病爆發 ⇒ FALSE。
+23,The blank comes after a verb and acts as an object ⇒ a noun is needed.,空白處位於動詞之後，並作為 object ⇒ 需要名詞（noun）。
+24,The blank comes after a noun phrase and the conjunction “and” ⇒ a noun is needed.,空格位於名詞片語與連接詞 and 之後 ⇒ 需要一個名詞。
+25,"Keywords: advantage, diagnostics ⇒ {{2nd Paragraph}} contains the answer",關鍵字：advantage、diagnostics ⇒ 2nd Paragraph 包含答案
+26,Keywords: healthcare ⇒ {{9th Paragraph}} contains the answer,關鍵字：healthcare ⇒ 答案位於 9th Paragraph
+27,Eliminate {{option A}} because AI is used to analyze images.,排除 option A，因為 AI 是用來分析影像。
+28,"Eliminate {{option C}} because the passage says AI outperforms radiologists, not completely replace them.",排除 option C，因為文章指出 AI 在放射科領域的表現優於醫師，而非完全取代他們。
+29,Eliminate {{option D}} because it is said in the 7th paragraph that AI can still make errors in diagnosing.,排除 option D，因為第 7 段指出 AI 在診斷時仍可能出現錯誤。
+30,Desalination has not been widely adopted due to high energy demands and costs ⇒ {{FALSE}}.,由於能源需求與成本高昂，海水淡化技術尚未被廣泛採用 ⇒ FALSE。
+31,"Many species have lost their pigmentation, not all of them ⇒ {{FALSE}}.",許多物種失去了色素，但並非全部 ⇒ FALSE。
+32,"cave-dwelling organisms, completely lost, pigmentation ⇒ {{2nd Paragraph}} contains the answer",穴居生物完全失去了色素 ⇒ 答案位於 2nd Paragraph
+33,"Keywords: olm, survive, years, without, eating ⇒ {{4th Paragraph}} contains the answer",關鍵字：olm、survive、years、without、eating ⇒ 4th Paragraph 包含答案
+34,"Keywords: temperatures, constant, all three zones ⇒ {{5th Paragraph}} contains the answer",詞彙：temperatures、constant、all three zones ⇒ 5th Paragraph 包含答案
+35,Explanation: The passage mentions three distinct zones but does not mention cave temperatures ⇒ {{NOT GIVEN}}.,解析：文章提及了三個不同的區域，但並未提及洞穴溫度 ⇒ NOT GIVEN。
+36,The Upper Gallery (⇒ {{F}}) now houses a medieval tapestry that was discovered carefully wrapped and preserved in one of the attic spaces.,上層畫廊（⇒ F）現收藏了一幅中世紀掛毯，該掛毯是在閣樓空間之一中發現的，當時被小心地包裹並保存完好。
+37,We're in the advanced planning stages of establishing (= plan to create) a dedicated (Q24) {{resource center}} that will serve as a hub for VR content development and pedagogical innovation.,我們正處於建立專門（Q24）resource center（= plan to create）的進階規劃階段，該中心將作為虛擬實境（VR）內容開發與教學創新的樞紐。
+38,We'll be focusing primarily on courses in (Q26) {{medical science}} and engineering.,我們將主要專注於（Q26）medical science 與工程方面的課程。
+39,We've developed a comprehensive (Q27) {{safety orientation}} program that all students must complete before accessing the VR laboratories.,我們已開發一套全面的 Q27 safety orientation 課程，所有學生必須在進入 VR 實驗室前完成。
+40,"Furthermore, urban agricultural projects generate (= create) substantial local (Q38) {{employment}} opportunities.",此外，都市農業計畫也創造了（= create）大量的當地（Q38） employment 機會。
+41,"The practice experienced a remarkable resurgence (= gained prominence) during (Q32) {{World War Two}}, when global food security concerns necessitated innovative approaches to local food production.",這項實踐在 Q32 World War Two 期間經歷了顯著的復興（⇒ 獲得 prominence），當時全球糧食安全問題促使人們採取創新方法來進行當地糧食生產。
+42,"Keywords: diagnostic tools, outperform, human doctors, diseases ⇒ {{2nd paragraph}} contains the answer",關鍵詞彙：diagnostic tools、outperform、human doctors、diseases ⇒ 答案位於 2nd paragraph
+43,The blank comes after a modal verb ⇒ a verb is needed.,空白處位於情態動詞之後 ⇒ 需要一個動詞。
+44,Keywords: Oversight ⇒ {{6th paragraph}} contains the answer,關鍵詞：Oversight ⇒ 6th paragraph 包含答案
+45,"The passage states that quantum networks coexist with classical networks in a hybrid system, rather than operating independently ⇒ {{FALSE}}",文章指出量子網路與傳統網路在混合系統中共存，而非獨立運作 ⇒ FALSE
+46,"The passage implies that different countries have varying levels of access and investment in quantum internet technology, indicating unequal access. ⇒ {{FALSE}}",文章暗示不同國家在量子網際網路技術上的取得管道與投資程度各不相同，顯示出取得機會不平等。 ⇒ FALSE
+47,The blank comes after a verb and acts as an object  ⇒ a noun is needed.,空白處位於動詞之後，並作為 object ⇒ 需要名詞（noun）。
+48,"The Cold War era was marked by competition, not collaboration, between the US and the Soviet Union, as they sought to demonstrate their superiority through space achievements. ⇒ {{FALSE}}.",冷戰時期以美國與蘇聯之間的競爭而非合作為特徵，雙方試圖透過太空成就來證明其優勢。 ⇒ FALSE
+49,"The ISS was a collaborative effort by 15 nations, not a single nation's project ⇒ {{FALSE}}.",國際太空站（ISS）是15個國家的合作成果，而非單一國家的專案 ⇒ FALSE。
+50,"Additionally, {{space debris}}—fragments of defunct satellites, rocket stages, and other remnants of human activity—poses a growing threat to active spacecraft and future missions.",此外，space debris——失效的衛星碎片、火箭級段以及人類活動的其他殘骸——對運作中的太空船和未來任務構成日益嚴重的威脅。

@@ -1,0 +1,252 @@
+[
+  {
+    "key": "checkout",
+    "english content": "Checkout",
+    "translated content": "결제"
+  },
+  {
+    "key": "pay_order",
+    "english content": "Order payment",
+    "translated content": "주문 결제"
+  },
+  {
+    "key": "pending",
+    "english content": "Pending processing",
+    "translated content": "처리 대기 중"
+  },
+  {
+    "key": "success",
+    "english content": "Payment successful",
+    "translated content": "결제 성공"
+  },
+  {
+    "key": "failure",
+    "english content": "Payment failed",
+    "translated content": "결제 실패"
+  },
+  {
+    "key": "unavailable",
+    "english content": "Unavailable",
+    "translated content": "이용 불가"
+  },
+  {
+    "key": "info_notice",
+    "english content": "The course and all accompanying benefits will be added to this account after the payment process is successful!",
+    "translated content": "결제를 성공적으로 완료하면 강의를 비롯한 전체 혜택이 이 계정에 추가됩니다!"
+  },
+  {
+    "key": "export_invoice",
+    "english content": "Issue Invoice",
+    "translated content": "송장 발행"
+  },
+  {
+    "key": "invoice_company",
+    "english content": "Company",
+    "translated content": "회사"
+  },
+  {
+    "key": "invoice_personal",
+    "english content": "Individual",
+    "translated content": "개인"
+  },
+  {
+    "key": "invoice_buyer_name",
+    "english content": "Buyer's full name",
+    "translated content": "구매자 성명"
+  },
+  {
+    "key": "placeholder_invoice_buyer_name",
+    "english content": "Enter buyer's full name",
+    "translated content": "구매자 성명 입력"
+  },
+  {
+    "key": "info_phone_number",
+    "english content": "Phone number",
+    "translated content": "전화번호"
+  },
+  {
+    "key": "placeholder_phone_number",
+    "english content": "Enter phone number",
+    "translated content": "전화번호 입력"
+  },
+  {
+    "key": "placeholder_invoice_department",
+    "english content": "Enter department name",
+    "translated content": "부서명 입력"
+  },
+  {
+    "key": "placeholder_invoice_tax_number",
+    "english content": "Enter tax identification number",
+    "translated content": "납세자 번호 입력"
+  },
+  {
+    "key": "placeholder_invoice_address",
+    "english content": "Enter address",
+    "translated content": "주소 입력"
+  },
+  {
+    "key": "placeholder_invoice_receiver_email",
+    "english content": "Enter email for receiving the invoice",
+    "translated content": "송장 수신 이메일 입력"
+  },
+  {
+    "key": "error_invoice_department",
+    "english content": "Enter company name",
+    "translated content": "회사명 입력"
+  },
+  {
+    "key": "error_invoice_email",
+    "english content": "Please enter correct email format",
+    "translated content": "올바른 이메일 형식으로 입력해 주세요"
+  },
+  {
+    "key": "invoice_department",
+    "english content": "Name of department",
+    "translated content": "부서명"
+  },
+  {
+    "key": "invoice_tax_number",
+    "english content": "Tax identification number",
+    "translated content": "납세자 번호"
+  },
+  {
+    "key": "invoice_address",
+    "english content": "Address",
+    "translated content": "주소"
+  },
+  {
+    "key": "invoice_receiver_email",
+    "english content": "Email for receiving the invoice",
+    "translated content": "송장 수신 이메일"
+  },
+  {
+    "key": "continue_checkout",
+    "english content": "Continue to payment",
+    "translated content": "결제 진행"
+  },
+  {
+    "key": "invalid_coupon",
+    "english content": "The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!",
+    "translated content": "쿠폰 또는 프로모션 코드가 더 이상 유효하지 않습니다.<br />다른 코드로 다시 시도하거나 코드 없이 결제를 진행해 주세요!"
+  },
+  {
+    "key": "product_unavailable",
+    "english content": "The product you selected has changed.<br />Please choose again or contact support staff for assistance!",
+    "translated content": "선택하신 상품이 변경되었습니다.<br />다시 선택하거나 고객 지원팀에 문의하여 도움을 요청해 주세요!"
+  },
+  {
+    "key": "checkout",
+    "english content": "checkout",
+    "translated content": "결제"
+  },
+  {
+    "key": "return_shoppping",
+    "english content": "Return to shopping",
+    "translated content": "쇼핑으로 돌아가기"
+  },
+  {
+    "key": "total_price",
+    "english content": "Total price",
+    "translated content": "총 가격"
+  },
+  {
+    "key": "promo",
+    "english content": "Promotion",
+    "translated content": "프로모션"
+  },
+  {
+    "key": "coupon_code",
+    "english content": "Coupon code",
+    "translated content": "쿠폰 코드"
+  },
+  {
+    "key": "coupon_code_placeholder",
+    "english content": "Enter coupon code",
+    "translated content": "쿠폰 코드 입력"
+  },
+  {
+    "key": "discount_price_amount",
+    "english content": "Discounted price",
+    "translated content": "할인 가격"
+  },
+  {
+    "key": "price_after_discount",
+    "english content": "Price after promotion",
+    "translated content": "프로모션 후 가격"
+  },
+  {
+    "key": "x_people_used_course",
+    "english content": "More than {x} Prep students have used this roadmap",
+    "translated content": "{x}명 이상의 Prep 학생이 이 로드맵을 사용했습니다."
+  },
+  {
+    "key": "product",
+    "english content": "Product",
+    "translated content": "제품"
+  },
+  {
+    "key": "select_promo",
+    "english content": "Select",
+    "translated content": "선택"
+  },
+  {
+    "key": "gifts",
+    "english content": "Included gift",
+    "translated content": "포함된 선물"
+  },
+  {
+    "key": "coupon_apply",
+    "english content": "Apply",
+    "translated content": "신청"
+  },
+  {
+    "key": "your_info",
+    "english content": "Your information",
+    "translated content": "회원님의 정보"
+  },
+  {
+    "key": "select_1_discount",
+    "english content": "Select a promotional code",
+    "translated content": "프로모션 코드 선택"
+  },
+  {
+    "key": "no_promo_yet",
+    "english content": "No promotional code available",
+    "translated content": "프로모션 코드가 없습니다"
+  },
+  {
+    "key": "empty_discount",
+    "english content": "Oops, there are currently no promotional programs for this product!",
+    "translated content": "죄송합니다. 현재 이 제품을 위한 프로모션 프로그램이 없습니다!"
+  },
+  {
+    "key": "consent_text",
+    "english content": "By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!",
+    "translated content": "<span>결제 계속<span>을 클릭하시면 회원님이 Prep의 <a>이용 약관<a> 및 <a>정보 보안 정책<a>을 읽고 동의하였음을 확인하는 것입니다."
+  },
+  {
+    "key": "discount_conflict_with_current_coupon",
+    "english content": "This promotion cannot be used simultaneously with the current coupon!",
+    "translated content": "이 프로모션은 현재 사용 중인 쿠폰과 동시에 사용할 수 없습니다!"
+  },
+  {
+    "key": "coupon_apply_not_successfully",
+    "english content": "Coupon application failed",
+    "translated content": "쿠폰 적용 실패"
+  },
+  {
+    "key": "coupon_apply_successfully",
+    "english content": "Coupon applied successfully!",
+    "translated content": "쿠폰이 성공적으로 적용되었습니다!"
+  },
+  {
+    "key": "coupon_conflict_with_current_discount",
+    "english content": "This coupon cannot be used simultaneously with the current promotion!",
+    "translated content": "이 쿠폰은 현재 진행 중인 프로모션과 동시에 사용할 수 없습니다!"
+  },
+  {
+    "key": "maximum_discount_limitation",
+    "english content": "Apply a maximum discount of {x}% on the order value",
+    "translated content": "주문 금액에 최대 {x}% 할인을 적용하세요"
+  }
+]

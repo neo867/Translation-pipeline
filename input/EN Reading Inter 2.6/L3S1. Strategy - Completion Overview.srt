@@ -1,0 +1,864 @@
+﻿1
+00:00:11,830 --> 00:00:14,520
+Hi everyone, welcome back to
+
+2
+00:00:14,520 --> 00:00:18,080
+the IELTS Reading 4.0 - 5.0 at PREP.
+
+3
+00:00:18,330 --> 00:00:20,830
+Today we gonna learn about the question type
+
+4
+00:00:20,833 --> 00:00:24,130
+that has been with us since we started learning English.
+
+5
+00:00:24,950 --> 00:00:28,230
+Fill in the blanks or Completion.
+
+6
+00:00:29,010 --> 00:00:31,630
+But wait, you think you know it all,
+
+7
+00:00:31,910 --> 00:00:33,910
+but in fact, you don't.
+
+8
+00:00:34,370 --> 00:00:37,310
+This question type in IELTS is very different
+
+9
+00:00:37,310 --> 00:00:40,530
+from the gap-filling exercises we did in the past.
+
+10
+00:00:41,310 --> 00:00:44,090
+Let's find out the differences together.
+
+11
+00:00:45,630 --> 00:00:49,550
+Today's lesson aims to help you understand different
+
+12
+00:00:49,550 --> 00:00:53,090
+formats of completion questions in IELTS Reading.
+
+13
+00:00:54,090 --> 00:00:57,360
+Remember, understand and apply steps
+
+14
+00:00:57,360 --> 00:00:59,960
+for completion questions effectively.
+
+15
+00:01:00,640 --> 00:01:03,330
+We have three parts of the lesson.
+
+16
+00:01:04,590 --> 00:01:09,010
+1. Definition and formats of completion questions.
+
+17
+00:01:09,950 --> 00:01:14,330
+2. Effective steps for completion questions.
+
+18
+00:01:15,070 --> 00:01:17,450
+And 3. Practice.
+
+19
+00:01:18,190 --> 00:01:20,210
+All right, we're going to get to the
+
+20
+00:01:20,210 --> 00:01:21,410
+bottom of it together.
+
+21
+00:01:21,750 --> 00:01:22,550
+Are you ready?
+
+22
+00:01:23,050 --> 00:01:23,770
+Let's go.
+
+23
+00:01:28,130 --> 00:01:31,980
+Basically, completion questions in IELTS Reading are
+
+24
+00:01:31,980 --> 00:01:35,830
+gap-filling exercises based on the question's requirements.
+
+25
+00:01:36,970 --> 00:01:41,840
+However, there are two big differences between completion questions
+
+26
+00:01:41,840 --> 00:01:44,850
+and gap-filling exercises that we usually do.
+
+27
+00:01:45,730 --> 00:01:50,250
+Firstly, for completion questions, the answers must be
+
+28
+00:01:50,250 --> 00:01:51,930
+taken from the reading passage.
+
+29
+00:01:52,910 --> 00:01:55,830
+Normally, when we do gap-filling exercises, we
+
+30
+00:01:55,830 --> 00:01:57,750
+have to think about the words we want
+
+31
+00:01:57,750 --> 00:02:00,510
+to write or choose from an available list.
+
+32
+00:02:01,030 --> 00:02:03,400
+Or, with multiple choice questions,
+
+33
+00:02:03,400 --> 00:02:06,400
+we have four options for each blank.
+
+34
+00:02:07,009 --> 00:02:09,130
+In IELTS exams, it's different.
+
+35
+00:02:09,870 --> 00:02:12,030
+Let's look at this question.
+
+36
+00:02:12,730 --> 00:02:14,650
+Choose from the passage.
+
+37
+00:02:15,210 --> 00:02:18,350
+The question clearly says that the answers have
+
+38
+00:02:18,350 --> 00:02:20,690
+to be taken from the reading and you
+
+39
+00:02:20,690 --> 00:02:22,490
+can't write whatever you want.
+
+40
+00:02:22,990 --> 00:02:25,790
+There is only one type of completion that
+
+41
+00:02:25,790 --> 00:02:27,230
+does not follow this rule.
+
+42
+00:02:27,630 --> 00:02:30,630
+We will learn more about it in the next lesson.
+
+43
+00:02:31,230 --> 00:02:35,530
+Because of this specific requirement, you should pay
+
+44
+00:02:35,530 --> 00:02:40,250
+attention to these three DON'Ts when choosing the answer.
+
+45
+00:02:41,310 --> 00:02:43,770
+Don't change the path of speech.
+
+46
+00:02:45,270 --> 00:02:46,710
+Don't change the order.
+
+47
+00:02:47,710 --> 00:02:51,330
+And, don't change the singular into the plural
+
+48
+00:02:51,330 --> 00:02:53,090
+and vice versa.
+
+49
+00:02:54,210 --> 00:02:57,190
+Simply speaking, the answers in the blanks must
+
+50
+00:02:57,190 --> 00:02:59,630
+be exactly the same as those in the
+
+51
+00:02:59,630 --> 00:03:02,450
+reading passage, without any changes.
+
+52
+00:03:03,150 --> 00:03:06,270
+In fact, this requirement helps us check if
+
+53
+00:03:06,270 --> 00:03:08,990
+the answers are correct or not.
+
+54
+00:03:09,970 --> 00:03:13,490
+For example, the answer needs a singular noun.
+
+55
+00:03:14,250 --> 00:03:16,630
+When scanning in the passage, we found a
+
+56
+00:03:16,630 --> 00:03:19,590
+noun which has a suitable meaning, but it
+
+57
+00:03:19,590 --> 00:03:21,570
+turns out to be a plural noun.
+
+58
+00:03:22,130 --> 00:03:24,990
+It means that this word is not the one we need.
+
+59
+00:03:25,630 --> 00:03:28,050
+There are many students who will still try
+
+60
+00:03:28,050 --> 00:03:30,350
+to remove the plural form of this word
+
+61
+00:03:30,350 --> 00:03:33,790
+and write it in the blank, but it isn't correct.
+
+62
+00:03:34,390 --> 00:03:36,410
+It's not the answer we need.
+
+63
+00:03:37,010 --> 00:03:41,100
+The second difference compared to the traditional gap-filling exercises
+
+64
+00:03:41,100 --> 00:03:43,150
+is that in the IELTS reading,
+
+65
+00:03:43,150 --> 00:03:46,930
+there are seven formats of completion questions.
+
+66
+00:03:47,790 --> 00:03:51,030
+In IELTS reading, instead of filling words into
+
+67
+00:03:51,030 --> 00:03:53,910
+a paragraph, we also have to fill in
+
+68
+00:03:53,910 --> 00:03:56,990
+sentences, tables, or diagrams.
+
+69
+00:03:57,550 --> 00:04:00,210
+To sum up, I would like to introduce
+
+70
+00:04:00,210 --> 00:04:03,570
+to you the completion tree, a summary tree
+
+71
+00:04:03,570 --> 00:04:05,050
+of completion questions.
+
+72
+00:04:09,280 --> 00:04:12,960
+I'm going to divide them into two big groups.
+
+73
+00:04:13,380 --> 00:04:17,940
+The first group is questions with the answers come in order.
+
+74
+00:04:18,780 --> 00:04:21,300
+The second group is the questions
+
+75
+00:04:21,300 --> 00:04:24,300
+with the answers might not come in order.
+
+76
+00:04:25,140 --> 00:04:27,880
+In the first group, the answer to question 1
+
+77
+00:04:27,880 --> 00:04:32,300
+will appear before the answer to question 2, and so on.
+
+78
+00:04:33,000 --> 00:04:35,340
+In the second group, most of the answers
+
+79
+00:04:35,340 --> 00:04:38,960
+come in order, but there are some exercises
+
+80
+00:04:38,960 --> 00:04:41,860
+in which the answer to question 2 may
+
+81
+00:04:41,860 --> 00:04:45,000
+appear before the answer to question 1.
+
+82
+00:04:46,060 --> 00:04:50,580
+Questions with the answer come in order are easier,
+
+83
+00:04:50,580 --> 00:04:53,160
+because we can use this order to
+
+84
+00:04:53,160 --> 00:04:55,840
+locate the information for the questions
+
+85
+00:04:55,840 --> 00:04:57,460
+that we have not finished.
+
+86
+00:04:57,780 --> 00:05:00,960
+For example, if you have done with questions
+
+87
+00:05:00,960 --> 00:05:05,440
+1 and 3, but not question 2, then
+
+88
+00:05:05,440 --> 00:05:08,220
+the answer to question 2 is only between
+
+89
+00:05:08,220 --> 00:05:10,740
+the answers of question 1 and 3.
+
+90
+00:05:11,140 --> 00:05:12,120
+Just focus on it.
+
+91
+00:05:15,430 --> 00:05:18,590
+This completion question type has two formats.
+
+92
+00:05:19,790 --> 00:05:23,030
+Sentence completion, fill in the blanks to complete
+
+93
+00:05:23,030 --> 00:05:25,070
+the sentence, for example.
+
+94
+00:05:26,990 --> 00:05:30,970
+And note completion, fill in the blanks to complete the note.
+
+95
+00:05:31,530 --> 00:05:34,250
+It is the example at the beginning of our lesson.
+
+96
+00:05:36,660 --> 00:05:39,770
+For completion questions in which the answers might
+
+97
+00:05:39,770 --> 00:05:41,690
+not come in order, we are going to
+
+98
+00:05:41,690 --> 00:05:44,350
+divide them into three formats based on the
+
+99
+00:05:44,350 --> 00:05:45,650
+format of the question.
+
+100
+00:05:46,370 --> 00:05:50,790
+Table or procedure, image and summary.
+
+101
+00:05:51,510 --> 00:05:55,910
+For table or procedure, we have table completion,
+
+102
+00:05:56,650 --> 00:06:00,250
+fill in the blanks to complete a given table, for example.
+
+103
+00:06:02,760 --> 00:06:06,900
+And flowchart completion, in which you have to
+
+104
+00:06:06,900 --> 00:06:09,140
+complete a procedure, like this one.
+
+105
+00:06:12,750 --> 00:06:16,850
+For image, there is only diagram completion.
+
+106
+00:06:19,160 --> 00:06:22,840
+Finally, we have a completion question type in
+
+107
+00:06:22,840 --> 00:06:25,380
+which you have to complete a summary.
+
+108
+00:06:25,900 --> 00:06:27,700
+This has two formats.
+
+109
+00:06:28,400 --> 00:06:30,840
+Summary completion with wordlist,
+
+110
+00:06:30,840 --> 00:06:32,840
+which has given words to fill in.
+
+111
+00:06:32,840 --> 00:06:36,208
+And summary completion without wordlist,
+
+112
+00:06:36,208 --> 00:06:38,600
+with no given words.
+
+113
+00:06:38,600 --> 00:06:41,600
+We need to understand some differences between these two,
+
+114
+00:06:41,600 --> 00:06:43,900
+but we'll learn them in another lesson.
+
+115
+00:06:44,720 --> 00:06:46,980
+For now, you just need to look at
+
+116
+00:06:46,980 --> 00:06:50,140
+the following two examples to have an overview about them.
+
+117
+00:06:52,650 --> 00:06:55,520
+Actually, many of you may think,
+
+118
+00:06:55,520 --> 00:06:58,550
+why do you give me such a complicated question type
+
+119
+00:06:58,550 --> 00:06:59,860
+with different formats?
+
+120
+00:07:00,530 --> 00:07:03,910
+Although there are many formats, the strategy is the same.
+
+121
+00:07:04,190 --> 00:07:06,930
+So don't worry, you can handle them well.
+
+122
+00:07:07,410 --> 00:07:09,150
+Let's move on to the steps.
+
+123
+00:07:09,710 --> 00:07:10,370
+Let's go.
+
+124
+00:07:15,070 --> 00:07:17,240
+To handle this question type effectively,
+
+125
+00:07:17,240 --> 00:07:19,750
+please follow my four steps.
+
+126
+00:07:20,850 --> 00:07:25,390
+Step number one, read the question's requirement carefully.
+
+127
+00:07:26,530 --> 00:07:30,910
+Step number two, read each question carefully and
+
+128
+00:07:30,910 --> 00:07:32,050
+predict the answer.
+
+129
+00:07:32,930 --> 00:07:38,250
+Step number three, apply scanning skills to locate information.
+
+130
+00:07:39,230 --> 00:07:44,430
+And last, step number four, find and fill in the answer.
+
+131
+00:07:45,390 --> 00:07:46,790
+Let's analyze them.
+
+132
+00:07:48,030 --> 00:07:52,110
+Step one, read the question's requirement carefully.
+
+133
+00:07:52,730 --> 00:07:56,730
+This is a very important step that many candidates skip.
+
+134
+00:07:57,570 --> 00:08:00,570
+Reading the question's requirements will give us two
+
+135
+00:08:00,570 --> 00:08:02,790
+following pieces of information.
+
+136
+00:08:04,010 --> 00:08:06,330
+Format of completion question.
+
+137
+00:08:07,110 --> 00:08:10,290
+Number of words required for each answer.
+
+138
+00:08:10,950 --> 00:08:14,030
+For example, let's look at the following questions.
+
+139
+00:08:20,520 --> 00:08:23,440
+We see that it is table completion.
+
+140
+00:08:24,100 --> 00:08:27,080
+In the questions, we have complete the table below.
+
+141
+00:08:27,800 --> 00:08:29,980
+According to the previous part of this lesson,
+
+142
+00:08:30,460 --> 00:08:33,460
+for this format, the answers might not come in order.
+
+143
+00:08:33,919 --> 00:08:35,620
+So pay attention to it.
+
+144
+00:08:36,820 --> 00:08:38,580
+Next, the number of words.
+
+145
+00:08:39,340 --> 00:08:42,980
+No more than two words, which means you
+
+146
+00:08:42,980 --> 00:08:46,200
+just write a maximum of two words.
+
+147
+00:08:46,880 --> 00:08:49,740
+You should underline this phrase because it can
+
+148
+00:08:49,740 --> 00:08:53,640
+affect your score if the answer you write
+
+149
+00:08:53,640 --> 00:08:55,940
+has the correct information.
+
+150
+00:08:56,540 --> 00:08:58,920
+But if it exceeds the word limit, then
+
+151
+00:08:58,920 --> 00:09:02,800
+it can still be counted as an incorrect answer.
+
+152
+00:09:03,620 --> 00:09:07,020
+For example, with this word limit, no more
+
+153
+00:09:07,020 --> 00:09:10,840
+than two words, if the answer is two
+
+154
+00:09:10,840 --> 00:09:14,140
+months, but you write a period of two
+
+155
+00:09:14,140 --> 00:09:17,640
+months, then it will not be scored because
+
+156
+00:09:17,640 --> 00:09:21,420
+the word limit is a maximum of two words.
+
+157
+00:09:21,420 --> 00:09:24,320
+Your answer includes five words.
+
+158
+00:09:25,020 --> 00:09:28,440
+If the question's requirement is no more than
+
+159
+00:09:28,440 --> 00:09:32,360
+two words and or a number, we can
+
+160
+00:09:32,360 --> 00:09:36,440
+write a maximum of two words and one number.
+
+161
+00:09:37,420 --> 00:09:40,060
+Step one just needs to be done quickly,
+
+162
+00:09:40,680 --> 00:09:43,500
+but if you don't do it, you will lose points.
+
+163
+00:09:44,140 --> 00:09:45,960
+Let's continue with step two.
+
+164
+00:09:47,180 --> 00:09:52,980
+Step two, read each question carefully and predict the answer.
+
+165
+00:09:54,220 --> 00:09:56,820
+Every time you handle a question, you should
+
+166
+00:09:56,820 --> 00:09:59,560
+read it carefully to use prediction skill.
+
+167
+00:10:00,720 --> 00:10:02,780
+Predict about the answer you need to write.
+
+168
+00:10:03,940 --> 00:10:07,380
+Prediction skill is very important in completion questions
+
+169
+00:10:07,380 --> 00:10:10,420
+because making detailed predictions will help you find
+
+170
+00:10:10,420 --> 00:10:13,780
+the information faster and more correctly.
+
+171
+00:10:15,020 --> 00:10:18,020
+There are three things you need to predict
+
+172
+00:10:18,020 --> 00:10:19,180
+for the answer.
+
+173
+00:10:20,180 --> 00:10:21,460
+Part of speech.
+
+174
+00:10:22,120 --> 00:10:25,160
+Does the blank need a noun, a verb,
+
+175
+00:10:25,680 --> 00:10:28,600
+an adjective, or any other parts of speech?
+
+176
+00:10:29,160 --> 00:10:31,660
+Let's use your grammar to predict it.
+
+177
+00:10:33,140 --> 00:10:33,780
+Content.
+
+178
+00:10:34,640 --> 00:10:36,720
+You already have the part of speech.
+
+179
+00:10:37,120 --> 00:10:39,400
+Now if you can predict the meaning of
+
+180
+00:10:39,400 --> 00:10:41,580
+the answer, it will be much easier to
+
+181
+00:10:41,580 --> 00:10:43,940
+find the correct word or words.
+
+182
+00:10:44,840 --> 00:10:48,440
+For example, is it a noun referring to
+
+183
+00:10:48,440 --> 00:10:52,020
+a person or a noun referring to an
+
+184
+00:10:52,020 --> 00:10:55,620
+object or a noun referring to an event?
+
+185
+00:10:56,180 --> 00:10:59,100
+If it is an adjective, does it have
+
+186
+00:10:59,100 --> 00:11:01,440
+a positive or negative meaning?
+
+187
+00:11:02,660 --> 00:11:03,140
+Grammar.
+
+188
+00:11:03,580 --> 00:11:08,340
+If the answer is a noun, is it a singular or plural noun?
+
+189
+00:11:08,970 --> 00:11:18,040
+If it is a verb, is it to verb, verb with ing, or verb infinitive?
+
+190
+00:11:18,640 --> 00:11:19,220
+Step 3.
+
+191
+00:11:20,020 --> 00:11:22,560
+Apply scanning skills to locate information.
+
+192
+00:11:23,680 --> 00:11:25,840
+We have learned this skill very carefully at
+
+193
+00:11:25,840 --> 00:11:28,180
+the beginning of the course and also practiced
+
+194
+00:11:28,180 --> 00:11:32,140
+in some lessons, so I think you are familiar with it.
+
+195
+00:11:32,620 --> 00:11:35,600
+I'm going to give you steps for scanning again.
+
+196
+00:11:36,660 --> 00:11:40,380
+Step 1. Identify keywords in the question.
+
+197
+00:11:41,380 --> 00:11:45,180
+Step 2. Identify scanning words among keywords.
+
+198
+00:11:46,300 --> 00:11:52,080
+Step 3. Find keywords, preferably scanning words, or their variations
+
+199
+00:11:52,080 --> 00:11:54,180
+and synonyms in the passage.
+
+200
+00:11:55,500 --> 00:11:57,960
+Don't forget some extra tips for scanning when
+
+201
+00:11:57,960 --> 00:12:00,140
+you find their variations and synonyms.
+
+202
+00:12:00,760 --> 00:12:01,760
+Tip number 1.
+
+203
+00:12:02,400 --> 00:12:06,860
+Among scanning words, prefer finding unchangeable keywords,
+
+204
+00:12:06,860 --> 00:12:07,620
+if possible.
+
+205
+00:12:08,640 --> 00:12:09,380
+Tip number 2.
+
+206
+00:12:10,040 --> 00:12:12,420
+Pay attention to other parts of speech of
+
+207
+00:12:12,420 --> 00:12:15,060
+the original keywords in the scanning process.
+
+208
+00:12:15,760 --> 00:12:17,960
+Now it's time for the final step.
+
+209
+00:12:18,820 --> 00:12:22,480
+Step 4. Find and fill in the answer.
+
+210
+00:12:24,700 --> 00:12:27,420
+Based on the predictions in step 2, we
+
+211
+00:12:27,420 --> 00:12:29,920
+will find correct answers and then write them
+
+212
+00:12:29,920 --> 00:12:33,840
+on the answer sheet if you take the paper-based test.
+
+213
+00:12:37,930 --> 00:12:42,490
+Now we have finished 4 steps for completion questions.
+
+214
+00:12:43,110 --> 00:12:45,210
+If we do it step by step, this
+
+215
+00:12:45,210 --> 00:12:48,150
+question type will no longer be difficult for us.
+
+216
+00:12:48,870 --> 00:12:51,790
+Ok guys, let's take a break before we practice.
+

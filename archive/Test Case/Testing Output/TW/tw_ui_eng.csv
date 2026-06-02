@@ -1,0 +1,51 @@
+﻿key,english content,tw content
+checkout,Checkout,結帳
+pay_order,Order payment,訂單付款
+pending,Pending processing,處理中
+success,Payment successful,付款成功
+failure,Payment failed,付款失敗
+unavailable,Unavailable,無法使用
+info_notice,The course and all accompanying benefits will be added to this account after the payment process is successful!,付款成功後，課程及所有相關權益將加入此帳號！
+export_invoice,Issue Invoice,開立發票
+invoice_company,Company,公司
+invoice_personal,Individual,個人
+invoice_buyer_name,Buyer's full name,買家全名
+placeholder_invoice_buyer_name,Enter buyer's full name,輸入買家全名
+info_phone_number,Phone number,電話號碼
+placeholder_phone_number,Enter phone number,輸入電話號碼
+placeholder_invoice_department,Enter department name,輸入部門名稱
+placeholder_invoice_tax_number,Enter tax identification number,輸入稅務識別號碼
+placeholder_invoice_address,Enter address,輸入地址
+placeholder_invoice_receiver_email,Enter email for receiving the invoice,請輸入電子郵件地址以接收發票
+error_invoice_department,Enter company name,輸入公司名稱
+error_invoice_email,Please enter correct email format,請輸入正確的電子信箱格式
+invoice_department,Name of department,部門名稱
+invoice_tax_number,Tax identification number,稅務識別號碼
+invoice_address,Address,地址
+invoice_receiver_email,Email for receiving the invoice,接收發票的電子郵件地址
+continue_checkout,Continue to payment,繼續付款
+invalid_coupon,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!,優惠券或促銷碼已失效。<br />請改用其他代碼再試一次，或繼續付款而不使用代碼！
+product_unavailable,The product you selected has changed.<br />Please choose again or contact support staff for assistance!,您選擇的商品已變更。<br />請重新選擇或聯繫客服人員以獲取協助！
+checkout,checkout,結帳
+return_shoppping,Return to shopping,返回購物
+total_price,Total price,總價
+promo,Promotion,促銷
+coupon_code,Coupon code,優惠券代碼
+coupon_code_placeholder,Enter coupon code,輸入優惠券代碼
+discount_price_amount,Discounted price,折扣價
+price_after_discount,Price after promotion,促銷後價格
+x_people_used_course,More than {x} Prep students have used this roadmap,已有超過 {x} 名 Prep 學生使用此學習路線
+product,Product,產品
+select_promo,Select,選擇
+gifts,Included gift,附贈禮品
+coupon_apply,Apply,套用
+your_info,Your information,您的資訊
+select_1_discount,Select a promotional code,選擇促銷代碼
+no_promo_yet,No promotional code available,無促銷代碼
+empty_discount,"Oops, there are currently no promotional programs for this product!",抱歉，該產品目前暫無促銷活動！
+consent_text,"By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!",點擊 <span>繼續付款</span>，即表示您已閱讀並同意 Prep 的 <a>服務條款</a> 及 <a>資訊安全政策</a>。
+discount_conflict_with_current_coupon,This promotion cannot be used simultaneously with the current coupon!,此促銷活動無法與目前的優惠券同時使用！
+coupon_apply_not_successfully,Coupon application failed,優惠券申請失敗
+coupon_apply_successfully,Coupon applied successfully!,優惠券應用成功！
+coupon_conflict_with_current_discount,This coupon cannot be used simultaneously with the current promotion!,此優惠券無法與目前促銷活動同時使用！
+maximum_discount_limitation,Apply a maximum discount of {x}% on the order value,訂單金額最高可享 {x}% 折扣

@@ -1,0 +1,904 @@
+﻿1
+00:00:05,290 --> 00:00:14,160
+Hello everyone, welcome back.
+
+2
+00:00:14,620 --> 00:00:19,080
+Today we are tackling one of the most interesting visual tasks in IELTS writing.
+
+3
+00:00:19,500 --> 00:00:21,080
+Task 1: Maps.
+
+4
+00:00:21,560 --> 00:00:26,480
+If you've ever played spot the difference as a child, you are already halfway there.
+
+5
+00:00:27,120 --> 00:00:31,420
+Map questions ask you to look at a location at two different points in time,
+
+6
+00:00:31,720 --> 00:00:36,160
+like 1986 versus today, and describe the changes.
+
+7
+00:00:36,940 --> 00:00:39,990
+In this lesson we will master three frameworks, 
+
+8
+00:00:40,380 --> 00:00:42,960
+the big three for basic analysis, 
+
+9
+00:00:42,960 --> 00:00:46,540
+the great three for finding your overview,
+
+10
+00:00:46,540 --> 00:00:49,220
+and the major three for organising your body paragraphs.
+
+11
+00:00:49,600 --> 00:00:55,060
+We will also analyse a band five sample to see exactly what mistakes to avoid.
+
+12
+00:00:55,540 --> 00:00:56,480
+Let's get started.
+
+13
+00:01:01,380 --> 00:01:05,720
+First, let's look at a band five sample for this map.
+
+14
+00:01:06,680 --> 00:01:14,060
+After three sections on four criteria, let's see how we can improve it to band six plus.
+
+15
+00:01:14,900 --> 00:01:19,520
+Please pause the video for five minutes to read the sample and
+
+16
+00:01:19,520 --> 00:01:24,380
+think about what you would learn from this one and what you should avoid.
+
+17
+00:01:26,800 --> 00:01:31,720
+When analysing maps, we also follow three familiar steps, 
+
+18
+00:01:31,900 --> 00:01:36,480
+the big three, the great three, and the major three.
+
+19
+00:01:37,320 --> 00:01:39,520
+Let's go into the big three.
+
+20
+00:01:40,380 --> 00:01:42,260
+One, what and where?
+
+21
+00:01:43,160 --> 00:01:48,720
+This map doesn't have a title, so let's find the what and where from the question.
+
+22
+00:01:49,640 --> 00:01:55,260
+With maps, these two elements are often combined, and here it's the
+
+23
+00:01:55,260 --> 00:01:56,580
+town of Stokeford.
+
+24
+00:01:57,220 --> 00:02:02,080
+The map shows the changes over time of a town called Stokeford.
+
+25
+00:02:03,040 --> 00:02:04,480
+Two, when?
+
+26
+00:02:05,260 --> 00:02:11,020
+The map doesn't have axes, but the time is clearly written directly
+
+27
+00:02:11,020 --> 00:02:15,780
+on the image, which is 1986 to present.
+
+28
+00:02:16,580 --> 00:02:20,000
+From there, you'll find out the verb tense we should use.
+
+29
+00:02:20,980 --> 00:02:26,360
+With maps, you must pay special attention to the features shown on each map, 
+
+30
+00:02:26,360 --> 00:02:31,800
+like what is located where, what is next to what,
+
+31
+00:02:32,020 --> 00:02:32,420
+etc.
+
+32
+00:02:32,920 --> 00:02:36,300
+The verb tense should match the time of the map.
+
+33
+00:02:36,780 --> 00:02:39,480
+1986, past.
+
+34
+00:02:40,320 --> 00:02:45,560
+When describing features in the map 1986, we'll use the past tense.
+
+35
+00:02:46,260 --> 00:02:47,920
+Present is the present.
+
+36
+00:02:48,800 --> 00:02:54,060
+When describing features in the map present, we'll use present tense.
+
+37
+00:02:54,660 --> 00:02:59,420
+Changes from 1986 to present, present perfect.
+
+38
+00:03:00,220 --> 00:03:06,560
+When describing changes between two maps from 1986 to present, we'll use
+
+39
+00:03:06,560 --> 00:03:07,900
+present perfect.
+
+40
+00:03:08,920 --> 00:03:10,140
+Three, unit.
+
+41
+00:03:10,700 --> 00:03:11,100
+None.
+
+42
+00:03:11,900 --> 00:03:14,540
+Maps have no unit, so we'll skip this.
+
+43
+00:03:15,420 --> 00:03:19,540
+We've done the first step quickly and concisely.
+
+44
+00:03:19,960 --> 00:03:23,440
+Let's move on to the great three, including...
+
+45
+00:03:24,140 --> 00:03:26,180
+One, keys.
+
+46
+00:03:26,880 --> 00:03:35,460
+For maps, there is no subject of comparison, but they are replaced by keys, which are symbols on the map.
+
+47
+00:03:36,360 --> 00:03:38,660
+Two, global feature number one.
+
+48
+00:03:39,640 --> 00:03:43,420
+And three, global feature number two.
+
+49
+00:03:44,340 --> 00:03:50,300
+Maps also have no trends, so let's focus on two global features.
+
+50
+00:03:50,880 --> 00:03:53,020
+One, keys, houses.
+
+51
+00:03:53,740 --> 00:03:57,180
+First, the symbol system, or the keys of the map.
+
+52
+00:03:57,720 --> 00:04:02,140
+With this map, most symbols have been directly explained on it.
+
+53
+00:04:02,560 --> 00:04:05,080
+Only houses is noted outside.
+
+54
+00:04:06,260 --> 00:04:10,560
+Please pay attention to changing the word forms of the keys, 
+
+55
+00:04:10,560 --> 00:04:12,900
+if needed, to fit the grammar of the sentence.
+
+56
+00:04:13,920 --> 00:04:15,120
+Wait a moment.
+
+57
+00:04:15,620 --> 00:04:19,459
+Let's stop for a few minutes before going into global features.
+
+58
+00:04:20,000 --> 00:04:22,080
+I have a mini challenge for you.
+
+59
+00:04:22,640 --> 00:04:29,200
+Within 10 seconds, can you identify two major changes in your hometown
+
+60
+00:04:29,200 --> 00:04:31,100
+over the past 10 years?
+
+61
+00:04:31,340 --> 00:04:34,000
+And the time starts now.
+
+62
+00:04:46,400 --> 00:04:50,800
+For me, my hometown has changed a lot in the last 10 years.
+
+63
+00:04:51,180 --> 00:04:58,260
+But what impresses me the most, and I think many people also agree with me, is more people.
+
+64
+00:04:58,720 --> 00:05:05,280
+It's getting more crowded, busier and livelier, and more modern facilities.
+
+65
+00:05:05,920 --> 00:05:10,580
+It's becoming more and more modern, with many new facilities.
+
+66
+00:05:11,440 --> 00:05:15,520
+At this point, maps are quite similar to the reality.
+
+67
+00:05:16,360 --> 00:05:21,260
+So, when finding global features for the overview, you should focus on
+
+68
+00:05:21,260 --> 00:05:22,920
+such significant changes.
+
+69
+00:05:23,460 --> 00:05:28,100
+And I suggest you pay attention to five aspects below.
+
+70
+00:05:29,140 --> 00:05:36,340
+Firstly, important areas, such as industrial areas, residential or housing areas, 
+
+71
+00:05:36,340 --> 00:05:45,060
+commercial areas, recreational areas, green space and woodland or forest.
+
+72
+00:05:45,920 --> 00:05:48,200
+Are there more or less of these?
+
+73
+00:05:49,040 --> 00:05:51,380
+Secondly, population.
+
+74
+00:05:52,400 --> 00:05:55,180
+Is there an increase or a decrease?
+
+75
+00:05:55,740 --> 00:05:58,180
+Thirdly, size.
+
+76
+00:05:58,860 --> 00:06:01,800
+Is it enlarged or narrowed?
+
+77
+00:06:02,500 --> 00:06:04,220
+Fourthly, transport.
+
+78
+00:06:04,680 --> 00:06:07,340
+Is it being developed or extended?
+
+79
+00:06:08,140 --> 00:06:10,120
+And lastly, infrastructure.
+
+80
+00:06:10,880 --> 00:06:14,640
+Is it being developed or improved or demolished?
+
+81
+00:06:16,100 --> 00:06:16,820
+Two.
+
+82
+00:06:17,500 --> 00:06:19,500
+Global feature number one.
+
+83
+00:06:20,460 --> 00:06:25,340
+Applying the five aspects above to this map, we can see that
+
+84
+00:06:25,340 --> 00:06:28,100
+the size of the town remains unchanged.
+
+85
+00:06:28,740 --> 00:06:30,960
+So, this could be the first global feature.
+
+86
+00:06:31,860 --> 00:06:32,200
+Three.
+
+87
+00:06:32,960 --> 00:06:34,660
+Global feature number two.
+
+88
+00:06:35,480 --> 00:06:38,820
+There are many new houses, which is a noticeable change.
+
+89
+00:06:39,180 --> 00:06:42,280
+So, this information could be included in the overview.
+
+90
+00:06:43,320 --> 00:06:48,060
+More houses have been built, replacing all the farmland to meet growing demand.
+
+91
+00:06:48,940 --> 00:06:57,380
+Let's move on to the major three to search for information  used in the body paragraphs, including, 
+
+92
+00:06:57,380 --> 00:07:05,400
+One: grouping information. Two: individual features and Three: detail organization.
+
+93
+00:07:06,900 --> 00:07:10,340
+First, let's talk about grouping information.
+
+94
+00:07:11,200 --> 00:07:13,420
+How to divide the two body paragraphs?
+
+95
+00:07:14,160 --> 00:07:17,700
+With maps, I often follow one of the two methods.
+
+96
+00:07:18,740 --> 00:07:20,920
+One, grouping by map.
+
+97
+00:07:21,760 --> 00:07:28,760
+Describe each map in a paragraph, meaning one paragraph for before and the other for after.
+
+98
+00:07:29,340 --> 00:07:33,460
+The advantage of this method is that it's easy to do and
+
+99
+00:07:33,460 --> 00:07:37,580
+suitable for maps with minimal changes and few details.
+
+100
+00:07:38,680 --> 00:07:43,940
+However, for maps with many details, you must be careful to avoid
+
+101
+00:07:43,940 --> 00:07:46,160
+writing too much information.
+
+102
+00:07:47,380 --> 00:07:50,260
+Two, grouping by area of changes.
+
+103
+00:07:51,080 --> 00:07:55,200
+It means we can divide the map into two halves, like 
+
+104
+00:07:55,200 --> 00:07:59,860
+the eastern and western zones, depending on the changes that have occurred there,
+
+105
+00:08:00,200 --> 00:08:04,080
+or group changes with similar features into one paragraph.
+
+106
+00:08:05,100 --> 00:08:10,100
+This method is more complex, but is suitable for maps with numerous changes, 
+
+107
+00:08:10,100 --> 00:08:14,480
+and it's easy to compare two periods with each other.
+
+108
+00:08:15,480 --> 00:08:20,900
+With this map, let's follow method two, grouping by area of changes,
+
+109
+00:08:21,280 --> 00:08:23,760
+as there are a lot of details on the map.
+
+110
+00:08:24,420 --> 00:08:27,060
+And I'll divide the body as follows.
+
+111
+00:08:27,900 --> 00:08:29,860
+One, grouping information.
+
+112
+00:08:30,600 --> 00:08:34,280
+Body one, the main road, the farmland and the houses.
+
+113
+00:08:35,140 --> 00:08:37,360
+Three subjects that change the most.
+
+114
+00:08:38,080 --> 00:08:40,500
+Body two, other facilities.
+
+115
+00:08:41,720 --> 00:08:45,340
+Now, to identify the details used in the body.
+
+116
+00:08:45,980 --> 00:08:47,940
+Let's spot the difference.
+
+117
+00:08:47,940 --> 00:08:54,140
+Please circle the features that have changed during this period and square
+
+118
+00:08:54,140 --> 00:08:56,700
+the ones that remain unchanged.
+
+119
+00:08:57,580 --> 00:09:03,080
+Let's do this exercise in two minutes and then we'll analyze it together.
+
+120
+00:11:06,500 --> 00:11:08,460
+It's not difficult at all, right?
+
+121
+00:11:09,400 --> 00:11:13,020
+I guess you have already come up with answers like this.
+
+122
+00:11:13,020 --> 00:11:18,200
+So let's do another exercise to apply the information we've just found.
+
+123
+00:11:18,820 --> 00:11:22,620
+There are six features that have changed during this period.
+
+124
+00:11:23,280 --> 00:11:27,520
+We'll go through each feature and you can fill the missing words
+
+125
+00:11:27,520 --> 00:11:30,540
+in the blanks to see how the feature has changed.
+
+126
+00:11:31,240 --> 00:11:35,900
+For each sentence, you'll have 10 seconds to think and fill in the word.
+
+127
+00:11:36,580 --> 00:11:40,260
+Let's start with the first subject, main road.
+
+128
+00:11:53,470 --> 00:11:57,570
+In 1986, there was a main road running through this town.
+
+129
+00:11:58,030 --> 00:12:01,550
+So let's fill in blank one with ran.
+
+130
+00:12:02,470 --> 00:12:09,210
+Now, the road is still there, but has been expanded, branching out to both sides.
+
+131
+00:12:09,510 --> 00:12:12,690
+So the answer to blank two is both.
+
+132
+00:12:13,850 --> 00:12:16,170
+Let's continue with farmlands.
+
+133
+00:12:28,900 --> 00:12:36,340
+In 1986, there were two farmlands used to raise cattle in the northeast and the southwest.
+
+134
+00:12:37,400 --> 00:12:41,420
+So let's fill in northeast, southwest and cattle.
+
+135
+00:12:42,300 --> 00:12:45,800
+However, they have disappeared completely.
+
+136
+00:12:46,700 --> 00:12:51,400
+Another feature that changed a lot and closely related to
+
+137
+00:12:51,400 --> 00:12:54,880
+ the two features we've just mentioned is houses.
+
+138
+00:13:08,180 --> 00:13:12,120
+Previously, there were only a few houses next to the main road.
+
+139
+00:13:12,740 --> 00:13:17,020
+So the first answer is road or the main road.
+
+140
+00:13:17,820 --> 00:13:23,220
+By the following years, the number of houses increased significantly along the
+
+141
+00:13:23,220 --> 00:13:27,600
+main road and its branches, replacing the farmlands.
+
+142
+00:13:28,380 --> 00:13:29,900
+Next is gardens.
+
+143
+00:13:43,150 --> 00:13:51,930
+In 1986, a large garden was next to or beside the main road, including the large house.
+
+144
+00:13:52,650 --> 00:13:58,110
+However, at the present, this area has been narrowed while the large house 
+
+145
+00:13:58,110 --> 00:14:02,270
+has been expanded to become a retirement home.
+
+146
+00:14:03,050 --> 00:14:04,150
+And how about shops?
+
+147
+00:14:17,240 --> 00:14:22,640
+In 1986, there were two shops next to the post office, 
+
+148
+00:14:22,640 --> 00:14:24,280
+but now they've both disappeared.
+
+149
+00:14:25,240 --> 00:14:27,320
+Finally, primary school.
+
+150
+00:14:40,570 --> 00:14:46,230
+In 1986, this primary school was located near the main road and the garden.
+
+151
+00:14:47,210 --> 00:14:50,850
+Over time, it has been expanded or widened.
+
+152
+00:14:51,450 --> 00:14:54,770
+Let's take a look at the analysis once again.
+
+153
+00:14:55,730 --> 00:15:03,750
+Main road, 1986, ran across the town and present has branched out to both sides.
+
+154
+00:15:04,310 --> 00:15:12,770
+Farmlands, 1986, located in the northeast and southwest, used to raise cattle.
+
+155
+00:15:13,550 --> 00:15:15,730
+Present have disappeared completely.
+
+156
+00:15:16,710 --> 00:15:22,050
+Houses, 1986, only a few next to the road or the main road 
+
+157
+00:15:22,050 --> 00:15:24,610
+and only in the northern area.
+
+158
+00:15:25,210 --> 00:15:29,810
+Present number has increased significantly along the main road and its
+
+159
+00:15:29,810 --> 00:15:32,150
+branches, replacing the farmlands.
+
+160
+00:15:32,910 --> 00:15:43,270
+Gardens, 1986, they covered a large area next to or beside the main road and accommodated the large house.
+
+161
+00:15:43,850 --> 00:15:48,770
+Present, they have shrunk, but the large house has been expanded into
+
+162
+00:15:48,770 --> 00:15:50,090
+a retirement home.
+
+163
+00:15:51,010 --> 00:15:57,810
+Shops, 1986, there were two next to the post office and in
+
+164
+00:15:57,810 --> 00:15:59,710
+the present, they have disappeared.
+
+165
+00:16:00,530 --> 00:16:07,110
+Primary school, 1986, next to the main road near the garden 
+
+166
+00:16:07,110 --> 00:16:09,970
+and present, still there but has been expanded.
+
+167
+00:16:10,930 --> 00:16:16,770
+The final step is to organize all the information earlier into
+
+168
+00:16:16,770 --> 00:16:20,030
+two body paragraphs to make a complete outline.
+
+169
+00:16:20,930 --> 00:16:25,670
+In each body, you can describe all the features in 1986 first,
+
+170
+00:16:26,110 --> 00:16:31,310
+then describe how they have changed to the present or 
+
+171
+00:16:31,310 --> 00:16:35,910
+describe each feature one by one, how it was before and how it is now.
+
+172
+00:16:36,770 --> 00:16:41,330
+We should apply the first way to avoid repeating the year too much.
+
+173
+00:16:41,710 --> 00:16:42,950
+And here is the outline.
+
+174
+00:16:47,480 --> 00:16:52,600
+I guess you still remember the band 5 sample we discussed at the beginning, right?
+
+175
+00:16:53,340 --> 00:16:57,820
+At that time, perhaps it was quite difficult to identify what was
+
+176
+00:16:57,820 --> 00:17:02,300
+good, what needed improvement, what to follow or what to avoid.
+
+177
+00:17:02,800 --> 00:17:07,720
+But now, with all the knowledge we've just learned, I believe you
+
+178
+00:17:07,720 --> 00:17:11,079
+won't have much trouble finding out what needs to be improved.
+
+179
+00:17:11,880 --> 00:17:16,940
+However, to not get lost in analyzing questions and not know where
+
+180
+00:17:16,940 --> 00:17:22,180
+to begin, let me remind you of the guiding questions to evaluate
+
+181
+00:17:22,180 --> 00:17:26,000
+task achievement and coherence and cohesion.
+
+182
+00:17:27,079 --> 00:17:30,500
+One, is the sample divided into paragraphs?
+
+183
+00:17:31,440 --> 00:17:33,960
+Two, are they complete paragraphs?
+
+184
+00:17:34,880 --> 00:17:40,400
+Three, is there an overview and does it play its role correctly?
+
+185
+00:17:41,380 --> 00:17:46,240
+Four, does the sample provide all important details and data?
+
+186
+00:17:47,300 --> 00:17:53,540
+Five, is there cohesion within sentences and between paragraphs and
+
+187
+00:17:53,540 --> 00:17:55,760
+are cohesive devices used correctly?
+
+188
+00:17:56,720 --> 00:18:00,880
+Please pause the video to analyze the sample effectively.
+
+189
+00:18:01,340 --> 00:18:03,200
+I'll be here waiting for you.
+
+190
+00:18:09,670 --> 00:18:15,450
+About paragraphing, this sample is quite well divided with three parts,
+
+191
+00:18:15,630 --> 00:18:20,710
+including introduction and overview, body 1 and body 2.
+
+192
+00:18:21,410 --> 00:18:27,130
+Each paragraph includes at least two sentences, avoiding the paragraphing mistake, 
+
+193
+00:18:27,130 --> 00:18:31,030
+which was seen in the previous band 5 samples.
+
+194
+00:18:31,870 --> 00:18:35,730
+However, please read the overview more carefully.
+
+195
+00:18:36,570 --> 00:18:38,670
+We can see a big problem.
+
+196
+00:18:39,450 --> 00:18:43,770
+The overview does not play its role correctly, which is providing 
+
+197
+00:18:43,770 --> 00:18:47,170
+a summary of the most noticeable features in the maps.
+
+198
+00:18:47,750 --> 00:18:51,970
+There are many changes and it is too general and doesn't help
+
+199
+00:18:51,970 --> 00:18:54,830
+readers understand what to focus on.
+
+200
+00:18:55,710 --> 00:19:01,810
+Overviews like many changes, many differences, or changed a lot, 
+
+201
+00:19:01,810 --> 00:19:05,350
+are not effective and might not be counted in the word count.
+
+202
+00:19:05,990 --> 00:19:08,690
+So, it's best to avoid writing like this.
+
+203
+00:19:09,790 --> 00:19:16,190
+Without a proper overview, this sample falls straight to band 5 in task achievement.
+
+204
+00:19:17,390 --> 00:19:22,830
+For the question, does the sample provide all important details and data?
+
+205
+00:19:23,390 --> 00:19:30,870
+The sample has two paragraphs, one describing 1986 and the other focusing on the present.
+
+206
+00:19:31,690 --> 00:19:35,870
+This structure isn't the best, but it isn't a big problem.
+
+207
+00:19:36,650 --> 00:19:40,350
+The real problem is how the information is presented.
+
+208
+00:19:41,510 --> 00:19:47,490
+Too many details were listed, including the unnecessary data, like 
+
+209
+00:19:47,490 --> 00:19:50,250
+the number of houses, which is not important.
+
+210
+00:19:51,150 --> 00:19:56,590
+This makes the sample extend to over 200 words, much longer than
+
+211
+00:19:56,590 --> 00:20:04,110
+it should be for task 1, and lacks focus, leading to losing task achievement scores.
+
+212
+00:20:04,790 --> 00:20:09,810
+Additionally, the cohesion between sentences is weak, with almost no
+
+213
+00:20:09,810 --> 00:20:15,590
+connections at all, and the information is disorganized, lacking a logical flow, 
+
+214
+00:20:15,590 --> 00:20:19,770
+leading to losing coherence and cohesion scores.
+
+215
+00:20:20,470 --> 00:20:24,710
+It's important to be aware of these errors so that you can
+
+216
+00:20:24,710 --> 00:20:27,270
+avoid making them in your own writing.
+
+217
+00:20:31,590 --> 00:20:33,690
+Great job reaching the end of the lesson.
+
+218
+00:20:34,070 --> 00:20:36,690
+I hope maps feel much less intimidating now.
+
+219
+00:20:37,310 --> 00:20:39,490
+Let's quickly recap what we covered.
+
+220
+00:20:39,810 --> 00:20:45,070
+We learned the big three, checking the what, where, and when to get our verb tensors right.
+
+221
+00:20:45,450 --> 00:20:50,030
+We used the great three to find global features like changes in
+
+222
+00:20:50,030 --> 00:20:53,170
+area or infrastructure for our overview.
+
+223
+00:20:53,790 --> 00:20:58,590
+And finally, we used the major three to group our details logically.
+
+224
+00:20:59,290 --> 00:21:03,950
+Remember, the key to a high score isn't listing every single tiny detail, 
+
+225
+00:21:03,950 --> 00:21:08,070
+but organizing the major changes clearly.
+
+226
+00:21:08,070 --> 00:21:09,890
+See you in the next lesson!
+

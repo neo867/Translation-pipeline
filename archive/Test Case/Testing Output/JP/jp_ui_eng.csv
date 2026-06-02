@@ -1,0 +1,51 @@
+﻿key,english content,jp content
+checkout,Checkout,ご購入手続き
+pay_order,Order payment,注文のお支払い
+pending,Pending processing,処理中
+success,Payment successful,お支払い完了
+failure,Payment failed,お支払い失敗
+unavailable,Unavailable,利用できません
+info_notice,The course and all accompanying benefits will be added to this account after the payment process is successful!,お支払いが完了次第、このアカウントにコースおよびすべての特典が追加されます！
+export_invoice,Issue Invoice,請求書の発行
+invoice_company,Company,会社
+invoice_personal,Individual,個人
+invoice_buyer_name,Buyer's full name,購入者の氏名
+placeholder_invoice_buyer_name,Enter buyer's full name,購入者の氏名を入力してください
+info_phone_number,Phone number,電話番号
+placeholder_phone_number,Enter phone number,電話番号を入力してください
+placeholder_invoice_department,Enter department name,部署名を入力してください
+placeholder_invoice_tax_number,Enter tax identification number,税務識別番号を入力してください
+placeholder_invoice_address,Enter address,住所を入力してください
+placeholder_invoice_receiver_email,Enter email for receiving the invoice,請求書を受信するためのメールアドレスを入力してください
+error_invoice_department,Enter company name,会社名を入力してください
+error_invoice_email,Please enter correct email format,正しいメールアドレスの形式を入力してください
+invoice_department,Name of department,部署名
+invoice_tax_number,Tax identification number,税務識別番号
+invoice_address,Address,住所
+invoice_receiver_email,Email for receiving the invoice,請求書受信用メールアドレス
+continue_checkout,Continue to payment,お支払いを続行する
+invalid_coupon,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!,クーポンまたはプロモーションコードは期限切れです。<br />別のコードで再試行するか、コードなしで支払いを続行してください！
+product_unavailable,The product you selected has changed.<br />Please choose again or contact support staff for assistance!,選択した製品が変更されました。<br />再度選択するか、サポートスタッフにお問い合わせください！
+checkout,checkout,ご購入手続き
+return_shoppping,Return to shopping,ショッピングに戻る
+total_price,Total price,合計金額
+promo,Promotion,プロモーション
+coupon_code,Coupon code,クーポンコード
+coupon_code_placeholder,Enter coupon code,クーポンコードを入力
+discount_price_amount,Discounted price,割引価格
+price_after_discount,Price after promotion,プロモーション後の価格
+x_people_used_course,More than {x} Prep students have used this roadmap,Prep学生x人以上が、このロードマップを利用しています
+product,Product,製品
+select_promo,Select,選択する
+gifts,Included gift,同梱ギフト
+coupon_apply,Apply,適用する
+your_info,Your information,あなたの情報
+select_1_discount,Select a promotional code,プロモーションコードを選択する
+no_promo_yet,No promotional code available,利用可能なプロモーションコードはありません
+empty_discount,"Oops, there are currently no promotional programs for this product!",申し訳ありませんが、現在この商品にはプロモーションキャンペーンがありません！
+consent_text,"By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!",<span>決済へ進む</span>をクリックすると、Prepの<a>利用規約</a>および<a>情報セキュリティポリシー</a>を読み、同意したことを確認します。
+discount_conflict_with_current_coupon,This promotion cannot be used simultaneously with the current coupon!,このプロモーションは現在、クーポンと同時にはご利用いただけません！
+coupon_apply_not_successfully,Coupon application failed,クーポンの申請に失敗しました
+coupon_apply_successfully,Coupon applied successfully!,クーポンが適用されました！
+coupon_conflict_with_current_discount,This coupon cannot be used simultaneously with the current promotion!,このクーポンは現在の実施中のプロモーションと併用できません！
+maximum_discount_limitation,Apply a maximum discount of {x}% on the order value,注文金額に対して最大x%の割引を適用する

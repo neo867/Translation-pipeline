@@ -1,0 +1,376 @@
+﻿1
+00:00:12,650 --> 00:00:13,970
+Hello everyone.
+
+2
+00:00:14,730 --> 00:00:18,770
+Welcome back to the next lesson in our IELTS writing course.
+
+3
+00:00:19,650 --> 00:00:26,210
+Today we will learn another question type in Task 2, named two-part questions.
+
+4
+00:00:26,710 --> 00:00:29,150
+Sometimes the test doesn't just ask for your opinion, 
+
+5
+00:00:29,150 --> 00:00:34,130
+it asks you two direct questions like, why is this happening?
+
+6
+00:00:34,630 --> 00:00:36,430
+And is it good or bad?
+
+7
+00:00:37,010 --> 00:00:39,710
+It can feel like doing two essays in one.
+
+8
+00:00:40,270 --> 00:00:42,150
+In this lesson, we will learn how to
+
+9
+00:00:42,150 --> 00:00:45,470
+break down these prompts using task analysis, 
+
+10
+00:00:45,470 --> 00:00:48,390
+organize our ideas using a mind map, 
+
+11
+00:00:48,390 --> 00:00:52,230
+and evaluate a sample essay to identify common band 5 mistakes.
+
+12
+00:00:52,770 --> 00:00:54,490
+Ready to master this question type?
+
+13
+00:00:54,870 --> 00:00:55,750
+Let's jump in.
+
+14
+00:00:55,750 --> 00:01:02,200
+Do you remember the three steps that
+
+15
+00:01:02,200 --> 00:01:04,600
+we have to do before writing any essay?
+
+16
+00:01:05,560 --> 00:01:07,180
+Three seconds for you.
+
+17
+00:01:13,820 --> 00:01:18,340
+The three steps pre-writing are, 
+
+18
+00:01:18,340 --> 00:01:23,420
+one, task analysis, two, brainstorming, three, outline.
+
+19
+00:01:24,740 --> 00:01:27,820
+First, let's move on to task analysis.
+
+20
+00:01:28,650 --> 00:01:34,020
+I'll give you 30 seconds to analyze the question and find three components.
+
+21
+00:01:35,060 --> 00:01:40,200
+Topic words, micro-topic words, and instruction words.
+
+22
+00:02:13,390 --> 00:02:14,500
+Have you finished?
+
+23
+00:02:15,250 --> 00:02:20,580
+We have, topic-words, people choosing to live by themselves.
+
+24
+00:02:21,320 --> 00:02:24,180
+Micro-topic words, increasing rapidly.
+
+25
+00:02:24,940 --> 00:02:28,280
+Instruction words, why is this the case?
+
+26
+00:02:28,280 --> 00:02:31,160
+Is this a positive or negative development?
+
+27
+00:02:32,220 --> 00:02:34,560
+We have understood that we need to write
+
+28
+00:02:34,560 --> 00:02:38,100
+about the rapid increase in the number of people living alone.
+
+29
+00:02:38,780 --> 00:02:42,800
+We can also see that we have to address two main questions.
+
+30
+00:02:43,800 --> 00:02:48,000
+So can you tell me, each question or
+
+31
+00:02:48,000 --> 00:02:54,720
+part in the instruction words reminds you of which question type we learned in the previous lessons?
+
+32
+00:02:55,300 --> 00:02:57,700
+And what do we need to do to answer them?
+
+33
+00:02:58,540 --> 00:03:00,200
+You'll have 15 seconds.
+
+34
+00:03:18,580 --> 00:03:21,280
+With the question, why is this the case?
+
+35
+00:03:21,780 --> 00:03:25,680
+It reminds us of the causes affect solutions question.
+
+36
+00:03:26,560 --> 00:03:29,780
+Here, we need to provide some reasons for the topic.
+
+37
+00:03:30,700 --> 00:03:34,620
+And with the question, is this a positive or negative development?
+
+38
+00:03:35,100 --> 00:03:39,260
+It reminds us of the advantages and disadvantages question.
+
+39
+00:03:40,120 --> 00:03:43,320
+Here, we need to give an opinion on
+
+40
+00:03:43,320 --> 00:03:46,280
+whether the topic is a positive or negative
+
+41
+00:03:46,280 --> 00:03:51,200
+development based on presenting the advantages and disadvantages.
+
+42
+00:03:53,200 --> 00:04:00,600
+So in general, two-part questions require you to address two parts of the questions.
+
+43
+00:04:01,700 --> 00:04:05,460
+Each part is similar to a question type that you have learned.
+
+44
+00:04:06,400 --> 00:04:12,220
+After finishing task analysis, let's move on to the next part, brainstorming.
+
+45
+00:04:12,860 --> 00:04:17,620
+In this course, we have learned three techniques for brainstorming ideas.
+
+46
+00:04:18,779 --> 00:04:22,720
+Listing, mind mapping, and 6Ws.
+
+47
+00:04:23,840 --> 00:04:26,460
+And please note that based on each question type, 
+
+48
+00:04:26,460 --> 00:04:30,000
+you should choose the appropriate technique for them.
+
+49
+00:04:30,440 --> 00:04:34,320
+In the lessons on causes affect solutions and
+
+50
+00:04:34,320 --> 00:04:39,800
+advantages-disadvantages questions, we already used mind mapping.
+
+51
+00:04:40,540 --> 00:04:45,700
+So for this sample, we'll continue using mind mapping to brainstorm ideas.
+
+52
+00:04:46,800 --> 00:04:48,900
+Now I'm going to show you a mind map 
+
+53
+00:04:48,900 --> 00:04:52,440
+with the central idea, higher number of
+
+54
+00:04:52,440 --> 00:04:56,320
+people living by themselves, and three main branches.
+
+55
+00:04:57,260 --> 00:05:05,000
+Reasons to brainstorm ideas for question 1, Advantages, and Disadvantages.
+
+56
+00:05:05,360 --> 00:05:07,760
+These two branches are for question 2.
+
+57
+00:05:08,640 --> 00:05:13,160
+Now please pause the video for three minutes
+
+58
+00:05:13,160 --> 00:05:17,660
+to add more branches and complete this mind map.
+
+59
+00:05:23,970 --> 00:05:24,910
+Have you finished?
+
+60
+00:05:25,390 --> 00:05:28,150
+Let me show you the mind map that I've created.
+
+61
+00:05:28,750 --> 00:05:30,990
+To know more about how to create this mind map, 
+
+62
+00:05:30,990 --> 00:05:34,670
+you can read the PDF file attached below.
+
+63
+00:05:40,020 --> 00:05:43,740
+For now, let's move on to part 2, sample evaluation.
+
+64
+00:05:48,400 --> 00:05:51,540
+Firstly, let's read the following sample essay.
+
+65
+00:05:59,460 --> 00:06:02,060
+Next, let's move on to its outline.
+
+66
+00:06:10,390 --> 00:06:13,630
+Let's identify if this essay achieves band 5
+
+67
+00:06:13,630 --> 00:06:16,870
+or band 6 for task response and coherence
+
+68
+00:06:16,870 --> 00:06:20,470
+and cohesion, based on the following checklists.
+
+69
+00:06:21,230 --> 00:06:24,370
+First, let's start with task response.
+
+70
+00:06:33,900 --> 00:06:37,060
+This essay has met all the requirements except
+
+71
+00:06:37,060 --> 00:06:41,220
+for number 2, because there are only 207 words.
+
+72
+00:06:41,920 --> 00:06:42,880
+And number 6.
+
+73
+00:06:43,460 --> 00:06:46,160
+We will analyse this together and give some
+
+74
+00:06:46,160 --> 00:06:49,680
+solutions in part 3, sample improvements.
+
+75
+00:06:50,650 --> 00:06:53,560
+Let's continue with the checklist for coherence.
+
+76
+00:07:01,890 --> 00:07:06,310
+The essay only fully meets the requirement 6 of the conclusion.
+
+77
+00:07:07,070 --> 00:07:09,910
+For the others, the essay only meets parts of them.
+
+78
+00:07:10,870 --> 00:07:13,630
+Let's continue with the checklist for cohesion.
+
+79
+00:07:21,370 --> 00:07:25,930
+The second requirement has been met, but the first hasn't yet.
+
+80
+00:07:29,310 --> 00:07:33,190
+In the next part, sample improvements, we'll find
+
+81
+00:07:33,190 --> 00:07:36,170
+out why some boxes are not ticked and
+
+82
+00:07:36,170 --> 00:07:38,470
+see how to analyse and improve it.
+
+83
+00:07:42,020 --> 00:07:44,800
+And that brings us to the end of today's lesson.
+
+84
+00:07:45,480 --> 00:07:48,420
+We have successfully explored how to break down
+
+85
+00:07:48,420 --> 00:07:52,380
+two-part questions, organised our ideas using 
+
+86
+00:07:52,380 --> 00:07:56,980
+a mind map, and critiqued a sample essay to spot common pitfalls.
+
+87
+00:07:57,780 --> 00:08:00,260
+As we saw, even if your ideas are good, 
+
+88
+00:08:00,260 --> 00:08:03,440
+simple mistakes like falling under the word count 
+
+89
+00:08:03,440 --> 00:08:06,700
+or failing to fully explain your points
+
+90
+00:08:06,700 --> 00:08:09,360
+can drag your score down to a band 5.
+
+91
+00:08:09,920 --> 00:08:11,900
+Now that you know what to look for,
+
+92
+00:08:12,280 --> 00:08:14,540
+make sure to check your own practice essays
+
+93
+00:08:14,540 --> 00:08:18,720
+against these requirements to ensure you are hitting that band 6 target.
+
+94
+00:08:19,220 --> 00:08:21,400
+Thank you for joining me and happy writing!
+

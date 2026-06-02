@@ -1,0 +1,517 @@
+Group Key (Tech + Product),Key (Tech),vi-content,en-content,id-content (human translation),Link image/ context
+payment.metadata,checkout,Checkout,Checkout,Beli sekarang,Screenshot 2025-05-07 at 09.14.26.png
+,pay_order,Thanh toán đơn hàng,Order payment,Pembayaran pesanan,
+,pending,Chờ xử lý,Pending processing,Proses tertunda,
+,success,Thanh toán thành công,Payment successful,Pembayaran berhasil,
+,failure,Thanh toán thất bại,Payment failed,Pembayaran gagal,Screenshot 2025-05-07 at 09.16.33.png
+,unavailable,Không khả dụng,Unavailable,Tidak tersedia,
+payment.checkout,info_notice,Khóa học và tất cả quyền lợi đi kèm sẽ được thêm vào tài khoản này sau khi quá trình thanh toán thành công!,The course and all accompanying benefits will be added to this account after the payment process is successful!,Materi dan seluruh manfaatnya akan ditambahkan ke akun ini setelah pembayaran berhasil!,Screenshot 2025-05-07 at 09.14.26.png
+,export_invoice,Xuất hóa đơn,Issue Invoice,Terbitkan Faktur,Screenshot 2025-05-07 at 09.14.26.png
+,invoice_company,Công ty,Company,Perusahaan,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_personal,Cá nhân,Individual,Perseorangan,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_buyer_name,Họ tên người mua hàng,Buyer's full name,Nama lengkap pembeli,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_buyer_name,Nhập họ tên người mua hàng,Enter buyer's full name,Masukkan nama lengkap pembeli,Screenshot 2025-05-07 at 09.17.04.png
+,info_phone_number,Số điện thoại,Phone number,Nomor telepon,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_phone_number,Nhập số điện thoại,Enter phone number,Masukkan nomor telepon,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_department,Nhập tên đơn vị,Enter department name,Masukkan nama departemen,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_tax_number,Nhập mã số thuế,Enter tax identification number,Masukkan Nomor Pokok Wajib Pajak (NPWP),Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_address,Nhập địa chỉ kinh doanh,Enter address,Masukkan alamat,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_receiver_email,Nhập email nhận hóa đơn,Enter email for receiving the invoice,Masukkan email untuk menerima faktur,Screenshot 2025-05-07 at 09.17.04.png
+,error_invoice_department,Nhập tên công ty đầy đủ,Enter company name,Masukkan nama perusahaan,Screenshot 2025-05-07 at 09.17.04.png
+,error_invoice_email,Vui lòng nhập đúng định dạng email,Please enter correct email format,Harap masukkan format email yang benar,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_department,Tên đơn vị,Name of department,Nama departemen,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_tax_number,Mã số thuế,Tax identification number,Nomor Pokok Wajib Pajak (NPWP),Screenshot 2025-05-07 at 09.17.04.png
+,invoice_address,Địa chỉ,Address,Alamat,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_receiver_email,Email nhận hóa đơn,Email for receiving the invoice,Email untuk menerima faktur,Screenshot 2025-05-07 at 09.17.04.png
+,continue_checkout,Tiếp tục thanh toán,Continue to payment,Lanjutkan ke pembayaran,Screenshot 2025-05-07 at 09.17.04.png
+,invalid_coupon,Mã coupon hoặc khuyến mãi không còn khả dụng.<br />Hãy thử lại bằng mã khác hoặc Tiếp tục thanh toán không dùng mã!,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!,Kupon atau kode promosi sudah tidak berlaku.<br />Silakan coba lagi dengan kode yang berbeda atau lanjutkan pembayaran tanpa kode!,
+,product_unavailable,Sản phẩm bạn lựa chọn đã có sự thay đổi.<br />Vui lòng chọn lại hoặc liên hệ nhân viên để được trợ giúp nhé!,The product you selected has changed.<br />Please choose again or contact support staff for assistance!,Produk yang Anda pilih telah berubah.<br />Silakan pilih kembali atau hubungi tim dukungan pelanggan untuk bantuan!,
+,checkout,Checkout,checkout,Bayar sekarang,Screenshot 2025-05-07 at 09.14.26.png
+,return_shoppping,Quay lại mua hàng,Return to shopping,Kembali berbelanja,
+,total_price,Tổng giá bán,Total price,Total harga,Screenshot 2025-05-07 at 09.14.40.png
+,promo,Khuyến mãi,Promotion,Promosi,Screenshot 2025-05-07 at 09.14.40.png
+,coupon_code,Mã Coupon,Coupon code,Kode kupon,Screenshot 2025-05-07 at 09.14.26.png
+,coupon_code_placeholder,Nhập mã Coupon,Enter coupon code,Masukkan kode kupon,Screenshot 2025-05-07 at 09.14.26.png
+,discount_price_amount,Giá được giảm,Discounted price,Harga setelah diskon,Screenshot 2025-05-07 at 09.14.26.png
+,price_after_discount,Giá bán sau khuyến mãi,Price after promotion,Harga setelah promosi,Screenshot 2025-05-07 at 09.14.40.png
+,x_people_used_course,Hơn {x} học viên của Prep đã sử dụng lộ trình này!,More than {x} Prep students have used this roadmap,Lebih dari {x} siswa Prep telah menggunakan peta belajar ini,Screenshot 2025-05-07 at 09.14.40.png
+,product,Sản phẩm,Product,Produk,Screenshot 2025-05-07 at 09.14.40.png
+,select_promo,Chọn,Select,Pilih,
+,gifts,Quà tặng kèm,Included gift,Mendapatkan hadiah,
+,coupon_apply,Áp dụng,Apply,Memasukkan,
+,your_info,Thông tin của bạn,Your information,Informasi Anda,Screenshot 2025-05-07 at 09.14.40.png
+,select_1_discount,Chọn 1 mã khuyến mãi,Select a promotional code,Pilih kode promosi,
+,no_promo_yet,Chưa có mã khuyến mãi,No promotional code available,Tidak ada kode promosi tersedia,
+,empty_discount,"Oops, chưa có chương trình khuyến mãi nào cho sản phẩm này rồi!","Oops, there are currently no promotional programs for this product!","Ups, saat ini tidak ada program promosi untuk produk ini!",
+,consent_text,Bằng việc nhấn <span>Tiếp tục thanh toán<span> bạn xác nhận đã đọc và đồng ý với <a>Điều kiện & Điều khoản</a> cùng <a>Chính sách bảo mật</a> thông tin của Prep!,"By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!","Dengan mengklik <span>Lanjutkan ke Pembayaran<span>, Anda mengonfirmasi bahwa telah membaca dan menyetujui <a>Syarat dan Ketentuan<a> serta <a>Kebijakan Keamanan Informasi<a> Prep!",Screenshot 2025-05-07 at 09.14.26.png
+,discount_conflict_with_current_coupon,Khuyến mãi này không được áp dụng đồng thời với coupon hiện tại!,This promotion cannot be used simultaneously with the current coupon!,Promosi ini tidak dapat digunakan bersamaan dengan kupon saat ini!,
+,coupon_apply_not_successfully,Áp dụng Coupon không thành công,Coupon application failed,Kupon gagal digunakan,
+,coupon_apply_successfully,Áp dụng mã Coupon thành công!,Coupon applied successfully!,Kupon berhasil digunakan!,
+,coupon_conflict_with_current_discount,Coupon này không được áp dụng đồng thời với khuyến mãi hiện tại!,This coupon cannot be used simultaneously with the current promotion!,Kupon ini tidak dapat digunakan bersamaan dengan promosi saat ini!,
+,maximum_discount_limitation,Áp dụng giảm tối đa {x}% giá trị đơn hàng,Apply a maximum discount of {x}% on the order value,Terapkan diskon maksimum {x}% pada harga pesanan,
+,need_support_contact,Bạn vẫn còn phân vân? <br /> Liên hệ Prep để được <span>Tư vấn thêm</span>,Still unsure? <br /> Contact Prep to <span>Ask for advice</span>,Masih ragu? <br /> Hubungi Prep untuk <span>Meminta Saran</span>,
+,back_to_homepage,Quay lại trang chủ,Back to homepage,Kembali ke beranda,
+,sale_policy_not_support_in_market_title,"Rất tiếc, sản phẩm không hỗ trợ khu vực của bạn","We’re sorry, this product is not supported in your area","Maaf, produk ini tidak tersedia di wilayah Anda",
+,sale_policy_not_support_in_market_desc,Vui lòng truy cập trang chủ để cập nhật và khám phá các sản phẩm phù hợp tại khu vực của bạn,Please visit homepage to update and explore products suitable for your area,Silakan kunjungi beranda untuk memperbarui dan mencari produk yang tersedia untuk wilayah Anda,
+,program_consulting,Tư vấn chương trình học,Talk with our team,Konsultasikan dengan tim kami,
+,contact_support_notice,"Bạn hãy để lại thông tin, Prep sẽ liên hệ tư vấn cho mình ngay nha!","Please provide your details below, and Prep will reach out to you for a consultation as soon as possible.","Silakan berikan detail Anda di bawah, dan Prep akan menghubungi Anda untuk konsultasi secepatnya.",
+,contact_support,Liên hệ hỗ trợ,Contact support,Hubungi dukungan pelanggan,Screenshot 2025-05-07 at 09.16.33.png
+,b2b_prevent_checkout_title,Bạn không thể sử dụng tính năng này,You cannot access this feature,Anda tidak dapat mengakses fitur ini,
+,b2b_prevent_checkout_desc,Tài khoản {username} là tài khoản doanh nghiệp và không thể thực hiện thanh toán trên nền tảng này. Vui lòng liên hệ với doanh nghiệp/ nhà cung cấp để được hỗ trợ,The account {username} is a business account and cannot make payments on this platform. Please contact the business/ provider for support,Akun {username} adalah akun bisnis dan tidak dapat melakukan pembayaran pada platform ini. Silakan hubungi penyedia/bisnis untuk bantuan,
+payment.payment,payment,Thanh toán,Payment,Pembayaran,Screenshot 2025-05-07 at 09.16.33.png
+,method,Hình thức thanh toán,Payment method,Metode pembayaran,Screenshot 2025-05-07 at 09.16.33.png
+,info,Thông tin thanh toán,Payment information,Informasi pembayaran,Screenshot 2025-05-07 at 09.16.33.png
+,transfer_bank,Ngân hàng,Bank,Bank,Screenshot 2025-05-07 at 09.16.33.png
+,3rd_info,Giải pháp thanh toán được cung cấp bởi,Payment solutions provided by,Soulusi pembayaran disediakan oleh,Screenshot 2025-05-07 at 09.16.33.png
+,transfer_info,Thông tin chuyển khoản,Transfer information,Informasi transfer,
+,transfer_account,Số tài khoản,Account number,Nomor rekening,
+,transfer_holder_name,Tên chủ tài khoản,Account holder's name,Nama pemilik rekening,
+,transfer_message,Nội dung chuyển khoản,Transfer description,Deskripsi transfer,
+,transfer_amount,Số tiền cần chuyển,Amount to be transferred,Jumlah yang akan ditransfer,
+,bank_select,Chọn ngân hàng,Select bank,Pilih bank,
+,guide_title,Hướng dẫn thanh toán,Payment instructions,Instruksi pembayaran,
+,guide_open_app,Mở ứng dụng ngân hàng trên thiết bị di động của bạn,Open the banking app on your mobile device,Buka aplikasi perbankan di perangkat seluler Anda,
+,guide_scan_qr,"Trên ứng dụng, chọn tính năng Quét mã QR","In the app, select the QR code scanning feature","Di aplikasi, pilih fitur pemindaian kode QR",
+,guide_scan_and_process,Quét mã QR bên trên và thanh toán,Scan the QR code above and make the payment,Pindai kode QR di atas dan lakukan pembayaran,
+,note_transfer_info_bank_transfer,"Sau khi bạn thanh toán thành công, vui lòng chờ trong 5 phút để hệ thống xử lý đơn hàng. Nếu quá thời gian trên mà chưa nhận được phản hồi, vui lòng cung câp hình ảnh thanh toán cho các bạn tư vấn tuyển sinh để được xác nhận đơn hàng!","After you successfully make the payment, please wait 5 minutes for the system to process your order. If you do not receive a response after this time, please provide a payment image to the admissions consultant to order confirmation!","Setelah Anda berhasil melakukan pembayaran, mohon tunggu 5 menit agar sistem memproses pesanan Anda. Jika Anda tidak menerima respons setelah waktu tersebut, silakan berikan bukti pembayaran kepada tim terkait untuk konfirmasi pesanan!",
+,failure,Thanh toán thất bại,Payment failed,Pembayaran gagal,
+,failure_notice,<strong>Ooop!</strong> Đã có vấn đề xảy ra khiến quá trình thanh toán không thành công.<br /> Hãy thử thanh toán lại hoặc liên hệ nhân viên hỗ trợ để được giúp đỡ ngay bạn nhé!,<strong>Oops!...</strong> Something went wrong causing the payment process to fail. <br /> Please try again or contact support staff for immediate assistance!,Ups!... Terjadi kesalahan sehingga proses pembayaran gagal. <br /> Silakan coba lagi atau hubungi tim dukungan pelanggan untuk bantuan segera!,Screenshot 2025-05-07 at 09.16.33.png
+,success,Thanh toán thành công,Payment successful,Pembayaran berhasil,
+,repayment,Thanh toán lại,Pay again,Bayar lagi,Screenshot 2025-05-07 at 09.16.33.png
+,start_learn,Bắt đầu học ngay bây giờ,Start learning now,Mulai belajar sekarang,
+,complete_payment_in_time,Hãy hoàn tất quá trình thanh toán trong,Complete the payment process in,Selesaikan proses pembayaran dalam,
+,complete_payment_in_time_lite,Thanh toán trong,Payment within,Pembayaran dalam,
+,coupon_expired_msg,Thời gian tồn tại của đơn hàng/ mã coupon đã hết. Vui lòng liên hệ với nhân viên hỗ trợ để được khởi tạo đơn hàng/ mã coupon mới!,The validity of the order/ coupon code has expired. Please contact support to create a new order/ coupon code!,Masa berlaku pesanan/ kode kupon telah kedaluwarsa. Silakan hubungi dukungan pelanggan untuk membuat pesanan/ kode kupon baru!,
+,9pay_intro,Giao dịch được thực hiện bởi 9Pay - Cổng thanh toán điện tử được Ngân hàng nhà nước cấp phép làm trung gian thanh toán,The transaction is processed by 9Pay - an electronic payment gateway licensed by the State Bank to act as a payment intermediary,Transaksi diproses oleh 9Pay – penyedia gateway pembayaran elektronik berizin dari Bank Negara sebagai perantara pembayaran,
+,note_transfer_info_9pay,"Sau khi thanh toán thành công, vui lòng chờ trong 5 phút để hệ thống xử lý đơn hàng của bạn, nếu quá thời gian trên mà chưa nhận được phản hồi, hãy chọn <span>Kiểm tra tiến trình đơn hàng</span>","After successful payment, please wait for 5 minutes for the system to process your order. If you do not receive a response after this time, please select <span>Check order status</span>","Setelah pembayaran berhasil, mohon tunggu 5 menit agar sistem memproses pesanan Anda. Jika tidak menerima respons setelah waktu tersebut, silakan pilih <span>Periksa status pesanan</span>",
+,payment_processing_9pay,"Vui lòng chờ trong giây lát, đơn hàng của bạn đang được hệ thống xử lý. Dự kiến sẽ hoàn thành trong",Please wait a moment. Your order is being processed by the system. It is expected to be completed in,Mohon tunggu sebentar. Pesanan Anda sedang diproses oleh sistem. Diharapkan selesai dalam,
+,payment_pending_9pay,Quá trình thanh toán vẫn chưa thể hoàn thành.<br /> Hãy liên hệ Hotline của Prep để được hỗ trợ ngay bạn nhé!,The payment process has not been completed yet.<br />Please contact Prep's Hotline for immediate assistance!,Proses pembayaran belum selesai.<br />Silakan hubungi Hotline Prep untuk bantuan segera!,
+,contact_support_hotline,Liên hệ hotline hỗ trợ,Contact support hotline,Hubungi hotline dukungan,
+,pay,Thanh toán,Pay,Bayar,Screenshot 2025-05-07 at 09.14.40.png
+,payment_by,Thanh toán bằng,Pay by,Bayar dengan,Screenshot 2025-05-07 at 09.14.40.png
+,direct_payment_via,Thanh toán trực tiếp qua,Pay directly through,Bayar langsung melalui,Screenshot 2025-05-07 at 09.14.40.png
+,or_pay_by_paypal_to_email,Hoặc chuyển khoản dùng Paypal tới email,Or transfer via PayPal to the email,Atau transfer menggunakan PayPal ke email,Screenshot 2025-05-07 at 09.14.40.png
+,paypal_done_notice,"Sau khi thanh toán thành công, bạn vui lòng cung cấp hình ảnh thanh toán cho các bạn tư vấn tuyển sinh để được xác nhận đơn hàng!","After completing your payment, you might be required to send a screenshot of the payment confirmation to our support email at <a>support@prepedu.com</a>","Setelah menyelesaikan pembayaran, Anda mungkin perlu mengirim tangkapan layar konfirmasi pembayaran ke email dukungan pelanggan kami di <a>support@prepedu.com</a>",
+,payment_processing_msg_prefix,"Đơn hàng của bạn đang được hệ thống xử lý, dự kiến sẽ hoàn thành trong",Your order is being processed by the system and is expected to be completed in,Pesanan Anda sedang diproses oleh sistem dan diharapkan selesai dalam,
+,payment_processing_msg_suffix,Vui lòng không tắt thông báo này trước khi nhận được phản hồi từ phía Prep!,Please do not turn off this notification before receiving a response from Prep!,Mohon jangan matikan notifikasi ini sebelum menerima respons dari Prep!,
+,payment_pending_msg,Quá trình thanh toán vẫn chưa thể hoàn thành. Vui lòng thử lại hoặc liên hệ Prep để được hỗ trợ ngay bạn nhé!,The payment process could not be completed. Please try again or contact Prep for immediate assistance!,Proses pembayaran tidak dapat diselesaikan. Silakan coba lagi atau hubungi Prep untuk bantuan segera!,
+,success_notice,"<strong>Hooray!</strong> Chúc mừng bạn đã thanh toán thành công. <br /> Bây giờ, bạn đã có thể bắt đầu học tập ngay rồi nhé. <br /> Chúc bạn sớm đạt được kết quả như mong muốn!","<strong>Hooray!</strong> Congratulations on your successful payment. <br /> Now, you can start studying right away! <br /> Wishing you achieve your desired results soon!","<strong>Hore!</strong> Selamat atas pembayaran Anda yang berhasil. <br /> Sekarang, Anda dapat langsung mulai belajar! <br /> Semoga Anda segera meraih hasil yang diinginkan!",
+,payment_suspended,Quá trình thanh toán đang bị gián đoạn. <br />Hãy liên hệ Hotline của Prep để được hỗ trợ ngay bạn nhé!,The payment process is currently interrupted.<br />Please contact Prep's Hotline for immediate assistance!,Proses pembayaran sedang terganggu.<br />Silakan hubungi Hotline Prep untuk bantuan segera!,
+,unavailable,Không khả dụng,Unavailable,Tidak tersedia,
+,unavailable_description,<span>Ooop!</span> Đơn hàng của bạn không còn tồn tại.<br />Vui lòng liên hệ nhân viên hỗ trợ để được khởi tạo đơn hàng mới bạn nhé!,<span>Ooop!</span> Your order no longer exists.<br />Please contact support staff to create a new order!,<span>Ups!</span> Pesanan Anda sudah tidak ada.<br />Silakan hubungi tim dukungan pelanggan untuk membuat pesanan baru!,
+,support,Hỗ trợ,Support,Bantuan,
+,support_payment,Hỗ trợ thanh toán,Payment support,Dukungan pembayaran,
+,qr_code_expired,Mã QR đã hết hạn,QR code has expired,Kode QR telah kedaluwarsa,
+,click_to_reload,Nhấn để tải lại,Click to reload,Klik untuk memuat ulang,
+payment.verify,notice,Vui lòng xác nhận số điện thoại để tiếp tục thanh toán!,Please confirm your phone number to continue with the payment!,Silakan konfirmasi nomor telepon Anda untuk melanjutkan pembayaran!,
+,resend_after,Gửi lại mã sau {x}s,Resend the code after {x}s,Kirim ulang kode setelah {x},
+,send_code,Gửi mã xác nhận,Send verification code,Kirim kode verifikasi,
+,counter,Còn {x} lần,{x} attempts remaining,Sisa {x} percobaan ,
+,otp_send_limit,Bạn đã hết lượt gửi mã OTP. Vui lòng thử lại sau 15 phút!,You have used up all your attempts to send the OTP. Please try again in 15 minutes!,Anda telah menggunakan semua percobaan pengiriman OTP. Silakan coba lagi dalam 15 menit!,
+,otp_input,Mã OTP xác nhận,Confirmation OTP code,Konfirmasi kode OTP,
+,send_otp_successfully,Gửi mã OTP thành công,OTP code sent successfully,Kode OTP sudah berhasil terkirim,
+payment.common,i_understand,Tôi đã hiểu,I understand,Saya mengerti,
+,days,ngày,days,hari,
+,hours,giờ,hours,jam,
+,minutes,phút,minutes,menit,
+,seconds,giây,seconds,detik,
+,copy,Sao chép,Copy,Salin,
+,copy_successful,Sao chép thành công,Copy successful,Berhasi disalin,
+,step,Bước,Step,Langkah,
+,value,Trị giá,Value,Nilai,
+,an_error_occurred,Có lỗi xảy ra,An error occurred,Terjadi kesalahan,
+,note,Lưu ý,Note,Catatan,
+,search,Tìm kiếm,Search,Cari ,
+,select,Lựa chọn,Select,Pilih,
+,no_matching_results,Không tìm thấy kết quả phù hợp,No matching results found,Tidak ada hasil yang sesuai,
+,view_more,Xem thêm,View more,Lihat lainnya,
+,email,Email,Email,Email,
+,prep_has_received_your_info,Prep đã nhận thông tin của bạn,Prep has received your information,Prep telah menerima informasi Anda,
+,prep_will_contact_you_soon,"Hãy chú ý điện thoại, Prep sẽ liên hệ sớm","Be mindful of your phone, Prep will contact you soon","Perhatikan ponsel Anda, Prep akan menghubungi Anda segera",
+,an_error_occurred_try_again,Có lỗi xảy ra. Vui lòng thử lại,An error occurred. Please try again,Terjadi kesalahan. Silakan coba lagi,
+profile.navbar,account,Tài khoản,Account,Akun,Screenshot 2025-05-06 at 16.07.50.png
+,password,Mật khẩu,Password,Kata sandi,Screenshot 2025-05-06 at 16.07.50.png
+,device_management,Quản lý thiết bị,Device Management,Manajemen Perangkat,Screenshot 2025-05-06 at 16.07.50.png
+,activation_code,Mã kích hoạt,Activation code,Kode aktivasi,Screenshot 2025-05-06 at 16.07.50.png
+profile.device_management,account_verification_title,Xác minh tài khoản,Account verification,Verifikasi Akun,
+,account_verification_desc,Để truy cập Quản lý thiết bị bạn cần xác minh tài khoản,"To access Device Management, you need to verify your account","Untuk mengakses Manajemen Perangkat, Anda perlu memverifikasi akun Anda",
+,list_devices_title,Danh sách các thiết bị bạn đang sử dụng,List of devices you are using,Daftar perangkat yang Anda gunakan,Screenshot 2025-05-06 at 16.10.16.png
+,count_devices,{x}/{y} thiết bị,{x}/{y} devices,{x}/{y} perangkat,Screenshot 2025-05-06 at 16.10.16.png
+,last_visited,Lần truy cập cuối,Last login,Login terakhir,Screenshot 2025-05-06 at 16.10.16.png
+,contact_support_via_email_title,Liên hệ hỗ trợ qua email,Contact support via email,Hubungu dukungan pelanggan melalui email,
+,contact_support_via_email_desc,Liên hệ với chúng tôi qua email <a href='mailto:support@prepedu.com'>support@prepedu.com</a> để được hỗ trợ tốt nhất,Contact us at <a href='mailto:support@prepedu.com'>support@prepedu.com</a> for the best assistance,Hubungi kami di <a href='mailto:support@prepedu.com'>support@prepedu.com</a> untuk bantuan terbaik,
+,confirm_remove_device_title,Xác nhận xoá thiết bị,Confirm removing device,Konfirmasi penghapusan perangkat,Screenshot 2025-05-06 at 16.12.27.png
+,confirm_remove_device_desc,Thiết bị này sẽ bị xóa khỏi danh sách được cấp quyền truy cập của bạn,This device will be removed from your access list,Perangkat ini akan dihapus dari daftar akses Anda,Screenshot 2025-05-06 at 16.12.27.png
+,remove_device_successfully,Xoá thiết bị thành công,Successfully deleted device,Berhasil menghapus perangkat,
+,can_login_on_move_device_mobile_app,Bạn có thể đăng nhập thêm trên {num} mobile app,You can log in on {num} more mobile devices,Anda dapat login pada {num} perangkat seluler lagi,Screenshot 2025-05-06 at 16.10.16.png
+,can_login_on_move_device_browser,Bạn có thể đăng nhập thêm trên {num} trình duyệt website,You can log in on {num} more web browsers,Anda dapat login pada {num} peramban web lagi,Screenshot 2025-05-06 at 16.10.16.png
+,can_login_on_move_device_tablet,Bạn có thể đăng nhập thêm trên {num} thiết bị tablet,You can log in on {num} more tablet devices,Anda dapat login pada {num} perangkat tablet lagi,Screenshot 2025-05-06 at 16.10.16.png
+,device_access_limit_title,Giới hạn thiết bị truy cập,Device access limit,Batas akses perangkat,
+,device_access_limit_desc,Bạn không thể truy cập do tài khoản này hiện đang vượt quá số lượng thiết bị cho phép. Vui lòng truy cập Quản lý thiết bị để kiểm tra,You cannot access because this account has exceeded the allowed number of devices. Please access Device Management to check,Anda tidak dapat mengakses karena akun ini telah melebihi jumlah perangkat yang diizinkan. Silakan akses Manajemen Perangkat untuk memeriksa,
+profile.account,contact_to_change_email,Vui lòng liên hệ với chúng tôi trong trường hợp bạn muốn đổi email,Please contact us if you want to change your email,Silakan hubungi kami jika Anda ingin mengganti email Anda,Screenshot 2025-05-06 at 16.15.54.png
+auth,auth_intro_1,Tham gia ngay cùng Nền tảng Học và Luyện thi thông minh,Join the Smart learning and test preparation platform now,Bergabunglah dengan platform pembelajaran Smart dan persiapan tes sekarang,
+,auth_intro_2,Kiểm tra trình độ hoàn toàn miễn phí.,Completely free Entry test.,Tes Entry sepenuhnya gratis.,
+,auth_intro_3,"Chỉ cần một tài khoản duy nhất, bạn có thể thực hiện các bài Kiểm tra đầu vào để xác định trình độ nhanh chóng","With just one account, you can take the Entry test to quickly determine your level","Dengan satu akun, Anda dapat mengikuti Tes Entry untuk menentukan level Anda dengan cepat",
+,auth_intro_b2b_1,Nền tảng Học và Luyện thi thông minh,Smart learning and test prep platform,Platform pembelajaran Smart dan persiapan tes,
+,auth_intro_b2b_2,Học ngoại ngữ thật dễ dàng với lộ trình Học và Luyện Thi toàn diện được cá nhân hóa,"Learning a foreign language is easy with a personalized, comprehensive study and exam preparation roadmap",Belajar bahasa asing jadi mudah dengan peta belajar dan persiapan ujian yang dipersonalisasi serta komprehensif,
+,auth_selector_title,Tham gia ngay cùng Prep - Nền tảng học và luyện thi thông minh,Join Prep - a smart learning and test preparation platform now,Bergabung dengan Prep – platform pembelajaran pintar dan persiapan tes –  sekarang,
+,consent_text,"Bằng cách tham gia, bạn xác nhận đã đọc và đồng ý với {{Điều khoản & Điều kiện}} cùng {{Chính sách bảo mật}} của Prep","By joining, you confirm that you have read and agreed to Prep's {{Terms & Conditions}} and {{Privacy Policy}}","Dengan bergabung, Anda mengonfirmasi bahwa telah membaca dan menyetujui {{Terms & Conditions}} dan {{Privacy Policy}} Prep",
+,consent_checkbox_label,Tôi đã đọc và đồng ý với {{Điều khoản & Điều kiện}} cùng {{Chính sách bảo mật}} của Prep,I have read and agree to Prep's {{Terms & Conditions}} and {{Privacy Policy}},Saya telah membaca dan setuju dengan {{Terms & Conditions}} dan {{Privacy Policy}} Prep,
+,phone_err_already_register_title,Số điện thoại này đã được đăng ký,This phone number is already registered,Nomor telepon ini sudah terdaftar,
+,phone_err_already_register_desc,Bạn có thể <span>Đăng nhập bằng số điện thoại</span> hoặc sử dụng số điện thoại khác,You can <span>Log in with phone number</span> or use a different one,Anda dapat <span>Masuk dengan nomor telepon</span> atau menggunakan yang lain,
+,register_done_title,Chào mừng bạn <br /> đến với Prep,Welcome <br /> to Prep,Selamat datang <br /> di Prep,
+,register_done_desc,<span>Bổ sung thông tin</span> để có cơ hội nhận thêm <br /><span>nhiều ưu đãi hấp dẫn</span> nhé,<span>Update information</span> for a chance to receive <br /><span>more exciting offers</span>,<span>Perbarui informasi</span> kesempatan untuk mendapatkan <br /><span>penawaran lebih menarik</span>,
+,continue_discover,Tiếp tục khám phá,Continue exploring,Lanjut menjelajah,
+,click_here_to_login_by,Nhấn vào đây để đăng nhập bằng,Click here to log in with,Klik di sini untuk masuk dengan,
+,forgot_password,Quên mật khẩu?,Forgot password?,Lupa kata sandi?,
+,update_new_password,Cập nhật mật khẩu mới,Update new password,Perbarui kata sandi baru,
+,continue_login,Tiếp tục đăng nhập,Continue to log in,Lanjut untuk login,
+,update_password_successfully,Cập nhật mật khẩu thành công,Successfully updated password,Kata sandi berhasil diperbarui,
+,need_more_infor_to_continue,Có vẻ như chúng tôi cần thêm thông tin để tiếp tục,It seems we need more information to proceed,Sepertinya kami memerlukan informasi lebih lanjut untuk melanjutkan,
+activation_code,search_code,Tìm kiếm mã,Search code,Cari kode,Screenshot 2025-05-06 at 16.17.19.png
+,my_codes,Mã của tôi,My activation code,Kode aktivasi Saya,Screenshot 2025-05-06 at 16.17.19.png
+,search_code_title,Nhập mã kích hoạt để trải nghiệm ngay,Enter the activation code to start your experience now,Masukkan kode aktivasi untuk memulai pengalaman Anda sekarang,Screenshot 2025-05-06 at 16.17.19.png
+,search_code_placeholder,Nhập mã kích hoạt,Enter activation code,Masukkan kode aktivasi,Screenshot 2025-05-06 at 16.17.19.png
+,activation_code_benefit_note,Lưu ý: Quyền lợi sẽ được cộng dồn (nếu có) trong trường hợp bạn đã sở hữu khoá học tương ứng trước đó,Note: Learning benefits will accumulate (if applicable) if you already own the corresponding course,Catatan: Manfaat pembelajaran akan terakumulasi (jika berlaku) jika Anda sudah memiliki materi terkait,Screenshot 2025-05-06 at 16.17.19.png
+,learning_benefits,Quyền lợi học tập,Learning benefits,Manfaat pembelajaran,Screenshot 2025-05-06 at 16.17.30.png
+,not_activated,Chưa kích hoạt,Not activated,Belum diaktifkan,Screenshot 2025-05-06 at 16.17.30.png
+,activated,Đã kích hoạt,Activated,Sudah diaktifkan,Screenshot 2025-05-06 at 16.17.30.png
+,expired,Đã hết hạn,Expired,Kedaluwarsa,Screenshot 2025-05-06 at 16.17.42.png
+,expiration_date,Ngày hết hạn,Expiration date,Tanggal kedaluwarsa,Screenshot 2025-05-06 at 16.17.42.png
+,activation_date,Ngày kích hoạt,Activation date,Tanggal aktivasi,Screenshot 2025-05-06 at 16.17.30.png
+,activation_code_list,Danh sách mã kích hoạt,Activation code list,Daftar kode aktivasi,Screenshot 2025-05-06 at 16.17.30.png
+,activate_successful_title,Kích hoạt thành công,Activation successful,Aktivasi berhasil,
+,activate_successful_title_1,Bạn đã kích hoạt mã thành công,You have successfully activated your code,Anda telah berhasil mengaktivasi kode Anda,
+,activate_successful_desc,Chúc mừng! Mã của bạn đã được kích hoạt. Bắt đầu học ngay thôi!,Congratulations! Your code has been activated. Start learning now!,Selamat! Kode Anda telah diaktifkan. Mulai belajar sekarang!,
+,activate_failed,Kích hoạt thất bại,Activation failed,Aktivasi gagal,
+,buy_activation_code,Mua mã kích hoạt,Buy activation code,Beli kode aktivasi,
+,activate_new_code,Kích hoạt mã mới,Activate a new code,Aktifkan kode baru,
+,not_found_activation_code_title,Bạn chưa có mã kích hoạt,You have not got any activation code,Anda belum memiliki kode aktivasi,
+,not_found_activation_code_desc,Vui lòng theo dõi các sự kiện của Prep để có cơ hội nhận được mã kích hoạt miễn phí hoặc mua mã kích hoạt để trải nghiệm,Get your activation code by following Prep's events or purchase one to start,Dapatkan kode aktivasi dengan mengikuti acara Prep atau beli satu kode untuk memulai,
+,cf_activate_title,Bạn có muốn kích hoạt mã?,Do you want to activate the code?,Apakah Anda ingin mengaktifkan kode?,
+,cf_activate_desc,"Sau khi chọn Xác nhận, các quyền lợi học tập sẽ được kích hoạt từ ngày {today}","After you confirm, your learning benefits will be effective from {today}","Setelah Anda konfirmasi, manfaat pembelajaran akan berlaku sejak {today}",
+,cf_activate_warning_refundable,Mã kích hoạt sẽ không thể hoàn lại trong mọi trường hợp. Vui lòng kiểm tra quyền lợi và thời hạn sử dụng trước khi kích hoạt,Please note that the activation code is non-refundable under any circumstances. Make sure to check the benefits and validity period before activating,Harap diperhatikan bahwa kode aktivasi tidak dapat dikembalikan dalam kondisi apa pun. Pastikan memeriksa manfaat dan masa berlaku sebelum mengaktifkan,
+,page_title_activation_code,Nhập mã kích hoạt<br />để trải nghiệm ngay!,Enter the activation code<br />to start your experience now,Masukkan kode aktivasi<br />untuk memulai pengalaman Anda sekarang,
+,activated_account,Tài khoản kích hoạt,Activated account,Akun telah diaktfikan,
+,activate,Kích hoạt,Activate,Aktifkan,
+product,completed_product_line_at_prep,Đã học {productLineName} tại Prep,Improved their {productLineName} Scores by studying on Prep,Tingkatkan skor {productLineName} dengan belajar di Prep,Screenshot 2025-05-06 at 16.06.14.png
+,create_study_plan,Thiết kế lộ trình học,Create a Study Plan,Buat rencana belajar,Screenshot 2025-05-06 at 16.06.14.png
+,select_roadmap_n_experience,Chọn lộ trình học và Trải nghiệm ngay,Choose a roadmap and experience now,Pilih peta belajar dan coba sekarang,Screenshot 2025-05-06 at 16.06.29.png
+,view_roadmap,Xem lộ trình,View roadmap,Lihat peta belajar,
+,n_programs,{n} chặng,{n} programs,{n} program,Screenshot 2025-05-06 at 16.26.06.png
+,include_n_small_courses,Gồm {n} khoá học nhỏ,Including {n} courses,Termasuk {n} materi,Screenshot 2025-05-06 at 16.26.06.png
+,n_lessons,{n} bài,{n} lessons,{n} pelajaran,Screenshot 2025-05-06 at 16.26.06.png
+,marking_with_teachers,Chấm chữa với giáo viên,Marking with teachers,Penilaian bersama pengajar,Screenshot 2025-05-06 at 16.26.06.png
+,own_the_roadmap,Sử dụng lộ trình,Extended access to learning contents,Akses konten belajar diperpanjang,Screenshot 2025-05-06 at 16.26.06.png
+,commitment_to_outcome_goals,Cam kết mục tiêu đầu ra,Guaranteed final scores,Skor akhir terjamin,Screenshot 2025-05-06 at 16.26.06.png
+,estimated_completion_time,Thời gian hoàn thành dự kiến {n} tháng khi bạn duy trì việc học 6 giờ mỗi tuần,Estimated completion time is {n} months if you study for 6 hours per week,Perkiraan waktu penyelesaian adalah {n} bulan jika Anda belajar 6 jam per minggu,
+,view_roadmap_details,Xem chi tiết lộ trình,View roadmap details,Lihat peta belajar lebih rinci,Screenshot 2025-05-06 at 16.25.02.png
+,study_n_practice_tests,Học và luyện đề,Study and practice tests,Belajar dan latihan tes,Screenshot 2025-05-06 at 16.25.02.png
+,comprehansive_study_n_practice_tests,Học và luyện đề toàn diện,Study & Test Practice Pro Package,Paket Pro Belajar & Latihan Tes,Screenshot 2025-05-06 at 16.25.02.png
+,active_self_study,Tự học chủ động,Standard Study Package,Paket Belajar Standar,Screenshot 2025-05-06 at 16.25.02.png
+,select_course,Chọn khoá học,Select Package,Pilih Paket,Screenshot 2025-05-06 at 16.30.37.png
+,recommendation,Đề xuất,Recommendation,Rekomendasi,Screenshot 2025-05-06 at 16.25.02.png
+,register_now,Đăng ký học ngay,Register now,Daftar sekarang,Screenshot 2025-05-06 at 16.25.02.png
+,pro,Pro,Pro,Pro,
+,coupon_applied_code,Đã áp dụng Coupon,Coupon applied,Kupon terpakai,
+,learning_roadmap,Lộ trình học,Roadmap,Peta belajar,Screenshot 2025-05-06 at 16.26.06.png
+,lecture_videos,Video bài giảng,Lecture videos,Video belajar,
+,comparison,So sánh,Comparison,Perbandingan,Screenshot 2025-05-06 at 16.26.06.png
+,roadmap,Lộ trình,Roadmap,Peta belajar,Screenshot 2025-05-06 at 16.26.06.png
+,roadmap_overview,Tổng quan lộ trình học,Roadmap overview,Garis besar peta belajar,Screenshot 2025-05-06 at 16.26.06.png
+,view_teacher_details,Xem chi tiết,View Profile,Lihat profil,
+,details_of_n_lessons,Chi tiết {n} bài học,Details of {n} lessons,Rincian dari {n} pelajaran,Screenshot 2025-05-06 at 16.39.04.png
+,watch_the_lecture_video,Xem thử video bài giảng,Watch the lecture video,Tonton video belajar,
+,n_learning_lessons,{n} bài học,{n} lessons,{n} pelajaran,Screenshot 2025-05-06 at 16.39.04.png
+,n_tests,{n} bài kiểm tra,{n} tests,{n} tes,Screenshot 2025-05-06 at 16.39.04.png
+,watch_the_actual_lecture_video,Xem thử video bài giảng thực tế,Watch the lecture video,Tonton video belajar,
+,lecture_video_desc,"Trải nghiệm xem thử không thể thay thế cho trải nghiệm học thực tế do hệ thống bài giảng, bài thực hành, tương tác trong quá trình học sẽ thú vị hơn.","A trial watching experience cannot replace the actual learning experience, as the system of lectures, exercises, and interactions during learning will be more engaging.","Pengalaman menonton video tidak bisa menggantikan pengalaman belajar sesungguhnya, karena rangkaian belajar, latihan, dan interaksi selama pembelajaran akan lebih menarik.",
+,n_trial_lessons,{n} bài học thử,{n} trial lessons,{n} pelajaran percobaan,
+,learning_benefit_when_purchase,Quyền lợi học tập khi mua hàng,Benefits,Manfaat,Screenshot 2025-05-06 at 16.40.29.png
+,experience_technology,Trải nghiệm công nghệ,Experience today,Rasakan hari ini,Screenshot 2025-05-06 at 16.41.10.png
+,prep_help_solve_your_queries,<gradient>Prep giúp bạn</gradient><br />tháo gỡ mọi thắc mắc,Prep helps answer all your questions,Prep membantu menjawab semua pertanyaan Anda,Screenshot 2025-05-06 at 16.48.21.png
+,ask_more,Đặt thêm câu hỏi,Ask another question,Tanya pertanyaan lain,Screenshot 2025-05-06 at 16.48.21.png
+,register_learning_program,Đăng ký chương trình học,Register,Daftar,Screenshot 2025-05-06 at 16.40.29.png
+,benefits,Quyền lợi,Benefits,Manfaat,Screenshot 2025-05-06 at 16.40.29.png
+,hello_anonymous,Xin chào Bạn!,Hello!,Halo!,Screenshot 2025-05-06 at 16.42.31.png
+,hello_name,"Xin chào, {name}!","Hello, {name}!","Halo, {name}!",Screenshot 2025-05-06 at 16.42.31.png
+,my_level_is,Trình độ của tôi,My level is,Level saya adalah,Screenshot 2025-05-06 at 16.42.31.png
+,my_goal_is,Mục tiêu của tôi,My goal is,Tujuan saya adalah,Screenshot 2025-05-06 at 16.42.31.png
+,not_sure_about_my_level,Bạn chưa rõ trình độ bản thân?,Not sure about your level? Take an,Tidak yakin dengan level Anda? Ambil,Screenshot 2025-05-06 at 16.42.31.png
+,choose_package_conquer_roadmap,Chọn gói phù hợp <br />Chinh phục lộ trình {roadmapName},Choose the right package <br />Roadmap {roadmapName},Pilih paket yang tepat <br/> Peta belajar {roadmapName},Screenshot 2025-05-06 at 16.25.02.png
+,stage_index,Chặng {index},Stage {index},Tahap {index},Screenshot 2025-05-06 at 16.41.10.png
+,coupon_not_be_use_auto_discount,Coupon áp dụng thành công và không đi kèm chương trình giảm giá tự động,Coupon applied successfully and does not accompany any automatic discount program,Kupon berhasil diterapkan dan tidak disertai program diskon otomatis apa pun,
+,fail_to_apply_coupon,Áp dụng mã coupon không thành công,Failed to apply the coupon,Gagal menggunakan kupon,
+,coupon_apply_successfully,Áp dụng mã coupon thành công,Coupon applied successfully,Kupon berhasil digunakan,
+,skill_interested_in,Kỹ năng bạn quan tâm,Skills you're interested in,Keterampilan yang Anda minati,
+,coupon_code_placeholder,Nhập mã Coupon,Enter coupon code,Masukkan kode kupon,Screenshot 2025-05-06 at 16.41.10.png
+tp,tp_line,Luyện đề {line},{line} Test Practice,Praktik Tes {line},
+,tp_title_1,Luyện là trúng cùng bộ đôi phòng luyện Ảo Prep AI,Practice and succeed with Prep AI Virtual Room,Berlatih dan sukses dengan Prep AI Virtual Room,
+,tp_title_2,& ngân hàng 1.000+ đề độc quyền,& library of 1.000+ exclusive tests,& koleksi 1.000+ tes eksklusif,
+,explore_more_test,Trải nghiệm 30+ bộ đề khác,Explore 30+ tests,Jelajahi 30+ tes,
+,exclusive_tp_pro_title,Đặc quyền <gradient>gói luyện đề PRO</gradient>,Exclusive <gradient>Test Practice PRO<gradient>,Eksklusif <gradient>Latihan Tes PRO<gradient>,
+,exclusive_tp_pro_desc,Sở hữu gói luyện đề PRO để được sử dụng những tính năng siêu việt nhất từ phòng luyện ảo Prep AI cùng kho đề độc quyền không giới hạn.,Upgrade to Test Practice PRO to unlock the most advanced features of the Prep AI Virtual Room and enjoy unlimited access to exclusive tests.,Tingkatkan ke Latihan Tes PRO untuk membuka fitur paling canggih dari Prep AI Virtual Room serta nikmati akses tanpa batas ke tes eksklusif.,
+,try_tp_now,Luyện ngay,Try now,Coba sekarang,
+,free,Miễn phí,Free,Gratis,
+,subscribe,Đăng ký gói,Subscribe,Berlangganan,
+,subscribe_now,Nâng cấp ngay,Subscribe now,Langganan sekarang,
+,n_tests,{n} Đề,{n} Test(s),{n} Tes,
+,discover_selective_tests,Khám phá những bộ đề hot nhất,Discover the selective tests,Temukan tes selektif,
+,test_list,Danh sách Test,Test list,Daftar tes,
+,retake,Làm lại,Retake,Ulangi,
+,start_now,Làm ngay,Start now,Mulai sekarang,
+home_page,hero_line_1,Nền tảng Học,Smart learning,,Screenshot 2025-05-06 at 16.03.38.png
+,hero_line_2,và Luyện thi,and exam preparation,dan persiapan ujian,Screenshot 2025-05-06 at 16.03.38.png
+,hero_line_3,thông minh,platform,platform,Screenshot 2025-05-06 at 16.03.38.png
+,explore_now,Khám phá ngay,Explore now,Jelajahi sekarang,Screenshot 2025-05-06 at 16.03.38.png
+,product_line_you_are_interested_in,Những chương trình học<br /> có thể phù hợp với bạn,Learning Programs<br /> That Might Suit You,Program Pembelajaran<br />Yang Mungkin Cocok Untuk Anda,Screenshot 2025-05-06 at 16.04.56.png
+,learn_and_practice_every_time_every_where,Học và Luyện thi <br /> <gradient>mọi lúc mọi nơi</gradient>,"Study and Prepare <br /> <gradient>for Exams Anywhere, Anytime</gradient>","Belajar dan Persiapkan <br /> <gradient>untuk Ujian di Mana Saja, Kapan Saja</gradient>",Screenshot 2025-05-06 at 16.05.22.png
+,in_all_devices_with_only_one_platform_prep,Trên mọi thiết bị chỉ với một nền tảng duy nhất - Prep,on just one platform: Prep,dalam satu platform: Prep,Screenshot 2025-05-06 at 16.05.22.png
+blog,highlight,Nổi bật,Highlights,Sorotan,Screenshot 2025-05-06 at 16.55.01.png
+,tag,Tag,Tags,Tag,
+,categories,Chuyên mục,Categories,Kategori,
+,sort,Sắp xếp,Sort by,Urutkan berdasarkan,Screenshot 2025-05-06 at 17.22.21.png
+,sort_by,Sắp xếp theo,Sorted by,Diurutkan berdasarkan,Screenshot 2025-05-06 at 17.22.21.png
+,newest,Mới nhất,Newest,Terbaru,Screenshot 2025-05-06 at 17.22.21.png
+,oldest,Cũ nhất,Oldest,Terlama,Screenshot 2025-05-06 at 17.22.21.png
+,no_article,Oops!... Chưa có bài viết nào cho danh mục này rồi. Prep sẽ cập nhật sớm nha!,Oops!... There are no posts for this category yet. Prep will update soon!,Ups!... Belum ada unggahan untuk kategori ini. Prep akan segera memperbarui!,
+,no_student,Oops!... Chưa có học viên điểm cao nào cho kỳ thi này rồi. Prep sẽ cập nhật sớm nha!,Oops!... There are no high-scoring students for this exam yet. Prep will update soon!,Oops!... Belum ada murid dengan skor tinggi untuk ujian ini. Prep akan segera memperbarui!,
+,no_lang_support,"Bài viết hiện không hỗ trợ ngôn ngữ này, vui lòng chọn ngôn ngữ khác","This article does not support this language, please select another supported language","Artikel ini tidak mendukung bahasa ini, silakan pilih bahasa lain yang didukung",
+,count_posts,Có {n} bài viết,There are {n} posts,Ada {n} unggahan,Screenshot 2025-05-06 at 17.22.21.png
+,article_has_been_translated_into_langs,Bài viết đã được dịch sang các ngôn ngữ,The article has been translated into multiple languages,Artikel telah diterjemahkan ke beberapa bahasa,
+,count_character,{x}/{y} ký tự,{x}/{y} characters,{x}/{y} karakter,Screenshot 2025-05-06 at 17.19.02.png
+,content_publishing_rules,Quy tắc biên tập và xuất bản nội dung,Content publishing rules,Aturan publikasi konten,Screenshot 2025-05-06 at 17.17.48.png
+,search_bar_blog,Tìm kiếm bài viết học tập,Search blog,Cari blog,Screenshot 2025-05-06 at 16.55.24.png
+,search_bar_news,"Tìm kiếm tin sự kiện, hoạt động",Search news,Cari berita,
+,search_bar_student,Tìm kiếm tin vinh danh,Search rising stars news,Cari berita tentang bintang yang sedang naik daun,
+,search_placeholder,Tìm kiếm,Search,Cari,Screenshot 2025-05-06 at 16.55.24.png
+,connect_with_prep,Kết nối với Prep,Connect with Prep,Terhubung dengan Prep,
+,personal_roadmap,Lộ trình cá nhân hoá,Personalized roadmap,Peta belajar yang dipersonalisasi,Screenshot 2025-05-06 at 16.55.24.png
+,interest_posts,Có thể bạn quan tâm,Most read,Paling banyak dibaca,Screenshot 2025-05-06 at 17.18.00.png
+,table_of_content,Mục lục bài viết,Table of content,Daftar isi,Screenshot 2025-05-06 at 17.18.00.png
+blog.blog,handbook,Cẩm nang,Handbook,Buku panduan,Screenshot 2025-05-06 at 16.55.34.png
+blog.news_events,title,Sự kiện,Event,Acara,
+,trending,Sự kiện nổi bật,Featured events,Acara unggulan,
+,latest,Sự kiện mới nhất,Latest events,Acara terbaru,
+,hero_event_address,Địa điểm:,Address:,Alamat:,
+,hero_event_time,Thời gian:,Time:,Waktu:,
+,hero_event_participants,Số lượng tham gia:,Number of participants:,Jumlah peserta:,
+,hero_event_register,Đăng ký tham gia,Register,Daftar,
+,highlight_events,Sự kiện đáng chú ý,Highlight events,Sorotan acara,
+,related_posts,Bài viết liên quan,Related posts,Unggahan terkait,
+,promotions_event,Chương trình khuyến mãi,Promotion program,Program promosi,
+,promotion,Khuyến mãi,Promotions,Promosi,
+blog.student,hall_of_fame,Vinh danh học viên,Hall of fame,,
+,rising_star,Học viên điểm cao,Rising stars,,
+,new_talents,Gương mặt mới nhất,New talents,,
+,leaderboard,Bảng vàng Prep,Prep Leaderboard,Papan peringkat Prep,
+,learned,Đã học,Completed,Selesai,
+,test_score,Điểm thi,Test scores,Skor tes,
+blog.comment,title,Bình luận,Comment,Komentar,Screenshot 2025-05-06 at 17.19.02.png
+,fullname,Họ và tên,Full name,Nama lengkap,Screenshot 2025-05-06 at 17.19.02.png
+,fullname_placeholder,Nhập họ và tên của bạn,Enter your full name,Masukkan nama lengkap,Screenshot 2025-05-06 at 17.19.02.png
+,email_placeholder,Nhập địa chỉ email của bạn,Enter your email address,Masukkan alamat email,Screenshot 2025-05-06 at 17.19.02.png
+,comment_placeholder,Nhập bình luận,Enter your comment,Masukkan komentar Anda,Screenshot 2025-05-06 at 17.19.02.png
+,submit,Gửi bình luận,Submit,Kirim,Screenshot 2025-05-06 at 17.19.02.png
+,reply,Phản hồi,Reply,Balas,
+,load_more,Xem thêm {n} bình luận,View more {n} comments,Lihat {n} komentar lagi,
+,expand,Xem {n} phản hồi,View {n} replies,Lihat {n} balasan,
+,collapse,Ẩn tất cả phản hồi,Hide all replies,Sembunyikan semua balasan,
+,submit_success,Gửi bình luận thành công,Comment submitted successfully,Komentar berhasil dikirim,
+,submit_failed,Gửi bình luận thất bại,Comment submission failed,Gagal mengirim komentar,
+,email_invalid,Địa chỉ email không hợp lệ!,Invalid email address!,Alamat email tidak valid!,
+blog.premium,login_to_view,Bạn cần đăng nhập để xem nội dung này,Log in to view this content,Masuk untuk melihat konten ini,
+,login_now,Đăng nhập ngay,Log in,Login,Screenshot 2025-05-06 at 17.25.12.png
+,to_view_personal_content,để trải nghiệm tuyến nội dung dành cho bạn,to experience the personlized premium content,untuk menikmati konten premium yang dipersonalisasi,Screenshot 2025-05-06 at 17.25.12.png
+,premium_content_introduce,Tuyến nội dung dành riêng cho bạn,Content tailored for you,Konten yang disesuaikan untuk Anda,Screenshot 2025-05-06 at 16.55.24.png
+,premium_content,Nội dung premium,Premium content,Konten premium,Screenshot 2025-05-06 at 16.55.24.png
+common.form,phone_label,Số điện thoại,Phone number,Nomor telepon,Screenshot 2025-05-06 at 17.18.40.png
+,phone_placeholder,Nhập số điện thoại của bạn,Enter your phone number,Masukkan nomor telepon Anda,Screenshot 2025-05-06 at 17.18.40.png
+,phone_placeholder_1,Nhập số điện thoại,Enter phone number,Masukkan nomor telepon,Screenshot 2025-05-06 at 17.18.40.png
+,phone_err_required,Vui lòng nhập số điện thoại,Please enter your phone number,Silakan masukkan nomor telepon Anda,Screenshot 2025-05-06 at 17.18.40.png
+,phone_err_wrong_format,Số điện thoại không đúng định dạng,Phone number is invalid format,Nomor telepon tidak sesuai format,
+,phone_err_wrong_format_1,,,,
+,field_err_required,Trường này không được để trống,This field cannot be left blank,Kolom ini tidak boleh dikosongkan,
+,field_err_required_1,Trường thông tin không được để trống,Field cannot be empty,Kolom tidak boleh kosong,
+,full_name_label,Họ và tên,Full name,Nama lengkap,Screenshot 2025-05-06 at 17.18.40.png
+,full_name_placeholder,Nhập họ và tên của bạn,Enter your full name,Masukkan nama lengkap,Screenshot 2025-05-06 at 17.18.40.png
+,full_name_err_max_length,Họ và tên không được quá {max} ký tự,Full name must not exceed {max} characters,Nama lengkap tidak boleh melebihi {max} karakter,
+,yob_label,Năm sinh,Year of birth,Tahun lahir,Screenshot 2025-05-06 at 17.18.40.png
+,yob_placeholder,Nhập năm sinh của bạn,Enter your year of birth,Masukkan tahun lahir,Screenshot 2025-05-06 at 17.18.40.png
+,social_netword_label,Bạn muốn liên hệ qua đâu,How would you like to be contacted?,Bagaimana Anda ingin dihubungi?,
+,address_social_network_label,Đia chỉ {socialNetwork},Address {socialNetwork},Alamat {socialNetwork},
+,address_social_network_placeholder,Nhập địa chỉ {socialNetwork},Enter {socialNetwork} address,Masukkan alamat {socialNetwork},
+,address_social_network_err_wrong_format,"Địa chỉ không đúng định dạng, vui lòng kiểm tra lại!","Address is invalid format, please double-check!","Format alamat tidak valid, silakan periksa kembali!",
+,email_label,Email,Email,Email,Screenshot 2025-05-06 at 17.18.40.png
+,email_placeholder,Nhập địa chỉ email của bạn,Enter your email address,Masukkan alamat email Anda,Screenshot 2025-05-06 at 17.18.40.png
+,email_placeholder_1,Nhập email của bạn,Enter your email,Masukkan email Anda,Screenshot 2025-05-06 at 17.18.40.png
+,email_err_wrong_format,"Email không đúng định dạng, vui lòng kiểm tra lại!","Email is invalid format, please double-check!","Format email tidak valid, silakan periksa kembali!",
+,email_err_wrong_format_1,Vui lòng nhập địa chỉ email hợp lệ <br />(ví dụ: email@example.com),"Please enter a valid email address <br /> (e.g., email@example.com)","Harap masukkan alamat email yang valid <br /> (misalnya, email@example.com)",
+,you_are_label,Bạn là,You are,Anda adalah,
+,the_course_you_are_interested_in_label,Khóa học bạn quan tâm,The course you are interested in,Materi yang Anda minati,
+,content_label,Nội dung,Content,Konten,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder,Bạn có câu hỏi gì?,Share about you,Ceritakan tentang Anda,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder_1,Hãy cho Prep biết trình độ hiện tại,Your current skill level,Tingkat keterampilan Anda saat ini,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder_2,Mục tiêu mong muốn,Your desired learning goals,Tujuan pembelajaran yang Anda inginkan,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder_3,Vấn đề bạn đang gặp phải,Your issues,Masalah yang Anda hadapi,Screenshot 2025-05-07 at 09.01.33.png
+,current_level_label,Trình độ hiện tại,Current level,Level saat ini,Screenshot 2025-05-07 at 09.01.33.png
+,desired_goal_label,Mục tiêu đầu ra,Desired goal,Tujuan yang dinginkan,Screenshot 2025-05-07 at 09.01.33.png
+,note_consent,"Bằng việc gửi đăng ký nhận tư vấn, bạn đã đồng ý với Chính sách bảo mật thông tin của Prep.","By submitting your registration for consultation, you agree to Prep's Privacy policy.","Dengan mengirimkan pendaftaran konsultasi, Anda setuju dengan Kebijakan Privasi Prep.",Screenshot 2025-05-06 at 17.18.40.png
+,submit_registration,Gửi đăng ký,Submit registration,Kirim pendaftaran,
+,submit_successfully,Gửi câu hỏi thành công,Submitted successfully,Berhasil dikirim,
+,prep_will_contact_you_within_24h,Prep sẽ liên hệ bạn trong vòng 24 giờ,Prep will contact you within 24 hours,Prep akan menghubungi Anda dalam 24 jam,
+,dob_label,Ngày sinh,Date of birth,Tanggal lahir,
+,dob_placeholder,Chọn ngày tháng năm sinh,Select date of birth,Pilih tanggal lahir,
+,country_label,Quốc gia,Country,Negara,
+,country_placeholder,Chọn quốc gia,Select Country,Pilih Negara,
+,province_label,Tỉnh thành,Province,Provinsi,
+,province_placeholder,Chọn tỉnh thành,Select province,Pilih provinsi,
+,career_label,Nghề nghiệp,Profession,Profesi,
+,career_placeholder,Chọn nghề nghiệp,Choose profession,Pilih profesi,
+,old_password_label,Mật khẩu cũ,Old password,Kata sandi lama,
+,password_label,Mật khẩu,Password,Kata sandi,
+,password_placeholder,Nhập mật khẩu,Enter password,Masukkan kata sandi,
+,password_err_required,Vui lòng nhập mật khẩu,Please enter your password,Silakan masukkan kata sandi Anda,
+,password_err_min_max_length,Mật khẩu trong khoảng {min}-{max} ký tự,Password must be between {min}-{max} characters,Kata sandi harus terdiri dari {min}–{max} karakter,
+,password_err_duplicate_username_phone,Mật khẩu không được trùng số điện thoại/ username,Password cannot be the same as phone number/ username,Kata sandi tidak boleh sama dengan nomor telepon/ nama pengguna,
+,password_err_character_invalid,"Mật khẩu bắt buộc phải bao gồm ít nhất 01 chữ viết thường, 01 số và 01 chữ viết hoa","Password must include at least one lowercase letter, one number, and one uppercase letter","Kata sandi harus mencakup setidaknya satu huruf kecil, satu angka, dan satu huruf besar",
+,confirm_password_label,Xác nhận mật khẩu,Confirm password,Konfirmasi kata sandi,
+,confirm_password_err_not_matching,Xác nhận mật khẩu không chính xác,Password confirmation is incorrect,Konfirmasi kata sandi salah,
+,username_label,Username,Username,Nama pengguna,
+,username_placeholder,Nhập username,Enter username,Masukkan nama pengguna,
+,username_err_required,Vui lòng nhập username,Please enter your username,Silakan masukkan nama pengguna Anda,
+,username_password_err_required,Vui lòng nhập username và mật khẩu,Please enter your username and password,Silakan masukkan nama pengguna dan kata sandi,
+,save_infor_successfully,Lưu thông tin thành công,Successfully saved information,Informasi berhasil disimpan,
+,do_you_have_any_question,Bạn còn<br />câu hỏi khác?,Do you have<br /> any other questions?,Apakah Anda memiliki<br /> pertanyaan lain?,
+,leave_your_information_for_contact_and_solve,"Hãy để lại thông tin, Prep sẽ liên hệ và hỗ trợ xử lý mọi vướng mắc của bạn","Please leave your information, and Prep will contact you to help resolve any issues","Silakan tinggalkan informasi Anda, dan Prep akan menghubungi Anda untuk membantu menyelesaikan masalah",
+common.header,home,Trang chủ,Home,Beranda,Screenshot 2025-05-06 at 16.03.38.png
+,courses,Khoá học,Course,Materi,Screenshot 2025-05-06 at 16.03.38.png
+,blog,Blog,Blog,Blog,Screenshot 2025-05-06 at 16.03.38.png
+,news,Tin tức,News,Berita,Screenshot 2025-05-06 at 16.03.38.png
+,dictionary,Từ điển,Dictionary,Kamus,
+,entry_test,Kiểm tra đầu vào,Entry test,Tes masuk,Screenshot 2025-05-06 at 16.03.38.png
+,build_roadmap,Xây dựng lộ trình,Create your study plan,Buat rencana belajar Anda,Screenshot 2025-05-06 at 16.06.14.png
+,test_practice,Luyện đề,Test Practice,Latihan Tes,
+,target_commitment,Cam kết đầu ra,Output commitment,Komitmen hasil,
+,start_learning,Bắt đầu học,Start,Mulai,Screenshot 2025-05-06 at 16.06.14.png
+,start,Bắt đầu,Start,Mulai,Screenshot 2025-05-06 at 16.06.14.png
+,settings,Cài đặt,Setting,Pengaturan,
+,logout,Đăng xuất,Log out,Keluar,
+common.download_app,title,Tải ứng dụng trên điện thoại,Download PREP on,Unduh PREP di,Screenshot 2025-05-07 at 09.08.06.png
+,subtitle,Tải về trên,Download on,Unduh di,Screenshot 2025-05-07 at 09.08.06.png
+common.footer,connect_with_us,KẾT NỐI VỚI CHÚNG TÔI,CONNECT WITH US,TERHUBUNG DENGAN KAMI,
+,expand_menu,Có thể bạn quan tâm,You might be interested,Mungkin Anda tertarik,
+,cert_by,CHỨNG NHẬN BỞI,CERTIFIED BY,SERTIFIKASI OLEH,Screenshot 2025-05-07 at 09.08.06.png
+,download_mobile_app,TẢI ỨNG DỤNG TRÊN ĐIỆN THOẠI,DOWNLOAD PREP ON,UNDUH PREP DI,Screenshot 2025-05-07 at 09.08.06.png
+common.contact,contact_hotline,Liên hệ Hotline,Contact Hotline,Hubungi Hotline,
+,register_consultant,Đăng ký tư vấn,Register for a consultation,Daftar konsultasi,
+,message_to_prepbee_for_advice,Nhắn tin ngay cho PrepBee để được nhận tư vấn!,Message PrepBee now to ask for advice!,Kirim pesan ke PrepBee sekarang untuk meminta saran!,
+,program_consulting,Tư vấn chương trình học,Consult study program,Konsultasikan program belajar,
+,contact_support_desc,"Bạn hãy để lại thông tin, Prep sẽ liên hệ tư vấn cho mình ngay nha!","Please leave your information, and Prep will contact you for consultation right away!","Silakan tinggalkan informasi Anda, dan Prep akan segera menghubungi Anda untuk konsultasi!",
+,contact_support_note,Vui lòng <span>liên hệ bộ phận CSKH</span> để được hỗ trợ,Please <span>contact customer support</span> for assistance,Silakan <span>hubungi layanan pelanggan</span> untuk bantuan,
+,need_support_contact,Bạn vẫn còn phân vân? <br /> Liên hệ Prep để được <span>Tư vấn thêm</span>,Still unsure? <br /> Contact Prep to <span>more advice</span>,Masih ragu? <br /> Hubungi Prep untuk <span>saran lebih lanjut</span>,
+,register_for_updates,Đăng ký nhận thông tin,Register for updates,Daftar untuk pembaruan,
+,contact_phone,Liên hệ {phone},Contact {phone},Hubungi {phone},
+,contact_support_roadmap,Đăng ký tư vấn lộ trình học,Register for a learning roadmap consultation,Daftar konsultasi peta belajar,
+common,verify,Xác minh,Verify,Verifikasi,
+,delete,Xoá,Delete,Hapus,
+,i_understanded,Tôi đã hiểu,I understand,Saya mengerti,
+,understood,Đã hiểu,Understood,Mengerti,
+,confirm,Xác nhận,Confirm,Konfirmasi,
+,resend_otp,Gửi lại mã,Resend code,Kirim ulang kode,
+,login,Đăng nhập,Log in,Login,
+,register,Đăng ký,Register,Daftar,
+,search,Tìm kiếm,Search,Cari,
+,no_matching_results,Không tìm thấy kết quả phù hợp,No matching results found,Tidak ada hasil yang sesuai,
+,select,Lựa chọn,Select,Pilih,
+,error_alert,"Có lỗi xảy ra, Vui lòng thử lại",An error occurred. Please try again,Terjadi kesalahan. Silakan coba lagi,
+,view_more,Xem thêm,View more,Lihat lebih banyak,
+,view_all,Xem tất cả,View all,Lihat semua,
+,view_less,Ẩn bớt,Show less,Tampilkan lebih sedikit,
+,back,Quay lại,Back,Kembali,
+,language,Ngôn ngữ,Language,Bahasa,
+,select_language,Chọn ngôn ngữ,Select language,Pilih bahasa,
+,static_page_ready_in_lang,Bài viết đã sẵn sàng tại các ngôn ngữ,The article is available in languages,Artikel tersedia dalam bahasa,
+,edit,Sửa,Edit,Edit,
+,cancel,Huỷ,Cancel,Batal,
+,save,Lưu,Save,Simpan,
+,continue,Tiếp tục,Continue,Lanjut,
+,update,Cập nhật,Update,Perbarui,
+,check,Kiểm tra,Check,Periksa,
+,apply,Áp dụng,Apply,Terapkan,
+,save_infor,Lưu thông tin,Save,Simpan,
+,add_infor,Bổ sung thông tin,Update information,Perbarui informasi,
+,scroll_to_continue,Cuộn xuống để tiếp tục,Scroll down to continue,Gulir ke bawah untuk melanjutkan,
+,otp_authen_title,Xác thực OTP,OTP Authentication,Autentikasi OTP,
+,otp_authen_desc,Mã OTP đã được Prep gửi đến số <span></span>,The OTP has been sent to the phone number <span></span> by Prep,OTP telah dikirim ke nomor telepon <span></span> oleh Prep,
+,otp_authen_desc_1,Mã OTP đã được Prep gửi đến số điện thoại <span></span>. Vui lòng nhập mã xác nhận bên dưới,The OTP code has been sent to the phone number <span></span> by Prep. Please enter the OTP code you receive below,Kode OTP telah dikirim ke nomor telepon <span></span> oleh Prep. Silakan masukkan kode OTP di bawah,
+,product,Sản phẩm,Product,Produk,
+,all,Tất cả,All,Semua,
+,note,Lưu ý,Note,Catatan,
+,login_or_register_to_continue,Vui lòng đăng nhập/ đăng ký để tiếp tục,Please log in or register to continue,Silakan masuk atau daftar untuk melanjutkan,
+,login_or_register,Đăng nhập/ Đăng ký,Log in or register,Login atau daftar,
+,switch_account,Đổi tài khoản,Switch account,Ganti akun,
+,congratulations,Chúc mừng!,Congratulations!,Selamat!,
+,explore_now,Khám phá ngay,Explore now,Jelajahi sekarang,
+,n_students,{n} học viên,{n} students,{n} siswa,
+,experience_now,Trải nghiệm ngay,Experience now,Rasakan sekarang,
+,n_months,{n} tháng,{n} months,n} bulan,
+,n_days,{n} ngày,{n} days,n} hari,
+,accompanying_gifts,Quà tặng kèm,Accompanying gifts,Hadiah pendamping,
+,value,Trị giá,Value,Nilai,
+,details,Chi tiết,Details,Rincian,
+,students,học viên,students,Murid,
+,step_n,Bước {n},Step {n},Langkah {n},
+,honoring_the_best_student_of_the_month,Vinh danh học viên xuất sắc nhất tháng {month},Honoring the student of the month,Menghargai siswa terbaik bulan ini,
+,archive_high_result_after_study_with_prep,đạt <span>thành tích cao</span> sau khi học tại Prep,Improved their IELTS Scores by studying on Prep,Meningkatkan Skor IELTS mereka dengan belajar di Prep,
+,n_age,{n} tuổi,{n} years old,n} tahun,
+,exam_date,Ngày thi,Exam date,Tanggal ujian,
+,list_students,Danh sách các học viên,List of students,Daftar murid,
+dictionary.home,user_manual_title,Hướng dẫn<br />sử dụng,Prep's<br />User Manual,Panduan Pengguna<br />Prep,
+dictionary.not_found,title,Không tìm thấy kết quả phù hợp cho <:keyword>,No exact match found for <:keyword> in English,Tidak ditemukan kecocokan tepat untuk <:keyword> dalam bahasa Inggris,
+,description,"Rất tiếc, chúng tôi không tìm thấy kết quả nào khớp với tìm kiếm của bạn. Vui lòng thử:","Sorry, we couldn’t find any results matching your search. Please try:","Maaf, kami tidak menemukan hasil yang sesuai dengan pencarian Anda. Silakan coba:",
+,try_action_1,Kiểm tra lại từ khóa đã nhập,Checking your spelling,Memeriksa ejaan Anda,
+,try_action_2,Thử tìm kiếm với một cụm từ khác,Using different keywords,Menggunakan kata kunci yang berbeda,
+,suggestion_title,Gợi ý cho bạn:,We have these words with similar spellings or pronunciations:,Kami memiliki kata-kata dengan ejaan atau pengucapan serupa:,
+dictionary.search_box,action_btn,Tìm kiếm,Search,Cari,Screenshot 2025-05-07 at 09.26.12.png
+,placeholder,Bạn muốn tra từ gì?,Start typing any word or phrase,Mulai ketik kata atau frasa apa pun,Screenshot 2025-05-07 at 09.26.12.png
+,action_item,Xem chi tiết,View details,Lihat rincian,
+,loading_placeholder,Đang tìm kiếm dữ liệu...,Searching...,Mencari...,
+dictionary.word_detail,example,Ví dụ,Examples,Contoh,
+,n_examples,+{count} ví dụ,+{count} examples,Contoh +{count},
+,different_pronunciation_action,Cách phát âm khác,Different pronunciation,Pengucapan berbeda,
+,casual_meaning_label,Nghĩa phổ thông,Casual meaning,Makna sehari-hari,
+,quick_navigation.prefix_guide_word,với nghĩa,as,sebagai,
+,report_label,Báo lỗi,Report,Laporkan,
+,antonyms_label,Từ trái nghĩa,Antonyms,Antonim,
+,synonyms_label,Từ đồng nghĩa,Synonyms,Sinonim,
+,share_label,Chia sẻ,Share,Bagikan,
+,link_copied,Đã sao chép,Link copied,Tautan disalin,
+,share_via,Chia sẻ qua,Share via,Bagikan melalui,
+,or_copy_link,Hoặc sao chép đường dẫn,Or copy link,Atau salin tautan,
+,collocation.label_tooltip,Các nhóm từ luôn kết hợp cùng nhau nhằm phản ánh cách diễn đạt tự nhiên của người bản xứ,"Words that naturally occur together in common combinations. (Fixed expressions or word pairs that sounds correct to people who have spoken the language all their lives, but might not be expected from the meaning)","Kata-kata yang secara alami muncul bersama dalam kombinasi umum. (Ungkapan padu atau pasangan kata yang terdengar benar bagi penutur asli, tetapi mungkin tidak terduga dari arti literalnya)",
+,audio.play_label,Nghe,Audio,Audio,
+,audio.stop_label,Dừng,Stop,Berhenti,
+,audio.you_spoke_label,Bạn đọc,You spoke,Anda mengucapkan,
+,audio.prep_spoke_label,Prep đọc,Sample,Sampel,
+dictionary.word_detail.practice_prononciation,header_popup,Luyện tập phát âm,Practice pronunciation,Latihan pelafalan,
+,press_to_record,Nhấn để bắt đầu ghi âm,Press to record,Tekan untuk merekam,
+,remaining_time,Còn {remaining},{remaining} remaining,Tersisa {remaining},
+,recording_limit,Giới hạn ghi âm là {limit} giây,Recording limit is {limit}s,Batas rekaman adalah {limit},
+,your_speech_will_be_processed,Hệ thống sẽ tự động xử lý bài nói của bạn,Your speech will be processed automatically,Ucapan Anda akan diproses secara otomatis,
+,marking_loading,Bài nói của bạn đang được xử lý. Hãy chờ chút nhé!,Your speech is being processed. Please wait a moment!,Ucapan Anda sedang diproses. Mohon tunggu sebentar!,
+,not_granted_microphone_error_msg,Bạn chưa cấp quyền truy cập Microphone. Vui lòng cấp quyền truy cập tại Cài đặt nhé,You have not granted access to the Microphone. Please enable access in Settings,Anda belum memberikan akses ke Mikrofon. Silakan izinkan akses di Pengaturan,
+,tap_to_show_detail,Nhấn vào từng từ để xem cách phát âm chi tiết,Tap on each word to see detailed pronunciation,Ketuk setiap kata untuk melihat pelafalan secara rinci,
+,syllable,Âm tiết,Syllable,Suku kata,
+,phonetic,Phiên âm,Phonetic,Fonetik,
+,unclear,Không rõ,Unclear,Tidak jelas,
+,sound_like_ipa,Nghe như {ipa},Sounds like {ipa},Terdengar seperti {ipa},
+,marking_error_msg,"Rất tiếc, đã có lỗi xảy ra trong quá trình xử lý bài nói của bạn. Vui lòng thử lại sau!",Sorry! Something went wrong while processing your speech. Please try again later!,Maaf! Terjadi kesalahan saat memproses ucapan Anda. Silakan coba lagi nanti!,
+,record_again_action,Ghi âm lại,Record again,Rekam kembali,
+,try_again_action,Thử lại,Try again,Coba lagi,
+,motivate_msg_high_score,Quá đỉnh! Bạn phát âm chuẩn rồi đấy!,Awesome! Your pronunciation is spot on!,Luar biasa! Pelafalan Anda sempurna!,
+,motivate_msg_medium_score,Tốt lắm! Tiếp tục phát huy nào!,Great job! Keep it up!,Kerja bagus! Pertahankan!,
+,motivate_msg_low_score,Cố gắng luyện tập thêm nhé!,Keep practicing to improve even more!,Terus berlatih untuk semakin mahir!,
+,prononciation_result_label,Kết quả phát âm,Result,Hasil,
+,result_good_label,Tốt,Good,Baik,
+,result_not_good_label,Cần cải thiện,Need improvement,Perlu perbaikan,

@@ -1,0 +1,764 @@
+﻿1
+00:00:11,310 --> 00:00:15,370
+Hey there, it's true that preparing for diagrams
+
+2
+00:00:15,370 --> 00:00:18,710
+is the hardest among all types in Task 1.
+
+3
+00:00:19,590 --> 00:00:24,610
+Even popular guidebooks could just give a few tips and knowledge for diagrams.
+
+4
+00:00:25,290 --> 00:00:29,690
+But with years of experience handling diagrams, 
+
+5
+00:00:29,690 --> 00:00:34,430
+I'll show you the most effective way to handle this challenging question.
+
+6
+00:00:36,030 --> 00:00:39,490
+Our lesson is divided into three parts.
+
+7
+00:00:40,210 --> 00:00:43,810
+Part 1, Diagrams, Analysis and Outlining.
+
+8
+00:00:44,770 --> 00:00:48,350
+Part 2, Diagrams, Linking Devices.
+
+9
+00:00:49,570 --> 00:00:53,250
+And part 3, Diagrams, Sample Evaluation.
+
+10
+00:00:54,130 --> 00:00:57,410
+And since then, we will find a way to improve it.
+
+11
+00:00:57,770 --> 00:01:00,170
+To achieve two goals.
+
+12
+00:01:01,070 --> 00:01:07,050
+Understand how to analyse diagrams, select and organise information from there.
+
+13
+00:01:08,030 --> 00:01:13,330
+Understand how to make a complete outline based on question analysis.
+
+14
+00:01:14,670 --> 00:01:18,190
+I don't know about you guys, but I'm excited about this.
+
+15
+00:01:18,590 --> 00:01:19,370
+Are you with me?
+
+16
+00:01:19,830 --> 00:01:20,530
+Let's go.
+
+17
+00:01:25,360 --> 00:01:28,380
+Let's have a quick overview of this type.
+
+18
+00:01:28,940 --> 00:01:31,700
+Diagram, Process or Flowchart.
+
+19
+00:01:31,700 --> 00:01:35,680
+It may have a different name depending on the specific form.
+
+20
+00:01:36,420 --> 00:01:44,560
+However, they all require us to describe a process, a certain structure or an operating procedure.
+
+21
+00:01:45,440 --> 00:01:49,540
+So how many types of diagrams do you think there are?
+
+22
+00:01:50,000 --> 00:01:52,280
+There are two common types of diagrams.
+
+23
+00:01:52,680 --> 00:01:56,480
+How something works or how something is made
+
+24
+00:01:56,480 --> 00:01:58,160
+and a natural process.
+
+25
+00:01:58,610 --> 00:02:01,380
+In this lesson, we will analyse the process
+
+26
+00:02:01,380 --> 00:02:05,100
+of making cherry jam to understand the general approach.
+
+27
+00:02:06,160 --> 00:02:09,039
+Do you still remember the three steps to
+
+28
+00:02:09,039 --> 00:02:12,240
+analyse charts in task 1 that we've been
+
+29
+00:02:12,240 --> 00:02:13,640
+familiar with up to now?
+
+30
+00:02:14,840 --> 00:02:19,080
+They are the big three, the great three
+
+31
+00:02:19,080 --> 00:02:21,200
+and the major three.
+
+32
+00:02:21,720 --> 00:02:25,400
+Let's apply these three steps to our writing question today.
+
+33
+00:02:25,400 --> 00:02:29,700
+The diagram describes the process of making cherry jam.
+
+34
+00:02:30,360 --> 00:02:34,260
+Summarise the information by selecting and reporting 
+
+35
+00:02:34,260 --> 00:02:37,620
+the main features and make comparisons where relevant.
+
+36
+00:02:38,580 --> 00:02:39,480
+Here's my outline.
+
+37
+00:02:39,980 --> 00:02:42,280
+Please pause the video to read through it.
+
+38
+00:02:50,830 --> 00:02:57,110
+Now let's go through each step one by one to see how to get such an outline.
+
+39
+00:02:57,880 --> 00:03:00,330
+Let's start with the big three.
+
+40
+00:03:01,310 --> 00:03:05,090
+What and where commercial manufacturing of cherry jam
+
+41
+00:03:05,090 --> 00:03:06,530
+at a processing plant?
+
+42
+00:03:07,070 --> 00:03:07,350
+When.
+
+43
+00:03:07,750 --> 00:03:10,850
+Time is not given so we will use present tenses.
+
+44
+00:03:11,730 --> 00:03:15,090
+Most diagram questions use the present simple 
+
+45
+00:03:15,090 --> 00:03:18,830
+because they describe a general truth or a repeat process.
+
+46
+00:03:19,250 --> 00:03:21,970
+Since this is a series of actions, 
+
+47
+00:03:21,970 --> 00:03:24,210
+we use the simple tense throughout.
+
+48
+00:03:24,970 --> 00:03:26,270
+Unit none.
+
+49
+00:03:26,790 --> 00:03:30,850
+Diagrams have no units so you can leave this blank.
+
+50
+00:03:31,370 --> 00:03:35,810
+For the great three, subject of comparison none.
+
+51
+00:03:36,450 --> 00:03:41,610
+Diagrams also have no subjects of comparison so just fill in none.
+
+52
+00:03:42,590 --> 00:03:44,110
+Global feature number one.
+
+53
+00:03:44,970 --> 00:03:49,190
+Since there are no trends, let's look for two global features.
+
+54
+00:03:49,930 --> 00:03:53,510
+Some students have read some samples and 
+
+55
+00:03:53,510 --> 00:03:57,330
+concluded that the overview of diagrams writing only needs to state 
+
+56
+00:03:57,330 --> 00:04:01,090
+how many steps are involved, but that's not true.
+
+57
+00:04:02,010 --> 00:04:04,710
+The purpose of the overview is to evaluate
+
+58
+00:04:04,710 --> 00:04:06,490
+your overall understanding.
+
+59
+00:04:07,330 --> 00:04:09,190
+If it just states the number of steps
+
+60
+00:04:09,190 --> 00:04:13,130
+in one sentence, anyone can do it just by looking at the diagram.
+
+61
+00:04:13,990 --> 00:04:16,170
+So how can examiners evaluate us?
+
+62
+00:04:17,510 --> 00:04:20,430
+Simple overviews like that are likely to score
+
+63
+00:04:20,430 --> 00:04:23,170
+band five or lower for task achievement.
+
+64
+00:04:23,990 --> 00:04:26,430
+So what's the correct way then?
+
+65
+00:04:27,030 --> 00:04:28,250
+Here's my suggestion.
+
+66
+00:04:29,130 --> 00:04:32,790
+Let's focus on the following two pieces of information.
+
+67
+00:04:34,030 --> 00:04:37,750
+One, the first information related to the nature
+
+68
+00:04:37,750 --> 00:04:44,610
+of the diagram, whether the process is simple or complex with a clear result at the end, 
+
+69
+00:04:44,610 --> 00:04:47,890
+following a linear or cyclical path.
+
+70
+00:04:48,390 --> 00:04:51,350
+How many sections or stages there are and
+
+71
+00:04:51,350 --> 00:04:53,530
+list the key information if possible.
+
+72
+00:04:54,090 --> 00:04:57,350
+From there, we have the first global feature,
+
+73
+00:04:57,730 --> 00:05:02,330
+a linear process consisting of two major phases,
+
+74
+00:05:02,970 --> 00:05:05,810
+fruit preparation and jam production.
+
+75
+00:05:06,570 --> 00:05:10,150
+Global feature two should mention how many steps
+
+76
+00:05:10,150 --> 00:05:13,550
+from what to what and the most significant difference
+
+77
+00:05:13,550 --> 00:05:16,430
+if asked to compare different things.
+
+78
+00:05:16,720 --> 00:05:20,130
+We have global feature two, nine steps in total, 
+
+79
+00:05:20,130 --> 00:05:23,170
+beginning with the harvesting of raw cherries
+
+80
+00:05:23,170 --> 00:05:26,150
+and ending with the labelling of finished jars.
+
+81
+00:05:27,170 --> 00:05:31,230
+We always have a complete outline for all diagrams questions.
+
+82
+00:05:31,970 --> 00:05:34,650
+However, to get that outline, we need to
+
+83
+00:05:34,650 --> 00:05:40,210
+go through three elements, starting with grouping information.
+
+84
+00:05:40,990 --> 00:05:43,870
+There are many ways to group information in diagrams, 
+
+85
+00:05:43,870 --> 00:05:46,610
+depending on each specific question.
+
+86
+00:05:47,670 --> 00:05:49,710
+It's hard to say there's a general method
+
+87
+00:05:49,710 --> 00:05:52,570
+that can be applied to all diagrams, but
+
+88
+00:05:52,570 --> 00:05:54,710
+you can follow three popular ways.
+
+89
+00:05:55,150 --> 00:06:01,310
+They are grouping by step, divide paragraphs based on the steps of the diagram.
+
+90
+00:06:01,930 --> 00:06:04,930
+We'll look at the whole diagram and find out
+
+91
+00:06:04,930 --> 00:06:07,950
+the step that shows a significant change
+
+92
+00:06:07,950 --> 00:06:11,410
+in the input material, like changing into a
+
+93
+00:06:11,410 --> 00:06:14,750
+completely new form or the step that marks
+
+94
+00:06:14,750 --> 00:06:16,970
+the end of a stage in the process
+
+95
+00:06:16,970 --> 00:06:20,150
+and use that as the point of division.
+
+96
+00:06:20,730 --> 00:06:24,850
+Grouping by section, divide paragraphs based on different parts, 
+
+97
+00:06:24,850 --> 00:06:27,810
+sections or contents of the diagram.
+
+98
+00:06:28,170 --> 00:06:31,970
+Grouping by diagram, this technique can be applied
+
+99
+00:06:31,970 --> 00:06:34,970
+to handling questions with more than one diagram.
+
+100
+00:06:35,590 --> 00:06:39,270
+Alright, now let's move on to the major
+
+101
+00:06:39,270 --> 00:06:41,770
+three, individual features.
+
+102
+00:06:42,790 --> 00:06:46,530
+Unlike other question types where specific details and
+
+103
+00:06:46,530 --> 00:06:50,070
+figures need to be selected for description, 
+
+104
+00:06:50,070 --> 00:06:53,530
+with diagrams we will describe all steps and stages presented, 
+
+105
+00:06:53,530 --> 00:06:56,390
+leaving no detail behind.
+
+106
+00:06:57,170 --> 00:06:59,870
+Remember to use the passive voice 
+
+107
+00:06:59,870 --> 00:07:02,230
+if the subject of the action is not specified.
+
+108
+00:07:03,090 --> 00:07:06,230
+Even after doing so, the writing may still
+
+109
+00:07:06,230 --> 00:07:09,110
+be short and doesn't meet the requirement of
+
+110
+00:07:09,110 --> 00:07:09,670
+word count.
+
+111
+00:07:10,450 --> 00:07:13,690
+Therefore, to ensure the length and also to
+
+112
+00:07:13,690 --> 00:07:16,990
+improve the task achievement score, for some steps
+
+113
+00:07:16,990 --> 00:07:20,770
+we need to provide reason or purpose of that step.
+
+114
+00:07:21,130 --> 00:07:24,410
+If there are other reasons or purposes, 
+
+115
+00:07:24,410 --> 00:07:29,170
+each step will be analysed in more detail and sentences will also be longer.
+
+116
+00:07:29,910 --> 00:07:34,410
+Please note to do this instead of just listing out all the steps.
+
+117
+00:07:35,270 --> 00:07:37,470
+Lastly, detail organisation.
+
+118
+00:07:38,470 --> 00:07:42,910
+With diagrams, you don't need to worry much about arranging ideas.
+
+119
+00:07:43,370 --> 00:07:46,190
+Just describe each step one by one and
+
+120
+00:07:46,190 --> 00:07:49,170
+you'll have a complete outline like this.
+
+121
+00:07:58,450 --> 00:08:00,950
+It's time to apply the knowledge we've learned
+
+122
+00:08:00,950 --> 00:08:02,330
+to evaluate the sample.
+
+123
+00:08:03,130 --> 00:08:05,970
+I believe you're all familiar with this step,
+
+124
+00:08:06,190 --> 00:08:09,370
+but to make sure, let me remind you a bit.
+
+125
+00:08:10,050 --> 00:08:14,210
+Please spend 10 minutes evaluating the task achievement
+
+126
+00:08:14,210 --> 00:08:18,390
+and coherence and cohesion of the sample based on
+
+127
+00:08:18,390 --> 00:08:20,790
+5 guiding questions.
+
+128
+00:08:21,830 --> 00:08:24,630
+1. Is the sample divided into paragraphs?
+
+129
+00:08:25,790 --> 00:08:28,190
+2. Are they complete paragraphs?
+
+130
+00:08:29,190 --> 00:08:33,789
+3. Is there an overview and does it play its role correctly?
+
+131
+00:08:35,650 --> 00:08:39,330
+4. Does the sample provide all important details and data?
+
+132
+00:08:40,890 --> 00:08:45,430
+5. Is there cohesion within sentences and between paragraphs?
+
+133
+00:08:46,310 --> 00:08:49,390
+And are cohesive devices used correctly?
+
+134
+00:08:50,370 --> 00:08:54,730
+Please pause the video in 10 minutes and evaluate the sample.
+
+135
+00:08:55,130 --> 00:08:58,210
+Then come back to the lesson and listen to the explanation.
+
+136
+00:08:58,950 --> 00:09:01,490
+I'll see you in 10 minutes.
+
+137
+00:09:02,250 --> 00:09:04,290
+There shouldn't be much to complain about 
+
+138
+00:09:04,290 --> 00:09:07,270
+the paragraphing of the sample, if the whole body
+
+139
+00:09:07,270 --> 00:09:09,250
+is not written in only one paragraph.
+
+140
+00:09:10,180 --> 00:09:13,050
+Each contains at least two sentences, which is good, 
+
+141
+00:09:13,050 --> 00:09:16,210
+but the body should be divided into
+
+142
+00:09:16,210 --> 00:09:21,090
+two paragraphs, corresponding to the two stages that we've analysed.
+
+143
+00:09:21,690 --> 00:09:24,830
+However, even if we do so, the sample
+
+144
+00:09:24,830 --> 00:09:29,090
+cannot have a high score, due to the lack of words.
+
+145
+00:09:29,670 --> 00:09:34,530
+It already looks short, not enough to reach 130 words.
+
+146
+00:09:34,990 --> 00:09:40,830
+Although there is an overview, it's not very effective, because it is unclear.
+
+147
+00:09:41,590 --> 00:09:45,230
+Just listing steps makes it hard to surpass band 5.
+
+148
+00:09:45,610 --> 00:09:48,510
+The main reason for lacking words and leading
+
+149
+00:09:48,510 --> 00:09:51,750
+to the low task achievement score is because
+
+150
+00:09:51,750 --> 00:09:54,290
+the writer just listed the steps in the
+
+151
+00:09:54,290 --> 00:09:59,330
+diagram without analysing them, providing reasons or purposes.
+
+152
+00:10:00,710 --> 00:10:07,250
+The process consists of only 5 steps, making it difficult to avoid lacking information.
+
+153
+00:10:08,010 --> 00:10:11,730
+Even for diagrams with 14 to 15 steps,
+
+154
+00:10:12,250 --> 00:10:16,490
+writing like this may not reach the required 150 words.
+
+155
+00:10:17,270 --> 00:10:21,450
+So the analysis of this sample is completely ineffective.
+
+156
+00:10:22,710 --> 00:10:25,290
+Finally, about linking devices.
+
+157
+00:10:26,210 --> 00:10:31,270
+We don't see the use of languages of sequencing to connect steps.
+
+158
+00:10:31,270 --> 00:10:36,570
+Very few devices are used, mostly just the basic word AND.
+
+159
+00:10:37,350 --> 00:10:39,730
+I hope that while writing, you will apply
+
+160
+00:10:39,730 --> 00:10:42,570
+what we've learned today to avoid these mistakes
+
+161
+00:10:43,030 --> 00:10:46,770
+and improve your task achievement and coherence and
+
+162
+00:10:46,770 --> 00:10:50,170
+cohesion scores to band 6+.
+
+163
+00:10:54,920 --> 00:10:58,120
+See, diagrams won't be a challenge if we
+
+164
+00:10:58,120 --> 00:11:01,580
+follow the right direction and understand the knowledge.
+
+165
+00:11:02,240 --> 00:11:04,880
+By now, we've got the steps to 
+
+166
+00:11:04,880 --> 00:11:09,840
+effectively analyse this type of question and create a complete outline.
+
+167
+00:11:11,360 --> 00:11:15,400
+About the big 3, most diagrams use the present tense.
+
+168
+00:11:16,100 --> 00:11:21,340
+If there's any information about before, it should be described in the past tense.
+
+169
+00:11:21,780 --> 00:11:24,820
+And remember, there are no units.
+
+170
+00:11:25,700 --> 00:11:29,220
+About the great 3, there are no subjects
+
+171
+00:11:29,220 --> 00:11:35,440
+of comparison, and two global features often focus on two pieces of information.
+
+172
+00:11:36,620 --> 00:11:42,120
+1. Simple or complex, linear or cyclical, how many
+
+173
+00:11:42,120 --> 00:11:43,440
+stages or sections.
+
+174
+00:11:44,280 --> 00:11:49,820
+And 2. How many steps, from what to what,
+
+175
+00:11:49,820 --> 00:11:51,700
+and the most significant difference.
+
+176
+00:11:52,580 --> 00:11:56,900
+Getting into details about the major 3, 
+
+177
+00:11:56,900 --> 00:12:05,000
+there are many ways to group information in diagrams depending on each question, but there are three common ways.
+
+178
+00:12:06,020 --> 00:12:11,040
+Grouping by step, grouping by section, and grouping by diagram.
+
+179
+00:12:12,200 --> 00:12:16,500
+Next, about individual features, don't forget to provide
+
+180
+00:12:16,500 --> 00:12:21,340
+reasons or purposes to analyse some steps more deeply.
+
+181
+00:12:22,260 --> 00:12:26,920
+If you follow these steps, I'm sure your scores will be high.
+
+182
+00:12:27,760 --> 00:12:31,560
+Take detailed notes, organise them, fill out the
+
+183
+00:12:31,560 --> 00:12:35,360
+do's and don'ts checklist, and complete all the homework.
+
+184
+00:12:35,840 --> 00:12:37,780
+Your scores will be even better.
+
+185
+00:12:38,780 --> 00:12:41,720
+In the next lessons, we'll learn about useful
+
+186
+00:12:41,720 --> 00:12:45,760
+language and grammar structures to describe diagrams more effectively.
+
+187
+00:12:46,450 --> 00:12:52,060
+So don't worry too much, because there's always a solution to any difficulty.
+
+188
+00:12:53,100 --> 00:12:55,300
+Now it's time to take a break and
+
+189
+00:12:55,300 --> 00:12:56,880
+get ready for the next challenges.
+
+190
+00:12:57,620 --> 00:12:58,960
+Keep up the good work!
+
+191
+00:12:59,920 --> 00:13:03,280
+I'm Anna, goodbye and see you next time.
+

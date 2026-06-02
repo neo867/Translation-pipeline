@@ -1,0 +1,51 @@
+﻿key,english content,th content
+checkout,Checkout,ชำระเงิน
+pay_order,Order payment,ชำระเงินคำสั้ง
+pending,Pending processing,กำลังประมวลผลค่ะ
+success,Payment successful,ชำระเงินสำเร็จค่ะ
+failure,Payment failed,การชำระเงินไม่สำเร็จค่ะ
+unavailable,Unavailable,ไม่ว่างค่ะ
+info_notice,The course and all accompanying benefits will be added to this account after the payment process is successful!,คอร์สและสิทธิประโยชน์ทั้งหมดจะเพิ่มเข้าในบัญชีนี้หลังจากกระบวนการชำระเงินสำเร็จแล้วค่ะ
+export_invoice,Issue Invoice,สร้างใบแจ้งหนี้ค่ะ
+invoice_company,Company,บริษัทค่ะ
+invoice_personal,Individual,ปัจเจกบุคคลค่ะ
+invoice_buyer_name,Buyer's full name,ชื่อเต็มของผู้ซื้อค่ะ
+placeholder_invoice_buyer_name,Enter buyer's full name,กรอกชื่อเต็มของผู้ซื้อค่ะ
+info_phone_number,Phone number,หมายเลขโทรศัพท์ค่ะ
+placeholder_phone_number,Enter phone number,กรุณากรอกหมายเลขโทรศัพท์ค่ะ
+placeholder_invoice_department,Enter department name,กรอกชื่อแผนกค่ะ
+placeholder_invoice_tax_number,Enter tax identification number,กรุณาใส่เลขประจำตัวผู้เสียภาษีค่ะ
+placeholder_invoice_address,Enter address,กรอกที่อยู่ค่ะ
+placeholder_invoice_receiver_email,Enter email for receiving the invoice,กรอกอีเมลสำหรับรับใบแจ้งหนี้ค่ะ
+error_invoice_department,Enter company name,กรอกชื่อบริษัทค่ะ
+error_invoice_email,Please enter correct email format,กรุณากรอกอีเมลในรูปแบบที่ถูกต้องค่ะ
+invoice_department,Name of department,ชื่อแผนกค่ะ
+invoice_tax_number,Tax identification number,เลขประจำตัวผู้เสียภาษี
+invoice_address,Address,ที่อยู่ค่ะ
+invoice_receiver_email,Email for receiving the invoice,อีเมลสำหรับรับใบแจ้งหนี้ค่ะ
+continue_checkout,Continue to payment,ดำเนินการชำระเงินค่ะ
+invalid_coupon,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!,คูปองหรือรหัสโปรโมชั่นหมดอายุแล้วค่ะ<br />กรุณาลองใช้รหัสอื่นอีกครั้ง หรือดำเนินการชำระเงินโดยไม่ต้องใส่รหัสค่ะ
+product_unavailable,The product you selected has changed.<br />Please choose again or contact support staff for assistance!,สินค้าท่ีคุณเลืกเปลี่นแปลงแล้ว<br />กรุณาเลืกใหม่หรืือติดต่อกับพนักงานเพื่่อรับความช่่วยเหลือค่ะ
+checkout,checkout,ชําระเงิน
+return_shoppping,Return to shopping,กลับไปยังการช้อปปิ้งค่ะ
+total_price,Total price,รวมราคา
+promo,Promotion,โปรโมชัน
+coupon_code,Coupon code,รหัสคูปอง
+coupon_code_placeholder,Enter coupon code,กรอกรหัสคูปอง
+discount_price_amount,Discounted price,ราคาส่วนลด
+price_after_discount,Price after promotion,ราคาหลังโปรโมชัน
+x_people_used_course,More than {x} Prep students have used this roadmap,มีศิษย์ Prep มากกว่า {x} คนที่ใช้เส้นทางการเรียนรู้นี้ค่ะ
+product,Product,ผลิตภัณฑ์
+select_promo,Select,เลือก
+gifts,Included gift,ของแถม
+coupon_apply,Apply,นำไปใช้
+your_info,Your information,ข้อมูลของคุณ
+select_1_discount,Select a promotional code,เลือกโค้ดโปรโมชั่น
+no_promo_yet,No promotional code available,ไม่มีรหัสโปรโมชั่น
+empty_discount,"Oops, there are currently no promotional programs for this product!",ขออภัยค่ะ ปัจจุบันยังไม่มีโปรโมชั่นสำหรับสินค้านี้ค่ะ
+consent_text,"By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!",การกดปุ่ม <span>ดำเนินการชำระเงิน</span> แสดงว่าคุณได้อ่านและยอมรับ <a>ข้อกำหนดและเงื่อนไข</a> รวมถึง <a>นโยบายความปลอดภัยข้อมูล</a> ของ Prep แล้วค่ะ
+discount_conflict_with_current_coupon,This promotion cannot be used simultaneously with the current coupon!,โปรโมชั่นนี้ไม่สามารถใช้ร่วมกับคูปองปัจจุบันได้ค่ะ
+coupon_apply_not_successfully,Coupon application failed,การขอใช้คูปอนไม่สำเร็จ
+coupon_apply_successfully,Coupon applied successfully!,ใช้คูปองสำเร็จแล้วค่ะ
+coupon_conflict_with_current_discount,This coupon cannot be used simultaneously with the current promotion!,คูปองนี้ไม่สามารถใช้ร่วมกับโปรโมชั่นปัจจุบันได้ค่ะ
+maximum_discount_limitation,Apply a maximum discount of {x}% on the order value,ลดราคาสูงสุด {x}% จากยอดสั่งซื้อ

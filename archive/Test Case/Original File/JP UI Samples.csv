@@ -1,0 +1,522 @@
+Group Key (Tech + Product),Key (Tech),vi-content,en-content,tw-content (human translation),Link image/ context
+payment.metadata,checkout,Checkout,Checkout,ご購入手続き,Screenshot 2025-05-07 at 09.14.26.png
+,pay_order,Thanh toán đơn hàng,Order payment,注文の支払い,
+,pending,Chờ xử lý,Pending processing,処理中,
+,success,Thanh toán thành công,Payment successful,お支払い完了,
+,failure,Thanh toán thất bại,Payment failed,お支払い失敗,Screenshot 2025-05-07 at 09.16.33.png
+,unavailable,Không khả dụng,Unavailable,現在ご利用いただけません,
+payment.checkout,info_notice,Khóa học và tất cả quyền lợi đi kèm sẽ được thêm vào tài khoản này sau khi quá trình thanh toán thành công!,The course and all accompanying benefits will be added to this account after the payment process is successful!,お支払いが完了すると、このアカウントにコースと特典が追加されます,Screenshot 2025-05-07 at 09.14.26.png
+,export_invoice,Xuất hóa đơn,Issue Invoice,請求書を発行,Screenshot 2025-05-07 at 09.14.26.png
+,invoice_company,Công ty,Company,法人,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_personal,Cá nhân,Individual,個人,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_buyer_name,Họ tên người mua hàng,Buyer's full name,購入者氏名,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_buyer_name,Nhập họ tên người mua hàng,Enter buyer's full name,購入者氏名を入力してください,Screenshot 2025-05-07 at 09.17.04.png
+,info_phone_number,Số điện thoại,Phone number,電話番号,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_phone_number,Nhập số điện thoại,Enter phone number,電話番号を入力してください,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_department,Nhập tên đơn vị,Enter department name,部署名を入力してください,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_tax_number,Nhập mã số thuế,Enter tax identification number,法人番号を入力してください,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_address,Nhập địa chỉ kinh doanh,Enter address,住所を入力してください,Screenshot 2025-05-07 at 09.17.04.png
+,placeholder_invoice_receiver_email,Nhập email nhận hóa đơn,Enter email for receiving the invoice,請求書送付先メールアドレスを入力してください,Screenshot 2025-05-07 at 09.17.04.png
+,error_invoice_department,Nhập tên công ty đầy đủ,Enter company name,会社名を入力してください,Screenshot 2025-05-07 at 09.17.04.png
+,error_invoice_email,Vui lòng nhập đúng định dạng email,Please enter correct email format,正しいメールアドレス形式で入力してください,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_department,Tên đơn vị,Name of department,部署名,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_tax_number,Mã số thuế,Tax identification number,法人番号,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_address,Địa chỉ,Address,住所,Screenshot 2025-05-07 at 09.17.04.png
+,invoice_receiver_email,Email nhận hóa đơn,Email for receiving the invoice,請求書送付先メールアドレス,Screenshot 2025-05-07 at 09.17.04.png
+,continue_checkout,Tiếp tục thanh toán,Continue to payment,支払いに進む,Screenshot 2025-05-07 at 09.17.04.png
+,invalid_coupon,Mã coupon hoặc khuyến mãi không còn khả dụng.<br />Hãy thử lại bằng mã khác hoặc Tiếp tục thanh toán không dùng mã!,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!,クーポンまたはプロモーションコードの有効期限が切れています。<br />別のコードを入力するか、コードなしでお支払いを続けてください。,
+,product_unavailable,Sản phẩm bạn lựa chọn đã có sự thay đổi.<br />Vui lòng chọn lại hoặc liên hệ nhân viên để được trợ giúp nhé!,The product you selected has changed.<br />Please choose again or contact support staff for assistance!,選択された商品が変更されました。<br />再度ご選択いただくか、サポートスタッフまでお問い合わせください。,
+,checkout,Checkout,checkout,ご購入手続き,Screenshot 2025-05-07 at 09.14.26.png
+,return_shoppping,Quay lại mua hàng,Return to shopping,ショッピングに戻る,
+,total_price,Tổng giá bán,Total price,合計金額,Screenshot 2025-05-07 at 09.14.40.png
+,promo,Khuyến mãi,Promotion,プロモーション,Screenshot 2025-05-07 at 09.14.40.png
+,coupon_code,Mã Coupon,Coupon code,クーポンコード,Screenshot 2025-05-07 at 09.14.26.png
+,coupon_code_placeholder,Nhập mã Coupon,Enter coupon code,クーポンコードを入力,Screenshot 2025-05-07 at 09.14.26.png
+,discount_price_amount,Giá được giảm,Discounted price,割引後の価格,Screenshot 2025-05-07 at 09.14.26.png
+,price_after_discount,Giá bán sau khuyến mãi,Price after promotion,プロモーション適用後の価格,Screenshot 2025-05-07 at 09.14.40.png
+,x_people_used_course,Hơn {x} học viên của Prep đã sử dụng lộ trình này!,More than {x} Prep students have used this roadmap,すでに{x}人以上のPrep受講生がこのロードマップを利用しています,Screenshot 2025-05-07 at 09.14.40.png
+,product,Sản phẩm,Product,商品,Screenshot 2025-05-07 at 09.14.40.png
+,select_promo,Chọn,Select,選択する,
+,gifts,Quà tặng kèm,Included gift,付属ギフト,
+,coupon_apply,Áp dụng,Apply,適用する,
+,your_info,Thông tin của bạn,Your information,お客様情報,Screenshot 2025-05-07 at 09.14.40.png
+,select_1_discount,Chọn 1 mã khuyến mãi,Select a promotional code,プロモーションコードを選択,
+,no_promo_yet,Chưa có mã khuyến mãi,No promotional code available,利用可能なプロモーションコードはありません,
+,empty_discount,"Oops, chưa có chương trình khuyến mãi nào cho sản phẩm này rồi!","Oops, there are currently no promotional programs for this product!",現在、この商品にはご利用いただけるプロモーションがありません。,
+,consent_text,Bằng việc nhấn <span>Tiếp tục thanh toán<span> bạn xác nhận đã đọc và đồng ý với <a>Điều kiện & Điều khoản</a> cùng <a>Chính sách bảo mật</a> thông tin của Prep!,"By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!",<span>お支払いへ進む</span> をクリックすることで、Prepの <a>利用規約</a> および <a>情報セキュリティポリシー</a> に同意したものとみなされます。,Screenshot 2025-05-07 at 09.14.26.png
+,discount_conflict_with_current_coupon,Khuyến mãi này không được áp dụng đồng thời với coupon hiện tại!,This promotion cannot be used simultaneously with the current coupon!,このプロモーションは、現在のクーポンと同時にご利用いただけません。,
+,coupon_apply_not_successfully,Áp dụng Coupon không thành công,Coupon application failed,クーポンの適用に失敗しました,
+,coupon_apply_successfully,Áp dụng mã Coupon thành công!,Coupon applied successfully!,クーポンが正常に適用されました,
+,coupon_conflict_with_current_discount,Coupon này không được áp dụng đồng thời với khuyến mãi hiện tại!,This coupon cannot be used simultaneously with the current promotion!,このクーポンは現在のプロモーションと同時にはご利用いただけません,
+,maximum_discount_limitation,Áp dụng giảm tối đa {x}% giá trị đơn hàng,Apply a maximum discount of {x}% on the order value,注文金額に対して最大{x}％の割引が適用されます,
+,need_support_contact,Bạn vẫn còn phân vân? <br /> Liên hệ Prep để được <span>Tư vấn thêm</span>,Still unsure? <br /> Contact Prep to <span>Ask for advice</span>,まだご不明な点がありますか？<br />Prepにご相談いただき、<span>アドバイスを受けましょう</span>,
+,back_to_homepage,Quay lại trang chủ,Back to homepage,ホームページに戻る,
+,sale_policy_not_support_in_market_title,"Rất tiếc, sản phẩm không hỗ trợ khu vực của bạn","We’re sorry, this product is not supported in your area",申し訳ありません。この商品は現在、お住まいの地域ではご利用いただけません。,
+,sale_policy_not_support_in_market_desc,Vui lòng truy cập trang chủ để cập nhật và khám phá các sản phẩm phù hợp tại khu vực của bạn,Please visit homepage to update and explore products suitable for your area,ホームページにアクセスして、お住まいの地域に適した商品をご確認ください。,
+,program_consulting,Tư vấn chương trình học,Talk with our team,チームに相談する,
+,contact_support_notice,"Bạn hãy để lại thông tin, Prep sẽ liên hệ tư vấn cho mình ngay nha!","Please provide your details below, and Prep will reach out to you for a consultation as soon as possible.",下記にご連絡先をご入力ください。Prepチームより、できるだけ早くご連絡させていただきます。,
+,contact_support,Liên hệ hỗ trợ,Contact support,サポートに連絡する,Screenshot 2025-05-07 at 09.16.33.png
+,b2b_prevent_checkout_title,Bạn không thể sử dụng tính năng này,You cannot access this feature,この機能にはアクセスできません,
+,b2b_prevent_checkout_desc,Tài khoản {username} là tài khoản doanh nghiệp và không thể thực hiện thanh toán trên nền tảng này. Vui lòng liên hệ với doanh nghiệp/ nhà cung cấp để được hỗ trợ,The account {username} is a business account and cannot make payments on this platform. Please contact the business/ provider for support,アカウント「{username}」は法人用アカウントのため、本プラットフォームでのお支払いはご利用いただけません。ご利用に関しては、契約元またはサービス提供者へお問い合わせください。,
+payment.payment,payment,Thanh toán,Payment,お支払い,Screenshot 2025-05-07 at 09.16.33.png
+,method,Hình thức thanh toán,Payment method,お支払い方法,Screenshot 2025-05-07 at 09.16.33.png
+,info,Thông tin thanh toán,Payment information,お支払い情報,Screenshot 2025-05-07 at 09.16.33.png
+,transfer_bank,Ngân hàng,Bank,銀行,Screenshot 2025-05-07 at 09.16.33.png
+,3rd_info,Giải pháp thanh toán được cung cấp bởi,Payment solutions provided by,決済サービス提供元,Screenshot 2025-05-07 at 09.16.33.png
+,transfer_info,Thông tin chuyển khoản,Transfer information,振込情報,
+,transfer_account,Số tài khoản,Account number,口座番号,
+,transfer_holder_name,Tên chủ tài khoản,Account holder's name,口座名義,
+,transfer_message,Nội dung chuyển khoản,Transfer description,振込内容,
+,transfer_amount,Số tiền cần chuyển,Amount to be transferred,振込金額,
+,bank_select,Chọn ngân hàng,Select bank,銀行を選択,
+,guide_title,Hướng dẫn thanh toán,Payment instructions,お支払い手順,
+,guide_open_app,Mở ứng dụng ngân hàng trên thiết bị di động của bạn,Open the banking app on your mobile device,スマートフォンで銀行アプリを開いてください,
+,guide_scan_qr,"Trên ứng dụng, chọn tính năng Quét mã QR","In the app, select the QR code scanning feature",アプリ内のQRコード読み取り機能を選択してください,
+,guide_scan_and_process,Quét mã QR bên trên và thanh toán,Scan the QR code above and make the payment,上記のQRコードをスキャンしてお支払いを完了してください,
+,note_transfer_info_bank_transfer,"Sau khi bạn thanh toán thành công, vui lòng chờ trong 5 phút để hệ thống xử lý đơn hàng. Nếu quá thời gian trên mà chưa nhận được phản hồi, vui lòng cung câp hình ảnh thanh toán cho các bạn tư vấn tuyển sinh để được xác nhận đơn hàng!","After you successfully make the payment, please wait 5 minutes for the system to process your order. If you do not receive a response after this time, please provide a payment image to the admissions consultant to order confirmation!","お支払いが完了しましたら、システムによる処理のために5分ほどお待ちください。
+5分以上経過しても処理が完了しない場合は、注文確認のためにお支払い完了画面の画像を学習サポート担当宛ご提出ください。",
+,failure,Thanh toán thất bại,Payment failed,お支払いに失敗しました,
+,failure_notice,<strong>Ooop!</strong> Đã có vấn đề xảy ra khiến quá trình thanh toán không thành công.<br /> Hãy thử thanh toán lại hoặc liên hệ nhân viên hỗ trợ để được giúp đỡ ngay bạn nhé!,<strong>Oops!...</strong> Something went wrong causing the payment process to fail. <br /> Please try again or contact support staff for immediate assistance!,<strong>申し訳ありません！</strong> お支払い手続き中に問題が発生しました。<br />お手数ですが、もう一度お試しいただくか、サポートチームまでご連絡ください。,Screenshot 2025-05-07 at 09.16.33.png
+,success,Thanh toán thành công,Payment successful,お支払いが完了しました,
+,repayment,Thanh toán lại,Pay again,もう一度支払う,Screenshot 2025-05-07 at 09.16.33.png
+,start_learn,Bắt đầu học ngay bây giờ,Start learning now,今すぐ学習を開始する,
+,complete_payment_in_time,Hãy hoàn tất quá trình thanh toán trong,Complete the payment process in,お支払い手続きの完了まで：,
+,complete_payment_in_time_lite,Thanh toán trong,Payment within,時間以内にお支払いください：,
+,coupon_expired_msg,Thời gian tồn tại của đơn hàng/ mã coupon đã hết. Vui lòng liên hệ với nhân viên hỗ trợ để được khởi tạo đơn hàng/ mã coupon mới!,The validity of the order/ coupon code has expired. Please contact support to create a new order/ coupon code!,ご注文番号またはクーポンコードの有効期限が切れています。新しい注文またはクーポンコードの発行については、サポートまでご連絡ください。,
+,9pay_intro,Giao dịch được thực hiện bởi 9Pay - Cổng thanh toán điện tử được Ngân hàng nhà nước cấp phép làm trung gian thanh toán,The transaction is processed by 9Pay - an electronic payment gateway licensed by the State Bank to act as a payment intermediary,この取引は、国家銀行から認可を受けた決済代行業者である電子決済ゲートウェイ「9Pay」によって処理されています。,
+,note_transfer_info_9pay,"Sau khi thanh toán thành công, vui lòng chờ trong 5 phút để hệ thống xử lý đơn hàng của bạn, nếu quá thời gian trên mà chưa nhận được phản hồi, hãy chọn <span>Kiểm tra tiến trình đơn hàng</span>","After successful payment, please wait for 5 minutes for the system to process your order. If you do not receive a response after this time, please select <span>Check order status</span>","お支払いが正常に完了した後、システムでのご注文処理には最大5分ほどお時間をいただく場合がございます。
+時間を過ぎても反映されない場合は、<span>注文状況を確認</span> をクリックしてください。",
+,payment_processing_9pay,"Vui lòng chờ trong giây lát, đơn hàng của bạn đang được hệ thống xử lý. Dự kiến sẽ hoàn thành trong",Please wait a moment. Your order is being processed by the system. It is expected to be completed in,"ただいまご注文を処理中です。完了までしばらくお待ちください。
+",
+,payment_pending_9pay,Quá trình thanh toán vẫn chưa thể hoàn thành.<br /> Hãy liên hệ Hotline của Prep để được hỗ trợ ngay bạn nhé!,The payment process has not been completed yet.<br />Please contact Prep's Hotline for immediate assistance!,お支払いがまだ完了していません。<br />お急ぎの場合は、Prepのカスタマーサポート窓口までご連絡ください。,
+,contact_support_hotline,Liên hệ hotline hỗ trợ,Contact support hotline,サポート窓口に連絡する,
+,pay,Thanh toán,Pay,支払う,Screenshot 2025-05-07 at 09.14.40.png
+,payment_by,Thanh toán bằng,Pay by,以下の方法でお支払い,Screenshot 2025-05-07 at 09.14.40.png
+,direct_payment_via,Thanh toán trực tiếp qua,Pay directly through,直接お支払い,Screenshot 2025-05-07 at 09.14.40.png
+,or_pay_by_paypal_to_email,Hoặc chuyển khoản dùng Paypal tới email,Or transfer via PayPal to the email,または、PayPalで次のメールアドレスへ送金してください：,Screenshot 2025-05-07 at 09.14.40.png
+,paypal_done_notice,"Sau khi thanh toán thành công, bạn vui lòng cung cấp hình ảnh thanh toán cho các bạn tư vấn tuyển sinh để được xác nhận đơn hàng!","After completing your payment, you might be required to send a screenshot of the payment confirmation to our support email at <a>support@prepedu.com</a>",お支払い完了後、確認のためにお支払い完了画面のスクリーンショットを<a>support@prepedu.com</a>宛にお送りいただく場合がございます。,
+,payment_processing_msg_prefix,"Đơn hàng của bạn đang được hệ thống xử lý, dự kiến sẽ hoàn thành trong",Your order is being processed by the system and is expected to be completed in,ご注文は現在システムで処理中です。完了までしばらくお待ちください。,
+,payment_processing_msg_suffix,Vui lòng không tắt thông báo này trước khi nhận được phản hồi từ phía Prep!,Please do not turn off this notification before receiving a response from Prep!,Prepからの案内を受け取るまでは、この通知を閉じないようにしてください。,
+,payment_pending_msg,Quá trình thanh toán vẫn chưa thể hoàn thành. Vui lòng thử lại hoặc liên hệ Prep để được hỗ trợ ngay bạn nhé!,The payment process could not be completed. Please try again or contact Prep for immediate assistance!,お支払い手続きが完了できませんでした。もう一度お試しいただくか、至急サポートが必要な場合はPrepまでご連絡ください。,
+,success_notice,"<strong>Hooray!</strong> Chúc mừng bạn đã thanh toán thành công. <br /> Bây giờ, bạn đã có thể bắt đầu học tập ngay rồi nhé. <br /> Chúc bạn sớm đạt được kết quả như mong muốn!","<strong>Hooray!</strong> Congratulations on your successful payment. <br /> Now, you can start studying right away! <br /> Wishing you achieve your desired results soon!",<strong>おめでとうございます！</strong> お支払いが正常に完了しました。<br /> これで、すぐに学習を始めることができます。<br /> 目標達成に向けて、がんばってください！,
+,payment_suspended,Quá trình thanh toán đang bị gián đoạn. <br />Hãy liên hệ Hotline của Prep để được hỗ trợ ngay bạn nhé!,The payment process is currently interrupted.<br />Please contact Prep's Hotline for immediate assistance!,お支払い手続きに問題が発生しています。<br />お急ぎの場合は、Prepのカスタマーサポートまでご連絡ください。,
+,unavailable,Không khả dụng,Unavailable,ご利用いただけません,
+,unavailable_description,<span>Ooop!</span> Đơn hàng của bạn không còn tồn tại.<br />Vui lòng liên hệ nhân viên hỗ trợ để được khởi tạo đơn hàng mới bạn nhé!,<span>Ooop!</span> Your order no longer exists.<br />Please contact support staff to create a new order!,<span>おっと！</span> ご注文情報が見つかりません。<br />新しいご注文の作成については、サポートスタッフまでご連絡ください。,
+,support,Hỗ trợ,Support,サポート,
+,support_payment,Hỗ trợ thanh toán,Payment support,お支払いに関するサポート,
+,qr_code_expired,Mã QR đã hết hạn,QR code has expired,QRコードの有効期限が切れています,
+,click_to_reload,Nhấn để tải lại,Click to reload,クリックして再読み込み,
+payment.verify,notice,Vui lòng xác nhận số điện thoại để tiếp tục thanh toán!,Please confirm your phone number to continue with the payment!,お支払いを続けるには、お電話番号の確認が必要です。,
+,resend_after,Gửi lại mã sau {x}s,Resend the code after {x}s,{x}秒後にコードを再送信できます,
+,send_code,Gửi mã xác nhận,Send verification code,認証コードを送信する,
+,counter,Còn {x} lần,{x} attempts remaining,残り{x}回の試行が可能です,
+,otp_send_limit,Bạn đã hết lượt gửi mã OTP. Vui lòng thử lại sau 15 phút!,You have used up all your attempts to send the OTP. Please try again in 15 minutes!,ワンタイムパスワード（OTP）の送信回数上限に達しました。15分後に再試行してください。,
+,otp_input,Mã OTP xác nhận,Confirmation OTP code,確認用OTPコード,
+,send_otp_successfully,Gửi mã OTP thành công,OTP code sent successfully,OTPコードが正常に送信されました,
+payment.common,i_understand,Tôi đã hiểu,I understand,了解しました,
+,days,ngày,days,日数,
+,hours,giờ,hours,時間,
+,minutes,phút,minutes,分,
+,seconds,giây,seconds,秒,
+,copy,Sao chép,Copy,コピー,
+,copy_successful,Sao chép thành công,Copy successful,コピーしました,
+,step,Bước,Step,ステップ,
+,value,Trị giá,Value,値,
+,an_error_occurred,Có lỗi xảy ra,An error occurred,エラーが発生しました,
+,note,Lưu ý,Note,メモ,
+,search,Tìm kiếm,Search,検索,
+,select,Lựa chọn,Select,選択,
+,no_matching_results,Không tìm thấy kết quả phù hợp,No matching results found,一致する結果が見つかりませんでした,
+,view_more,Xem thêm,View more,さらに表示,
+,email,Email,Email,メール,
+,prep_has_received_your_info,Prep đã nhận thông tin của bạn,Prep has received your information,Prepに情報が送信されました,
+,prep_will_contact_you_soon,"Hãy chú ý điện thoại, Prep sẽ liên hệ sớm","Be mindful of your phone, Prep will contact you soon",お電話をご確認ください。まもなくPrepからご連絡いたします,
+,an_error_occurred_try_again,Có lỗi xảy ra. Vui lòng thử lại,An error occurred. Please try again,エラーが発生しました。再度お試しください,
+profile.navbar,account,Tài khoản,Account,カウント,Screenshot 2025-05-06 at 16.07.50.png
+,password,Mật khẩu,Password,パスワード,Screenshot 2025-05-06 at 16.07.50.png
+,device_management,Quản lý thiết bị,Device Management,端末管理,Screenshot 2025-05-06 at 16.07.50.png
+,activation_code,Mã kích hoạt,Activation code,アクティベーションコード,Screenshot 2025-05-06 at 16.07.50.png
+profile.device_management,account_verification_title,Xác minh tài khoản,Account verification,アカウント認証,
+,account_verification_desc,Để truy cập Quản lý thiết bị bạn cần xác minh tài khoản,"To access Device Management, you need to verify your account",端末管理を利用するには、アカウントの認証が必要です,
+,list_devices_title,Danh sách các thiết bị bạn đang sử dụng,List of devices you are using,ご利用中の端末一覧,Screenshot 2025-05-06 at 16.10.16.png
+,count_devices,{x}/{y} thiết bị,{x}/{y} devices,{x}/{y} 台の端末を使用中,Screenshot 2025-05-06 at 16.10.16.png
+,last_visited,Lần truy cập cuối,Last login,最終ログイン日時,Screenshot 2025-05-06 at 16.10.16.png
+,contact_support_via_email_title,Liên hệ hỗ trợ qua email,Contact support via email,メールでサポートに問い合わせ,
+,contact_support_via_email_desc,Liên hệ với chúng tôi qua email <a href='mailto:support@prepedu.com'>support@prepedu.com</a> để được hỗ trợ tốt nhất,Contact us at <a href='mailto:support@prepedu.com'>support@prepedu.com</a> for the best assistance,サポートが必要な場合は、<a href='mailto:support@prepedu.com'>support@prepedu.com</a> までご連絡ください,
+,confirm_remove_device_title,Xác nhận xoá thiết bị,Confirm removing device,この端末を削除してもよろしいですか？,Screenshot 2025-05-06 at 16.12.27.png
+,confirm_remove_device_desc,Thiết bị này sẽ bị xóa khỏi danh sách được cấp quyền truy cập của bạn,This device will be removed from your access list,この端末はアクセス端末一覧から削除されます,Screenshot 2025-05-06 at 16.12.27.png
+,remove_device_successfully,Xoá thiết bị thành công,Successfully deleted device,端末を正常に削除しました,
+,can_login_on_move_device_mobile_app,Bạn có thể đăng nhập thêm trên {num} mobile app,You can log in on {num} more mobile devices,あと {num} 台のモバイル端末でログイン可能です,Screenshot 2025-05-06 at 16.10.16.png
+,can_login_on_move_device_browser,Bạn có thể đăng nhập thêm trên {num} trình duyệt website,You can log in on {num} more web browsers,あと {num} 台のWebブラウザでログイン可能です,Screenshot 2025-05-06 at 16.10.16.png
+,can_login_on_move_device_tablet,Bạn có thể đăng nhập thêm trên {num} thiết bị tablet,You can log in on {num} more tablet devices,あと {num} 台のタブレット端末でログイン可能です,Screenshot 2025-05-06 at 16.10.16.png
+,device_access_limit_title,Giới hạn thiết bị truy cập,Device access limit,端末アクセス上限,
+,device_access_limit_desc,Bạn không thể truy cập do tài khoản này hiện đang vượt quá số lượng thiết bị cho phép. Vui lòng truy cập Quản lý thiết bị để kiểm tra,You cannot access because this account has exceeded the allowed number of devices. Please access Device Management to check,このアカウントは許可された端末数を超えたため、アクセスできません。端末管理をご確認ください,
+profile.account,contact_to_change_email,Vui lòng liên hệ với chúng tôi trong trường hợp bạn muốn đổi email,Please contact us if you want to change your email,メールアドレスを変更したい場合はご連絡ください,Screenshot 2025-05-06 at 16.15.54.png
+auth,auth_intro_1,Tham gia ngay cùng Nền tảng Học và Luyện thi thông minh,Join the Smart learning and test preparation platform now,今すぐスマート学習＆試験対策プラットフォームに参加しよう,
+,auth_intro_2,Kiểm tra trình độ hoàn toàn miễn phí.,Completely free Entry test.,エントリーテストは完全無料です,
+,auth_intro_3,"Chỉ cần một tài khoản duy nhất, bạn có thể thực hiện các bài Kiểm tra đầu vào để xác định trình độ nhanh chóng","With just one account, you can take the Entry test to quickly determine your level",アカウントを1つ作成するだけで、自分のレベルがすぐにわかるエントリーテストを受験できます,
+,auth_intro_b2b_1,Nền tảng Học và Luyện thi thông minh,Smart learning and test prep platform,スマート学習＆試験対策プラットフォーム,
+,auth_intro_b2b_2,Học ngoại ngữ thật dễ dàng với lộ trình Học và Luyện Thi toàn diện được cá nhân hóa,"Learning a foreign language is easy with a personalized, comprehensive study and exam preparation roadmap",パーソナライズされた学習＆試験対策ロードマップで、外国語学習がもっと簡単に,
+,auth_selector_title,Tham gia ngay cùng Prep - Nền tảng học và luyện thi thông minh,Join Prep - a smart learning and test preparation platform now,Prepは、スマートな学習と試験対策のためのプラットフォームです。今すぐ参加しよう,
+,consent_text,"Bằng cách tham gia, bạn xác nhận đã đọc và đồng ý với {{Điều khoản & Điều kiện}} cùng {{Chính sách bảo mật}} của Prep","By joining, you confirm that you have read and agreed to Prep's {{Terms & Conditions}} and {{Privacy Policy}}",参加することで、Prepの {{利用規約}} と {{プライバシーポリシー}} に同意したものとみなされます,
+,consent_checkbox_label,Tôi đã đọc và đồng ý với {{Điều khoản & Điều kiện}} cùng {{Chính sách bảo mật}} của Prep,I have read and agree to Prep's {{Terms & Conditions}} and {{Privacy Policy}},Prepの {{利用規約}} と {{プライバシーポリシー}} に同意します,
+,phone_err_already_register_title,Số điện thoại này đã được đăng ký,This phone number is already registered,この電話番号はすでに登録されています,
+,phone_err_already_register_desc,Bạn có thể <span>Đăng nhập bằng số điện thoại</span> hoặc sử dụng số điện thoại khác,You can <span>Log in with phone number</span> or use a different one,<span>電話番号でログイン</span> するか、別の番号をご利用ください,
+,register_done_title,Chào mừng bạn <br /> đến với Prep,Welcome <br /> to Prep,Prepへ <br />ようこそ,
+,register_done_desc,<span>Bổ sung thông tin</span> để có cơ hội nhận thêm <br /><span>nhiều ưu đãi hấp dẫn</span> nhé,<span>Update information</span> for a chance to receive <br /><span>more exciting offers</span>,<span>情報を更新</span>して、<br /><span>さらにお得な特典</span>を手に入れよう,
+,continue_discover,Tiếp tục khám phá,Continue exploring,引き続き探索する,
+,click_here_to_login_by,Nhấn vào đây để đăng nhập bằng,Click here to log in with,こちらをクリックしてログイン,
+,forgot_password,Quên mật khẩu?,Forgot password?,パスワードをお忘れですか？,
+,update_new_password,Cập nhật mật khẩu mới,Update new password,新しいパスワードを設定,
+,continue_login,Tiếp tục đăng nhập,Continue to log in,ログインを続ける,
+,update_password_successfully,Cập nhật mật khẩu thành công,Successfully updated password,パスワードの更新が完了しました,
+,need_more_infor_to_continue,Có vẻ như chúng tôi cần thêm thông tin để tiếp tục,It seems we need more information to proceed,処理を進めるために、もう少し情報が必要です,
+activation_code,search_code,Tìm kiếm mã,Search code,コードを検索,Screenshot 2025-05-06 at 16.17.19.png
+,my_codes,Mã của tôi,My activation code,マイアクティベーションコード,Screenshot 2025-05-06 at 16.17.19.png
+,search_code_title,Nhập mã kích hoạt để trải nghiệm ngay,Enter the activation code to start your experience now,今すぐ学習を始めるには、アクティベーションコードを入力してください,Screenshot 2025-05-06 at 16.17.19.png
+,search_code_placeholder,Nhập mã kích hoạt,Enter activation code,アクティベーションコードを入力,Screenshot 2025-05-06 at 16.17.19.png
+,activation_code_benefit_note,Lưu ý: Quyền lợi sẽ được cộng dồn (nếu có) trong trường hợp bạn đã sở hữu khoá học tương ứng trước đó,Note: Learning benefits will accumulate (if applicable) if you already own the corresponding course,注)すでに該当コースをご購入済みの場合、学習特典は（該当する場合）自動で引き継がれます,Screenshot 2025-05-06 at 16.17.19.png
+,learning_benefits,Quyền lợi học tập,Learning benefits,学習特典,Screenshot 2025-05-06 at 16.17.30.png
+,not_activated,Chưa kích hoạt,Not activated,未アクティベート,Screenshot 2025-05-06 at 16.17.30.png
+,activated,Đã kích hoạt,Activated,アクティベート済み,Screenshot 2025-05-06 at 16.17.30.png
+,expired,Đã hết hạn,Expired,有効期限切れ,Screenshot 2025-05-06 at 16.17.42.png
+,expiration_date,Ngày hết hạn,Expiration date,有効期限,Screenshot 2025-05-06 at 16.17.42.png
+,activation_date,Ngày kích hoạt,Activation date,アクティベート日,Screenshot 2025-05-06 at 16.17.30.png
+,activation_code_list,Danh sách mã kích hoạt,Activation code list,アクティベーションコード一覧,Screenshot 2025-05-06 at 16.17.30.png
+,activate_successful_title,Kích hoạt thành công,Activation successful,アクティベートに成功しました,
+,activate_successful_title_1,Bạn đã kích hoạt mã thành công,You have successfully activated your code,コードを正常にアクティベートしました,
+,activate_successful_desc,Chúc mừng! Mã của bạn đã được kích hoạt. Bắt đầu học ngay thôi!,Congratulations! Your code has been activated. Start learning now!,おめでとうございます！コードがアクティベートされました。今すぐ学習を始めましょう！,
+,activate_failed,Kích hoạt thất bại,Activation failed,アクティベートに失敗しました,
+,buy_activation_code,Mua mã kích hoạt,Buy activation code,アクティベーションコードを購入する,
+,activate_new_code,Kích hoạt mã mới,Activate a new code,新しいコードをアクティベート,
+,not_found_activation_code_title,Bạn chưa có mã kích hoạt,You have not got any activation code,アクティベーションコードをまだお持ちではありません,
+,not_found_activation_code_desc,Vui lòng theo dõi các sự kiện của Prep để có cơ hội nhận được mã kích hoạt miễn phí hoặc mua mã kích hoạt để trải nghiệm,Get your activation code by following Prep's events or purchase one to start,Prepのイベントに参加するか、購入して学習をスタートしましょう,
+,cf_activate_title,Bạn có muốn kích hoạt mã?,Do you want to activate the code?,このコードをアクティベートしますか？,
+,cf_activate_desc,"Sau khi chọn Xác nhận, các quyền lợi học tập sẽ được kích hoạt từ ngày {today}","After you confirm, your learning benefits will be effective from {today}",ご確認いただくと、学習特典は {today} から有効になります。,
+,cf_activate_warning_refundable,Mã kích hoạt sẽ không thể hoàn lại trong mọi trường hợp. Vui lòng kiểm tra quyền lợi và thời hạn sử dụng trước khi kích hoạt,Please note that the activation code is non-refundable under any circumstances. Make sure to check the benefits and validity period before activating,アクティベーションコードは、いかなる理由があっても返金不可となります。特典内容および有効期限を必ずご確認のうえ、アクティベートしてください。,
+,page_title_activation_code,Nhập mã kích hoạt<br />để trải nghiệm ngay!,Enter the activation code<br />to start your experience now,アクティベーションコードを入力して、今すぐ学習を始めましょう,
+,activated_account,Tài khoản kích hoạt,Activated account,アクティベート済みアカウント,
+,activate,Kích hoạt,Activate,アクティベートする,
+product,completed_product_line_at_prep,Đã học {productLineName} tại Prep,Improved their {productLineName} Scores by studying on Prep,Prepで学習して{productLineName}スコアが向上しました,Screenshot 2025-05-06 at 16.06.14.png
+,create_study_plan,Thiết kế lộ trình học,Create a Study Plan,学習プランを作成する,Screenshot 2025-05-06 at 16.06.14.png
+,select_roadmap_n_experience,Chọn lộ trình học và Trải nghiệm ngay,Choose a roadmap and experience now,ロードマップを選んで今すぐ始めよう,Screenshot 2025-05-06 at 16.06.29.png
+,view_roadmap,Xem lộ trình,View roadmap,ロードマップを確認する,
+,n_programs,{n} chặng,{n} programs,{n}個のプログラム,Screenshot 2025-05-06 at 16.26.06.png
+,include_n_small_courses,Gồm {n} khoá học nhỏ,Including {n} courses,{n}コースを含む,Screenshot 2025-05-06 at 16.26.06.png
+,n_lessons,{n} bài,{n} lessons,{n}レッスン,Screenshot 2025-05-06 at 16.26.06.png
+,marking_with_teachers,Chấm chữa với giáo viên,Marking with teachers,講師による添削サポート,Screenshot 2025-05-06 at 16.26.06.png
+,own_the_roadmap,Sử dụng lộ trình,Extended access to learning contents,学習コンテンツの閲覧期間を延長,Screenshot 2025-05-06 at 16.26.06.png
+,commitment_to_outcome_goals,Cam kết mục tiêu đầu ra,Guaranteed final scores,最終スコア保証付き,Screenshot 2025-05-06 at 16.26.06.png
+,estimated_completion_time,Thời gian hoàn thành dự kiến {n} tháng khi bạn duy trì việc học 6 giờ mỗi tuần,Estimated completion time is {n} months if you study for 6 hours per week,週6時間の学習で、完了までの目安は約{n}か月,
+,view_roadmap_details,Xem chi tiết lộ trình,View roadmap details,ロードマップの詳細を見る,Screenshot 2025-05-06 at 16.25.02.png
+,study_n_practice_tests,Học và luyện đề,Study and practice tests,学習と模擬試験,Screenshot 2025-05-06 at 16.25.02.png
+,comprehansive_study_n_practice_tests,Học và luyện đề toàn diện,Study & Test Practice Pro Package,学習＆模擬試験プロパッケージ,Screenshot 2025-05-06 at 16.25.02.png
+,active_self_study,Tự học chủ động,Standard Study Package,スタンダード学習パッケージ,Screenshot 2025-05-06 at 16.25.02.png
+,select_course,Chọn khoá học,Select Package,パッケージを選択,Screenshot 2025-05-06 at 16.30.37.png
+,recommendation,Đề xuất,Recommendation,おすすめ,Screenshot 2025-05-06 at 16.25.02.png
+,register_now,Đăng ký học ngay,Register now,今すぐ新規登録,Screenshot 2025-05-06 at 16.25.02.png
+,pro,Pro,Pro,Pro,
+,coupon_applied_code,Đã áp dụng Coupon,Coupon applied,クーポンが適用されました,
+,learning_roadmap,Lộ trình học,Roadmap,ロードマップ,Screenshot 2025-05-06 at 16.26.06.png
+,lecture_videos,Video bài giảng,Lecture videos,講義動画,
+,comparison,So sánh,Comparison,比較,Screenshot 2025-05-06 at 16.26.06.png
+,roadmap,Lộ trình,Roadmap,ロードマップ,Screenshot 2025-05-06 at 16.26.06.png
+,roadmap_overview,Tổng quan lộ trình học,Roadmap overview,ロードマップ概要,Screenshot 2025-05-06 at 16.26.06.png
+,view_teacher_details,Xem chi tiết,View Profile,プロフィールを見る,
+,details_of_n_lessons,Chi tiết {n} bài học,Details of {n} lessons,{n}レッスンの詳細,Screenshot 2025-05-06 at 16.39.04.png
+,watch_the_lecture_video,Xem thử video bài giảng,Watch the lecture video,講義動画を視聴,
+,n_learning_lessons,{n} bài học,{n} lessons,{n}レッスン,Screenshot 2025-05-06 at 16.39.04.png
+,n_tests,{n} bài kiểm tra,{n} tests,{n}テスト,Screenshot 2025-05-06 at 16.39.04.png
+,watch_the_actual_lecture_video,Xem thử video bài giảng thực tế,Watch the lecture video,講義動画を視聴,
+,lecture_video_desc,"Trải nghiệm xem thử không thể thay thế cho trải nghiệm học thực tế do hệ thống bài giảng, bài thực hành, tương tác trong quá trình học sẽ thú vị hơn.","A trial watching experience cannot replace the actual learning experience, as the system of lectures, exercises, and interactions during learning will be more engaging.","体験視聴では、実際の学習で得られる講義・練習・やり取りの充実した体験には及びません。
+本番の学習では、より深く、効果的に学べる仕組みが整っています。",
+,n_trial_lessons,{n} bài học thử,{n} trial lessons,{n} 回の体験レッスン,
+,learning_benefit_when_purchase,Quyền lợi học tập khi mua hàng,Benefits,特典,Screenshot 2025-05-06 at 16.40.29.png
+,experience_technology,Trải nghiệm công nghệ,Experience today,今日から体験しよう,Screenshot 2025-05-06 at 16.41.10.png
+,prep_help_solve_your_queries,<gradient>Prep giúp bạn</gradient><br />tháo gỡ mọi thắc mắc,Prep helps answer all your questions,Prepがあなたの疑問にすべてお答えします,Screenshot 2025-05-06 at 16.48.21.png
+,ask_more,Đặt thêm câu hỏi,Ask another question,別の質問をする,Screenshot 2025-05-06 at 16.48.21.png
+,register_learning_program,Đăng ký chương trình học,Register,新規登録する,Screenshot 2025-05-06 at 16.40.29.png
+,benefits,Quyền lợi,Benefits,特典,Screenshot 2025-05-06 at 16.40.29.png
+,hello_anonymous,Xin chào Bạn!,Hello!,こんにちは！,Screenshot 2025-05-06 at 16.42.31.png
+,hello_name,"Xin chào, {name}!","Hello, {name}!",こんにちは、{name}さん！,Screenshot 2025-05-06 at 16.42.31.png
+,my_level_is,Trình độ của tôi,My level is,私のレベルは,Screenshot 2025-05-06 at 16.42.31.png
+,my_goal_is,Mục tiêu của tôi,My goal is,私の目標は,Screenshot 2025-05-06 at 16.42.31.png
+,not_sure_about_my_level,Bạn chưa rõ trình độ bản thân?,Not sure about your level? Take an,自分のレベルがわからない?,Screenshot 2025-05-06 at 16.42.31.png
+,choose_package_conquer_roadmap,Chọn gói phù hợp <br />Chinh phục lộ trình {roadmapName},Choose the right package <br />Roadmap {roadmapName},最適なプランを選択しましょう <br />ロードマップ：{roadmapName},Screenshot 2025-05-06 at 16.25.02.png
+,stage_index,Chặng {index},Stage {index},ステージ {index},Screenshot 2025-05-06 at 16.41.10.png
+,coupon_not_be_use_auto_discount,Coupon áp dụng thành công và không đi kèm chương trình giảm giá tự động,Coupon applied successfully and does not accompany any automatic discount program,クーポンコードが適用されました（自動割引プログラムとの併用はできません）,
+,fail_to_apply_coupon,Áp dụng mã coupon không thành công,Failed to apply the coupon,クーポンの適用に失敗しました,
+,coupon_apply_successfully,Áp dụng mã coupon thành công,Coupon applied successfully,クーポンが正常に適用されました,
+,skill_interested_in,Kỹ năng bạn quan tâm,Skills you're interested in,興味のあるスキル,
+,coupon_code_placeholder,Nhập mã Coupon,Enter coupon code,クーポンコードを入力,Screenshot 2025-05-06 at 16.41.10.png
+tp,tp_line,Luyện đề {line},{line} Test Practice,{line} 模擬試験,
+,tp_title_1,Luyện là trúng cùng bộ đôi phòng luyện Ảo Prep AI,Practice and succeed with Prep AI Virtual Room,PrepのAIバーチャルルームで練習して、成功をつかもう,
+,tp_title_2,& ngân hàng 1.000+ đề độc quyền,& library of 1.000+ exclusive tests,"1,000以上の限定テストを収録したライブラリ－付き",
+,explore_more_test,Trải nghiệm 30+ bộ đề khác,Explore 30+ tests,30種類以上の模擬テストを体験,
+,exclusive_tp_pro_title,Đặc quyền <gradient>gói luyện đề PRO</gradient>,Exclusive <gradient>Test Practice PRO<gradient>,<gradient>限定版 Test Practice PRO</gradient>,
+,exclusive_tp_pro_desc,Sở hữu gói luyện đề PRO để được sử dụng những tính năng siêu việt nhất từ phòng luyện ảo Prep AI cùng kho đề độc quyền không giới hạn.,Upgrade to Test Practice PRO to unlock the most advanced features of the Prep AI Virtual Room and enjoy unlimited access to exclusive tests.,"Test Practice PROにアップグレードして、Prep AIバーチャルルームの高度な機能をすべて解放。1,000以上の限定テストにも無制限でアクセス可能に！",
+,try_tp_now,Luyện ngay,Try now,今すぐ試す,
+,free,Miễn phí,Free,無料,
+,subscribe,Đăng ký gói,Subscribe,購読する,
+,subscribe_now,Nâng cấp ngay,Subscribe now,今すぐ購読,
+,n_tests,{n} Đề,{n} Test(s),{n}件のテスト,
+,discover_selective_tests,Khám phá những bộ đề hot nhất,Discover the selective tests,厳選されたテストをチェック,
+,test_list,Danh sách Test,Test list,テスト一覧,
+,retake,Làm lại,Retake,再受験,
+,start_now,Làm ngay,Start now,今すぐ始める,
+home_page,hero_line_1,Nền tảng Học,Smart learning,スマート学習,Screenshot 2025-05-06 at 16.03.38.png
+,hero_line_2,và Luyện thi,and exam preparation,試験対策,Screenshot 2025-05-06 at 16.03.38.png
+,hero_line_3,thông minh,platform,プラットフォーム,Screenshot 2025-05-06 at 16.03.38.png
+,explore_now,Khám phá ngay,Explore now,今すぐチェック,Screenshot 2025-05-06 at 16.03.38.png
+,product_line_you_are_interested_in,Những chương trình học<br /> có thể phù hợp với bạn,Learning Programs<br /> That Might Suit You,あなたに合った学習プログラム,Screenshot 2025-05-06 at 16.04.56.png
+,learn_and_practice_every_time_every_where,Học và Luyện thi <br /> <gradient>mọi lúc mọi nơi</gradient>,"Study and Prepare <br /> <gradient>for Exams Anywhere, Anytime</gradient>",いつでも、どこでも<br /><gradient>試験対策と学習</gradient>ができる,Screenshot 2025-05-06 at 16.05.22.png
+,in_all_devices_with_only_one_platform_prep,Trên mọi thiết bị chỉ với một nền tảng duy nhất - Prep,on just one platform: Prep,たったひとつのプラットフォーム：Prep,Screenshot 2025-05-06 at 16.05.22.png
+blog,highlight,Nổi bật,Highlights,ハイライト,Screenshot 2025-05-06 at 16.55.01.png
+,tag,Tag,Tags,タグ,
+,categories,Chuyên mục,Categories,カテゴリー,
+,sort,Sắp xếp,Sort by,並べ替え,Screenshot 2025-05-06 at 17.22.21.png
+,sort_by,Sắp xếp theo,Sorted by,並び順：,Screenshot 2025-05-06 at 17.22.21.png
+,newest,Mới nhất,Newest,新しい順,Screenshot 2025-05-06 at 17.22.21.png
+,oldest,Cũ nhất,Oldest,古い順,Screenshot 2025-05-06 at 17.22.21.png
+,no_article,Oops!... Chưa có bài viết nào cho danh mục này rồi. Prep sẽ cập nhật sớm nha!,Oops!... There are no posts for this category yet. Prep will update soon!,"おっと…このカテゴリにはまだ投稿がありません。
+Prepが近日中に更新予定です！",
+,no_student,Oops!... Chưa có học viên điểm cao nào cho kỳ thi này rồi. Prep sẽ cập nhật sớm nha!,Oops!... There are no high-scoring students for this exam yet. Prep will update soon!,おっと…この試験の高得点者はまだいません。Prepが近日中に更新予定です！,
+,no_lang_support,"Bài viết hiện không hỗ trợ ngôn ngữ này, vui lòng chọn ngôn ngữ khác","This article does not support this language, please select another supported language",この記事は現在お使いの言語に対応していません。別の対応言語を選択してください。,
+,count_posts,Có {n} bài viết,There are {n} posts,投稿数：{n},Screenshot 2025-05-06 at 17.22.21.png
+,article_has_been_translated_into_langs,Bài viết đã được dịch sang các ngôn ngữ,The article has been translated into multiple languages,この記事は複数の言語に翻訳されています。,
+,count_character,{x}/{y} ký tự,{x}/{y} characters,{x}/{y} 文字,Screenshot 2025-05-06 at 17.19.02.png
+,content_publishing_rules,Quy tắc biên tập và xuất bản nội dung,Content publishing rules,コンテンツ公開ルール,Screenshot 2025-05-06 at 17.17.48.png
+,search_bar_blog,Tìm kiếm bài viết học tập,Search blog,ブログを検索,Screenshot 2025-05-06 at 16.55.24.png
+,search_bar_news,"Tìm kiếm tin sự kiện, hoạt động",Search news,ニュースを検索,
+,search_bar_student,Tìm kiếm tin vinh danh,Search rising stars news,人気のニュースを探す,
+,search_placeholder,Tìm kiếm,Search,検索,Screenshot 2025-05-06 at 16.55.24.png
+,connect_with_prep,Kết nối với Prep,Connect with Prep,Prepとつながる,
+,personal_roadmap,Lộ trình cá nhân hoá,Personalized roadmap,パーソナライズされた学習ロードマップ,Screenshot 2025-05-06 at 16.55.24.png
+,interest_posts,Có thể bạn quan tâm,Most read,よく読まれている記事,Screenshot 2025-05-06 at 17.18.00.png
+,table_of_content,Mục lục bài viết,Table of content,目次,Screenshot 2025-05-06 at 17.18.00.png
+blog.blog,handbook,Cẩm nang,Handbook,ハンドブック,Screenshot 2025-05-06 at 16.55.34.png
+blog.news_events,title,Sự kiện,Event,イベント,
+,trending,Sự kiện nổi bật,Featured events,注目イベント,
+,latest,Sự kiện mới nhất,Latest events,最新イベント,
+,hero_event_address,Địa điểm:,Address:,開催場所：,
+,hero_event_time,Thời gian:,Time:,開催時間：,
+,hero_event_participants,Số lượng tham gia:,Number of participants:,参加人数：,
+,hero_event_register,Đăng ký tham gia,Register,新規登録する,
+,highlight_events,Sự kiện đáng chú ý,Highlight events,注目のイベント,
+,related_posts,Bài viết liên quan,Related posts,関連記事,
+,promotions_event,Chương trình khuyến mãi,Promotion program,プロモーションプログラム,
+,promotion,Khuyến mãi,Promotions,キャンペーン情報,
+blog.student,hall_of_fame,Vinh danh học viên,Hall of fame,殿堂入り,
+,rising_star,Học viên điểm cao,Rising stars,注目の受講生,
+,new_talents,Gương mặt mới nhất,New talents,次世代スター候補,
+,leaderboard,Bảng vàng Prep,Prep Leaderboard,Prep リーダーボード,
+,learned,Đã học,Completed,完了済み,
+,test_score,Điểm thi,Test scores,テスト結果,
+blog.comment,title,Bình luận,Comment,コメント,Screenshot 2025-05-06 at 17.19.02.png
+,fullname,Họ và tên,Full name,氏名,Screenshot 2025-05-06 at 17.19.02.png
+,fullname_placeholder,Nhập họ và tên của bạn,Enter your full name,氏名を入力してください,Screenshot 2025-05-06 at 17.19.02.png
+,email_placeholder,Nhập địa chỉ email của bạn,Enter your email address,メールアドレスを入力してください,Screenshot 2025-05-06 at 17.19.02.png
+,comment_placeholder,Nhập bình luận,Enter your comment,コメントを入力してください,Screenshot 2025-05-06 at 17.19.02.png
+,submit,Gửi bình luận,Submit,送信,Screenshot 2025-05-06 at 17.19.02.png
+,reply,Phản hồi,Reply,返信する,
+,load_more,Xem thêm {n} bình luận,View more {n} comments,他の{n}件のコメントを表示,
+,expand,Xem {n} phản hồi,View {n} replies,{n}件の返信を表示,
+,collapse,Ẩn tất cả phản hồi,Hide all replies,すべての返信を非表示,
+,submit_success,Gửi bình luận thành công,Comment submitted successfully,コメントを正常に送信しました,
+,submit_failed,Gửi bình luận thất bại,Comment submission failed,コメントの送信に失敗しました,
+,email_invalid,Địa chỉ email không hợp lệ!,Invalid email address!,無効なメールアドレスです！,
+blog.premium,login_to_view,Bạn cần đăng nhập để xem nội dung này,Log in to view this content,このコンテンツを表示するにはログインが必要です,
+,login_now,Đăng nhập ngay,Log in,ログイン,Screenshot 2025-05-06 at 17.25.12.png
+,to_view_personal_content,để trải nghiệm tuyến nội dung dành cho bạn,to experience the personlized premium content,パーソナライズされたプレミアムコンテンツを体験するにはログインしてください,Screenshot 2025-05-06 at 17.25.12.png
+,premium_content_introduce,Tuyến nội dung dành riêng cho bạn,Content tailored for you,あなた専用にカスタマイズされたコンテンツです,Screenshot 2025-05-06 at 16.55.24.png
+,premium_content,Nội dung premium,Premium content,プレミアムコンテンツ,Screenshot 2025-05-06 at 16.55.24.png
+common.form,phone_label,Số điện thoại,Phone number,電話番号,Screenshot 2025-05-06 at 17.18.40.png
+,phone_placeholder,Nhập số điện thoại của bạn,Enter your phone number,電話番号を入力してください,Screenshot 2025-05-06 at 17.18.40.png
+,phone_placeholder_1,Nhập số điện thoại,Enter phone number,電話番号を入力,Screenshot 2025-05-06 at 17.18.40.png
+,phone_err_required,Vui lòng nhập số điện thoại,Please enter your phone number,電話番号を入力してください,Screenshot 2025-05-06 at 17.18.40.png
+,phone_err_wrong_format,Số điện thoại không đúng định dạng,Phone number is invalid format,電話番号の形式が正しくありません,
+,phone_err_wrong_format_1,,,,
+,field_err_required,Trường này không được để trống,This field cannot be left blank,この項目は空欄にできません,
+,field_err_required_1,Trường thông tin không được để trống,Field cannot be empty,入力が必要です,
+,full_name_label,Họ và tên,Full name,氏名,Screenshot 2025-05-06 at 17.18.40.png
+,full_name_placeholder,Nhập họ và tên của bạn,Enter your full name,氏名を入力してください,Screenshot 2025-05-06 at 17.18.40.png
+,full_name_err_max_length,Họ và tên không được quá {max} ký tự,Full name must not exceed {max} characters,氏名は{max}文字以内で入力してください,
+,yob_label,Năm sinh,Year of birth,生まれた年,Screenshot 2025-05-06 at 17.18.40.png
+,yob_placeholder,Nhập năm sinh của bạn,Enter your year of birth,生まれた年を入力してください,Screenshot 2025-05-06 at 17.18.40.png
+,social_netword_label,Bạn muốn liên hệ qua đâu,How would you like to be contacted?,ご希望の連絡方法をお選びください,
+,address_social_network_label,Đia chỉ {socialNetwork},Address {socialNetwork},{socialNetwork}アドレス,
+,address_social_network_placeholder,Nhập địa chỉ {socialNetwork},Enter {socialNetwork} address,{socialNetwork}のアドレスを入力してください,
+,address_social_network_err_wrong_format,"Địa chỉ không đúng định dạng, vui lòng kiểm tra lại!","Address is invalid format, please double-check!",アドレスの形式が正しくありません。もう一度ご確認ください,
+,email_label,Email,Email,メールアドレス,Screenshot 2025-05-06 at 17.18.40.png
+,email_placeholder,Nhập địa chỉ email của bạn,Enter your email address,メールアドレスを入力してください,Screenshot 2025-05-06 at 17.18.40.png
+,email_placeholder_1,Nhập email của bạn,Enter your email,メールアドレスを入力,Screenshot 2025-05-06 at 17.18.40.png
+,email_err_wrong_format,"Email không đúng định dạng, vui lòng kiểm tra lại!","Email is invalid format, please double-check!",メールアドレスの形式が正しくありません。もう一度ご確認ください,
+,email_err_wrong_format_1,Vui lòng nhập địa chỉ email hợp lệ <br />(ví dụ: email@example.com),"Please enter a valid email address <br /> (e.g., email@example.com)",有効なメールアドレスを入力してください<br /> （例：email@example.com）,
+,you_are_label,Bạn là,You are,あなたは,
+,the_course_you_are_interested_in_label,Khóa học bạn quan tâm,The course you are interested in,興味のあるコース,
+,content_label,Nội dung,Content,内容,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder,Bạn có câu hỏi gì?,Share about you,あなたについて教えてください,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder_1,Hãy cho Prep biết trình độ hiện tại,Your current skill level,現在のスキルレベル,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder_2,Mục tiêu mong muốn,Your desired learning goals,目標とする学習ゴール,Screenshot 2025-05-06 at 17.18.40.png
+,content_placeholder_3,Vấn đề bạn đang gặp phải,Your issues,お困りごと,Screenshot 2025-05-07 at 09.01.33.png
+,current_level_label,Trình độ hiện tại,Current level,現在のレベル,Screenshot 2025-05-07 at 09.01.33.png
+,desired_goal_label,Mục tiêu đầu ra,Desired goal,目標レベル,Screenshot 2025-05-07 at 09.01.33.png
+,note_consent,"Bằng việc gửi đăng ký nhận tư vấn, bạn đã đồng ý với Chính sách bảo mật thông tin của Prep.","By submitting your registration for consultation, you agree to Prep's Privacy policy.",相談申し込みを送信することで、Prepのプライバシーポリシーに同意したものとみなされます。,Screenshot 2025-05-06 at 17.18.40.png
+,submit_registration,Gửi đăng ký,Submit registration,新規登録を送信,
+,submit_successfully,Gửi câu hỏi thành công,Submitted successfully,送信が完了しました,
+,prep_will_contact_you_within_24h,Prep sẽ liên hệ bạn trong vòng 24 giờ,Prep will contact you within 24 hours,Prepより24時間以内にご連絡いたします,
+,dob_label,Ngày sinh,Date of birth,生年月日,
+,dob_placeholder,Chọn ngày tháng năm sinh,Select date of birth,生年月日を選択,
+,country_label,Quốc gia,Country,国,
+,country_placeholder,Chọn quốc gia,Select Country,国を選択,
+,province_label,Tỉnh thành,Province,都道府県,
+,province_placeholder,Chọn tỉnh thành,Select province,都道府県を選択,
+,career_label,Nghề nghiệp,Profession,職業,
+,career_placeholder,Chọn nghề nghiệp,Choose profession,職業を選択,
+,old_password_label,Mật khẩu cũ,Old password,旧パスワード,
+,password_label,Mật khẩu,Password,パスワード,
+,password_placeholder,Nhập mật khẩu,Enter password,パスワードを入力,
+,password_err_required,Vui lòng nhập mật khẩu,Please enter your password,パスワードを入力してください,
+,password_err_min_max_length,Mật khẩu trong khoảng {min}-{max} ký tự,Password must be between {min}-{max} characters,パスワードは{min}～{max}文字で入力してください,
+,password_err_duplicate_username_phone,Mật khẩu không được trùng số điện thoại/ username,Password cannot be the same as phone number/ username,パスワードは電話番号やユーザー名と同じにはできません,
+,password_err_character_invalid,"Mật khẩu bắt buộc phải bao gồm ít nhất 01 chữ viết thường, 01 số và 01 chữ viết hoa","Password must include at least one lowercase letter, one number, and one uppercase letter",パスワードには、英小文字・数字・英大文字をそれぞれ1つ以上含めてください,
+,confirm_password_label,Xác nhận mật khẩu,Confirm password,パスワード（確認）,
+,confirm_password_err_not_matching,Xác nhận mật khẩu không chính xác,Password confirmation is incorrect,パスワードの確認が一致しません,
+,username_label,Username,Username,ユーザー名,
+,username_placeholder,Nhập username,Enter username,ユーザー名を入力してください,
+,username_err_required,Vui lòng nhập username,Please enter your username,ユーザー名を入力してください,
+,username_password_err_required,Vui lòng nhập username và mật khẩu,Please enter your username and password,ユーザー名とパスワードを入力してください,
+,save_infor_successfully,Lưu thông tin thành công,Successfully saved information,情報を正常に保存しました,
+,do_you_have_any_question,Bạn còn<br />câu hỏi khác?,Do you have<br /> any other questions?,ご不明な点は<br />ございますか？,
+,leave_your_information_for_contact_and_solve,"Hãy để lại thông tin, Prep sẽ liên hệ và hỗ trợ xử lý mọi vướng mắc của bạn","Please leave your information, and Prep will contact you to help resolve any issues",ご連絡先をご入力ください。Prepチームが折り返しご連絡し、問題解決をサポートいたします。,
+common.header,home,Trang chủ,Home,ホーム,Screenshot 2025-05-06 at 16.03.38.png
+,courses,Khoá học,Course,コース,Screenshot 2025-05-06 at 16.03.38.png
+,blog,Blog,Blog,ブログ,Screenshot 2025-05-06 at 16.03.38.png
+,news,Tin tức,News,ニュース,Screenshot 2025-05-06 at 16.03.38.png
+,dictionary,Từ điển,Dictionary,辞書,
+,entry_test,Kiểm tra đầu vào,Entry test,レベル診断テスト,Screenshot 2025-05-06 at 16.03.38.png
+,build_roadmap,Xây dựng lộ trình,Create your study plan,学習プランを作成,Screenshot 2025-05-06 at 16.06.14.png
+,test_practice,Luyện đề,Test Practice,模擬試験,
+,target_commitment,Cam kết đầu ra,Output commitment,成果保証,
+,start_learning,Bắt đầu học,Start,開始,Screenshot 2025-05-06 at 16.06.14.png
+,start,Bắt đầu,Start,スタート,Screenshot 2025-05-06 at 16.06.14.png
+,settings,Cài đặt,Setting,設定,
+,logout,Đăng xuất,Log out,ログアウト,
+common.download_app,title,Tải ứng dụng trên điện thoại,Download PREP on,PREPをダウンロード,Screenshot 2025-05-07 at 09.08.06.png
+,subtitle,Tải về trên,Download on,ダウンロード,Screenshot 2025-05-07 at 09.08.06.png
+common.footer,connect_with_us,KẾT NỐI VỚI CHÚNG TÔI,CONNECT WITH US,お問い合わせ,
+,expand_menu,Có thể bạn quan tâm,You might be interested,おすすめ情報,
+,cert_by,CHỨNG NHẬN BỞI,CERTIFIED BY,認証元：,Screenshot 2025-05-07 at 09.08.06.png
+,download_mobile_app,TẢI ỨNG DỤNG TRÊN ĐIỆN THOẠI,DOWNLOAD PREP ON,PREPをダウンロード,Screenshot 2025-05-07 at 09.08.06.png
+common.contact,contact_hotline,Liên hệ Hotline,Contact Hotline,問い合わせ窓口,
+,register_consultant,Đăng ký tư vấn,Register for a consultation,学習相談を申し込む,
+,message_to_prepbee_for_advice,Nhắn tin ngay cho PrepBee để được nhận tư vấn!,Message PrepBee now to ask for advice!,今すぐPrepBeeに相談してアドバイスをもらいましょう！,
+,program_consulting,Tư vấn chương trình học,Consult study program,学習プログラムの相談をする,
+,contact_support_desc,"Bạn hãy để lại thông tin, Prep sẽ liên hệ tư vấn cho mình ngay nha!","Please leave your information, and Prep will contact you for consultation right away!",下記にご記入いただければ、Prepよりすぐにご連絡いたします。,
+,contact_support_note,Vui lòng <span>liên hệ bộ phận CSKH</span> để được hỗ trợ,Please <span>contact customer support</span> for assistance,サポートが必要な場合は、<span>カスタマーサポート</span>までご連絡ください,
+,need_support_contact,Bạn vẫn còn phân vân? <br /> Liên hệ Prep để được <span>Tư vấn thêm</span>,Still unsure? <br /> Contact Prep to <span>more advice</span>,まだ迷っていますか？<br />Prepに<span>相談してみましょう</span>,
+,register_for_updates,Đăng ký nhận thông tin,Register for updates,最新情報を受け取る,
+,contact_phone,Liên hệ {phone},Contact {phone},{phone} にお問い合わせください,
+,contact_support_roadmap,Đăng ký tư vấn lộ trình học,Register for a learning roadmap consultation,学習ロードマップの相談を申し込む,
+common,verify,Xác minh,Verify,認証する,
+,delete,Xoá,Delete,削除する,
+,i_understanded,Tôi đã hiểu,I understand,理解しました,
+,understood,Đã hiểu,Understood,了解しました,
+,confirm,Xác nhận,Confirm,確認する,
+,resend_otp,Gửi lại mã,Resend code,コードを再送する,
+,login,Đăng nhập,Log in,ログイン,
+,register,Đăng ký,Register,新規登録する,
+,search,Tìm kiếm,Search,検索,
+,no_matching_results,Không tìm thấy kết quả phù hợp,No matching results found,一致する結果が見つかりませんでした,
+,select,Lựa chọn,Select,選択する,
+,error_alert,"Có lỗi xảy ra, Vui lòng thử lại",An error occurred. Please try again,エラーが発生しました。もう一度お試しください,
+,view_more,Xem thêm,View more,さらに表示,
+,view_all,Xem tất cả,View all,すべて表示,
+,view_less,Ẩn bớt,Show less,表示を減らす,
+,back,Quay lại,Back,戻る,
+,language,Ngôn ngữ,Language,言語,
+,select_language,Chọn ngôn ngữ,Select language,言語を選択,
+,static_page_ready_in_lang,Bài viết đã sẵn sàng tại các ngôn ngữ,The article is available in languages,この記事は以下の言語でご覧いただけます,
+,edit,Sửa,Edit,編集する,
+,cancel,Huỷ,Cancel,キャンセル,
+,save,Lưu,Save,保存する,
+,continue,Tiếp tục,Continue,続行する,
+,update,Cập nhật,Update,更新する,
+,check,Kiểm tra,Check,確認する,
+,apply,Áp dụng,Apply,適用する,
+,save_infor,Lưu thông tin,Save,保存する,
+,add_infor,Bổ sung thông tin,Update information,情報を更新する,
+,scroll_to_continue,Cuộn xuống để tiếp tục,Scroll down to continue,スクロールして続ける,
+,otp_authen_title,Xác thực OTP,OTP Authentication,OTP認証,
+,otp_authen_desc,Mã OTP đã được Prep gửi đến số <span></span>,The OTP has been sent to the phone number <span></span> by Prep,Prepより、OTPが電話番号<span></span>宛に送信されました。,
+,otp_authen_desc_1,Mã OTP đã được Prep gửi đến số điện thoại <span></span>. Vui lòng nhập mã xác nhận bên dưới,The OTP code has been sent to the phone number <span></span> by Prep. Please enter the OTP code you receive below,Prepより、OTPコードが電話番号<span></span>宛に送信されました。以下に受け取ったコードを入力してください。,
+,product,Sản phẩm,Product,製品,
+,all,Tất cả,All,すべて,
+,note,Lưu ý,Note,注意,
+,login_or_register_to_continue,Vui lòng đăng nhập/ đăng ký để tiếp tục,Please log in or register to continue,続行するにはログインまたは新規登録してください,
+,login_or_register,Đăng nhập/ Đăng ký,Log in or register,ログインまたは新規登録,
+,switch_account,Đổi tài khoản,Switch account,アカウントを切り替える,
+,congratulations,Chúc mừng!,Congratulations!,おめでとうございます！,
+,explore_now,Khám phá ngay,Explore now,今すぐチェック,
+,n_students,{n} học viên,{n} students,{n}人の受講生,
+,experience_now,Trải nghiệm ngay,Experience now,今すぐ体験,
+,n_months,{n} tháng,{n} months,{n}か月,
+,n_days,{n} ngày,{n} days,{n}日間,
+,accompanying_gifts,Quà tặng kèm,Accompanying gifts,特典付き,
+,value,Trị giá,Value,価値,
+,details,Chi tiết,Details,詳細,
+,students,học viên,students,受講生,
+,step_n,Bước {n},Step {n},ステップ {n},
+,honoring_the_best_student_of_the_month,Vinh danh học viên xuất sắc nhất tháng {month},Honoring the student of the month,月間最優秀受講生の表彰,
+,archive_high_result_after_study_with_prep,đạt <span>thành tích cao</span> sau khi học tại Prep,Improved their IELTS Scores by studying on Prep,Prepで学習してIELTSスコアを向上させました,
+,n_age,{n} tuổi,{n} years old,{n}歳,
+,exam_date,Ngày thi,Exam date,試験日,
+,list_students,Danh sách các học viên,List of students,受講生一覧,
+dictionary.home,user_manual_title,Hướng dẫn<br />sử dụng,Prep's<br />User Manual,Prepユーザーマニュアル,
+dictionary.not_found,title,Không tìm thấy kết quả phù hợp cho <:keyword>,No exact match found for <:keyword> in English,英語で「<\:keyword>」に完全一致する結果は見つかりませんでした,
+,description,"Rất tiếc, chúng tôi không tìm thấy kết quả nào khớp với tìm kiếm của bạn. Vui lòng thử:","Sorry, we couldn’t find any results matching your search. Please try:",申し訳ありません。該当する結果が見つかりませんでした。以下をお試しください：,
+,try_action_1,Kiểm tra lại từ khóa đã nhập,Checking your spelling,スペルを確認してください,
+,try_action_2,Thử tìm kiếm với một cụm từ khác,Using different keywords,別のキーワードを試してください,
+,suggestion_title,Gợi ý cho bạn:,We have these words with similar spellings or pronunciations:,以下は、つづりや発音が似ている単語です：,
+dictionary.search_box,action_btn,Tìm kiếm,Search,検索,Screenshot 2025-05-07 at 09.26.12.png
+,placeholder,Bạn muốn tra từ gì?,Start typing any word or phrase,単語やフレーズを入力してください,Screenshot 2025-05-07 at 09.26.12.png
+,action_item,Xem chi tiết,View details,詳細を見る,
+,loading_placeholder,Đang tìm kiếm dữ liệu...,Searching...,検索中…,
+dictionary.word_detail,example,Ví dụ,Examples,例文,
+,n_examples,+{count} ví dụ,+{count} examples,*+{count} 件の例文,
+,different_pronunciation_action,Cách phát âm khác,Different pronunciation,発音違い,
+,casual_meaning_label,Nghĩa phổ thông,Casual meaning,カジュアルな意味,
+,quick_navigation.prefix_guide_word,với nghĩa,as,として,
+,report_label,Báo lỗi,Report,報告,
+,antonyms_label,Từ trái nghĩa,Antonyms,反意語,
+,synonyms_label,Từ đồng nghĩa,Synonyms,同義語,
+,share_label,Chia sẻ,Share,共有,
+,link_copied,Đã sao chép,Link copied,リンクをコピーしました,
+,share_via,Chia sẻ qua,Share via,次の方法で共有：,
+,or_copy_link,Hoặc sao chép đường dẫn,Or copy link,またはリンクをコピー,
+,collocation.label_tooltip,Các nhóm từ luôn kết hợp cùng nhau nhằm phản ánh cách diễn đạt tự nhiên của người bản xứ,"Words that naturally occur together in common combinations. (Fixed expressions or word pairs that sounds correct to people who have spoken the language all their lives, but might not be expected from the meaning)",自然に一緒に使われる単語の組み合わせのこと（ネイティブスピーカーにとっては自然に聞こえる固定表現や単語のペアで、意味からは予測しにくいこともある）,
+,audio.play_label,Nghe,Audio,音声,
+,audio.stop_label,Dừng,Stop,停止,
+,audio.you_spoke_label,Bạn đọc,You spoke,あなたの発話,
+,audio.prep_spoke_label,Prep đọc,Sample,サンプル,
+dictionary.word_detail.practice_prononciation,header_popup,Luyện tập phát âm,Practice pronunciation,発音練習,
+,press_to_record,Nhấn để bắt đầu ghi âm,Press to record,録音するには押してください,
+,remaining_time,Còn {remaining},{remaining} remaining,残り {remaining} 回,
+,recording_limit,Giới hạn ghi âm là {limit} giây,Recording limit is {limit}s,録音の上限は {limit} 秒です,
+,your_speech_will_be_processed,Hệ thống sẽ tự động xử lý bài nói của bạn,Your speech will be processed automatically,あなたの音声は自動的に処理されます,
+,marking_loading,Bài nói của bạn đang được xử lý. Hãy chờ chút nhé!,Your speech is being processed. Please wait a moment!,音声を処理中です。しばらくお待ちください,
+,not_granted_microphone_error_msg,Bạn chưa cấp quyền truy cập Microphone. Vui lòng cấp quyền truy cập tại Cài đặt nhé,You have not granted access to the Microphone. Please enable access in Settings,マイクへのアクセスが許可されていません。設定からアクセスを有効にしてください,
+,tap_to_show_detail,Nhấn vào từng từ để xem cách phát âm chi tiết,Tap on each word to see detailed pronunciation,各単語をタップすると詳細な発音が確認できます,
+,syllable,Âm tiết,Syllable,音節,
+,phonetic,Phiên âm,Phonetic,発音記号,
+,unclear,Không rõ,Unclear,不明瞭,
+,sound_like_ipa,Nghe như {ipa},Sounds like {ipa},{ipa} のように聞こえます,
+,marking_error_msg,"Rất tiếc, đã có lỗi xảy ra trong quá trình xử lý bài nói của bạn. Vui lòng thử lại sau!",Sorry! Something went wrong while processing your speech. Please try again later!,申し訳ありません！音声の処理中に問題が発生しました。時間をおいて再度お試しください。,
+,record_again_action,Ghi âm lại,Record again,もう一度録音,
+,try_again_action,Thử lại,Try again,再試行,
+,motivate_msg_high_score,Quá đỉnh! Bạn phát âm chuẩn rồi đấy!,Awesome! Your pronunciation is spot on!,素晴らしい！発音は完璧です！,
+,motivate_msg_medium_score,Tốt lắm! Tiếp tục phát huy nào!,Great job! Keep it up!,よくできました！その調子で続けましょう！,
+,motivate_msg_low_score,Cố gắng luyện tập thêm nhé!,Keep practicing to improve even more!,もっと上達するために練習を続けましょう！,
+,prononciation_result_label,Kết quả phát âm,Result,結果,
+,result_good_label,Tốt,Good,良い,
+,result_not_good_label,Cần cải thiện,Need improvement,改善の余地あり,

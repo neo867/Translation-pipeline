@@ -1,0 +1,202 @@
+[
+  {
+    "key": "checkout",
+    "english content": "Checkout"
+  },
+  {
+    "key": "pay_order",
+    "english content": "Order payment"
+  },
+  {
+    "key": "pending",
+    "english content": "Pending processing"
+  },
+  {
+    "key": "success",
+    "english content": "Payment successful"
+  },
+  {
+    "key": "failure",
+    "english content": "Payment failed"
+  },
+  {
+    "key": "unavailable",
+    "english content": "Unavailable"
+  },
+  {
+    "key": "info_notice",
+    "english content": "The course and all accompanying benefits will be added to this account after the payment process is successful!"
+  },
+  {
+    "key": "export_invoice",
+    "english content": "Issue Invoice"
+  },
+  {
+    "key": "invoice_company",
+    "english content": "Company"
+  },
+  {
+    "key": "invoice_personal",
+    "english content": "Individual"
+  },
+  {
+    "key": "invoice_buyer_name",
+    "english content": "Buyer's full name"
+  },
+  {
+    "key": "placeholder_invoice_buyer_name",
+    "english content": "Enter buyer's full name"
+  },
+  {
+    "key": "info_phone_number",
+    "english content": "Phone number"
+  },
+  {
+    "key": "placeholder_phone_number",
+    "english content": "Enter phone number"
+  },
+  {
+    "key": "placeholder_invoice_department",
+    "english content": "Enter department name"
+  },
+  {
+    "key": "placeholder_invoice_tax_number",
+    "english content": "Enter tax identification number"
+  },
+  {
+    "key": "placeholder_invoice_address",
+    "english content": "Enter address"
+  },
+  {
+    "key": "placeholder_invoice_receiver_email",
+    "english content": "Enter email for receiving the invoice"
+  },
+  {
+    "key": "error_invoice_department",
+    "english content": "Enter company name"
+  },
+  {
+    "key": "error_invoice_email",
+    "english content": "Please enter correct email format"
+  },
+  {
+    "key": "invoice_department",
+    "english content": "Name of department"
+  },
+  {
+    "key": "invoice_tax_number",
+    "english content": "Tax identification number"
+  },
+  {
+    "key": "invoice_address",
+    "english content": "Address"
+  },
+  {
+    "key": "invoice_receiver_email",
+    "english content": "Email for receiving the invoice"
+  },
+  {
+    "key": "continue_checkout",
+    "english content": "Continue to payment"
+  },
+  {
+    "key": "invalid_coupon",
+    "english content": "The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!"
+  },
+  {
+    "key": "product_unavailable",
+    "english content": "The product you selected has changed.<br />Please choose again or contact support staff for assistance!"
+  },
+  {
+    "key": "checkout",
+    "english content": "checkout"
+  },
+  {
+    "key": "return_shoppping",
+    "english content": "Return to shopping"
+  },
+  {
+    "key": "total_price",
+    "english content": "Total price"
+  },
+  {
+    "key": "promo",
+    "english content": "Promotion"
+  },
+  {
+    "key": "coupon_code",
+    "english content": "Coupon code"
+  },
+  {
+    "key": "coupon_code_placeholder",
+    "english content": "Enter coupon code"
+  },
+  {
+    "key": "discount_price_amount",
+    "english content": "Discounted price"
+  },
+  {
+    "key": "price_after_discount",
+    "english content": "Price after promotion"
+  },
+  {
+    "key": "x_people_used_course",
+    "english content": "More than {x} Prep students have used this roadmap"
+  },
+  {
+    "key": "product",
+    "english content": "Product"
+  },
+  {
+    "key": "select_promo",
+    "english content": "Select"
+  },
+  {
+    "key": "gifts",
+    "english content": "Included gift"
+  },
+  {
+    "key": "coupon_apply",
+    "english content": "Apply"
+  },
+  {
+    "key": "your_info",
+    "english content": "Your information"
+  },
+  {
+    "key": "select_1_discount",
+    "english content": "Select a promotional code"
+  },
+  {
+    "key": "no_promo_yet",
+    "english content": "No promotional code available"
+  },
+  {
+    "key": "empty_discount",
+    "english content": "Oops, there are currently no promotional programs for this product!"
+  },
+  {
+    "key": "consent_text",
+    "english content": "By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!"
+  },
+  {
+    "key": "discount_conflict_with_current_coupon",
+    "english content": "This promotion cannot be used simultaneously with the current coupon!"
+  },
+  {
+    "key": "coupon_apply_not_successfully",
+    "english content": "Coupon application failed"
+  },
+  {
+    "key": "coupon_apply_successfully",
+    "english content": "Coupon applied successfully!"
+  },
+  {
+    "key": "coupon_conflict_with_current_discount",
+    "english content": "This coupon cannot be used simultaneously with the current promotion!"
+  },
+  {
+    "key": "maximum_discount_limitation",
+    "english content": "Apply a maximum discount of {x}% on the order value"
+  }
+]

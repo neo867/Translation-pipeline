@@ -1,0 +1,51 @@
+﻿key,english content,kr content
+checkout,Checkout,결제
+pay_order,Order payment,주문 결제
+pending,Pending processing,처리 중
+success,Payment successful,결제 성공
+failure,Payment failed,결제 실패
+unavailable,Unavailable,이용 불가
+info_notice,The course and all accompanying benefits will be added to this account after the payment process is successful!,결제 절차가 성공적으로 완료되면 해당 과정과 모든 동반 혜택이 이 계정에 추가됩니다!
+export_invoice,Issue Invoice,송장 발급
+invoice_company,Company,회사
+invoice_personal,Individual,개인
+invoice_buyer_name,Buyer's full name,구매자 성명
+placeholder_invoice_buyer_name,Enter buyer's full name,구매자 성명 입력
+info_phone_number,Phone number,전화번호
+placeholder_phone_number,Enter phone number,전화번호 입력
+placeholder_invoice_department,Enter department name,학과 이름 입력
+placeholder_invoice_tax_number,Enter tax identification number,세금 식별 번호를 입력하십시오
+placeholder_invoice_address,Enter address,주소 입력
+placeholder_invoice_receiver_email,Enter email for receiving the invoice,invoice을(를) 받을 이메일을 입력하세요
+error_invoice_department,Enter company name,회사 이름 입력
+error_invoice_email,Please enter correct email format,올바른 이메일 형식을 입력하세요
+invoice_department,Name of department,학과 이름
+invoice_tax_number,Tax identification number,세무 식별 번호
+invoice_address,Address,주소
+invoice_receiver_email,Email for receiving the invoice,송장 수령용 이메일
+continue_checkout,Continue to payment,결제 계속하기
+invalid_coupon,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!,쿠폰 또는 프로모션 코드가 만료되었습니다.<br />다른 코드로 다시 시도하거나 코드 없이 결제를 계속하세요!
+product_unavailable,The product you selected has changed.<br />Please choose again or contact support staff for assistance!,선택한 제품이 변경되었습니다.<br />다시 선택하거나 지원 직원의 도움을 받으세요!
+checkout,checkout,결제
+return_shoppping,Return to shopping,쇼핑 계속하기
+total_price,Total price,총 가격
+promo,Promotion,프로모션
+coupon_code,Coupon code,쿠폰 코드
+coupon_code_placeholder,Enter coupon code,쿠폰 코드 입력
+discount_price_amount,Discounted price,할인 가격
+price_after_discount,Price after promotion,프로모션 후 가격
+x_people_used_course,More than {x} Prep students have used this roadmap,Prep 학생 {x}명 이상이 이 로드맵을 사용했습니다
+product,Product,제품
+select_promo,Select,선택
+gifts,Included gift,증정 상품
+coupon_apply,Apply,신청
+your_info,Your information,사용자 정보
+select_1_discount,Select a promotional code,프로모션 코드 선택
+no_promo_yet,No promotional code available,사용 가능한 프로모션 코드가 없습니다
+empty_discount,"Oops, there are currently no promotional programs for this product!","죄송합니다, 현재 이 제품에는 프로모션 프로그램이 없습니다!"
+consent_text,"By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!","<span>결제 계속하기</span>를 클릭하면, 귀하는 Prep의 <a>Terms and Conditions</a> 및 <a>Information security policy</a>를 읽었으며 이에 동의함을 확인합니다."
+discount_conflict_with_current_coupon,This promotion cannot be used simultaneously with the current coupon!,이 프로모션은 현재 쿠폰과 동시에 사용할 수 없습니다!
+coupon_apply_not_successfully,Coupon application failed,쿠폰 신청이 실패했습니다
+coupon_apply_successfully,Coupon applied successfully!,쿠폰이 적용되었습니다!
+coupon_conflict_with_current_discount,This coupon cannot be used simultaneously with the current promotion!,이 쿠폰은 현재 프로모션과 동시에 사용할 수 없습니다!
+maximum_discount_limitation,Apply a maximum discount of {x}% on the order value,주문 금액에 최대 {x}% 할인 적용

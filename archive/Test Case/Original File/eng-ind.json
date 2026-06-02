@@ -1,0 +1,4496 @@
+[
+  {
+    "lesson": "1",
+    "segment": 1,
+    "timestamp": "00:00:07,200 --> 00:00:09,360",
+    "source": "Hello everyone, and a big welcome to Prep.",
+    "target": "Halo kawan-kawan, dan selamat datang di Prep."
+  },
+  {
+    "lesson": "1",
+    "segment": 2,
+    "timestamp": "00:00:09,800 --> 00:00:12,280",
+    "source": "I'm so glad you're here for our basic grammar course.",
+    "target": "Saya sangat senang Anda berada di sini untuk kursus tata bahasa dasar kami."
+  },
+  {
+    "lesson": "1",
+    "segment": 3,
+    "timestamp": "00:00:12,760 --> 00:00:16,120",
+    "source": "This is where we're going to build the very foundation you'll need to really",
+    "target": "Di sinilah kita akan membangun fondasi yang Anda butuhkan untuk benar-benar"
+  },
+  {
+    "lesson": "1",
+    "segment": 4,
+    "timestamp": "00:00:16,186 --> 00:00:18,360",
+    "source": "conquer and master the English language.",
+    "target": "menaklukkan dan menguasai bahasa Inggris."
+  },
+  {
+    "lesson": "1",
+    "segment": 5,
+    "timestamp": "00:00:18,880 --> 00:00:22,480",
+    "source": "We've got quite a journey ahead of us, and I truly believe that getting to know",
+    "target": "Kita memiliki perjalanan yang cukup panjang di depan kita, dan saya benar-benar percaya bahwa saling mengenal"
+  },
+  {
+    "lesson": "1",
+    "segment": 6,
+    "timestamp": "00:00:22,546 --> 00:00:26,840",
+    "source": "each other a bit better will make this whole process smoother and more effective.",
+    "target": "lebih baik akan membuat seluruh proses ini lebih lancar dan efektif."
+  },
+  {
+    "lesson": "1",
+    "segment": 7,
+    "timestamp": "00:00:28,440 --> 00:00:32,720",
+    "source": "So in this very first video, let's take a little time to do a couple of things.",
+    "target": "Jadi, dalam video pertama ini, mari kita luangkan sedikit waktu untuk melakukan beberapa hal."
+  },
+  {
+    "lesson": "1",
+    "segment": 8,
+    "timestamp": "00:00:33,080 --> 00:00:36,574",
+    "source": "I'll walk you through the goals, the content, and the overall approach",
+    "target": "Saya akan memandu Anda melalui tujuan, konten, dan pendekatan keseluruhan"
+  },
+  {
+    "lesson": "1",
+    "segment": 9,
+    "timestamp": "00:00:36,640 --> 00:00:38,340",
+    "source": "we'll be taking in this course.",
+    "target": "yang akan kita ambil dalam kursus ini."
+  },
+  {
+    "lesson": "1",
+    "segment": 10,
+    "timestamp": "00:00:38,440 --> 00:00:42,214",
+    "source": "My hope is that by the end of the session, you'll have a really clear picture of what",
+    "target": "Harapan saya adalah bahwa di akhir sesi, Anda akan memiliki gambaran yang sangat jelas tentang apa"
+  },
+  {
+    "lesson": "1",
+    "segment": 11,
+    "timestamp": "00:00:42,280 --> 00:00:45,280",
+    "source": "lies ahead, and you'll feel comfortable with the team that's here to support",
+    "target": "yang ada di depan, dan Anda akan merasa nyaman dengan tim yang ada di sini untuk mendukung"
+  },
+  {
+    "lesson": "1",
+    "segment": 12,
+    "timestamp": "00:00:45,346 --> 00:00:47,480",
+    "source": "you every step of the way. Sound good?",
+    "target": "Anda di setiap langkah. Kedengarannya bagus?"
+  },
+  {
+    "lesson": "1",
+    "segment": 13,
+    "timestamp": "00:00:47,760 --> 00:00:48,920",
+    "source": "All right, let's dive in.",
+    "target": "Baiklah, mari kita mulai."
+  },
+  {
+    "lesson": "1",
+    "segment": 14,
+    "timestamp": "00:00:52,880 --> 00:00:57,040",
+    "source": "So this Basic Grammar course is a key part of Prep's foundational series.",
+    "target": "Jadi, kursus Tata Bahasa Dasar ini adalah bagian penting dari seri dasar Prep."
+  },
+  {
+    "lesson": "1",
+    "segment": 15,
+    "timestamp": "00:00:57,480 --> 00:01:01,414",
+    "source": "We've also got Basic Vocabulary, and together, these courses are designed",
+    "target": "Kami juga memiliki Kosakata Dasar, dan bersama-sama, kursus-kursus ini dirancang"
+  },
+  {
+    "lesson": "1",
+    "segment": 16,
+    "timestamp": "00:01:01,480 --> 00:01:05,000",
+    "source": "to give you a rock solid foundation in all the essential areas.",
+    "target": "untuk memberi Anda fondasi yang kokoh di semua bidang penting."
+  },
+  {
+    "lesson": "1",
+    "segment": 17,
+    "timestamp": "00:01:06,600 --> 00:01:11,574",
+    "source": "In this course, our specific goals are to: Make sure you can remember,",
+    "target": "Dalam kursus ini, tujuan spesifik kami adalah: Memastikan Anda dapat mengingat,"
+  },
+  {
+    "lesson": "1",
+    "segment": 18,
+    "timestamp": "00:01:11,640 --> 00:01:15,094",
+    "source": "truly understand, and confidently use some of the most common parts",
+    "target": "benar-benar memahami, dan dengan percaya diri menggunakan beberapa bagian"
+  },
+  {
+    "lesson": "1",
+    "segment": 19,
+    "timestamp": "00:01:15,160 --> 00:01:16,080",
+    "source": "of speech in English.",
+    "target": "kalimat yang paling umum dalam bahasa Inggris."
+  },
+  {
+    "lesson": "1",
+    "segment": 20,
+    "timestamp": "00:01:17,600 --> 00:01:21,040",
+    "source": "Get you completely comfortable with basic English sentence structure,",
+    "target": "Membuat Anda benar-benar nyaman dengan struktur kalimat dasar bahasa Inggris,"
+  },
+  {
+    "lesson": "1",
+    "segment": 21,
+    "timestamp": "00:01:21,240 --> 00:01:24,014",
+    "source": "how sentences are put together, and the different types",
+    "target": "bagaimana kalimat disusun, dan berbagai jenis"
+  },
+  {
+    "lesson": "1",
+    "segment": 22,
+    "timestamp": "00:01:24,080 --> 00:01:25,440",
+    "source": "of sentences you'll encounter.",
+    "target": "kalimat yang akan Anda temui."
+  },
+  {
+    "lesson": "1",
+    "segment": 23,
+    "timestamp": "00:01:26,360 --> 00:01:29,800",
+    "source": "Help you master the simple tenses, past, present, and future.",
+    "target": "Membantu Anda menguasai tenses sederhana, masa lalu, masa kini, dan masa depan."
+  },
+  {
+    "lesson": "1",
+    "segment": 24,
+    "timestamp": "00:01:30,200 --> 00:01:31,680",
+    "source": "We'll really nail those down.",
+    "target": "Kita akan benar-benar menguasainya."
+  },
+  {
+    "lesson": "1",
+    "segment": 25,
+    "timestamp": "00:01:32,160 --> 00:01:35,600",
+    "source": "And finally, get you started with creating your own basic sentences",
+    "target": "Dan akhirnya, membantu Anda memulai membuat kalimat dasar Anda sendiri"
+  },
+  {
+    "lesson": "1",
+    "segment": 26,
+    "timestamp": "00:01:35,920 --> 00:01:37,360",
+    "source": "that are grammatically correct.",
+    "target": "yang benar secara tata bahasa."
+  },
+  {
+    "lesson": "1",
+    "segment": 27,
+    "timestamp": "00:01:39,800 --> 00:01:43,334",
+    "source": "The course is structured into six main lessons, and each one focuses",
+    "target": "Kursus ini terstruktur menjadi enam pelajaran utama, dan masing-masing berfokus"
+  },
+  {
+    "lesson": "1",
+    "segment": 28,
+    "timestamp": "00:01:43,400 --> 00:01:44,760",
+    "source": "on a core grammar topic.",
+    "target": "pada topik tata bahasa inti."
+  },
+  {
+    "lesson": "1",
+    "segment": 29,
+    "timestamp": "00:01:45,160 --> 00:01:49,240",
+    "source": "Within each lesson, you'll find 2-4 smaller lessons or sections.",
+    "target": "Di dalam setiap pelajaran, Anda akan menemukan 2-4 pelajaran atau bagian yang lebih kecil."
+  },
+  {
+    "lesson": "1",
+    "segment": 30,
+    "timestamp": "00:01:50,000 --> 00:01:54,334",
+    "source": "That adds up to 23 lessons in total, and each one is carefully designed",
+    "target": "Itu berjumlah 23 pelajaran secara total, dan masing-masing dirancang dengan cermat"
+  },
+  {
+    "lesson": "1",
+    "segment": 31,
+    "timestamp": "00:01:54,400 --> 00:01:58,880",
+    "source": "to cover the three crucial aspects of any grammar point: how it's used,",
+    "target": "untuk mencakup tiga aspek penting dari setiap poin tata bahasa: bagaimana penggunaannya,"
+  },
+  {
+    "lesson": "1",
+    "segment": 32,
+    "timestamp": "00:01:59,080 --> 00:02:00,960",
+    "source": "its form, and what it means.",
+    "target": "bentuknya, dan artinya."
+  },
+  {
+    "lesson": "1",
+    "segment": 33,
+    "timestamp": "00:02:03,000 --> 00:02:06,800",
+    "source": "So throughout this course, we'll be exploring, nouns, verbs,",
+    "target": "Jadi sepanjang kursus ini, kita akan mengeksplorasi kata benda, kata kerja,"
+  },
+  {
+    "lesson": "1",
+    "segment": 34,
+    "timestamp": "00:02:07,240 --> 00:02:11,334",
+    "source": "adjectives and adverbs, pronouns, prepositions, and of course,",
+    "target": "kata sifat dan kata keterangan, kata ganti, preposisi, dan tentu saja,"
+  },
+  {
+    "lesson": "1",
+    "segment": 35,
+    "timestamp": "00:02:11,400 --> 00:02:12,680",
+    "source": "basic sentence structure.",
+    "target": "struktur kalimat dasar."
+  },
+  {
+    "lesson": "1",
+    "segment": 36,
+    "timestamp": "00:02:13,200 --> 00:02:14,960",
+    "source": "Now, I want to be upfront about something.",
+    "target": "Sekarang, saya ingin berterus terang tentang sesuatu."
+  },
+  {
+    "lesson": "1",
+    "segment": 37,
+    "timestamp": "00:02:15,480 --> 00:02:18,920",
+    "source": "This course isn't meant to cover every single detail of English grammar.",
+    "target": "Kursus ini tidak dimaksudkan untuk mencakup setiap detail tata bahasa Inggris."
+  },
+  {
+    "lesson": "1",
+    "segment": 38,
+    "timestamp": "00:02:19,480 --> 00:02:23,160",
+    "source": "There are some pretty complex areas that really require a strong foundation",
+    "target": "Ada beberapa area yang cukup kompleks yang benar-benar membutuhkan fondasi yang kuat"
+  },
+  {
+    "lesson": "1",
+    "segment": 39,
+    "timestamp": "00:02:23,360 --> 00:02:26,880",
+    "source": "in pronunciation and vocabulary before you can tackle them effectively.",
+    "target": "dalam pengucapan dan kosakata sebelum Anda dapat menanganinya secara efektif."
+  },
+  {
+    "lesson": "1",
+    "segment": 40,
+    "timestamp": "00:02:27,320 --> 00:02:31,440",
+    "source": "We'll save those more advanced topics for our intermediate and advanced courses.",
+    "target": "Kami akan menyimpan topik-topik lanjutan tersebut untuk kursus menengah dan lanjutan kami."
+  },
+  {
+    "lesson": "1",
+    "segment": 41,
+    "timestamp": "00:02:31,520 --> 00:02:34,680",
+    "source": "The key here is to focus on quality over quantity.",
+    "target": "Kuncinya di sini adalah fokus pada kualitas daripada kuantitas."
+  },
+  {
+    "lesson": "1",
+    "segment": 42,
+    "timestamp": "00:02:35,080 --> 00:02:38,094",
+    "source": "We're going to go deep, make sure you truly understand,",
+    "target": "Kami akan membahasnya secara mendalam, memastikan Anda benar-benar memahami,"
+  },
+  {
+    "lesson": "1",
+    "segment": 43,
+    "timestamp": "00:02:38,160 --> 00:02:39,880",
+    "source": "and build skills that will last.",
+    "target": "dan membangun keterampilan yang akan bertahan lama."
+  },
+  {
+    "lesson": "1",
+    "segment": 44,
+    "timestamp": "00:02:41,960 --> 00:02:44,614",
+    "source": "You'll notice that our approach here at Prep is a little different",
+    "target": "Anda akan menyadari bahwa pendekatan kami di Prep sedikit berbeda"
+  },
+  {
+    "lesson": "1",
+    "segment": 45,
+    "timestamp": "00:02:44,680 --> 00:02:46,200",
+    "source": "from traditional grammar classes.",
+    "target": "dari kelas tata bahasa tradisional."
+  },
+  {
+    "lesson": "1",
+    "segment": 46,
+    "timestamp": "00:02:46,600 --> 00:02:49,960",
+    "source": "We're all about empowering you to become active independent learners.",
+    "target": "Kami berfokus pada pemberdayaan Anda untuk menjadi pembelajar mandiri yang aktif."
+  },
+  {
+    "lesson": "1",
+    "segment": 47,
+    "timestamp": "00:02:50,360 --> 00:02:53,360",
+    "source": "We want you to develop the skills to continue improving your English",
+    "target": "Kami ingin Anda mengembangkan keterampilan untuk terus meningkatkan kemampuan bahasa Inggris Anda"
+  },
+  {
+    "lesson": "1",
+    "segment": 48,
+    "timestamp": "00:02:53,560 --> 00:02:55,320",
+    "source": "even after this course is over.",
+    "target": "bahkan setelah kursus ini selesai."
+  },
+  {
+    "lesson": "1",
+    "segment": 49,
+    "timestamp": "00:02:55,760 --> 00:02:59,574",
+    "source": "So instead of just throwing a bunch of grammar rules at you, we'll be using",
+    "target": "Jadi, alih-alih hanya memberikan banyak aturan tata bahasa kepada Anda, kami akan menggunakan"
+  },
+  {
+    "lesson": "1",
+    "segment": 50,
+    "timestamp": "00:02:59,640 --> 00:03:01,520",
+    "source": "a method called Guided Discovery.",
+    "target": "metode yang disebut Penemuan Terbimbing."
+  },
+  {
+    "lesson": "1",
+    "segment": 51,
+    "timestamp": "00:03:01,920 --> 00:03:06,200",
+    "source": "Think of it as actively exploring the language with a little guidance from me.",
+    "target": "Anggap saja sebagai eksplorasi aktif bahasa dengan sedikit bimbingan dari saya."
+  },
+  {
+    "lesson": "1",
+    "segment": 52,
+    "timestamp": "00:03:06,720 --> 00:03:07,760",
+    "source": "Here's how it works.",
+    "target": "Begini cara kerjanya."
+  },
+  {
+    "lesson": "1",
+    "segment": 53,
+    "timestamp": "00:03:08,120 --> 00:03:10,240",
+    "source": "I won't just lecture you with a list of rules.",
+    "target": "Saya tidak hanya akan memberi Anda ceramah dengan daftar aturan."
+  },
+  {
+    "lesson": "1",
+    "segment": 54,
+    "timestamp": "00:03:10,680 --> 00:03:15,360",
+    "source": "Instead, I'll present you with real-life situations, examples, and exercises.",
+    "target": "Sebaliknya, saya akan menyajikan situasi kehidupan nyata, contoh, dan latihan."
+  },
+  {
+    "lesson": "1",
+    "segment": 55,
+    "timestamp": "00:03:15,960 --> 00:03:18,600",
+    "source": "You'll have all the context and information you need to figure",
+    "target": "Anda akan memiliki semua konteks dan informasi yang Anda butuhkan untuk memahaminya"
+  },
+  {
+    "lesson": "1",
+    "segment": 56,
+    "timestamp": "00:03:18,666 --> 00:03:19,970",
+    "source": "things out for yourselves.",
+    "target": "sendiri."
+  },
+  {
+    "lesson": "1",
+    "segment": 57,
+    "timestamp": "00:03:20,040 --> 00:03:23,240",
+    "source": "This is incredibly powerful because it leads to deeper understanding,",
+    "target": "Metode ini sangat ampuh karena mengarah pada pemahaman yang lebih dalam,"
+  },
+  {
+    "lesson": "1",
+    "segment": 58,
+    "timestamp": "00:03:23,480 --> 00:03:27,400",
+    "source": "better retention, and makes it much easier to actually use what you're learning.",
+    "target": "daya ingat yang lebih baik, dan membuat penggunaan pengetahuan yang Anda pelajari menjadi jauh lebih mudah."
+  },
+  {
+    "lesson": "1",
+    "segment": 59,
+    "timestamp": "00:03:27,840 --> 00:03:29,880",
+    "source": "Of course, after you've had a chance to explore,",
+    "target": "​​Tentu saja, setelah Anda memiliki kesempatan untuk mengeksplorasi,"
+  },
+  {
+    "lesson": "1",
+    "segment": 60,
+    "timestamp": "00:03:30,000 --> 00:03:33,040",
+    "source": "I'll always step in to summarize and organize the information",
+    "target": "saya akan selalu turun tangan untuk meringkas dan mengatur informasi"
+  },
+  {
+    "lesson": "1",
+    "segment": 61,
+    "timestamp": "00:03:33,360 --> 00:03:34,880",
+    "source": "in a clear, logical way.",
+    "target": "dengan cara yang jelas dan logis."
+  },
+  {
+    "lesson": "1",
+    "segment": 62,
+    "timestamp": "00:03:36,840 --> 00:03:40,854",
+    "source": "This guided discovery method is all about getting to the heart of the language and",
+    "target": "Metode penemuan terbimbing ini bertujuan untuk memahami inti bahasa dan"
+  },
+  {
+    "lesson": "1",
+    "segment": 63,
+    "timestamp": "00:03:40,920 --> 00:03:42,760",
+    "source": "developing your critical thinking skills.",
+    "target": "mengembangkan kemampuan berpikir kritis Anda."
+  },
+  {
+    "lesson": "1",
+    "segment": 64,
+    "timestamp": "00:03:43,240 --> 00:03:46,000",
+    "source": "It's a long-term investment, and It's not just for English.",
+    "target": "Ini adalah investasi jangka panjang, dan bukan hanya untuk bahasa Inggris."
+  },
+  {
+    "lesson": "1",
+    "segment": 65,
+    "timestamp": "00:03:46,320 --> 00:03:49,840",
+    "source": "It'll help you become a better learner in all areas of your life.",
+    "target": "Ini akan membantu Anda menjadi pembelajar yang lebih baik di semua bidang kehidupan Anda."
+  },
+  {
+    "lesson": "1",
+    "segment": 66,
+    "timestamp": "00:03:50,280 --> 00:03:54,054",
+    "source": "I know the explanations might seem a bit lengthy at times, but I really",
+    "target": "Saya tahu penjelasannya mungkin tampak agak panjang, tetapi saya sangat"
+  },
+  {
+    "lesson": "1",
+    "segment": 67,
+    "timestamp": "00:03:54,120 --> 00:03:55,800",
+    "source": "encourage you to stick with this method.",
+    "target": "mendorong Anda untuk tetap menggunakan metode ini."
+  },
+  {
+    "lesson": "1",
+    "segment": 68,
+    "timestamp": "00:03:56,240 --> 00:03:58,840",
+    "source": "The long term benefits are absolutely worth it.",
+    "target": "Manfaat jangka panjangnya benar-benar sepadan."
+  },
+  {
+    "lesson": "1",
+    "segment": 69,
+    "timestamp": "00:03:59,200 --> 00:04:02,480",
+    "source": "I've personally used Guided Discovery throughout my own language learning",
+    "target": "Saya pribadi telah menggunakan Penemuan Terbimbing sepanjang"
+  },
+  {
+    "lesson": "1",
+    "segment": 70,
+    "timestamp": "00:04:02,546 --> 00:04:05,480",
+    "source": "journey, and I've seen the results firsthand, so I know it works.",
+    "target": "perjalanan belajar bahasa saya sendiri, dan saya telah melihat hasilnya secara langsung, jadi saya tahu metode ini berhasil."
+  },
+  {
+    "lesson": "1",
+    "segment": 71,
+    "timestamp": "00:04:06,920 --> 00:04:09,080",
+    "source": "Okay, that's a quick overview to get us started.",
+    "target": "Oke, itu gambaran singkat untuk memulai."
+  },
+  {
+    "lesson": "1",
+    "segment": 72,
+    "timestamp": "00:04:09,480 --> 00:04:12,000",
+    "source": "We'll have plenty of time to get to know each other better as we",
+    "target": "Kita akan punya banyak waktu untuk saling mengenal lebih baik saat kita"
+  },
+  {
+    "lesson": "1",
+    "segment": 73,
+    "timestamp": "00:04:12,066 --> 00:04:13,250",
+    "source": "work through the course.",
+    "target": "mengikuti kursus ini."
+  },
+  {
+    "lesson": "1",
+    "segment": 74,
+    "timestamp": "00:04:13,320 --> 00:04:16,440",
+    "source": "I'm really excited to be on this journey with you, and I'm confident",
+    "target": "Saya sangat senang bisa berada dalam perjalanan ini bersama Anda, dan saya yakin"
+  },
+  {
+    "lesson": "1",
+    "segment": 75,
+    "timestamp": "00:04:16,760 --> 00:04:20,840",
+    "source": "that with the Guided Discovery approach, you'll build a strong grammar foundation",
+    "target": "dengan pendekatan Guided Discovery, Anda akan membangun fondasi tata bahasa yang kuat"
+  },
+  {
+    "lesson": "1",
+    "segment": 76,
+    "timestamp": "00:04:21,080 --> 00:04:23,880",
+    "source": "and develop some incredibly valuable learning skills.",
+    "target": "dan mengembangkan beberapa keterampilan belajar yang sangat berharga."
+  },
+  {
+    "lesson": "1",
+    "segment": 77,
+    "timestamp": "00:04:24,480 --> 00:04:26,800",
+    "source": "Thanks for watching, and I'll see you in the next lesson.",
+    "target": "Terima kasih telah menonton, dan sampai jumpa di pelajaran berikutnya."
+  },
+  {
+    "lesson": "2",
+    "segment": 1,
+    "timestamp": "00:00:07,200 --> 00:00:09,574",
+    "source": "Hey there, it's me. Hey, everyone.",
+    "target": "Hai, kawan-kawan. Kembali lagi bersama saya."
+  },
+  {
+    "lesson": "2",
+    "segment": 2,
+    "timestamp": "00:00:09,640 --> 00:00:11,574",
+    "source": "Welcome back to Basic English Grammar with me.",
+    "target": "Selamat datang kembali di pelajaran Tata Bahasa Inggris Dasar."
+  },
+  {
+    "lesson": "2",
+    "segment": 3,
+    "timestamp": "00:00:11,640 --> 00:00:13,890",
+    "source": "I'll be your guide throughout this learning journey.",
+    "target": "Saya akan menjadi pemandu Anda sepanjang perjalanan belajar ini."
+  },
+  {
+    "lesson": "2",
+    "segment": 4,
+    "timestamp": "00:00:13,960 --> 00:00:17,614",
+    "source": "Let's warm up with something fundamental yet crucial, the basic",
+    "target": "Mari kita mulai dengan sesuatu yang mendasar namun penting,"
+  },
+  {
+    "lesson": "2",
+    "segment": 5,
+    "timestamp": "00:00:17,680 --> 00:00:19,320",
+    "source": "structure of an English sentence.",
+    "target": "struktur dasar kalimat bahasa Inggris."
+  },
+  {
+    "lesson": "2",
+    "segment": 6,
+    "timestamp": "00:00:20,200 --> 00:00:23,400",
+    "source": "The goal of this lesson isn't anything too ambitious.",
+    "target": "Tujuan pelajaran ini tidak terlalu ambisius."
+  },
+  {
+    "lesson": "2",
+    "segment": 7,
+    "timestamp": "00:00:23,880 --> 00:00:26,000",
+    "source": "We simply want to:",
+    "target": "Kita hanya ingin:"
+  },
+  {
+    "lesson": "2",
+    "segment": 8,
+    "timestamp": "00:00:26,100 --> 00:00:29,064",
+    "source": "Familiarize ourselves with the basic English sentence structure",
+    "target": "Mengenal struktur kalimat bahasa Inggris dasar"
+  },
+  {
+    "lesson": "2",
+    "segment": 9,
+    "timestamp": "00:00:29,120 --> 00:00:31,880",
+    "source": "Distinguish the different parts of a basic English sentence.",
+    "target": "Membedakan berbagai bagian kalimat bahasa Inggris dasar."
+  },
+  {
+    "lesson": "2",
+    "segment": 10,
+    "timestamp": "00:00:32,400 --> 00:00:35,640",
+    "source": "Of course, since we haven't explored English parts of speech yet,",
+    "target": "Tentu saja, karena kita belum mempelajari bagian-bagian kalimat bahasa Inggris,"
+  },
+  {
+    "lesson": "2",
+    "segment": 11,
+    "timestamp": "00:00:35,800 --> 00:00:38,720",
+    "source": "this lesson will focus on the most fundamental concepts.",
+    "target": "pelajaran ini akan fokus pada konsep-konsep yang paling mendasar."
+  },
+  {
+    "lesson": "2",
+    "segment": 12,
+    "timestamp": "00:00:40,160 --> 00:00:43,200",
+    "source": "Towards the end of the course, we'll revisit sentence structure,",
+    "target": "Menjelang akhir kursus, kita akan meninjau kembali struktur kalimat,"
+  },
+  {
+    "lesson": "2",
+    "segment": 13,
+    "timestamp": "00:00:43,600 --> 00:00:47,414",
+    "source": "expanding upon it and integrating everything we've learned to establish",
+    "target": "memperluasnya dan mengintegrasikan semua yang telah kita pelajari untuk membangun"
+  },
+  {
+    "lesson": "2",
+    "segment": 14,
+    "timestamp": "00:00:47,480 --> 00:00:51,374",
+    "source": "a framework, a foundation upon which we can build more complex sentence",
+    "target": "kerangka kerja, fondasi yang dapat kita gunakan untuk membangun"
+  },
+  {
+    "lesson": "2",
+    "segment": 15,
+    "timestamp": "00:00:51,440 --> 00:00:53,760",
+    "source": "elements and create a complete picture.",
+    "target": "elemen kalimat yang lebih kompleks dan menciptakan gambaran yang lengkap."
+  },
+  {
+    "lesson": "2",
+    "segment": 16,
+    "timestamp": "00:00:54,280 --> 00:00:55,840",
+    "source": "Let's dive into the content.",
+    "target": "Mari kita selami isinya."
+  },
+  {
+    "lesson": "2",
+    "segment": 17,
+    "timestamp": "00:00:59,400 --> 00:01:03,840",
+    "source": "This lesson explores the core components of an English sentence, S, V, and O.",
+    "target": "Pelajaran ini mengeksplorasi komponen inti kalimat bahasa Inggris, S, V, dan O."
+  },
+  {
+    "lesson": "2",
+    "segment": 18,
+    "timestamp": "00:01:04,200 --> 00:01:07,880",
+    "source": "What are these elements, and what roles do they play in constructing meaning?",
+    "target": "Apa saja elemen-elemen ini, dan apa peran mereka dalam membangun makna?"
+  },
+  {
+    "lesson": "2",
+    "segment": 19,
+    "timestamp": "00:01:08,240 --> 00:01:12,414",
+    "source": "Let's begin by examining one of the simplest, yet most powerful English",
+    "target": "Mari kita mulai dengan memeriksa salah satu kalimat bahasa Inggris yang paling sederhana, namun paling ampuh"
+  },
+  {
+    "lesson": "2",
+    "segment": 20,
+    "timestamp": "00:01:12,480 --> 00:01:16,040",
+    "source": "sentences to illustrate these concepts. I love you.",
+    "target": "untuk mengilustrasikan konsep-konsep ini. Aku mencintaimu."
+  },
+  {
+    "lesson": "2",
+    "segment": 21,
+    "timestamp": "00:01:16,440 --> 00:01:19,480",
+    "source": "We've all seen and heard this sentence, and many want to hear it, too.",
+    "target": "Kita semua pernah melihat dan mendengar kalimat ini, dan banyak yang ingin mendengarnya juga."
+  },
+  {
+    "lesson": "2",
+    "segment": 22,
+    "timestamp": "00:01:19,880 --> 00:01:21,320",
+    "source": "But what makes up this sentence?",
+    "target": "Tapi apa yang membentuk kalimat ini?"
+  },
+  {
+    "lesson": "2",
+    "segment": 23,
+    "timestamp": "00:01:21,720 --> 00:01:25,800",
+    "source": "In this sentence, \"I\" functions as the subject, abbreviated as S.",
+    "target": "Dalam kalimat ini, \"Saya\" berfungsi sebagai subjek, disingkat S."
+  },
+  {
+    "lesson": "2",
+    "segment": 24,
+    "timestamp": "00:01:26,200 --> 00:01:29,934",
+    "source": "The subject identifies who or what performs the action or is being",
+    "target": "Subjek mengidentifikasi siapa atau apa yang melakukan tindakan atau yang sedang"
+  },
+  {
+    "lesson": "2",
+    "segment": 25,
+    "timestamp": "00:01:30,000 --> 00:01:31,080",
+    "source": "described in the sentence.",
+    "target": "dijelaskan dalam kalimat."
+  },
+  {
+    "lesson": "2",
+    "segment": 26,
+    "timestamp": "00:01:31,200 --> 00:01:38,120",
+    "source": "A subject can be a person, an object, an animal, an event or phenomenon, a concept.",
+    "target": "Subjek dapat berupa orang, objek, hewan, peristiwa atau fenomena, konsep."
+  },
+  {
+    "lesson": "2",
+    "segment": 27,
+    "timestamp": "00:01:38,520 --> 00:01:42,014",
+    "source": "It usually appears at the beginning of the sentence and is an almost",
+    "target": "Biasanya muncul di awal kalimat dan merupakan"
+  },
+  {
+    "lesson": "2",
+    "segment": 28,
+    "timestamp": "00:01:42,080 --> 00:01:45,400",
+    "source": "indispensable part of a grammatically correct English sentence.",
+    "target": "bagian yang hampir tak terpisahkan dari kalimat bahasa Inggris yang benar secara tata bahasa."
+  },
+  {
+    "lesson": "2",
+    "segment": 29,
+    "timestamp": "00:01:47,240 --> 00:01:49,760",
+    "source": "Next to \"I\" is \"love\", meaning \"to love\".",
+    "target": "Di sebelah \"Saya\" adalah \"cinta\", yang berarti \"mencintai\"."
+  },
+  {
+    "lesson": "2",
+    "segment": 30,
+    "timestamp": "00:01:50,120 --> 00:01:52,720",
+    "source": "What does this word describe in the sentence, or what does",
+    "target": "Apa yang dijelaskan kata ini dalam kalimat, atau apa yang"
+  },
+  {
+    "lesson": "2",
+    "segment": 31,
+    "timestamp": "00:01:52,786 --> 00:01:54,960",
+    "source": "it tell us about the subject? Exactly.",
+    "target": "diceritakannya tentang subjek? Tepat sekali."
+  },
+  {
+    "lesson": "2",
+    "segment": 32,
+    "timestamp": "00:01:55,320 --> 00:01:57,680",
+    "source": "It indicates the action performed by the subject.",
+    "target": "Kata ini menunjukkan tindakan yang dilakukan oleh subjek."
+  },
+  {
+    "lesson": "2",
+    "segment": 33,
+    "timestamp": "00:01:58,040 --> 00:02:01,600",
+    "source": "In English, this is called the verb, often abbreviated as V.",
+    "target": "Dalam bahasa Inggris, ini disebut kata kerja, sering disingkat V."
+  },
+  {
+    "lesson": "2",
+    "segment": 34,
+    "timestamp": "00:02:02,040 --> 00:02:04,640",
+    "source": "English verbs have different types, forms, and tenses.",
+    "target": "Kata kerja bahasa Inggris memiliki berbagai jenis, bentuk, dan kala."
+  },
+  {
+    "lesson": "2",
+    "segment": 35,
+    "timestamp": "00:02:05,120 --> 00:02:08,920",
+    "source": "They change depending on who is doing the action and when the action happens.",
+    "target": "Kata kerja berubah tergantung pada siapa yang melakukan tindakan dan kapan tindakan itu terjadi."
+  },
+  {
+    "lesson": "2",
+    "segment": 36,
+    "timestamp": "00:02:09,400 --> 00:02:11,880",
+    "source": "We'll explore this concept further throughout the course.",
+    "target": "Kita akan mengeksplorasi konsep ini lebih lanjut sepanjang kursus ini."
+  },
+  {
+    "lesson": "2",
+    "segment": 37,
+    "timestamp": "00:02:12,400 --> 00:02:16,920",
+    "source": "However, regardless of its form, the verb is a mandatory element in a sentence.",
+    "target": "Namun, terlepas dari bentuknya, kata kerja adalah elemen wajib dalam sebuah kalimat."
+  },
+  {
+    "lesson": "2",
+    "segment": 38,
+    "timestamp": "00:02:17,360 --> 00:02:20,560",
+    "source": "Without it, the sentence would be incomplete or even meaningless.",
+    "target": "Tanpa itu, kalimat akan tidak lengkap atau bahkan tidak bermakna."
+  },
+  {
+    "lesson": "2",
+    "segment": 39,
+    "timestamp": "00:02:21,040 --> 00:02:24,920",
+    "source": "There are sentence types that might omit the subject, which we'll cover later,",
+    "target": "Ada beberapa tipe kalimat yang mungkin mengeliminasi subjek, yang akan kita bahas nanti,"
+  },
+  {
+    "lesson": "2",
+    "segment": 40,
+    "timestamp": "00:02:25,200 --> 00:02:27,480",
+    "source": "but the verb is absolutely essential.",
+    "target": "tetapi kata kerja mutlak diperlukan."
+  },
+  {
+    "lesson": "2",
+    "segment": 41,
+    "timestamp": "00:02:29,520 --> 00:02:30,640",
+    "source": "Next, we have \"you\".",
+    "target": "Selanjutnya, kita memiliki \"kamu\"."
+  },
+  {
+    "lesson": "2",
+    "segment": 42,
+    "timestamp": "00:02:30,960 --> 00:02:33,480",
+    "source": "What's its role in this sentence? Correct.",
+    "target": "Apa perannya dalam kalimat ini? Benar."
+  },
+  {
+    "lesson": "2",
+    "segment": 43,
+    "timestamp": "00:02:33,800 --> 00:02:37,600",
+    "source": "It's the object of the verb \"love\", the person or thing being loved.",
+    "target": "Itu adalah objek dari kata kerja \"cinta\", orang atau benda yang dicintai."
+  },
+  {
+    "lesson": "2",
+    "segment": 44,
+    "timestamp": "00:02:37,920 --> 00:02:41,120",
+    "source": "\"You\" here acts as the object, often symbolized by O.",
+    "target": "\"Kamu\" di sini bertindak sebagai objek, sering disimbolkan dengan O."
+  },
+  {
+    "lesson": "2",
+    "segment": 45,
+    "timestamp": "00:02:41,560 --> 00:02:46,000",
+    "source": "Similar to the subject, an object can be a person, an object,",
+    "target": "Mirip dengan subjek, objek dapat berupa orang, benda,"
+  },
+  {
+    "lesson": "2",
+    "segment": 46,
+    "timestamp": "00:02:46,067 --> 00:02:49,400",
+    "source": "an animal, an event or phenomenon, a concept.",
+    "target": "hewan, peristiwa atau fenomena, konsep."
+  },
+  {
+    "lesson": "2",
+    "segment": 47,
+    "timestamp": "00:02:49,800 --> 00:02:53,494",
+    "source": "Unlike the subject, which is almost always required, the object may",
+    "target": "Tidak seperti subjek, yang hampir selalu diperlukan, objek mungkin"
+  },
+  {
+    "lesson": "2",
+    "segment": 48,
+    "timestamp": "00:02:53,560 --> 00:02:54,680",
+    "source": "or may not be present.",
+    "target": "ada atau tidak."
+  },
+  {
+    "lesson": "2",
+    "segment": 49,
+    "timestamp": "00:02:55,080 --> 00:02:59,000",
+    "source": "Its presence depends on whether the verb needs an object to complete its meaning.",
+    "target": "Kehadirannya bergantung pada apakah kata kerja membutuhkan objek untuk melengkapi maknanya."
+  },
+  {
+    "lesson": "2",
+    "segment": 50,
+    "timestamp": "00:03:01,000 --> 00:03:03,960",
+    "source": "In other words, the object's appearance isn't mandatory.",
+    "target": "Dengan kata lain, kehadiran objek tidak wajib."
+  },
+  {
+    "lesson": "2",
+    "segment": 51,
+    "timestamp": "00:03:04,200 --> 00:03:06,360",
+    "source": "It's determined by the type of verb we use.",
+    "target": "Itu ditentukan oleh jenis kata kerja yang kita gunakan."
+  },
+  {
+    "lesson": "2",
+    "segment": 52,
+    "timestamp": "00:03:06,760 --> 00:03:09,320",
+    "source": "Some verbs are complete on their own, like I walk.",
+    "target": "Beberapa kata kerja lengkap dengan sendirinya, seperti \"Saya berjalan\"."
+  },
+  {
+    "lesson": "2",
+    "segment": 53,
+    "timestamp": "00:03:09,840 --> 00:03:12,720",
+    "source": "This sentence is complete and meaningful without an object.",
+    "target": "Kalimat ini lengkap dan bermakna tanpa objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 54,
+    "timestamp": "00:03:13,080 --> 00:03:15,680",
+    "source": "Adding more words would only expand upon its meaning.",
+    "target": "Menambahkan lebih banyak kata hanya akan memperluas maknanya."
+  },
+  {
+    "lesson": "2",
+    "segment": 55,
+    "timestamp": "00:03:16,120 --> 00:03:18,280",
+    "source": "However, some verbs require an object.",
+    "target": "Namun, beberapa kata kerja membutuhkan objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 56,
+    "timestamp": "00:03:18,480 --> 00:03:22,120",
+    "source": "Otherwise, the sentence would be incomplete, like our example, \"I love you\".",
+    "target": "Jika tidak, kalimat akan tidak lengkap, seperti contoh kita, \"Aku mencintaimu\"."
+  },
+  {
+    "lesson": "2",
+    "segment": 57,
+    "timestamp": "00:03:22,520 --> 00:03:26,360",
+    "source": "\"I love\" by itself is incomplete and needs the \"you\" to be grammatically",
+    "target": "\"Aku mencintai\" dengan sendirinya tidak lengkap dan membutuhkan \"kamu\" agar"
+  },
+  {
+    "lesson": "2",
+    "segment": 58,
+    "timestamp": "00:03:26,480 --> 00:03:27,960",
+    "source": "and semantically correct.",
+    "target": "benar secara tata bahasa dan semantik."
+  },
+  {
+    "lesson": "2",
+    "segment": 59,
+    "timestamp": "00:03:28,320 --> 00:03:31,720",
+    "source": "Everyone keep in mind, if a verb doesn't take an object, that's fine.",
+    "target": "Ingatlah, jika sebuah kata kerja tidak memiliki objek, tidak apa-apa."
+  },
+  {
+    "lesson": "2",
+    "segment": 60,
+    "timestamp": "00:03:32,120 --> 00:03:35,334",
+    "source": "But if it does, the object sticks close, appearing right next",
+    "target": "Tetapi jika memiliki objek, objek tersebut akan tetap berada di dekatnya, muncul tepat di sebelah"
+  },
+  {
+    "lesson": "2",
+    "segment": 61,
+    "timestamp": "00:03:35,400 --> 00:03:36,930",
+    "source": "to the verb it compliments.",
+    "target": "kata kerja yang dilengkapinya."
+  },
+  {
+    "lesson": "2",
+    "segment": 62,
+    "timestamp": "00:03:37,000 --> 00:03:39,600",
+    "source": "We'll learn more about types of verbs in a later lesson.",
+    "target": "Kita akan mempelajari lebih lanjut tentang jenis-jenis kata kerja di pelajaran selanjutnya."
+  },
+  {
+    "lesson": "2",
+    "segment": 63,
+    "timestamp": "00:03:44,000 --> 00:03:44,920",
+    "source": "Let's practice.",
+    "target": "Mari berlatih."
+  },
+  {
+    "lesson": "2",
+    "segment": 64,
+    "timestamp": "00:03:45,200 --> 00:03:49,774",
+    "source": "I'll present a series of English sentences using the sentence structure and what",
+    "target": "Saya akan menyajikan serangkaian kalimat bahasa Inggris menggunakan struktur kalimat dan apa yang"
+  },
+  {
+    "lesson": "2",
+    "segment": 65,
+    "timestamp": "00:03:49,840 --> 00:03:54,000",
+    "source": "we've just learned, identify the subject, verb, and object in each sentence.",
+    "target": "baru saja kita pelajari, identifikasi subjek, kata kerja, dan objek di setiap kalimat."
+  },
+  {
+    "lesson": "2",
+    "segment": 66,
+    "timestamp": "00:03:54,440 --> 00:03:56,840",
+    "source": "Let's add a time limit for a bit of a challenge.",
+    "target": "Mari kita tambahkan batas waktu untuk sedikit tantangan."
+  },
+  {
+    "lesson": "2",
+    "segment": 67,
+    "timestamp": "00:03:57,000 --> 00:03:59,760",
+    "source": "Two minutes for this exercise. Your time starts now.",
+    "target": "Dua menit untuk latihan ini. Waktu Anda dimulai sekarang."
+  },
+  {
+    "lesson": "2",
+    "segment": 68,
+    "timestamp": "00:04:08,560 --> 00:04:10,800",
+    "source": "In the first sentence, \"She dances\",",
+    "target": "Dalam kalimat pertama, \"She dances\","
+  },
+  {
+    "lesson": "2",
+    "segment": 69,
+    "timestamp": "00:04:11,200 --> 00:04:13,920",
+    "source": "\"she\" is the subject, the one performing the action,",
+    "target": "\"she\" adalah subjek, orang yang melakukan tindakan,"
+  },
+  {
+    "lesson": "2",
+    "segment": 70,
+    "timestamp": "00:04:14,240 --> 00:04:17,240",
+    "source": "and \"dances\" is the verb, the action itself.",
+    "target": "dan \"dances\" adalah kata kerja, tindakan itu sendiri."
+  },
+  {
+    "lesson": "2",
+    "segment": 71,
+    "timestamp": "00:04:17,720 --> 00:04:19,360",
+    "source": "This sentence doesn't have an object.",
+    "target": "Kalimat ini tidak memiliki objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 72,
+    "timestamp": "00:04:20,760 --> 00:04:23,760",
+    "source": "In the second sentence, \"He eats breakfast\",",
+    "target": "Pada kalimat kedua, \"He eats breakfast\","
+  },
+  {
+    "lesson": "2",
+    "segment": 73,
+    "timestamp": "00:04:24,320 --> 00:04:26,480",
+    "source": "\"he\" is the subject and \"eats\" is the verb.",
+    "target": "\"he\" adalah subjek dan \"eats\" adalah kata kerja."
+  },
+  {
+    "lesson": "2",
+    "segment": 74,
+    "timestamp": "00:04:26,960 --> 00:04:29,200",
+    "source": "This verb takes an object which is \"breakfast\".",
+    "target": "Kata kerja ini memiliki objek yaitu \"breakfast\"."
+  },
+  {
+    "lesson": "2",
+    "segment": 75,
+    "timestamp": "00:04:31,320 --> 00:04:33,480",
+    "source": "The next sentence, \"They teach English.\"",
+    "target": "Kalimat berikutnya, \"They teach English.\""
+  },
+  {
+    "lesson": "2",
+    "segment": 76,
+    "timestamp": "00:04:33,880 --> 00:04:36,800",
+    "source": "It has \"they\" as the subject and \"teach\" as the verb.",
+    "target": "Kalimat ini memiliki \"they\" sebagai subjek dan \"teach\" sebagai kata kerja."
+  },
+  {
+    "lesson": "2",
+    "segment": 77,
+    "timestamp": "00:04:37,240 --> 00:04:39,240",
+    "source": "\"English\" is the object of the verb.",
+    "target": "\"English\" adalah objek dari kata kerja."
+  },
+  {
+    "lesson": "2",
+    "segment": 78,
+    "timestamp": "00:04:41,320 --> 00:04:43,160",
+    "source": "In this sentence, \"He is talking\",",
+    "target": "Pada kalimat ini, \"He is talking\","
+  },
+  {
+    "lesson": "2",
+    "segment": 79,
+    "timestamp": "00:04:43,560 --> 00:04:46,080",
+    "source": "\"he\" is the subject and \"is talking\" is the verb.",
+    "target": "\"he\" adalah subjek dan \"is talking\" adalah kata kerja."
+  },
+  {
+    "lesson": "2",
+    "segment": 80,
+    "timestamp": "00:04:46,440 --> 00:04:49,120",
+    "source": "We'll learn more about this verb form later in the course.",
+    "target": "Kita akan mempelajari lebih lanjut tentang bentuk kata kerja ini nanti dalam kursus ini."
+  },
+  {
+    "lesson": "2",
+    "segment": 81,
+    "timestamp": "00:04:49,640 --> 00:04:51,280",
+    "source": "This sentence doesn't have an object.",
+    "target": "Kalimat ini tidak memiliki objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 82,
+    "timestamp": "00:04:53,400 --> 00:04:55,800",
+    "source": "Finally, in the last sentence, \"We want coffee\",",
+    "target": "Terakhir, pada kalimat terakhir, \"We want coffee\","
+  },
+  {
+    "lesson": "2",
+    "segment": 83,
+    "timestamp": "00:04:56,280 --> 00:05:00,240",
+    "source": "\"we\" is the subject, \"want\" is the verb, and \"coffee\" is the object.",
+    "target": "\"we\" adalah subjek, \"want\" adalah kata kerja, dan \"coffee\" adalah objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 84,
+    "timestamp": "00:05:02,080 --> 00:05:03,560",
+    "source": "Let's do one more exercise.",
+    "target": "Mari kita kerjakan satu latihan lagi."
+  },
+  {
+    "lesson": "2",
+    "segment": 85,
+    "timestamp": "00:05:04,000 --> 00:05:05,160",
+    "source": "This one is quite simple.",
+    "target": "Yang ini cukup sederhana."
+  },
+  {
+    "lesson": "2",
+    "segment": 86,
+    "timestamp": "00:05:05,520 --> 00:05:08,120",
+    "source": "Arrange the words or phrases to form complete sentences.",
+    "target": "Susun kata atau frasa untuk membentuk kalimat lengkap."
+  },
+  {
+    "lesson": "2",
+    "segment": 87,
+    "timestamp": "00:05:08,600 --> 00:05:11,560",
+    "source": "Remember the correct SVO order. Let's begin.",
+    "target": "Ingat urutan SVO yang benar. Mari kita mulai."
+  },
+  {
+    "lesson": "2",
+    "segment": 88,
+    "timestamp": "00:05:19,640 --> 00:05:20,680",
+    "source": "Time's up, everyone.",
+    "target": "Waktu habis."
+  },
+  {
+    "lesson": "2",
+    "segment": 89,
+    "timestamp": "00:05:21,000 --> 00:05:22,280",
+    "source": "Let's review the answers.",
+    "target": "Mari kita tinjau jawabannya."
+  },
+  {
+    "lesson": "2",
+    "segment": 90,
+    "timestamp": "00:05:22,840 --> 00:05:25,520",
+    "source": "The first sentence, \"She reads books every day.\"",
+    "target": "Kalimat pertama, \"She reads books every day.\""
+  },
+  {
+    "lesson": "2",
+    "segment": 91,
+    "timestamp": "00:05:25,960 --> 00:05:29,360",
+    "source": "\"She\" is the subject, \"reads\" is the verb, and \"books\" is the object.",
+    "target": "\"She\" adalah subjek, \"reads\" adalah kata kerja, dan \"books\" adalah objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 92,
+    "timestamp": "00:05:30,000 --> 00:05:33,280",
+    "source": "\"Every day\" is an adverbial phrase modifying the verb \"reads\".",
+    "target": "\"Every day\" adalah frasa keterangan yang memodifikasi kata kerja \"reads\"."
+  },
+  {
+    "lesson": "2",
+    "segment": 93,
+    "timestamp": "00:05:35,200 --> 00:05:38,734",
+    "source": "The second sentence, \"My father eats breakfast at 7 AM.\"",
+    "target": "Kalimat kedua, \"My father eats breakfast at 7 AM.\""
+  },
+  {
+    "lesson": "2",
+    "segment": 94,
+    "timestamp": "00:05:38,800 --> 00:05:43,160",
+    "source": "\"My father\" is the subject, \"eats\" is the verb, and \"breakfast\" is the object.",
+    "target": "\"My father\" adalah subjek, \"eats\" adalah kata kerja, dan \"breakfast\" adalah objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 95,
+    "timestamp": "00:05:43,560 --> 00:05:47,720",
+    "source": "\"At 7 AM\" is a prepositional phrase acting as an adverbial modifier.",
+    "target": "\"At 7 AM\" adalah frasa preposisional yang bertindak sebagai keterangan."
+  },
+  {
+    "lesson": "2",
+    "segment": 96,
+    "timestamp": "00:05:49,840 --> 00:05:52,600",
+    "source": "The third sentence, \"We watch TV in the evening.\"",
+    "target": "Kalimat ketiga, \"We watch TV in the evening.\""
+  },
+  {
+    "lesson": "2",
+    "segment": 97,
+    "timestamp": "00:05:52,960 --> 00:05:56,440",
+    "source": "\"We\" is the subject, \"watch\" is the verb, and \"TV\" is the object.",
+    "target": "\"We\" adalah subjek, \"watch\" adalah kata kerja, dan \"TV\" adalah objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 98,
+    "timestamp": "00:05:56,960 --> 00:05:59,960",
+    "source": "\"In the evening\" is a prepositional phrase acting as an adverbial modifier.",
+    "target": "\"In the evening\" adalah frasa preposisional yang bertindak sebagai keterangan."
+  },
+  {
+    "lesson": "2",
+    "segment": 99,
+    "timestamp": "00:06:02,640 --> 00:06:06,000",
+    "source": "The fourth sentence, \"My mother cleans the house every day.\"",
+    "target": "Kalimat keempat, \"My mother cleans the house every day.\""
+  },
+  {
+    "lesson": "2",
+    "segment": 100,
+    "timestamp": "00:06:06,320 --> 00:06:10,640",
+    "source": "\"My mother\" is the subject, \"clean\" is the verb, and \"the house\" is the object.",
+    "target": "\"My mother\" adalah subjek, \"clean\" adalah kata kerja, dan \"the house\" adalah objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 101,
+    "timestamp": "00:06:11,160 --> 00:06:13,367",
+    "source": "\"Every day\" is an adverbial phrase.",
+    "target": "\"Every day\" adalah frasa keterangan."
+  },
+  {
+    "lesson": "2",
+    "segment": 102,
+    "timestamp": "00:06:15,000 --> 00:06:17,392",
+    "source": "The last sentence, \"I love my family\",",
+    "target": "Kalimat terakhir, \"I love my family\","
+  },
+  {
+    "lesson": "2",
+    "segment": 103,
+    "timestamp": "00:06:17,440 --> 00:06:21,120",
+    "source": "\"I\" is the subject, \"love\" is the verb, and \"my family\" is the object.",
+    "target": "\"I\" adalah subjek, \"love\" adalah kata kerja, dan \"my family\" adalah objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 104,
+    "timestamp": "00:06:25,440 --> 00:06:28,720",
+    "source": "Today's lesson was just a gentle introduction to English grammar.",
+    "target": "Pelajaran hari ini hanyalah pengantar singkat tata bahasa Inggris."
+  },
+  {
+    "lesson": "2",
+    "segment": 105,
+    "timestamp": "00:06:29,080 --> 00:06:32,374",
+    "source": "We've explored the basic structure of an English sentence consisting",
+    "target": "Kita telah mempelajari struktur dasar kalimat bahasa Inggris yang terdiri"
+  },
+  {
+    "lesson": "2",
+    "segment": 106,
+    "timestamp": "00:06:32,440 --> 00:06:35,600",
+    "source": "of three parts: subject, verb, object.",
+    "target": "dari tiga bagian: subjek, kata kerja, dan objek."
+  },
+  {
+    "lesson": "2",
+    "segment": 107,
+    "timestamp": "00:06:36,160 --> 00:06:39,400",
+    "source": "We've learned what each part represents and its role in the sentence.",
+    "target": "Kita telah mempelajari apa yang diwakili oleh setiap bagian dan perannya dalam kalimat."
+  },
+  {
+    "lesson": "2",
+    "segment": 108,
+    "timestamp": "00:06:39,800 --> 00:06:43,054",
+    "source": "Keep this structure in mind as we delve deeper into each component",
+    "target": "Ingatlah struktur ini saat kita mempelajari setiap komponen lebih dalam"
+  },
+  {
+    "lesson": "2",
+    "segment": 109,
+    "timestamp": "00:06:43,120 --> 00:06:44,330",
+    "source": "throughout this course.",
+    "target": "sepanjang kursus ini."
+  },
+  {
+    "lesson": "2",
+    "segment": 110,
+    "timestamp": "00:06:44,400 --> 00:06:48,214",
+    "source": "By the end, we'll revisit this topic with a more detailed and comprehensive",
+    "target": "Pada akhirnya, kita akan meninjau kembali topik ini dengan"
+  },
+  {
+    "lesson": "2",
+    "segment": 111,
+    "timestamp": "00:06:48,280 --> 00:06:52,560",
+    "source": "understanding, building upon the solid foundation we've established today.",
+    "target": "pemahaman yang lebih detail dan komprehensif, membangun fondasi yang kokoh yang telah kita bangun hari ini."
+  },
+  {
+    "lesson": "2",
+    "segment": 112,
+    "timestamp": "00:06:53,040 --> 00:06:54,320",
+    "source": "Goodbye and see you next time.",
+    "target": "Sampai jumpa lagi."
+  },
+  {
+    "lesson": "3",
+    "segment": 1,
+    "timestamp": "00:00:07,000 --> 00:00:08,440",
+    "source": "Hello, it's me again.",
+    "target": "Halo, ini saya lagi."
+  },
+  {
+    "lesson": "3",
+    "segment": 2,
+    "timestamp": "00:00:08,680 --> 00:00:10,000",
+    "source": "Welcome to today's lesson.",
+    "target": "Selamat datang di pelajaran hari ini."
+  },
+  {
+    "lesson": "3",
+    "segment": 3,
+    "timestamp": "00:00:10,560 --> 00:00:13,000",
+    "source": "Throughout your studies, whenever you come into contact",
+    "target": "Sepanjang studi Anda, setiap kali Anda berinteraksi dengan bahasa Inggris,"
+  },
+  {
+    "lesson": "3",
+    "segment": 6,
+    "timestamp": "00:00:20,720 --> 00:00:24,734",
+    "source": "In this course, we will go through all four types of words so that you can write",
+    "target": "Dalam kursus ini, kita akan membahas keempat jenis kata tersebut agar Anda dapat menulis"
+  },
+  {
+    "lesson": "3",
+    "segment": 7,
+    "timestamp": "00:00:24,800 --> 00:00:28,040",
+    "source": "well and speak fluently in the correct grammatical order.",
+    "target": "dengan baik dan berbicara dengan lancar sesuai tata bahasa yang benar."
+  },
+  {
+    "lesson": "3",
+    "segment": 8,
+    "timestamp": "00:00:29,520 --> 00:00:32,494",
+    "source": "We'll start with nouns first, and our goal is to remember",
+    "target": "Kita akan mulai dengan kata benda terlebih dahulu, dan tujuan kita adalah untuk mengingat"
+  },
+  {
+    "lesson": "3",
+    "segment": 9,
+    "timestamp": "00:00:32,560 --> 00:00:34,534",
+    "source": "and distinguish the types of nouns.",
+    "target": "dan membedakan jenis-jenis kata benda."
+  },
+  {
+    "lesson": "3",
+    "segment": 10,
+    "timestamp": "00:00:34,600 --> 00:00:36,840",
+    "source": "So are you guys ready? Let's go.",
+    "target": "Jadi, apakah kalian siap? Mari kita mulai."
+  },
+  {
+    "lesson": "3",
+    "segment": 11,
+    "timestamp": "00:00:39,480 --> 00:00:43,134",
+    "source": "As I introduced to you in the first lesson, the Prep's Basic Grammar Course",
+    "target": "Seperti yang telah saya perkenalkan di pelajaran pertama, Kursus Tata Bahasa Dasar Prep"
+  },
+  {
+    "lesson": "3",
+    "segment": 12,
+    "timestamp": "00:00:43,200 --> 00:00:45,240",
+    "source": "will be guided in a rather special way.",
+    "target": "akan dipandu dengan cara yang agak istimewa."
+  },
+  {
+    "lesson": "3",
+    "segment": 13,
+    "timestamp": "00:00:45,560 --> 00:00:48,360",
+    "source": "Instead of listing a whole bunch of theories which are both boring",
+    "target": "Alih-alih mencantumkan banyak teori yang membosankan"
+  },
+  {
+    "lesson": "3",
+    "segment": 14,
+    "timestamp": "00:00:48,426 --> 00:00:51,734",
+    "source": "and difficult to apply, I will give challenges, situations,",
+    "target": "dan sulit diterapkan, saya akan memberikan tantangan, situasi,"
+  },
+  {
+    "lesson": "3",
+    "segment": 15,
+    "timestamp": "00:00:51,800 --> 00:00:56,600",
+    "source": "and contexts so that everyone can recognize the knowledge, actively absorb it,",
+    "target": "dan konteks agar setiap orang dapat mengenali pengetahuan tersebut, menyerapnya secara aktif,"
+  },
+  {
+    "lesson": "3",
+    "segment": 16,
+    "timestamp": "00:00:56,667 --> 00:00:58,240",
+    "source": "and quickly turn it into their own.",
+    "target": "dan dengan cepat menerapkannya sendiri."
+  },
+  {
+    "lesson": "3",
+    "segment": 17,
+    "timestamp": "00:00:58,280 --> 00:01:00,840",
+    "source": "Let's start with a fairly easy challenge first.",
+    "target": "Mari kita mulai dengan tantangan yang cukup mudah terlebih dahulu."
+  },
+  {
+    "lesson": "3",
+    "segment": 18,
+    "timestamp": "00:01:02,160 --> 00:01:04,520",
+    "source": "There are four types of nouns in English.",
+    "target": "Ada empat jenis kata benda dalam bahasa Inggris."
+  },
+  {
+    "lesson": "3",
+    "segment": 19,
+    "timestamp": "00:01:04,840 --> 00:01:07,760",
+    "source": "Please connect the following images with the corresponding type.",
+    "target": "Silakan hubungkan gambar-gambar berikut dengan jenis yang sesuai."
+  },
+  {
+    "lesson": "3",
+    "segment": 20,
+    "timestamp": "00:01:08,200 --> 00:01:11,200",
+    "source": "Let's do this exercise within one minute. Let's go.",
+    "target": "Mari kita kerjakan latihan ini dalam satu menit. Mari kita mulai."
+  },
+  {
+    "lesson": "3",
+    "segment": 21,
+    "timestamp": "00:01:11,600 --> 00:01:14,374",
+    "source": "Please pause the video to finish the work and continue to play",
+    "target": "Silakan jeda video untuk menyelesaikan pekerjaan dan lanjutkan pemutaran"
+  },
+  {
+    "lesson": "3",
+    "segment": 22,
+    "timestamp": "00:01:14,440 --> 00:01:16,060",
+    "source": "the video when you are ready.",
+    "target": "video saat Anda siap."
+  },
+  {
+    "lesson": "3",
+    "segment": 23,
+    "timestamp": "00:01:18,000 --> 00:01:20,894",
+    "source": "Before diving deeper into understanding nouns, we must first",
+    "target": "Sebelum menyelami lebih dalam pemahaman tentang kata benda, kita harus terlebih dahulu"
+  },
+  {
+    "lesson": "3",
+    "segment": 24,
+    "timestamp": "00:01:20,960 --> 00:01:22,280",
+    "source": "classify the common groups.",
+    "target": "mengklasifikasikan kelompok-kelompok umum."
+  },
+  {
+    "lesson": "3",
+    "segment": 25,
+    "timestamp": "00:01:22,640 --> 00:01:27,040",
+    "source": "The first group, a singer, a tree, or a dog, are all common nouns.",
+    "target": "Kelompok pertama, seorang penyanyi, pohon, atau anjing, semuanya adalah kata benda umum."
+  },
+  {
+    "lesson": "3",
+    "segment": 26,
+    "timestamp": "00:01:27,360 --> 00:01:28,360",
+    "source": "President Obama,",
+    "target": "Presiden Obama,"
+  },
+  {
+    "lesson": "3",
+    "segment": 27,
+    "timestamp": "00:01:28,760 --> 00:01:33,040",
+    "source": "the Statue of Liberty, and France, on the other hand, are proper nouns.",
+    "target": "Patung Liberty, dan Prancis, di sisi lain, adalah kata benda khusus."
+  },
+  {
+    "lesson": "3",
+    "segment": 28,
+    "timestamp": "00:01:33,400 --> 00:01:35,880",
+    "source": "Next, we have happiness, courage, and anger.",
+    "target": "Selanjutnya, kita memiliki kebahagiaan, keberanian, dan kemarahan."
+  },
+  {
+    "lesson": "3",
+    "segment": 29,
+    "timestamp": "00:01:36,120 --> 00:01:38,600",
+    "source": "These are definitely abstract nouns.",
+    "target": "Ini jelas merupakan kata benda abstrak."
+  },
+  {
+    "lesson": "3",
+    "segment": 30,
+    "timestamp": "00:01:38,920 --> 00:01:42,720",
+    "source": "Finally, a family, a football team, or an orchestra,",
+    "target": "Terakhir, sebuah keluarga, tim sepak bola, atau orkestra,"
+  },
+  {
+    "lesson": "3",
+    "segment": 31,
+    "timestamp": "00:01:42,920 --> 00:01:44,920",
+    "source": "these nouns are collective nouns.",
+    "target": "kata benda ini adalah kata benda kolektif."
+  },
+  {
+    "lesson": "3",
+    "segment": 32,
+    "timestamp": "00:01:47,120 --> 00:01:51,040",
+    "source": "Having grasped the overview, let's go into detail about each type, everyone.",
+    "target": "Setelah memahami gambaran umumnya, mari kita bahas secara detail tentang setiap jenisnya."
+  },
+  {
+    "lesson": "3",
+    "segment": 33,
+    "timestamp": "00:01:51,520 --> 00:01:52,720",
+    "source": "First is common noun.",
+    "target": "Pertama adalah kata benda umum."
+  },
+  {
+    "lesson": "3",
+    "segment": 34,
+    "timestamp": "00:01:54,160 --> 00:01:57,734",
+    "source": "Look at the picture I give below and match the given nouns with the corresponding",
+    "target": "Lihat gambar yang saya berikan di bawah ini dan cocokkan kata benda yang diberikan dengan"
+  },
+  {
+    "lesson": "3",
+    "segment": 35,
+    "timestamp": "00:01:57,800 --> 00:01:58,800",
+    "source": "points on the picture.",
+    "target": "titik-titik yang sesuai pada gambar."
+  },
+  {
+    "lesson": "3",
+    "segment": 36,
+    "timestamp": "00:01:59,040 --> 00:02:01,480",
+    "source": "Then try to think about what common nouns refer to.",
+    "target": "Kemudian cobalah untuk memikirkan apa yang dirujuk oleh kata benda umum tersebut."
+  },
+  {
+    "lesson": "3",
+    "segment": 37,
+    "timestamp": "00:02:01,920 --> 00:02:03,960",
+    "source": "You will have one minute to do this exercise.",
+    "target": "Anda akan memiliki satu menit untuk melakukan latihan ini."
+  },
+  {
+    "lesson": "3",
+    "segment": 38,
+    "timestamp": "00:02:04,400 --> 00:02:07,120",
+    "source": "Pause the video for one minute and then come back when you're done.",
+    "target": "Jeda video selama satu menit dan kemudian kembali setelah selesai."
+  },
+  {
+    "lesson": "3",
+    "segment": 39,
+    "timestamp": "00:02:07,280 --> 00:02:08,440",
+    "source": "One minute starts now.",
+    "target": "Satu menit dimulai sekarang."
+  },
+  {
+    "lesson": "3",
+    "segment": 40,
+    "timestamp": "00:02:10,360 --> 00:02:12,040",
+    "source": "And here are the answers, everyone.",
+    "target": "Dan berikut jawabannya."
+  },
+  {
+    "lesson": "3",
+    "segment": 41,
+    "timestamp": "00:02:12,520 --> 00:02:16,360",
+    "source": "All of these words are common nouns, which are words that refer to people, like",
+    "target": "Semua kata ini adalah kata benda umum, yaitu kata-kata yang merujuk pada orang, seperti"
+  },
+  {
+    "lesson": "3",
+    "segment": 42,
+    "timestamp": "00:02:16,520 --> 00:02:21,960",
+    "source": "\"father\", \"mother\", \"son\", animals such as \"bird\", objects like \"picnic mat\",",
+    "target": "\"ayah\", \"ibu\", \"anak laki-laki\", hewan seperti \"burung\", benda seperti \"tikar piknik\","
+  },
+  {
+    "lesson": "3",
+    "segment": 43,
+    "timestamp": "00:02:22,120 --> 00:02:23,640",
+    "source": "or places such as \"building\".",
+    "target": "atau tempat seperti \"bangunan\"."
+  },
+  {
+    "lesson": "3",
+    "segment": 44,
+    "timestamp": "00:02:25,760 --> 00:02:27,720",
+    "source": "Next, let's learn about proper nouns.",
+    "target": "Selanjutnya, mari kita pelajari tentang kata benda khusus."
+  },
+  {
+    "lesson": "3",
+    "segment": 45,
+    "timestamp": "00:02:29,120 --> 00:02:30,300",
+    "source": "Look at this list.",
+    "target": "Lihat daftar ini."
+  },
+  {
+    "lesson": "3",
+    "segment": 46,
+    "timestamp": "00:02:30,367 --> 00:02:33,500",
+    "source": "Which of the following items do you think will be classified as proper nouns?",
+    "target": "Manakah dari item berikut yang menurut Anda akan diklasifikasikan sebagai kata benda khusus?"
+  },
+  {
+    "lesson": "3",
+    "segment": 47,
+    "timestamp": "00:02:33,733 --> 00:02:36,733",
+    "source": "Please select all possible answers within 30 seconds.",
+    "target": "Silakan pilih semua jawaban yang mungkin dalam 30 detik."
+  },
+  {
+    "lesson": "3",
+    "segment": 48,
+    "timestamp": "00:02:36,833 --> 00:02:41,500",
+    "source": "Three, two, one. Let's go.",
+    "target": "Tiga, dua, satu. Mari kita mulai."
+  },
+  {
+    "lesson": "3",
+    "segment": 49,
+    "timestamp": "00:03:12,280 --> 00:03:16,534",
+    "source": "At first glance, we might choose all, but in this list, only the following",
+    "target": "Sekilas, kita mungkin memilih semuanya, tetapi dalam daftar ini, hanya"
+  },
+  {
+    "lesson": "3",
+    "segment": 50,
+    "timestamp": "00:03:16,600 --> 00:03:17,920",
+    "source": "groups are proper nouns.",
+    "target": "kelompok berikut yang merupakan kata benda khusus."
+  },
+  {
+    "lesson": "3",
+    "segment": 51,
+    "timestamp": "00:03:18,520 --> 00:03:21,400",
+    "source": "Proper names, for example: Tom, Mary.",
+    "target": "Nama diri, misalnya: Tom, Mary."
+  },
+  {
+    "lesson": "3",
+    "segment": 52,
+    "timestamp": "00:03:21,667 --> 00:03:27,467",
+    "source": "Days of the week, for example: Monday,Tuesday, Wednesday.",
+    "target": "Hari dalam seminggu, misalnya: Senin, Selasa, Rabu."
+  },
+  {
+    "lesson": "3",
+    "segment": 53,
+    "timestamp": "00:03:27,567 --> 00:03:32,333",
+    "source": "Months of the year, for example: January, March, September.",
+    "target": "Bulan dalam setahun, misalnya: Januari, Maret, September."
+  },
+  {
+    "lesson": "3",
+    "segment": 54,
+    "timestamp": "00:03:29,640 --> 00:03:36,500",
+    "source": "Place names, for example: Japan, Mount Everest.",
+    "target": "Nama tempat, misalnya: Jepang, Gunung Everest."
+  },
+  {
+    "lesson": "3",
+    "segment": 55,
+    "timestamp": "00:03:36,000 --> 00:03:42,000",
+    "source": "Languages, for example: Korean, Vietnamese, German.",
+    "target": "Bahasa, misalnya: Korea, Vietnam, Jerman."
+  },
+  {
+    "lesson": "3",
+    "segment": 56,
+    "timestamp": "00:03:42,067 --> 00:03:46,040",
+    "source": "Some holidays, events, for example: Valentine's Day,",
+    "target": "Beberapa hari libur, acara, misalnya: Hari Valentine,"
+  },
+  {
+    "lesson": "3",
+    "segment": 57,
+    "timestamp": "00:03:46,440 --> 00:03:48,280",
+    "source": "Halloween, Mother's Day.",
+    "target": "Halloween, Hari Ibu."
+  },
+  {
+    "lesson": "3",
+    "segment": 58,
+    "timestamp": "00:03:48,680 --> 00:03:53,640",
+    "source": "For the rest, the four directions, north, west, south, east, are not proper nouns.",
+    "target": "Selebihnya, empat arah, utara, barat, selatan, timur, bukanlah kata benda khusus."
+  },
+  {
+    "lesson": "3",
+    "segment": 59,
+    "timestamp": "00:03:53,960 --> 00:03:57,680",
+    "source": "Similarly, the seasons of the year, such as spring or autumn,",
+    "target": "Demikian pula, musim dalam setahun, seperti musim semi atau musim gugur,"
+  },
+  {
+    "lesson": "3",
+    "segment": 60,
+    "timestamp": "00:03:57,920 --> 00:04:03,080",
+    "source": "or times of the day, such as morning and evening, are also not proper nouns.",
+    "target": "atau waktu dalam sehari, seperti pagi dan sore, juga bukan kata benda khusus."
+  },
+  {
+    "lesson": "3",
+    "segment": 61,
+    "timestamp": "00:04:05,120 --> 00:04:09,080",
+    "source": "In summary, common nouns refer to people, animals, things, or places.",
+    "target": "Singkatnya, kata benda umum merujuk pada orang, hewan, benda, atau tempat."
+  },
+  {
+    "lesson": "3",
+    "segment": 62,
+    "timestamp": "00:04:09,720 --> 00:04:13,014",
+    "source": "Proper nouns, on the other hand, are the names of people, places,",
+    "target": "Kata benda khusus, di sisi lain, adalah nama orang, tempat,"
+  },
+  {
+    "lesson": "3",
+    "segment": 63,
+    "timestamp": "00:04:13,080 --> 00:04:17,254",
+    "source": "languages, and are capitalized.",
+    "target": "bahasa, dan ditulis dengan huruf kapital."
+  },
+  {
+    "lesson": "3",
+    "segment": 64,
+    "timestamp": "00:04:18,386 --> 00:04:22,160",
+    "source": "Through the knowledge we've just learned, let's practice a little bit, everyone.",
+    "target": "Dengan pengetahuan yang baru saja kita pelajari, mari kita berlatih sedikit."
+  },
+  {
+    "lesson": "3",
+    "segment": 65,
+    "timestamp": "00:04:22,640 --> 00:04:24,200",
+    "source": "I will give you a series of nouns.",
+    "target": "Saya akan memberi Anda serangkaian kata benda."
+  },
+  {
+    "lesson": "3",
+    "segment": 66,
+    "timestamp": "00:04:24,266 --> 00:04:26,894",
+    "source": "Within 30 seconds, quickly arrange them into two groups",
+    "target": "Dalam 30 detik, susunlah dengan cepat menjadi dua kelompok"
+  },
+  {
+    "lesson": "3",
+    "segment": 67,
+    "timestamp": "00:04:26,960 --> 00:04:28,800",
+    "source": "of common nouns and proper nouns.",
+    "target": ", yaitu kata benda umum dan kata benda khusus."
+  },
+  {
+    "lesson": "3",
+    "segment": 68,
+    "timestamp": "00:04:29,120 --> 00:04:32,374",
+    "source": "Remember to write it down so you can remember the words, and don't forget",
+    "target": "Ingatlah untuk menuliskannya agar Anda dapat mengingat kata-katanya, dan jangan lupa"
+  },
+  {
+    "lesson": "3",
+    "segment": 69,
+    "timestamp": "00:04:32,440 --> 00:04:34,080",
+    "source": "to capitalize the proper nouns.",
+    "target": "untuk menulis kata benda khusus dengan huruf kapital."
+  },
+  {
+    "lesson": "3",
+    "segment": 70,
+    "timestamp": "00:04:34,480 --> 00:04:35,520",
+    "source": "30 seconds start.",
+    "target": "30 detik dimulai."
+  },
+  {
+    "lesson": "3",
+    "segment": 71,
+    "timestamp": "00:04:39,200 --> 00:04:41,880",
+    "source": "Please pause the video for 30 seconds until you make it.",
+    "target": "Harap jeda video selama 30 detik sampai Anda berhasil."
+  },
+  {
+    "lesson": "3",
+    "segment": 72,
+    "timestamp": "00:05:12,000 --> 00:05:13,000",
+    "source": "Time's up, everyone.",
+    "target": "Waktu habis."
+  },
+  {
+    "lesson": "3",
+    "segment": 73,
+    "timestamp": "00:05:13,280 --> 00:05:14,440",
+    "source": "Not difficult, right?",
+    "target": "Tidak sulit, kan?"
+  },
+  {
+    "lesson": "3",
+    "segment": 74,
+    "timestamp": "00:05:14,760 --> 00:05:15,920",
+    "source": "And here is the answer.",
+    "target": "Dan inilah jawabannya."
+  },
+  {
+    "lesson": "3",
+    "segment": 75,
+    "timestamp": "00:05:16,400 --> 00:05:21,760",
+    "source": "Common nouns are a book, a laptop, a fish, an umbrella, a car.",
+    "target": "Kata benda umum adalah buku, laptop, ikan, payung, mobil."
+  },
+  {
+    "lesson": "3",
+    "segment": 76,
+    "timestamp": "00:05:22,240 --> 00:05:25,920",
+    "source": "Proper nouns include Adele, Christmas, October.",
+    "target": "Kata benda khusus meliputi Adele, Natal, Oktober."
+  },
+  {
+    "lesson": "3",
+    "segment": 77,
+    "timestamp": "00:05:27,920 --> 00:05:31,094",
+    "source": "In life, there are small moments that can make us smile, feel joy,",
+    "target": "Dalam hidup, ada momen-momen kecil yang dapat membuat kita tersenyum, merasa gembira,"
+  },
+  {
+    "lesson": "3",
+    "segment": 78,
+    "timestamp": "00:05:31,160 --> 00:05:32,520",
+    "source": "gratitude, or kindness.",
+    "target": "Rasa syukur, atau kebaikan."
+  },
+  {
+    "lesson": "3",
+    "segment": 79,
+    "timestamp": "00:05:32,880 --> 00:05:37,134",
+    "source": "These emotions and qualities are represented by abstract nouns.",
+    "target": "Emosi dan kualitas ini diwakili oleh kata benda abstrak."
+  },
+  {
+    "lesson": "3",
+    "segment": 80,
+    "timestamp": "00:05:37,200 --> 00:05:41,534",
+    "source": "Now, let's take a moment to learn about abstract noun, one of the most",
+    "target": "Sekarang, mari kita luangkan waktu sejenak untuk mempelajari tentang kata benda abstrak, salah satu"
+  },
+  {
+    "lesson": "3",
+    "segment": 81,
+    "timestamp": "00:05:41,600 --> 00:05:44,734",
+    "source": "common types of nouns in English.",
+    "target": "jenis kata benda yang paling umum dalam bahasa Inggris."
+  },
+  {
+    "lesson": "3",
+    "segment": 82,
+    "timestamp": "00:05:44,800 --> 00:05:49,360",
+    "source": "Abstract noun are words that refer to feelings, qualities, ideals, or concepts.",
+    "target": "Kata benda abstrak adalah kata-kata yang merujuk pada perasaan, kualitas, cita-cita, atau konsep. Kata benda abstrak"
+  },
+  {
+    "lesson": "3",
+    "segment": 83,
+    "timestamp": "00:05:49,880 --> 00:05:53,480",
+    "source": "They are things we cannot hold or see tangibly, but we can feel.",
+    "target": "adalah hal-hal yang tidak dapat kita pegang atau lihat secara nyata, tetapi dapat kita rasakan."
+  },
+  {
+    "lesson": "3",
+    "segment": 84,
+    "timestamp": "00:05:53,960 --> 00:05:58,200",
+    "source": "For example, happiness, the feeling that everyone wants to have.",
+    "target": "Misalnya, kebahagiaan, perasaan yang ingin dimiliki setiap orang."
+  },
+  {
+    "lesson": "3",
+    "segment": 85,
+    "timestamp": "00:05:58,680 --> 00:06:01,520",
+    "source": "Gratitude, feeling grateful when someone helps you.",
+    "target": "Rasa syukur, perasaan berterima kasih ketika seseorang membantu Anda."
+  },
+  {
+    "lesson": "3",
+    "segment": 86,
+    "timestamp": "00:06:02,000 --> 00:06:04,800",
+    "source": "Kindness, a good quality that we show when we help others.",
+    "target": "Kebaikan, kualitas baik yang kita tunjukkan ketika kita membantu orang lain."
+  },
+  {
+    "lesson": "3",
+    "segment": 87,
+    "timestamp": "00:06:05,360 --> 00:06:09,120",
+    "source": "In addition to the examples above, there are many other abstract nouns",
+    "target": "Selain contoh-contoh di atas, ada banyak kata benda abstrak lain"
+  },
+  {
+    "lesson": "3",
+    "segment": 88,
+    "timestamp": "00:06:09,280 --> 00:06:12,200",
+    "source": "that appear frequently in exams, especially in the reading",
+    "target": "yang sering muncul dalam ujian, terutama di bagian membaca"
+  },
+  {
+    "lesson": "3",
+    "segment": 89,
+    "timestamp": "00:06:12,440 --> 00:06:14,360",
+    "source": "section of the TOEIC test.",
+    "target": "tes TOEIC."
+  },
+  {
+    "lesson": "3",
+    "segment": 90,
+    "timestamp": "00:06:15,760 --> 00:06:18,440",
+    "source": "With the last group, I have another exercise for everyone.",
+    "target": "Dengan kelompok terakhir, saya memiliki latihan lain untuk kalian semua."
+  },
+  {
+    "lesson": "3",
+    "segment": 91,
+    "timestamp": "00:06:18,840 --> 00:06:22,174",
+    "source": "In the sentences I give below, two types of nouns will be marked in two",
+    "target": "Dalam kalimat yang saya berikan di bawah ini, dua jenis kata benda akan ditandai dengan dua"
+  },
+  {
+    "lesson": "3",
+    "segment": 92,
+    "timestamp": "00:06:22,240 --> 00:06:24,840",
+    "source": "different colors, and you guys try to see the difference between",
+    "target": "warna berbeda, dan kalian coba lihat perbedaan antara"
+  },
+  {
+    "lesson": "3",
+    "segment": 93,
+    "timestamp": "00:06:24,906 --> 00:06:26,080",
+    "source": "these two types of nouns.",
+    "target": "kedua jenis kata benda ini."
+  },
+  {
+    "lesson": "3",
+    "segment": 94,
+    "timestamp": "00:06:26,480 --> 00:06:29,134",
+    "source": "Let's pause the next screen to think carefully, then come back",
+    "target": "Mari kita jeda layar berikutnya untuk berpikir dengan saksama, lalu kembali"
+  },
+  {
+    "lesson": "3",
+    "segment": 95,
+    "timestamp": "00:06:29,200 --> 00:06:30,120",
+    "source": "to the lesson with me.",
+    "target": "ke pelajaran bersama saya."
+  },
+  {
+    "lesson": "3",
+    "segment": 96,
+    "timestamp": "00:06:32,000 --> 00:06:36,400",
+    "source": "As you guys may have noticed, each sentence contains two types of nouns.",
+    "target": "Seperti yang mungkin kalian perhatikan, setiap kalimat mengandung dua jenis kata benda."
+  },
+  {
+    "lesson": "3",
+    "segment": 97,
+    "timestamp": "00:06:36,600 --> 00:06:39,770",
+    "source": "One is the common noun that we talked about at the beginning of the lesson,",
+    "target": "Salah satunya adalah kata benda umum yang telah kita bahas di awal pelajaran,"
+  },
+  {
+    "lesson": "3",
+    "segment": 98,
+    "timestamp": "00:06:39,840 --> 00:06:44,120",
+    "source": "and the other is a noun that indicates a plural, a group of those common nouns.",
+    "target": "dan yang lainnya adalah kata benda yang menunjukkan bentuk jamak, yaitu sekelompok kata benda umum tersebut."
+  },
+  {
+    "lesson": "3",
+    "segment": 99,
+    "timestamp": "00:06:44,520 --> 00:06:49,214",
+    "source": "\"Family\", \"band\", or \"crew\" are all collective nouns, nouns that refer",
+    "target": "\"Keluarga\", \"band\", atau \"kru\" semuanya adalah kata benda kolektif, kata benda yang merujuk"
+  },
+  {
+    "lesson": "3",
+    "segment": 100,
+    "timestamp": "00:06:49,280 --> 00:06:51,160",
+    "source": "to a group of people or things.",
+    "target": "pada sekelompok orang atau benda."
+  },
+  {
+    "lesson": "3",
+    "segment": 101,
+    "timestamp": "00:06:51,560 --> 00:06:55,334",
+    "source": "I have included some other collective nouns for groups of people, animals,",
+    "target": "Saya telah menyertakan beberapa kata benda kolektif lainnya untuk kelompok orang, hewan,"
+  },
+  {
+    "lesson": "3",
+    "segment": 102,
+    "timestamp": "00:06:55,400 --> 00:06:58,560",
+    "source": "or objects in the attached file below the video for your reference.",
+    "target": "atau benda dalam file terlampir di bawah video untuk referensi Anda."
+  },
+  {
+    "lesson": "3",
+    "segment": 103,
+    "timestamp": "00:07:00,000 --> 00:07:03,374",
+    "source": "Before moving on to the next part, we'll do an exercise to see how",
+    "target": "Sebelum melanjutkan ke bagian berikutnya, kita akan melakukan latihan untuk melihat seberapa"
+  },
+  {
+    "lesson": "3",
+    "segment": 104,
+    "timestamp": "00:07:03,440 --> 00:07:05,080",
+    "source": "well you guys understand the lesson.",
+    "target": "baik Anda memahami pelajaran ini."
+  },
+  {
+    "lesson": "3",
+    "segment": 105,
+    "timestamp": "00:07:06,520 --> 00:07:10,080",
+    "source": "Four columns will appear on the screen corresponding to four types of nouns:",
+    "target": "Empat kolom akan muncul di layar yang sesuai dengan empat jenis kata benda:"
+  },
+  {
+    "lesson": "3",
+    "segment": 106,
+    "timestamp": "00:07:10,280 --> 00:07:13,720",
+    "source": "common nouns, proper nouns, abstract nouns, and collective nouns.",
+    "target": "kata benda umum, kata benda khusus, kata benda abstrak, dan kata benda kolektif."
+  },
+  {
+    "lesson": "3",
+    "segment": 107,
+    "timestamp": "00:07:14,360 --> 00:07:18,560",
+    "source": "Your task is to put the words in the box into the corresponding noun type column.",
+    "target": "Tugas Anda adalah memasukkan kata-kata dalam kotak ke dalam kolom jenis kata benda yang sesuai."
+  },
+  {
+    "lesson": "3",
+    "segment": 108,
+    "timestamp": "00:07:19,000 --> 00:07:19,960",
+    "source": "Okay, let's start.",
+    "target": "Oke, mari kita mulai."
+  },
+  {
+    "lesson": "3",
+    "segment": 109,
+    "timestamp": "00:07:26,167 --> 00:07:27,800",
+    "source": "Have you finished?",
+    "target": "Sudah selesai?"
+  },
+  {
+    "lesson": "3",
+    "segment": 110,
+    "timestamp": "00:07:28,160 --> 00:07:29,520",
+    "source": "Let's check the answers with me.",
+    "target": "Mari kita periksa jawabannya bersama saya."
+  },
+  {
+    "lesson": "3",
+    "segment": 111,
+    "timestamp": "00:07:30,000 --> 00:07:32,880",
+    "source": "In the common noun column, there will be the following words:",
+    "target": "Di kolom kata benda umum, akan ada kata-kata berikut:"
+  },
+  {
+    "lesson": "3",
+    "segment": 112,
+    "timestamp": "00:07:33,400 --> 00:07:35,600",
+    "source": "\"a tree\", \"a singer\", and \"a cat\".",
+    "target": "\"sebuah pohon\", \"seorang penyanyi\", dan \"seekor kucing\"."
+  },
+  {
+    "lesson": "3",
+    "segment": 113,
+    "timestamp": "00:07:36,240 --> 00:07:40,680",
+    "source": "The proper noun column includes the words \"Wednesday\", \"John\", and \"Christmas\".",
+    "target": "Kolom kata benda khusus mencakup kata-kata \"Rabu\", \"John\", dan \"Natal\"."
+  },
+  {
+    "lesson": "3",
+    "segment": 114,
+    "timestamp": "00:07:41,160 --> 00:07:44,760",
+    "source": "Abstract noun have \"happiness\", \"kindness\", and \"gratitude\",",
+    "target": "Kata benda abstrak meliputi \"kebahagiaan\", \"kebaikan\", dan \"rasa syukur\"."
+  },
+  {
+    "lesson": "3",
+    "segment": 115,
+    "timestamp": "00:07:45,760 --> 00:07:50,240",
+    "source": "The remaining words are collective noun consisting of \"crew\", \"band\", and \"family\".",
+    "target": "Kata-kata yang tersisa adalah kata benda kolektif yang terdiri dari \"kru\", \"band\", dan \"keluarga\"."
+  },
+  {
+    "lesson": "3",
+    "segment": 116,
+    "timestamp": "00:07:52,360 --> 00:07:56,774",
+    "source": "We have finished the first lesson on nouns - just the beginning, but there is",
+    "target": "Kita telah menyelesaikan pelajaran pertama tentang kata benda - baru permulaan, tetapi sudah"
+  },
+  {
+    "lesson": "3",
+    "segment": 117,
+    "timestamp": "00:07:56,840 --> 00:07:58,480",
+    "source": "already a lot of useful knowledge.",
+    "target": "banyak pengetahuan yang bermanfaat."
+  },
+  {
+    "lesson": "3",
+    "segment": 118,
+    "timestamp": "00:07:58,760 --> 00:08:00,840",
+    "source": "I will summarize it for everyone to follow.",
+    "target": "Saya akan meringkasnya agar semua orang dapat mengikuti."
+  },
+  {
+    "lesson": "3",
+    "segment": 119,
+    "timestamp": "00:08:01,400 --> 00:08:02,694",
+    "source": "Types of nouns in English:",
+    "target": "Jenis kata benda dalam bahasa Inggris:"
+  },
+  {
+    "lesson": "3",
+    "segment": 120,
+    "timestamp": "00:08:02,760 --> 00:08:07,080",
+    "source": "Common nouns include people, things, animals, places.",
+    "target": "Kata benda umum meliputi orang, benda, hewan, tempat."
+  },
+  {
+    "lesson": "3",
+    "segment": 121,
+    "timestamp": "00:08:07,600 --> 00:08:09,200",
+    "source": "Proper nouns are proper names.",
+    "target": "Kata benda khusus adalah nama-nama khusus."
+  },
+  {
+    "lesson": "3",
+    "segment": 122,
+    "timestamp": "00:08:09,520 --> 00:08:14,520",
+    "source": "Days of the week, months of the year, place names like countries, mountains,",
+    "target": "Hari-hari dalam seminggu, bulan-bulan dalam setahun, nama tempat seperti negara, gunung,"
+  },
+  {
+    "lesson": "3",
+    "segment": 123,
+    "timestamp": "00:08:14,840 --> 00:08:20,880",
+    "source": "seas, rivers, lakes, directions like east, west, south, north,",
+    "target": "laut, sungai, danau, arah seperti timur, barat, selatan, utara,"
+  },
+  {
+    "lesson": "3",
+    "segment": 124,
+    "timestamp": "00:08:21,320 --> 00:08:26,160",
+    "source": "languages, seasons of the year, times of day, or some holidays, events.",
+    "target": "bahasa, musim dalam setahun, waktu dalam sehari, atau beberapa hari libur, acara."
+  },
+  {
+    "lesson": "3",
+    "segment": 125,
+    "timestamp": "00:08:26,720 --> 00:08:31,280",
+    "source": "Abstract nouns include emotions, ideals, concepts, qualities,",
+    "target": "Kata benda abstrak meliputi emosi, cita-cita, konsep, kualitas,"
+  },
+  {
+    "lesson": "3",
+    "segment": 126,
+    "timestamp": "00:08:31,760 --> 00:08:36,200",
+    "source": "and collective noun refer to groups of people, animals, things, etc.",
+    "target": "dan kata benda kolektif merujuk pada kelompok orang, hewan, benda, dan lain-lain."
+  },
+  {
+    "lesson": "3",
+    "segment": 127,
+    "timestamp": "00:08:37,520 --> 00:08:41,214",
+    "source": "Distinguishing the types of noun is the basis for us to write and speak more",
+    "target": "Membedakan jenis kata benda adalah dasar bagi kita untuk menulis dan berbicara lebih"
+  },
+  {
+    "lesson": "3",
+    "segment": 128,
+    "timestamp": "00:08:41,280 --> 00:08:44,094",
+    "source": "accurately later, knowing what type of word to use",
+    "target": "akurat nantinya, mengetahui jenis kata apa yang harus digunakan"
+  },
+  {
+    "lesson": "3",
+    "segment": 129,
+    "timestamp": "00:08:44,160 --> 00:08:47,934",
+    "source": "to express what we want to say, or helping us choose the correct answer",
+    "target": "untuk mengungkapkan apa yang ingin kita katakan, atau membantu kita memilih jawaban yang tepat"
+  },
+  {
+    "lesson": "3",
+    "segment": 130,
+    "timestamp": "00:08:48,000 --> 00:08:51,400",
+    "source": "for the types of verb conjugation questions in Part 5 and 6.",
+    "target": "untuk jenis pertanyaan konjugasi kata kerja di Bagian 5 dan 6."
+  },
+  {
+    "lesson": "3",
+    "segment": 131,
+    "timestamp": "00:08:51,640 --> 00:08:55,040",
+    "source": "So remember to learn carefully from now on to use for a long time.",
+    "target": "Jadi ingatlah untuk belajar dengan saksama mulai sekarang agar dapat digunakan dalam jangka waktu yang lama."
+  },
+  {
+    "lesson": "3",
+    "segment": 132,
+    "timestamp": "00:08:55,400 --> 00:08:58,694",
+    "source": "In order to do that, remember to take thorough and systematic",
+    "target": "Untuk itu, ingatlah untuk membuat"
+  },
+  {
+    "lesson": "3",
+    "segment": 133,
+    "timestamp": "00:08:58,760 --> 00:09:02,240",
+    "source": "notes in your notebook. After resting, review, and do all the homework",
+    "target": "catatan yang menyeluruh dan sistematis di buku catatan Anda. Setelah beristirahat, tinjau kembali, dan kerjakan semua pekerjaan rumah"
+  },
+  {
+    "lesson": "3",
+    "segment": 134,
+    "timestamp": "00:09:02,440 --> 00:09:04,280",
+    "source": "before moving on to new knowledge.",
+    "target": "sebelum melanjutkan ke pengetahuan baru."
+  },
+  {
+    "lesson": "3",
+    "segment": 135,
+    "timestamp": "00:09:04,760 --> 00:09:06,400",
+    "source": "I will wait for you in the next lesson.",
+    "target": "Saya akan menunggu Anda di pelajaran berikutnya."
+  },
+  {
+    "lesson": "3",
+    "segment": 136,
+    "timestamp": "00:09:06,880 --> 00:09:08,040",
+    "source": "Goodbye and see you next time.",
+    "target": "Selamat tinggal dan sampai jumpa lagi."
+  },
+  {
+    "lesson": "4",
+    "segment": 1,
+    "timestamp": "00:00:07,120 --> 00:00:08,920",
+    "source": "Hello, and welcome back, everyone.",
+    "target": "Halo, dan selamat datang kembali semuanya."
+  },
+  {
+    "lesson": "4",
+    "segment": 2,
+    "timestamp": "00:00:09,120 --> 00:00:10,200",
+    "source": "How are you doing today?",
+    "target": "Apa kabar hari ini?"
+  },
+  {
+    "lesson": "4",
+    "segment": 3,
+    "timestamp": "00:00:10,560 --> 00:00:12,520",
+    "source": "Welcome back to Prep's Basic Grammar Course.",
+    "target": "Selamat datang kembali di Kursus Tata Bahasa Dasar Prep."
+  },
+  {
+    "lesson": "4",
+    "segment": 4,
+    "timestamp": "00:00:12,920 --> 00:00:16,320",
+    "source": "Languages across the world are diverse, each with its own rules.",
+    "target": "Bahasa-bahasa di seluruh dunia beragam, masing-masing dengan aturannya sendiri."
+  },
+  {
+    "lesson": "4",
+    "segment": 5,
+    "timestamp": "00:00:16,720 --> 00:00:20,974",
+    "source": "We can't simply apply our grammar rules to English and vice versa, or we might",
+    "target": "Kita tidak bisa begitu saja menerapkan aturan tata bahasa kita ke bahasa Inggris dan sebaliknya, atau kita mungkin"
+  },
+  {
+    "lesson": "4",
+    "segment": 6,
+    "timestamp": "00:00:21,040 --> 00:00:23,080",
+    "source": "find ourselves in confusing situations.",
+    "target": "akan menemukan diri kita dalam situasi yang membingungkan."
+  },
+  {
+    "lesson": "4",
+    "segment": 7,
+    "timestamp": "00:00:23,600 --> 00:00:25,920",
+    "source": "Today, we'll explore noun with three objectives.",
+    "target": "Hari ini, kita akan mengeksplorasi kata benda dengan tiga tujuan."
+  },
+  {
+    "lesson": "4",
+    "segment": 8,
+    "timestamp": "00:00:26,400 --> 00:00:29,520",
+    "source": "Differentiate between countable and uncountable nouns.",
+    "target": "Membedakan antara kata benda yang dapat dihitung dan yang tidak dapat dihitung."
+  },
+  {
+    "lesson": "4",
+    "segment": 9,
+    "timestamp": "00:00:30,000 --> 00:00:32,320",
+    "source": "Apply the rules of pluralizing nouns.",
+    "target": "Menerapkan aturan pembentukan jamak kata benda."
+  },
+  {
+    "lesson": "4",
+    "segment": 10,
+    "timestamp": "00:00:32,760 --> 00:00:35,200",
+    "source": "Distinguish between singular and plural nouns.",
+    "target": "Membedakan antara kata benda tunggal dan jamak."
+  },
+  {
+    "lesson": "4",
+    "segment": 11,
+    "timestamp": "00:00:36,560 --> 00:00:39,880",
+    "source": "Let's start by understanding countable and uncountable nouns.",
+    "target": "Mari kita mulai dengan memahami kata benda yang dapat dihitung dan yang tidak dapat dihitung."
+  },
+  {
+    "lesson": "4",
+    "segment": 12,
+    "timestamp": "00:00:40,280 --> 00:00:42,280",
+    "source": "Ready? Let's get right into it.",
+    "target": "Siap? Mari kita langsung mulai."
+  },
+  {
+    "lesson": "4",
+    "segment": 13,
+    "timestamp": "00:00:45,360 --> 00:00:48,920",
+    "source": "In English, some nouns are easily countable, like one apple,",
+    "target": "Dalam bahasa Inggris, beberapa kata benda mudah dihitung, seperti satu apel,"
+  },
+  {
+    "lesson": "4",
+    "segment": 14,
+    "timestamp": "00:00:49,040 --> 00:00:50,440",
+    "source": "two apples, and so on.",
+    "target": "dua apel, dan seterusnya."
+  },
+  {
+    "lesson": "4",
+    "segment": 15,
+    "timestamp": "00:00:50,760 --> 00:00:52,360",
+    "source": "We call these countable nouns.",
+    "target": "Kita menyebutnya kata benda yang dapat dihitung."
+  },
+  {
+    "lesson": "4",
+    "segment": 16,
+    "timestamp": "00:00:52,680 --> 00:00:56,320",
+    "source": "Others, like milk or sugar, can't be counted directly.",
+    "target": "Yang lain, seperti susu atau gula, tidak dapat dihitung secara langsung."
+  },
+  {
+    "lesson": "4",
+    "segment": 17,
+    "timestamp": "00:00:56,640 --> 00:01:01,134",
+    "source": "Instead, we need to use units to express their quantity, such as one carton",
+    "target": "Sebagai gantinya, kita perlu menggunakan satuan untuk menyatakan kuantitasnya, seperti satu karton"
+  },
+  {
+    "lesson": "4",
+    "segment": 18,
+    "timestamp": "00:01:01,200 --> 00:01:03,120",
+    "source": "of milk or one teaspoon of sugar.",
+    "target": "susu atau satu sendok teh gula."
+  },
+  {
+    "lesson": "4",
+    "segment": 19,
+    "timestamp": "00:01:03,760 --> 00:01:06,000",
+    "source": "These are called uncountable nouns.",
+    "target": "Ini disebut kata benda yang tidak dapat dihitung."
+  },
+  {
+    "lesson": "4",
+    "segment": 20,
+    "timestamp": "00:01:07,440 --> 00:01:11,814",
+    "source": "For example, we can easily count one apple, two apples, or one carrot,",
+    "target": "Misalnya, kita dapat dengan mudah menghitung satu apel, dua apel, atau satu wortel,"
+  },
+  {
+    "lesson": "4",
+    "segment": 21,
+    "timestamp": "00:01:11,880 --> 00:01:14,880",
+    "source": "two carrots because they are distinct individual items.",
+    "target": "dua wortel karena itu adalah barang individu yang berbeda."
+  },
+  {
+    "lesson": "4",
+    "segment": 22,
+    "timestamp": "00:01:15,360 --> 00:01:19,400",
+    "source": "However, we can't say \"one milk\", \"two milks\" because milk is a substance,",
+    "target": "Namun, kita tidak bisa mengatakan \"satu susu\", \"dua susu\" karena susu adalah zat,"
+  },
+  {
+    "lesson": "4",
+    "segment": 23,
+    "timestamp": "00:01:19,720 --> 00:01:21,160",
+    "source": "not something we count directly.",
+    "target": "bukan sesuatu yang kita hitung secara langsung."
+  },
+  {
+    "lesson": "4",
+    "segment": 24,
+    "timestamp": "00:01:21,680 --> 00:01:25,854",
+    "source": "To express the quantity of milk, we need a container or a unit like carton",
+    "target": "Untuk menyatakan kuantitas susu, kita membutuhkan wadah atau satuan seperti karton"
+  },
+  {
+    "lesson": "4",
+    "segment": 25,
+    "timestamp": "00:01:25,920 --> 00:01:29,667",
+    "source": "or glass, resulting in phrases like \"two cartons of milk\"",
+    "target": "atau gelas, sehingga menghasilkan frasa seperti \"dua karton susu\" atau \"dua gelas susu\"."
+  },
+  {
+    "lesson": "4",
+    "segment": 27,
+    "timestamp": "00:01:32,880 --> 00:01:36,534",
+    "source": "In English, these nouns that we can directly count and use with numbers",
+    "target": "Dalam bahasa Inggris, kata benda yang dapat kita hitung secara langsung dan gunakan dengan angka"
+  },
+  {
+    "lesson": "4",
+    "segment": 28,
+    "timestamp": "00:01:36,600 --> 00:01:38,080",
+    "source": "are called countable nouns.",
+    "target": "disebut kata benda yang dapat dihitung (countable nouns)."
+  },
+  {
+    "lesson": "4",
+    "segment": 29,
+    "timestamp": "00:01:38,480 --> 00:01:40,720",
+    "source": "They represent individual separate items.",
+    "target": "Kata benda ini mewakili barang-barang individual yang terpisah."
+  },
+  {
+    "lesson": "4",
+    "segment": 30,
+    "timestamp": "00:01:41,160 --> 00:01:45,280",
+    "source": "For example, three books, four oranges, and five pens.",
+    "target": "Misalnya, tiga buku, empat jeruk, dan lima pulpen."
+  },
+  {
+    "lesson": "4",
+    "segment": 31,
+    "timestamp": "00:01:47,360 --> 00:01:51,400",
+    "source": "Some nouns cannot be counted directly and therefore don't go with numbers alone.",
+    "target": "Beberapa kata benda tidak dapat dihitung secara langsung dan oleh karena itu tidak cocok hanya dengan angka."
+  },
+  {
+    "lesson": "4",
+    "segment": 32,
+    "timestamp": "00:01:51,840 --> 00:01:55,934",
+    "source": "These are called uncountable nouns, and they often represent things we",
+    "target": "Kata benda ini disebut kata benda yang tidak dapat dihitung (uncountable nouns), dan sering kali mewakili hal-hal yang kita"
+  },
+  {
+    "lesson": "4",
+    "segment": 33,
+    "timestamp": "00:01:56,000 --> 00:01:58,160",
+    "source": "consider as wholes or substances.",
+    "target": "anggap sebagai keseluruhan atau zat."
+  },
+  {
+    "lesson": "4",
+    "segment": 34,
+    "timestamp": "00:01:58,680 --> 00:02:01,520",
+    "source": "For example, chocolate, water, bread.",
+    "target": "Misalnya, cokelat, air, roti."
+  },
+  {
+    "lesson": "4",
+    "segment": 35,
+    "timestamp": "00:02:01,920 --> 00:02:05,800",
+    "source": "It's important to remember that uncountable nouns don't have a plural form.",
+    "target": "Penting untuk diingat bahwa kata benda yang tidak dapat dihitung tidak memiliki bentuk jamak."
+  },
+  {
+    "lesson": "4",
+    "segment": 36,
+    "timestamp": "00:02:06,160 --> 00:02:10,214",
+    "source": "When we want to specify their quantity, we use them together with other nouns.",
+    "target": "Ketika kita ingin menentukan kuantitasnya, kita menggunakannya bersama dengan kata benda lain."
+  },
+  {
+    "lesson": "4",
+    "segment": 37,
+    "timestamp": "00:02:10,280 --> 00:02:15,160",
+    "source": "For example, two bars of chocolate, four glasses of water, five loaves of bread.",
+    "target": "Misalnya, dua batang cokelat, empat gelas air, lima roti."
+  },
+  {
+    "lesson": "4",
+    "segment": 38,
+    "timestamp": "00:02:17,080 --> 00:02:19,840",
+    "source": "We'll delve deeper into these expressions in another lesson.",
+    "target": "Kita akan membahas lebih dalam tentang ungkapan-ungkapan ini di pelajaran lain."
+  },
+  {
+    "lesson": "4",
+    "segment": 39,
+    "timestamp": "00:02:20,200 --> 00:02:23,640",
+    "source": "Now, you might be wondering which nouns are considered uncountable.",
+    "target": "Sekarang, Anda mungkin bertanya-tanya kata benda mana yang dianggap tidak dapat dihitung."
+  },
+  {
+    "lesson": "4",
+    "segment": 40,
+    "timestamp": "00:02:24,080 --> 00:02:26,934",
+    "source": "While there aren't any hard and fast rules, some common groups",
+    "target": "Meskipun tidak ada aturan baku, beberapa kelompok umum"
+  },
+  {
+    "lesson": "4",
+    "segment": 41,
+    "timestamp": "00:02:27,000 --> 00:02:28,160",
+    "source": "can help you identify them.",
+    "target": "dapat membantu Anda mengidentifikasinya."
+  },
+  {
+    "lesson": "4",
+    "segment": 42,
+    "timestamp": "00:02:29,600 --> 00:02:33,040",
+    "source": "I'm going to show you a series of images representing different groups.",
+    "target": "Saya akan menunjukkan serangkaian gambar yang mewakili kelompok yang berbeda."
+  },
+  {
+    "lesson": "4",
+    "segment": 43,
+    "timestamp": "00:02:33,360 --> 00:02:36,520",
+    "source": "Your task is to guess the name of each group based on the images.",
+    "target": "Tugas Anda adalah menebak nama setiap kelompok berdasarkan gambar-gambar tersebut."
+  },
+  {
+    "lesson": "4",
+    "segment": 44,
+    "timestamp": "00:02:37,040 --> 00:02:38,840",
+    "source": "Ready? You have one minute.",
+    "target": "Siap? Anda punya waktu satu menit."
+  },
+  {
+    "lesson": "4",
+    "segment": 45,
+    "timestamp": "00:02:38,920 --> 00:02:41,360",
+    "source": "Pause the video, and then we'll go over them together.",
+    "target": "Jeda video, lalu kita akan membahasnya bersama."
+  },
+  {
+    "lesson": "4",
+    "segment": 46,
+    "timestamp": "00:02:43,480 --> 00:02:47,854",
+    "source": "The first group shows furniture, luggage, and equipment, which are often considered",
+    "target": "Kelompok pertama menunjukkan furnitur, koper, dan peralatan, yang sering dianggap"
+  },
+  {
+    "lesson": "4",
+    "segment": 47,
+    "timestamp": "00:02:47,920 --> 00:02:50,040",
+    "source": "collective and uncountable in English.",
+    "target": "kolektif dan tidak dapat dihitung dalam bahasa Inggris."
+  },
+  {
+    "lesson": "4",
+    "segment": 48,
+    "timestamp": "00:02:50,560 --> 00:02:55,000",
+    "source": "The second group depicts materials like sugar, coffee, liquids, and ice.",
+    "target": "Kelompok kedua menggambarkan bahan-bahan seperti gula, kopi, cairan, dan es."
+  },
+  {
+    "lesson": "4",
+    "segment": 49,
+    "timestamp": "00:02:55,520 --> 00:02:59,840",
+    "source": "The third group portrays abstract ideas, emotions, feelings, concepts, or qualities",
+    "target": "Kelompok ketiga menggambarkan ide-ide abstrak, emosi, perasaan, konsep, atau kualitas"
+  },
+  {
+    "lesson": "4",
+    "segment": 50,
+    "timestamp": "00:03:00,080 --> 00:03:01,960",
+    "source": "like happiness, luck, or victory.",
+    "target": "seperti kebahagiaan, keberuntungan, atau kemenangan."
+  },
+  {
+    "lesson": "4",
+    "segment": 51,
+    "timestamp": "00:03:02,440 --> 00:03:06,520",
+    "source": "And the last group illustrates natural phenomena like rain and lightning.",
+    "target": "Dan kelompok terakhir menggambarkan fenomena alam seperti hujan dan petir."
+  },
+  {
+    "lesson": "4",
+    "segment": 52,
+    "timestamp": "00:03:06,920 --> 00:03:08,200",
+    "source": "You're getting the hang of this.",
+    "target": "Anda mulai mengerti."
+  },
+  {
+    "lesson": "4",
+    "segment": 53,
+    "timestamp": "00:03:10,080 --> 00:03:14,200",
+    "source": "Now, let's do a quick exercise to practice what we've learned before moving on.",
+    "target": "Sekarang, mari kita lakukan latihan singkat untuk mempraktikkan apa yang telah kita pelajari sebelum melanjutkan."
+  },
+  {
+    "lesson": "4",
+    "segment": 54,
+    "timestamp": "00:03:14,560 --> 00:03:17,240",
+    "source": "I'll show you a series of nouns along with their pictures.",
+    "target": "Saya akan menunjukkan serangkaian kata benda beserta gambarnya."
+  },
+  {
+    "lesson": "4",
+    "segment": 55,
+    "timestamp": "00:03:17,640 --> 00:03:21,254",
+    "source": "Your task is to quickly categorize them into two groups, countable",
+    "target": "Tugas Anda adalah dengan cepat mengkategorikannya ke dalam dua kelompok,"
+  },
+  {
+    "lesson": "4",
+    "segment": 56,
+    "timestamp": "00:03:21,320 --> 00:03:23,120",
+    "source": "nouns and uncountable nouns.",
+    "target": "kata benda yang dapat dihitung dan kata benda yang tidak dapat dihitung."
+  },
+  {
+    "lesson": "4",
+    "segment": 57,
+    "timestamp": "00:03:23,520 --> 00:03:26,160",
+    "source": "Pause the video for 30 seconds. Ready?",
+    "target": "Jeda video selama 30 detik. Siap?"
+  },
+  {
+    "lesson": "4",
+    "segment": 58,
+    "timestamp": "00:03:26,600 --> 00:03:28,880",
+    "source": "3, 2, 1, go.",
+    "target": "3, 2, 1, mulai."
+  },
+  {
+    "lesson": "4",
+    "segment": 59,
+    "timestamp": "00:03:30,760 --> 00:03:32,000",
+    "source": "This is the answer.",
+    "target": "Ini jawabannya."
+  },
+  {
+    "lesson": "4",
+    "segment": 60,
+    "timestamp": "00:03:32,440 --> 00:03:35,600",
+    "source": "Pause the video to check your answers, then resume when you're ready.",
+    "target": "Jeda video untuk memeriksa jawaban Anda, lalu lanjutkan saat Anda siap."
+  },
+  {
+    "lesson": "4",
+    "segment": 61,
+    "timestamp": "00:03:37,400 --> 00:03:40,480",
+    "source": "In the next part of the lesson, we'll explore more about nouns.",
+    "target": "Di bagian selanjutnya dari pelajaran ini, kita akan mengeksplorasi lebih lanjut tentang kata benda."
+  },
+  {
+    "lesson": "4",
+    "segment": 62,
+    "timestamp": "00:03:40,800 --> 00:03:42,480",
+    "source": "Remember the example at the beginning?",
+    "target": "Ingat contoh di awal?"
+  },
+  {
+    "lesson": "4",
+    "segment": 63,
+    "timestamp": "00:03:42,840 --> 00:03:46,000",
+    "source": "We had two apples, two carrots, but not two milks.",
+    "target": "Kita punya dua apel, dua wortel, tetapi tidak dua susu."
+  },
+  {
+    "lesson": "4",
+    "segment": 64,
+    "timestamp": "00:03:46,520 --> 00:03:50,400",
+    "source": "This is because only countable nouns have singular and plural forms,",
+    "target": "Ini karena hanya kata benda yang dapat dihitung yang memiliki bentuk tunggal dan jamak,"
+  },
+  {
+    "lesson": "4",
+    "segment": 65,
+    "timestamp": "00:03:50,520 --> 00:03:53,360",
+    "source": "while uncountable nouns are always in singular form.",
+    "target": "sedangkan kata benda yang tidak dapat dihitung selalu dalam bentuk tunggal."
+  },
+  {
+    "lesson": "4",
+    "segment": 66,
+    "timestamp": "00:03:54,800 --> 00:03:58,814",
+    "source": "Instead of bombarding you with rules, I'll show you practical examples of plural",
+    "target": "Alih-alih membombardir Anda dengan aturan, saya akan menunjukkan contoh praktis"
+  },
+  {
+    "lesson": "4",
+    "segment": 67,
+    "timestamp": "00:03:58,880 --> 00:04:01,774",
+    "source": "nouns so you can deduce the rules yourselves, which will help",
+    "target": "kata benda jamak sehingga Anda dapat menyimpulkan aturannya sendiri, yang akan membantu"
+  },
+  {
+    "lesson": "4",
+    "segment": 68,
+    "timestamp": "00:04:01,840 --> 00:04:03,300",
+    "source": "you remember them better.",
+    "target": "Anda mengingatnya dengan lebih baik."
+  },
+  {
+    "lesson": "4",
+    "segment": 69,
+    "timestamp": "00:04:03,400 --> 00:04:07,654",
+    "source": "First, analyze these two example groups and help me identify the most basic",
+    "target": "Pertama, analisis dua kelompok contoh ini dan bantu saya mengidentifikasi aturan paling dasar"
+  },
+  {
+    "lesson": "4",
+    "segment": 70,
+    "timestamp": "00:04:07,720 --> 00:04:09,600",
+    "source": "rule for forming plurals in English.",
+    "target": "untuk membentuk bentuk jamak dalam bahasa Inggris."
+  },
+  {
+    "lesson": "4",
+    "segment": 71,
+    "timestamp": "00:04:10,040 --> 00:04:11,520",
+    "source": "Pause the video in one minute.",
+    "target": "Jeda video dalam satu menit."
+  },
+  {
+    "lesson": "4",
+    "segment": 72,
+    "timestamp": "00:04:13,440 --> 00:04:16,400",
+    "source": "We can clearly see two basic ways to form plural nouns,",
+    "target": "Kita dapat dengan jelas melihat dua cara dasar untuk membentuk kata benda jamak,"
+  },
+  {
+    "lesson": "4",
+    "segment": 73,
+    "timestamp": "00:04:16,520 --> 00:04:20,574",
+    "source": "adding S as shown in the first two examples and adding ES as",
+    "target": "menambahkan S seperti yang ditunjukkan pada dua contoh pertama dan menambahkan ES seperti"
+  },
+  {
+    "lesson": "4",
+    "segment": 74,
+    "timestamp": "00:04:20,640 --> 00:04:21,880",
+    "source": "in the remaining examples.",
+    "target": "pada contoh-contoh selanjutnya."
+  },
+  {
+    "lesson": "4",
+    "segment": 75,
+    "timestamp": "00:04:24,360 --> 00:04:26,960",
+    "source": "Have you noticed a pattern with the words that take S?",
+    "target": "Apakah Anda memperhatikan pola pada kata-kata yang menggunakan huruf S?"
+  },
+  {
+    "lesson": "4",
+    "segment": 76,
+    "timestamp": "00:04:27,280 --> 00:04:29,200",
+    "source": "Pay attention to the endings of the nouns.",
+    "target": "Perhatikan akhiran kata benda."
+  },
+  {
+    "lesson": "4",
+    "segment": 77,
+    "timestamp": "00:04:29,480 --> 00:04:31,934",
+    "source": "We add '-ES' if the noun ends in '-CH'",
+    "target": "Kita menambahkan '-ES' jika kata benda berakhiran '-CH'"
+  },
+  {
+    "lesson": "4",
+    "segment": 78,
+    "timestamp": "00:04:32,000 --> 00:04:36,640",
+    "source": "like 'watches', 'SH' like 'wishes', '-S' like 'glasses',",
+    "target": "seperti 'watches', 'SH' seperti 'wishes', '-S' seperti 'glasses',"
+  },
+  {
+    "lesson": "4",
+    "segment": 79,
+    "timestamp": "00:04:37,040 --> 00:04:42,000",
+    "source": "'-X' like 'boxes', '-Z' like 'quizzes', and '-O' like 'potatoes'.",
+    "target": "'-X' seperti 'boxes', '-Z' seperti 'quizzes', dan '-O' seperti 'potatoes'."
+  },
+  {
+    "lesson": "4",
+    "segment": 80,
+    "timestamp": "00:04:42,440 --> 00:04:45,720",
+    "source": "Remember that there are exceptions to the rule for nouns ending in O.",
+    "target": "Ingatlah bahwa ada pengecualian untuk aturan ini untuk kata benda yang berakhiran O."
+  },
+  {
+    "lesson": "4",
+    "segment": 81,
+    "timestamp": "00:04:46,040 --> 00:04:49,800",
+    "source": "Some only take S, such as pianos, photos, and radios.",
+    "target": "Beberapa hanya menggunakan huruf S, seperti pianos, photos, dan radios."
+  },
+  {
+    "lesson": "4",
+    "segment": 82,
+    "timestamp": "00:04:50,080 --> 00:04:53,720",
+    "source": "However, in most other cases, we add S to indicate the plural.",
+    "target": "Namun, dalam sebagian besar kasus lain, kita menambahkan S untuk menunjukkan bentuk jamak."
+  },
+  {
+    "lesson": "4",
+    "segment": 83,
+    "timestamp": "00:04:55,880 --> 00:04:57,200",
+    "source": "These are general rules.",
+    "target": "Ini adalah aturan umum."
+  },
+  {
+    "lesson": "4",
+    "segment": 84,
+    "timestamp": "00:04:57,560 --> 00:05:00,360",
+    "source": "Of course, there are exceptions because this is English.",
+    "target": "Tentu saja, ada pengecualian karena ini adalah bahasa Inggris."
+  },
+  {
+    "lesson": "4",
+    "segment": 85,
+    "timestamp": "00:05:00,840 --> 00:05:03,694",
+    "source": "But don't worry, with your effort and regular practice,",
+    "target": "Tapi jangan khawatir, dengan usaha dan latihan teratur,"
+  },
+  {
+    "lesson": "4",
+    "segment": 86,
+    "timestamp": "00:05:03,760 --> 00:05:05,960",
+    "source": "you'll quickly memorize and apply them all.",
+    "target": "Anda akan cepat menghafal dan menerapkan semuanya."
+  },
+  {
+    "lesson": "4",
+    "segment": 87,
+    "timestamp": "00:05:06,200 --> 00:05:09,480",
+    "source": "Now, let's examine the following examples and deduce the rules.",
+    "target": "Sekarang, mari kita periksa contoh-contoh berikut dan simpulkan aturannya."
+  },
+  {
+    "lesson": "4",
+    "segment": 88,
+    "timestamp": "00:05:09,960 --> 00:05:12,560",
+    "source": "The first group illustrates nouns ending in Y.",
+    "target": "Kelompok pertama mengilustrasikan kata benda yang berakhiran Y."
+  },
+  {
+    "lesson": "4",
+    "segment": 89,
+    "timestamp": "00:05:12,920 --> 00:05:16,814",
+    "source": "If a noun ends in a consonant followed by Y, like 'baby', we change",
+    "target": "Jika kata benda berakhiran konsonan diikuti Y, seperti 'baby', kita mengubah"
+  },
+  {
+    "lesson": "4",
+    "segment": 90,
+    "timestamp": "00:05:16,880 --> 00:05:19,440",
+    "source": "the Y to I and add -ES, 'babies'.",
+    "target": "Y menjadi I dan menambahkan -ES, 'babies'."
+  },
+  {
+    "lesson": "4",
+    "segment": 91,
+    "timestamp": "00:05:20,200 --> 00:05:23,920",
+    "source": "Conversely, if a noun ends in a vowel followed by Y, like 'key',",
+    "target": "Sebaliknya, jika kata benda berakhiran vokal diikuti Y, seperti 'key',"
+  },
+  {
+    "lesson": "4",
+    "segment": 92,
+    "timestamp": "00:05:24,120 --> 00:05:26,880",
+    "source": "we simply add -S, for example, 'keys'.",
+    "target": "kita cukup menambahkan -S, misalnya, 'keys'."
+  },
+  {
+    "lesson": "4",
+    "segment": 93,
+    "timestamp": "00:05:27,480 --> 00:05:32,960",
+    "source": "Next, for a noun ending in F or FE, we usually change the F or FE",
+    "target": "Selanjutnya, untuk kata benda yang berakhiran F atau FE, kita biasanya mengubah F atau FE"
+  },
+  {
+    "lesson": "4",
+    "segment": 94,
+    "timestamp": "00:05:33,120 --> 00:05:36,120",
+    "source": "to V and add -ES to form the plural.",
+    "target": "menjadi V dan menambahkan -ES untuk membentuk bentuk jamak."
+  },
+  {
+    "lesson": "4",
+    "segment": 95,
+    "timestamp": "00:05:36,200 --> 00:05:38,480",
+    "source": "For example, 'knife' becomes 'knives'.",
+    "target": "Misalnya, 'knife' menjadi 'knives'."
+  },
+  {
+    "lesson": "4",
+    "segment": 96,
+    "timestamp": "00:05:38,840 --> 00:05:42,160",
+    "source": "However, as always in English, the language of exceptions,",
+    "target": "Namun, seperti biasa dalam bahasa Inggris, bahasa pengecualian,"
+  },
+  {
+    "lesson": "4",
+    "segment": 97,
+    "timestamp": "00:05:42,560 --> 00:05:47,214",
+    "source": "nouns ending in EF, IEF, IFF, OOF, only",
+    "target": "kata benda yang berakhiran EF, IEF, IFF, OOF, hanya"
+  },
+  {
+    "lesson": "4",
+    "segment": 98,
+    "timestamp": "00:05:47,280 --> 00:05:49,920",
+    "source": "take -S in their plural form,",
+    "target": "menggunakan -S dalam bentuk jamaknya,"
+  },
+  {
+    "lesson": "4",
+    "segment": 99,
+    "timestamp": "00:05:50,200 --> 00:05:51,640",
+    "source": "for example, 'chef' becomes 'chefs'.",
+    "target": "misalnya, 'chef' menjadi 'chefs'."
+  },
+  {
+    "lesson": "4",
+    "segment": 100,
+    "timestamp": "00:05:52,280 --> 00:05:55,800",
+    "source": "Pause the video for 45 seconds to think about these examples.",
+    "target": "Jeda video selama 45 detik untuk memikirkan contoh-contoh ini."
+  },
+  {
+    "lesson": "4",
+    "segment": 101,
+    "timestamp": "00:05:57,920 --> 00:06:01,200",
+    "source": "Some English nouns have identical singular and plural forms.",
+    "target": "Beberapa kata benda bahasa Inggris memiliki bentuk tunggal dan jamak yang identik."
+  },
+  {
+    "lesson": "4",
+    "segment": 102,
+    "timestamp": "00:06:01,520 --> 00:06:03,680",
+    "source": "The most common words in this group are 'deer',",
+    "target": "Kata-kata yang paling umum dalam kelompok ini adalah 'deer',"
+  },
+  {
+    "lesson": "4",
+    "segment": 103,
+    "timestamp": "00:06:04,440 --> 00:06:07,360",
+    "source": "'fish', 'means', 'sheep'.",
+    "target": "'fish', 'means', 'sheep'."
+  },
+  {
+    "lesson": "4",
+    "segment": 104,
+    "timestamp": "00:06:09,320 --> 00:06:12,720",
+    "source": "Finally, we have a group of nine common irregular nouns,",
+    "target": "Terakhir, kita memiliki kelompok sembilan kata benda tidak beraturan yang umum,"
+  },
+  {
+    "lesson": "4",
+    "segment": 105,
+    "timestamp": "00:06:12,880 --> 00:06:16,774",
+    "source": "meaning their plural forms change entirely, not just by adding",
+    "target": "artinya bentuk jamaknya berubah sepenuhnya, bukan hanya dengan menambahkan"
+  },
+  {
+    "lesson": "4",
+    "segment": 106,
+    "timestamp": "00:06:16,840 --> 00:06:18,840",
+    "source": "-S or -ES like in other cases.",
+    "target": "-S atau -ES seperti pada kasus lain."
+  },
+  {
+    "lesson": "4",
+    "segment": 107,
+    "timestamp": "00:06:19,360 --> 00:06:23,720",
+    "source": "These words are 'man', 'woman', 'child', 'ox',",
+    "target": "Kata-kata ini adalah 'pria', 'wanita', 'anak', 'lembu',"
+  },
+  {
+    "lesson": "4",
+    "segment": 108,
+    "timestamp": "00:06:24,320 --> 00:06:28,920",
+    "source": "'foot', 'goose', 'tooth', 'mouse', 'louse',",
+    "target": "'kaki', 'angsa', 'gigi', 'tikus', 'kutu',"
+  },
+  {
+    "lesson": "4",
+    "segment": 109,
+    "timestamp": "00:06:29,600 --> 00:06:36,120",
+    "source": "and their plural forms are 'men', 'women', 'children', 'oxen', 'feet',",
+    "target": "dan bentuk jamaknya adalah 'pria', 'wanita', 'anak-anak', 'lembu', 'kaki',"
+  },
+  {
+    "lesson": "4",
+    "segment": 110,
+    "timestamp": "00:06:36,640 --> 00:06:40,360",
+    "source": "'geese', 'teeth', 'mice', 'lice'.",
+    "target": "'angsa', 'gigi', 'tikus', 'kutu'."
+  },
+  {
+    "lesson": "4",
+    "segment": 111,
+    "timestamp": "00:06:41,880 --> 00:06:43,120",
+    "source": "That was a lot of information.",
+    "target": "Itu banyak sekali informasinya."
+  },
+  {
+    "lesson": "4",
+    "segment": 112,
+    "timestamp": "00:06:43,760 --> 00:06:44,680",
+    "source": "Here's a summary.",
+    "target": "Berikut ringkasannya."
+  },
+  {
+    "lesson": "4",
+    "segment": 113,
+    "timestamp": "00:06:46,080 --> 00:06:47,040",
+    "source": "The general rule:",
+    "target": "Aturan umum:"
+  },
+  {
+    "lesson": "4",
+    "segment": 114,
+    "timestamp": "00:06:47,640 --> 00:06:49,360",
+    "source": "add -S or -ES after the noun.",
+    "target": "tambahkan -S atau -ES setelah kata benda."
+  },
+  {
+    "lesson": "4",
+    "segment": 115,
+    "timestamp": "00:06:50,040 --> 00:06:54,840",
+    "source": "Add -ES to noun ending in -CH, -SH, -S, -X, -Z, and -O, with some exceptions.",
+    "target": "Tambahkan -ES pada kata benda yang berakhiran -CH, -SH, -S, -X, -Z, dan -O, dengan beberapa pengecualian."
+  },
+  {
+    "lesson": "4",
+    "segment": 116,
+    "timestamp": "00:06:55,440 --> 00:06:56,320",
+    "source": "The other cases:",
+    "target": "Kasus lainnya:"
+  },
+  {
+    "lesson": "4",
+    "segment": 117,
+    "timestamp": "00:06:56,920 --> 00:07:00,960",
+    "source": "Nouns ending in consonant plus Y, change Y to I and add ES.",
+    "target": "Kata benda yang berakhiran konsonan ditambah Y, ubah Y menjadi I dan tambahkan ES."
+  },
+  {
+    "lesson": "4",
+    "segment": 118,
+    "timestamp": "00:07:01,560 --> 00:07:03,960",
+    "source": "Nouns ending in vowel plus Y, add S.",
+    "target": "Kata benda yang berakhiran vokal ditambah Y, tambahkan S."
+  },
+  {
+    "lesson": "4",
+    "segment": 119,
+    "timestamp": "00:07:04,560 --> 00:07:08,640",
+    "source": "Nouns ending in F/FE, usually change to V and add ES.",
+    "target": "Kata benda yang berakhiran F/FE, biasanya diubah menjadi V dan tambahkan ES."
+  },
+  {
+    "lesson": "4",
+    "segment": 120,
+    "timestamp": "00:07:14,080 --> 00:07:18,534",
+    "source": "Nouns ending in -EF, -IEF, -IFF, -OOF, add S.",
+    "target": "Kata benda yang berakhiran -EF, -IEF, -IFF, -OOF, menambahkan S."
+  },
+  {
+    "lesson": "4",
+    "segment": 121,
+    "timestamp": "00:07:18,600 --> 00:07:21,400",
+    "source": "Some nouns have identical singular and plural forms.",
+    "target": "Beberapa kata benda memiliki bentuk tunggal dan jamak yang identik."
+  },
+  {
+    "lesson": "4",
+    "segment": 122,
+    "timestamp": "00:07:22,120 --> 00:07:23,560",
+    "source": "Nine irregular nouns.",
+    "target": "Sembilan kata benda tidak beraturan."
+  },
+  {
+    "lesson": "4",
+    "segment": 123,
+    "timestamp": "00:07:24,040 --> 00:07:26,080",
+    "source": "Did everyone have time to note down all the cases?",
+    "target": "Apakah semua orang punya waktu untuk mencatat semua kasusnya?"
+  },
+  {
+    "lesson": "4",
+    "segment": 124,
+    "timestamp": "00:07:26,480 --> 00:07:29,774",
+    "source": "If so, please pause the video to review them, then come back",
+    "target": "Jika ya, silakan jeda video untuk meninjaunya, lalu kembali"
+  },
+  {
+    "lesson": "4",
+    "segment": 125,
+    "timestamp": "00:07:29,840 --> 00:07:31,160",
+    "source": "for final exercise together.",
+    "target": "untuk latihan terakhir bersama-sama."
+  },
+  {
+    "lesson": "4",
+    "segment": 126,
+    "timestamp": "00:07:34,880 --> 00:07:36,520",
+    "source": "Ready? Let's begin.",
+    "target": "Siap? Mari kita mulai."
+  },
+  {
+    "lesson": "4",
+    "segment": 127,
+    "timestamp": "00:07:36,840 --> 00:07:38,360",
+    "source": "On the screen, you'll see two columns.",
+    "target": "Di layar, Anda akan melihat dua kolom."
+  },
+  {
+    "lesson": "4",
+    "segment": 128,
+    "timestamp": "00:07:38,800 --> 00:07:42,600",
+    "source": "Your task is to write the plural form of the given singular nouns.",
+    "target": "Tugas Anda adalah menulis bentuk jamak dari kata benda tunggal yang diberikan."
+  },
+  {
+    "lesson": "4",
+    "segment": 129,
+    "timestamp": "00:07:42,920 --> 00:07:44,620",
+    "source": "Go ahead and start practicing.",
+    "target": "Silakan mulai berlatih."
+  },
+  {
+    "lesson": "4",
+    "segment": 130,
+    "timestamp": "00:07:46,200 --> 00:07:47,000",
+    "source": "Have you finished?",
+    "target": "Sudah selesai?"
+  },
+  {
+    "lesson": "4",
+    "segment": 131,
+    "timestamp": "00:07:47,360 --> 00:07:51,040",
+    "source": "Pause the video to compare your answers with the correct ones on the screen.",
+    "target": "Jeda video untuk membandingkan jawaban Anda dengan jawaban yang benar di layar."
+  },
+  {
+    "lesson": "4",
+    "segment": 132,
+    "timestamp": "00:07:53,120 --> 00:07:56,240",
+    "source": "We've covered many things today, but it's incredibly useful information.",
+    "target": "Kita telah membahas banyak hal hari ini, tetapi ini adalah informasi yang sangat berguna."
+  },
+  {
+    "lesson": "4",
+    "segment": 133,
+    "timestamp": "00:07:56,880 --> 00:08:00,574",
+    "source": "This knowledge will come in handy later when we tackle verb conjugation",
+    "target": "Pengetahuan ini akan berguna nanti ketika kita mengerjakan"
+  },
+  {
+    "lesson": "4",
+    "segment": 134,
+    "timestamp": "00:08:00,640 --> 00:08:02,440",
+    "source": "exercises in the TOEIC test.",
+    "target": "latihan konjugasi kata kerja dalam tes TOEIC."
+  },
+  {
+    "lesson": "4",
+    "segment": 135,
+    "timestamp": "00:08:04,000 --> 00:08:07,760",
+    "source": "To help you remember everything we've learned, here's a mini challenge.",
+    "target": "Untuk membantu Anda mengingat semua yang telah kita pelajari, berikut tantangan kecil."
+  },
+  {
+    "lesson": "4",
+    "segment": 136,
+    "timestamp": "00:08:08,080 --> 00:08:11,534",
+    "source": "I'll give you three sentences, each containing an error related",
+    "target": "Saya akan memberi Anda tiga kalimat, masing-masing berisi kesalahan yang berkaitan"
+  },
+  {
+    "lesson": "4",
+    "segment": 137,
+    "timestamp": "00:08:11,600 --> 00:08:12,920",
+    "source": "to nouns and their number.",
+    "target": "dengan kata benda dan jumlahnya."
+  },
+  {
+    "lesson": "4",
+    "segment": 138,
+    "timestamp": "00:08:13,360 --> 00:08:16,400",
+    "source": "You have 40 seconds to identify and correct these mistakes.",
+    "target": "Anda memiliki 40 detik untuk mengidentifikasi dan memperbaiki kesalahan ini."
+  },
+  {
+    "lesson": "4",
+    "segment": 139,
+    "timestamp": "00:08:16,760 --> 00:08:17,200",
+    "source": "Ready?",
+    "target": "Siap?"
+  },
+  {
+    "lesson": "4",
+    "segment": 140,
+    "timestamp": "00:08:17,640 --> 00:08:20,280",
+    "source": "Pause the video for 40 seconds to do this exercise.",
+    "target": "Jeda video selama 40 detik untuk mengerjakan latihan ini."
+  },
+  {
+    "lesson": "4",
+    "segment": 141,
+    "timestamp": "00:08:22,160 --> 00:08:25,920",
+    "source": "The first sentence has a noun we discussed today, 'sunshine'.",
+    "target": "Kalimat pertama memiliki kata benda yang telah kita bahas hari ini, 'sunshine'."
+  },
+  {
+    "lesson": "4",
+    "segment": 142,
+    "timestamp": "00:08:26,520 --> 00:08:30,800",
+    "source": "Remember that it refers to a natural phenomenon, making it an uncountable noun.",
+    "target": "Ingat bahwa kata ini merujuk pada fenomena alam, sehingga merupakan kata benda yang tidak dapat dihitung."
+  },
+  {
+    "lesson": "4",
+    "segment": 143,
+    "timestamp": "00:08:31,240 --> 00:08:32,680",
+    "source": "Therefore, it cannot be plural.",
+    "target": "Oleh karena itu, kata ini tidak dapat berbentuk jamak."
+  },
+  {
+    "lesson": "4",
+    "segment": 144,
+    "timestamp": "00:08:33,040 --> 00:08:35,320",
+    "source": "We need to change 'sunshines' to 'sunshine'.",
+    "target": "Kita perlu mengubah 'sunshines' menjadi 'sunshine'."
+  },
+  {
+    "lesson": "4",
+    "segment": 145,
+    "timestamp": "00:08:35,840 --> 00:08:39,734",
+    "source": "The second sentence includes the word 'series', which falls under the category",
+    "target": "Kalimat kedua mencakup kata 'series', yang termasuk dalam kategori"
+  },
+  {
+    "lesson": "4",
+    "segment": 146,
+    "timestamp": "00:08:39,800 --> 00:08:42,680",
+    "source": "of noun with identical singular and plural forms.",
+    "target": "kata benda dengan bentuk tunggal dan jamak yang identik."
+  },
+  {
+    "lesson": "4",
+    "segment": 147,
+    "timestamp": "00:08:43,000 --> 00:08:46,960",
+    "source": "To make it grammatically correct, we simply remove the ES at the end,",
+    "target": "Agar secara tata bahasa benar, kita cukup menghapus ES di akhir,"
+  },
+  {
+    "lesson": "4",
+    "segment": 148,
+    "timestamp": "00:08:47,160 --> 00:08:48,480",
+    "source": "leaving it as 'series'.",
+    "target": "sehingga menjadi 'series'."
+  },
+  {
+    "lesson": "4",
+    "segment": 149,
+    "timestamp": "00:08:49,040 --> 00:08:51,160",
+    "source": "The last sentence presents another exception.",
+    "target": "Kalimat terakhir menyajikan pengecualian lain."
+  },
+  {
+    "lesson": "4",
+    "segment": 150,
+    "timestamp": "00:08:51,640 --> 00:08:56,600",
+    "source": "While 'piano' does end in O, we only add S instead of ES to form its plural.",
+    "target": "Meskipun 'piano' memang berakhiran O, kita hanya menambahkan S, bukan ES, untuk membentuk bentuk jamaknya."
+  },
+  {
+    "lesson": "4",
+    "segment": 151,
+    "timestamp": "00:08:57,040 --> 00:08:58,720",
+    "source": "So we change 'pianoes' to 'pianos'.",
+    "target": "Jadi kita mengubah 'pianoes' menjadi 'pianos'."
+  },
+  {
+    "lesson": "4",
+    "segment": 152,
+    "timestamp": "00:09:00,920 --> 00:09:05,694",
+    "source": "Today, we explored countable nouns and uncountable nouns, as well as the",
+    "target": "Hari ini, kita telah mempelajari kata benda yang dapat dihitung dan kata benda yang tidak dapat dihitung, serta"
+  },
+  {
+    "lesson": "4",
+    "segment": 153,
+    "timestamp": "00:09:05,760 --> 00:09:08,440",
+    "source": "rules for singular nouns and plural nouns.",
+    "target": "aturan untuk kata benda tunggal dan kata benda jamak."
+  },
+  {
+    "lesson": "4",
+    "segment": 154,
+    "timestamp": "00:09:08,760 --> 00:09:12,640",
+    "source": "Remember to take notes for easy review and apply this knowledge to your homework.",
+    "target": "Ingatlah untuk mencatat agar mudah ditinjau dan terapkan pengetahuan ini pada pekerjaan rumah Anda."
+  },
+  {
+    "lesson": "4",
+    "segment": 155,
+    "timestamp": "00:09:13,120 --> 00:09:17,080",
+    "source": "This will deepen your understanding and help you retain the information long term.",
+    "target": "Ini akan memperdalam pemahaman Anda dan membantu Anda mengingat informasi dalam jangka panjang."
+  },
+  {
+    "lesson": "4",
+    "segment": 156,
+    "timestamp": "00:09:17,600 --> 00:09:18,880",
+    "source": "See you in our next lesson.",
+    "target": "Sampai jumpa di pelajaran kita selanjutnya."
+  },
+  {
+    "lesson": "4",
+    "segment": 157,
+    "timestamp": "00:09:19,280 --> 00:09:20,480",
+    "source": "Goodbye and see you next time.",
+    "target": "Selamat tinggal dan sampai jumpa lagi."
+  },
+  {
+    "lesson": "5",
+    "segment": 1,
+    "timestamp": "00:00:07,120 --> 00:00:08,520",
+    "source": "Hello and welcome back.",
+    "target": "Halo dan selamat datang kembali."
+  },
+  {
+    "lesson": "5",
+    "segment": 2,
+    "timestamp": "00:00:08,960 --> 00:00:11,840",
+    "source": "It's a beautiful day to learn something new, and here's another",
+    "target": "Ini hari yang indah untuk mempelajari sesuatu yang baru, dan berikut adalah"
+  },
+  {
+    "lesson": "5",
+    "segment": 3,
+    "timestamp": "00:00:11,906 --> 00:00:13,280",
+    "source": "exciting lesson with Prep.",
+    "target": "pelajaran menarik lainnya bersama Prep."
+  },
+  {
+    "lesson": "5",
+    "segment": 4,
+    "timestamp": "00:00:13,640 --> 00:00:17,480",
+    "source": "Welcome you all to the last lesson on nouns in the Basic Grammar Course.",
+    "target": "Selamat datang di pelajaran terakhir tentang kata benda dalam Kursus Tata Bahasa Dasar."
+  },
+  {
+    "lesson": "5",
+    "segment": 5,
+    "timestamp": "00:00:18,000 --> 00:00:20,240",
+    "source": "Have you ever seen the symbol S in English?",
+    "target": "Pernahkah Anda melihat simbol S dalam bahasa Inggris?"
+  },
+  {
+    "lesson": "5",
+    "segment": 6,
+    "timestamp": "00:00:20,560 --> 00:00:24,894",
+    "source": "I guess you have seen it a lot, but S has different meanings and uses",
+    "target": "Saya rasa Anda sudah sering melihatnya, tetapi S memiliki arti dan penggunaan yang berbeda"
+  },
+  {
+    "lesson": "5",
+    "segment": 7,
+    "timestamp": "00:00:24,960 --> 00:00:26,920",
+    "source": "that not everyone knows all of them.",
+    "target": "yang tidak semua orang ketahui."
+  },
+  {
+    "lesson": "5",
+    "segment": 8,
+    "timestamp": "00:00:27,320 --> 00:00:30,254",
+    "source": "So through this lesson, we will understand more about its use",
+    "target": "Jadi melalui pelajaran ini, kita akan lebih memahami penggunaannya"
+  },
+  {
+    "lesson": "5",
+    "segment": 9,
+    "timestamp": "00:00:30,333 --> 00:00:31,867",
+    "source": "with the main goal being:",
+    "target": "dengan tujuan utama:"
+  },
+  {
+    "lesson": "5",
+    "segment": 10,
+    "timestamp": "00:00:32,000 --> 00:00:35,104",
+    "source": "Remember and understand the use of the possessive case.",
+    "target": "Mengingat dan memahami penggunaan kasus posesif."
+  },
+  {
+    "lesson": "5",
+    "segment": 11,
+    "timestamp": "00:00:35,160 --> 00:00:37,160",
+    "source": "Master the possessive case of nouns.",
+    "target": "Menguasai kasus posesif kata benda."
+  },
+  {
+    "lesson": "5",
+    "segment": 12,
+    "timestamp": "00:00:38,360 --> 00:00:40,800",
+    "source": "What are you waiting for? Let's start.",
+    "target": "Tunggu apa lagi? Mari kita mulai."
+  },
+  {
+    "lesson": "5",
+    "segment": 13,
+    "timestamp": "00:00:44,160 --> 00:00:45,800",
+    "source": "Let's start with an example.",
+    "target": "Mari kita mulai dengan sebuah contoh."
+  },
+  {
+    "lesson": "5",
+    "segment": 14,
+    "timestamp": "00:00:46,320 --> 00:00:48,640",
+    "source": "This is Sam. He bought a book at a store.",
+    "target": "Ini Sam. Dia membeli sebuah buku di sebuah toko."
+  },
+  {
+    "lesson": "5",
+    "segment": 15,
+    "timestamp": "00:00:49,200 --> 00:00:50,040",
+    "source": "This is Sam's book.",
+    "target": "Ini buku Sam."
+  },
+  {
+    "lesson": "5",
+    "segment": 16,
+    "timestamp": "00:00:50,480 --> 00:00:52,400",
+    "source": "What does the S in this sentence represent?",
+    "target": "Apa yang diwakili oleh S dalam kalimat ini?"
+  },
+  {
+    "lesson": "5",
+    "segment": 17,
+    "timestamp": "00:00:52,840 --> 00:00:54,840",
+    "source": "Is it an abbreviation of the verb to be?",
+    "target": "Apakah itu singkatan dari kata kerja \"to be\"?"
+  },
+  {
+    "lesson": "5",
+    "segment": 18,
+    "timestamp": "00:00:55,120 --> 00:00:57,720",
+    "source": "If so, the sentence will become Sam's Book.",
+    "target": "Jika demikian, kalimatnya akan menjadi Buku Sam."
+  },
+  {
+    "lesson": "5",
+    "segment": 19,
+    "timestamp": "00:00:58,000 --> 00:00:59,800",
+    "source": "It doesn't sound very reasonable, right?",
+    "target": "Kedengarannya tidak masuk akal, kan?"
+  },
+  {
+    "lesson": "5",
+    "segment": 20,
+    "timestamp": "00:01:00,000 --> 00:01:02,960",
+    "source": "Obviously, Sam is a person and he cannot be a book.",
+    "target": "Jelas, Sam adalah orang dan dia tidak mungkin sebuah buku."
+  },
+  {
+    "lesson": "5",
+    "segment": 21,
+    "timestamp": "00:01:03,240 --> 00:01:04,640",
+    "source": "So what is in this case?",
+    "target": "Jadi apa yang terjadi dalam kasus ini?"
+  },
+  {
+    "lesson": "5",
+    "segment": 22,
+    "timestamp": "00:01:05,080 --> 00:01:08,240",
+    "source": "Sam bought the book, so that book belongs to Sam, or Sam's book.",
+    "target": "Sam membeli buku itu, jadi buku itu milik Sam, atau buku Sam."
+  },
+  {
+    "lesson": "5",
+    "segment": 23,
+    "timestamp": "00:01:08,640 --> 00:01:10,480",
+    "source": "The S here is used to indicate possession.",
+    "target": "S di sini digunakan untuk menunjukkan kepemilikan."
+  },
+  {
+    "lesson": "5",
+    "segment": 24,
+    "timestamp": "00:01:10,880 --> 00:01:14,014",
+    "source": "A noun in English can possess another noun, and that case is",
+    "target": "Kata benda dalam bahasa Inggris dapat memiliki kata benda lain, dan kasus tersebut"
+  },
+  {
+    "lesson": "5",
+    "segment": 25,
+    "timestamp": "00:01:14,080 --> 00:01:15,160",
+    "source": "called possessive case.",
+    "target": "disebut kasus posesif."
+  },
+  {
+    "lesson": "5",
+    "segment": 26,
+    "timestamp": "00:01:16,600 --> 00:01:21,733",
+    "source": "In the example above, \"Sam's book\", let's say \"Sam\" is noun number one,",
+    "target": "Dalam contoh di atas, \"buku Sam\", anggaplah \"Sam\" adalah kata benda pertama,"
+  },
+  {
+    "lesson": "5",
+    "segment": 27,
+    "timestamp": "00:01:21,800 --> 00:01:23,228",
+    "source": "and 'book' is noun number two.",
+    "target": "dan 'buku' adalah kata benda kedua."
+  },
+  {
+    "lesson": "5",
+    "segment": 28,
+    "timestamp": "00:01:23,280 --> 00:01:27,040",
+    "source": "Convert this phrase into symbolic form, then we will have N1's N2.",
+    "target": "Ubah frasa ini ke dalam bentuk simbolik, maka kita akan memiliki N1's N2."
+  },
+  {
+    "lesson": "5",
+    "segment": 29,
+    "timestamp": "00:01:27,560 --> 00:01:32,000",
+    "source": "In this case, noun one is the possessive noun and noun two is the possessed noun.",
+    "target": "Dalam hal ini, kata benda pertama adalah kata benda posesif dan kata benda kedua adalah kata benda yang dimiliki."
+  },
+  {
+    "lesson": "5",
+    "segment": 30,
+    "timestamp": "00:01:32,320 --> 00:01:35,920",
+    "source": "So does the possessive case simply involve adding \"s\" between two nouns?",
+    "target": "Jadi, apakah kasus posesif hanya melibatkan penambahan \"s\" di antara dua kata benda?"
+  },
+  {
+    "lesson": "5",
+    "segment": 31,
+    "timestamp": "00:01:37,920 --> 00:01:40,240",
+    "source": "Take some time to study the following examples.",
+    "target": "Luangkan waktu untuk mempelajari contoh-contoh berikut."
+  },
+  {
+    "lesson": "5",
+    "segment": 32,
+    "timestamp": "00:01:40,480 --> 00:01:42,520",
+    "source": "Decide if there is any that sounds wrong.",
+    "target": "Tentukan apakah ada yang terdengar salah."
+  },
+  {
+    "lesson": "5",
+    "segment": 33,
+    "timestamp": "00:01:42,840 --> 00:01:45,680",
+    "source": "You can pause the video for one minute to do this exercise,",
+    "target": "Anda dapat menjeda video selama satu menit untuk melakukan latihan ini,"
+  },
+  {
+    "lesson": "5",
+    "segment": 34,
+    "timestamp": "00:01:45,880 --> 00:01:47,160",
+    "source": "then I will explain the answer.",
+    "target": "lalu saya akan menjelaskan jawabannya."
+  },
+  {
+    "lesson": "5",
+    "segment": 35,
+    "timestamp": "00:01:47,720 --> 00:01:50,414",
+    "source": "Decide whether the possessive case is used correctly in each",
+    "target": "Tentukan apakah kasus posesif digunakan dengan benar di setiap"
+  },
+  {
+    "lesson": "5",
+    "segment": 36,
+    "timestamp": "00:01:50,480 --> 00:01:52,060",
+    "source": "of the following sentences.",
+    "target": "kalimat berikut."
+  },
+  {
+    "lesson": "5",
+    "segment": 37,
+    "timestamp": "00:01:53,720 --> 00:01:55,680",
+    "source": "All right, guys, have you all got the answers?",
+    "target": "Baiklah, teman-teman, apakah kalian semua sudah mendapatkan jawabannya?"
+  },
+  {
+    "lesson": "5",
+    "segment": 38,
+    "timestamp": "00:01:56,280 --> 00:01:57,520",
+    "source": "The third sentence is wrong.",
+    "target": "Kalimat ketiga salah."
+  },
+  {
+    "lesson": "5",
+    "segment": 39,
+    "timestamp": "00:01:57,800 --> 00:01:58,840",
+    "source": "And why is that wrong?",
+    "target": "Dan mengapa itu salah?"
+  },
+  {
+    "lesson": "5",
+    "segment": 40,
+    "timestamp": "00:01:59,200 --> 00:02:00,930",
+    "source": "Let's take a closer Let's take a look at it.",
+    "target": "Mari kita perhatikan lebih dekat."
+  },
+  {
+    "lesson": "5",
+    "segment": 41,
+    "timestamp": "00:02:01,000 --> 00:02:02,720",
+    "source": "The book's cover is very beautiful.",
+    "target": "Sampul buku itu sangat indah."
+  },
+  {
+    "lesson": "5",
+    "segment": 42,
+    "timestamp": "00:02:03,600 --> 00:02:07,320",
+    "source": "The possessive noun here is \"the book\" while the possessed noun is \"cover\".",
+    "target": "Kata benda posesif di sini adalah \"buku\" sedangkan kata benda yang dimiliki adalah \"sampul\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 43,
+    "timestamp": "00:02:07,600 --> 00:02:10,654",
+    "source": "But this sentence is wrong, which shows that things or objects",
+    "target": "Namun kalimat ini salah, yang menunjukkan bahwa benda atau objek"
+  },
+  {
+    "lesson": "5",
+    "segment": 44,
+    "timestamp": "00:02:10,720 --> 00:02:13,960",
+    "source": "in English will generally not have a possessive case.",
+    "target": "dalam bahasa Inggris umumnya tidak memiliki kasus posesif."
+  },
+  {
+    "lesson": "5",
+    "segment": 45,
+    "timestamp": "00:02:14,280 --> 00:02:17,320",
+    "source": "Instead, we will have to write it as the cover of the book,",
+    "target": "Sebaliknya, kita harus menuliskannya sebagai sampul buku,"
+  },
+  {
+    "lesson": "5",
+    "segment": 46,
+    "timestamp": "00:02:17,480 --> 00:02:19,680",
+    "source": "whose structure is N1 of N2.",
+    "target": "yang strukturnya adalah N1 dari N2."
+  },
+  {
+    "lesson": "5",
+    "segment": 47,
+    "timestamp": "00:02:20,120 --> 00:02:24,600",
+    "source": "In this case, noun one is the possessed noun, and noun two is the possessive noun.",
+    "target": "Dalam hal ini, kata benda pertama adalah kata benda yang dimiliki, dan kata benda kedua adalah kata benda posesif."
+  },
+  {
+    "lesson": "5",
+    "segment": 48,
+    "timestamp": "00:02:25,320 --> 00:02:27,120",
+    "source": "So in which cases can it be used?",
+    "target": "Jadi dalam kasus apa saja dapat digunakan?"
+  },
+  {
+    "lesson": "5",
+    "segment": 49,
+    "timestamp": "00:02:27,240 --> 00:02:30,720",
+    "source": "Let's look back at the correct sentences to summarize the knowledge.",
+    "target": "Mari kita lihat kembali kalimat yang benar untuk meringkas pengetahuan tersebut."
+  },
+  {
+    "lesson": "5",
+    "segment": 50,
+    "timestamp": "00:02:32,120 --> 00:02:36,174",
+    "source": "\"Father\" is a noun referring to a person, which is definitely a group of nouns",
+    "target": "\"Ayah\" adalah kata benda yang merujuk pada seseorang, yang jelas merupakan kelompok kata benda"
+  },
+  {
+    "lesson": "5",
+    "segment": 51,
+    "timestamp": "00:02:36,240 --> 00:02:38,120",
+    "source": "that can be used with the possessive case.",
+    "target": "yang dapat digunakan dengan kasus posesif."
+  },
+  {
+    "lesson": "5",
+    "segment": 52,
+    "timestamp": "00:02:38,680 --> 00:02:41,694",
+    "source": "\"Cat\" is an animal, so noun referring to animals can also",
+    "target": "\"Kucing\" adalah hewan, jadi kata benda yang merujuk pada hewan juga dapat"
+  },
+  {
+    "lesson": "5",
+    "segment": 53,
+    "timestamp": "00:02:41,760 --> 00:02:43,520",
+    "source": "be used with the possessive case.",
+    "target": "digunakan dengan kasus posesif."
+  },
+  {
+    "lesson": "5",
+    "segment": 54,
+    "timestamp": "00:02:44,000 --> 00:02:45,720",
+    "source": "\"Minute\" is a noun referring to time.",
+    "target": "\"Menit\" adalah kata benda yang merujuk pada waktu."
+  },
+  {
+    "lesson": "5",
+    "segment": 55,
+    "timestamp": "00:02:46,040 --> 00:02:49,854",
+    "source": "Remember, familiar concepts related to time and place can also be",
+    "target": "Ingat, konsep-konsep yang familiar terkait waktu dan tempat juga dapat"
+  },
+  {
+    "lesson": "5",
+    "segment": 56,
+    "timestamp": "00:02:49,920 --> 00:02:51,160",
+    "source": "used with the possessive case.",
+    "target": "digunakan dengan kasus posesif."
+  },
+  {
+    "lesson": "5",
+    "segment": 57,
+    "timestamp": "00:02:52,640 --> 00:02:56,320",
+    "source": "In this sentence, \"baker's\" is the possessive form of the noun",
+    "target": "Dalam kalimat ini, \"baker's\" adalah bentuk posesif dari kata benda"
+  },
+  {
+    "lesson": "5",
+    "segment": 58,
+    "timestamp": "00:02:56,480 --> 00:02:59,014",
+    "source": "\"baker\", referring to the place where the baker",
+    "target": "\"baker\", yang merujuk pada tempat di mana tukang roti"
+  },
+  {
+    "lesson": "5",
+    "segment": 59,
+    "timestamp": "00:02:59,080 --> 00:03:01,600",
+    "source": "works or sells bread, that is, the bakery.",
+    "target": "bekerja atau menjual roti, yaitu toko roti."
+  },
+  {
+    "lesson": "5",
+    "segment": 60,
+    "timestamp": "00:03:02,000 --> 00:03:07,014",
+    "source": "We use the possessive case, \"baker's\", to imply the location of the baker's",
+    "target": "Kita menggunakan bentuk posesif, \"baker's\", untuk menunjukkan lokasi"
+  },
+  {
+    "lesson": "5",
+    "segment": 61,
+    "timestamp": "00:03:07,080 --> 00:03:11,080",
+    "source": "workplace without needing to add another noun like \"shop\" or \"store\".",
+    "target": "tempat kerja tukang roti tanpa perlu menambahkan kata benda lain seperti \"toko\" atau \"tempat usaha\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 62,
+    "timestamp": "00:03:11,640 --> 00:03:16,054",
+    "source": "This construction is common with certain professions where the possessive form not",
+    "target": "Konstruksi ini umum digunakan pada profesi tertentu di mana bentuk posesif tidak"
+  },
+  {
+    "lesson": "5",
+    "segment": 63,
+    "timestamp": "00:03:16,120 --> 00:03:20,240",
+    "source": "only refers to the person, but also to the place associated with their work.",
+    "target": "hanya merujuk pada orangnya, tetapi juga pada tempat yang terkait dengan pekerjaan mereka."
+  },
+  {
+    "lesson": "5",
+    "segment": 64,
+    "timestamp": "00:03:20,760 --> 00:03:21,440",
+    "source": "Next one.",
+    "target": "Selanjutnya."
+  },
+  {
+    "lesson": "5",
+    "segment": 65,
+    "timestamp": "00:03:21,600 --> 00:03:24,774",
+    "source": "This is also a quite common use of the possessive case when we don't want",
+    "target": "Ini juga merupakan penggunaan bentuk posesif yang cukup umum ketika kita tidak ingin"
+  },
+  {
+    "lesson": "5",
+    "segment": 66,
+    "timestamp": "00:03:24,840 --> 00:03:26,600",
+    "source": "to repeat the noun to avoid repetition.",
+    "target": "mengulang kata benda untuk menghindari pengulangan."
+  },
+  {
+    "lesson": "5",
+    "segment": 67,
+    "timestamp": "00:03:26,840 --> 00:03:28,880",
+    "source": "Just leave the possessive noun followed by S.",
+    "target": "Cukup tinggalkan kata benda posesif diikuti oleh S."
+  },
+  {
+    "lesson": "5",
+    "segment": 68,
+    "timestamp": "00:03:29,160 --> 00:03:31,920",
+    "source": "In the sentence \"Julie's\" means \"Julie's book\".",
+    "target": "Dalam kalimat \"Julie's\" berarti \"buku Julie\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 69,
+    "timestamp": "00:03:32,400 --> 00:03:35,480",
+    "source": "Government is the group of people who are responsible for controlling",
+    "target": "Pemerintah adalah kelompok orang yang bertanggung jawab untuk mengendalikan"
+  },
+  {
+    "lesson": "5",
+    "segment": 70,
+    "timestamp": "00:03:35,546 --> 00:03:36,720",
+    "source": "a country or a state.",
+    "target": "suatu negara atau negara bagian."
+  },
+  {
+    "lesson": "5",
+    "segment": 71,
+    "timestamp": "00:03:37,120 --> 00:03:39,694",
+    "source": "In general, nouns referring to organizations can",
+    "target": "Secara umum, kata benda yang merujuk pada organisasi"
+  },
+  {
+    "lesson": "5",
+    "segment": 72,
+    "timestamp": "00:03:39,760 --> 00:03:41,600",
+    "source": "also be used with the possessive case.",
+    "target": "juga dapat digunakan dengan bentuk posesif."
+  },
+  {
+    "lesson": "5",
+    "segment": 73,
+    "timestamp": "00:03:43,120 --> 00:03:47,174",
+    "source": "Now, let's take about 30 seconds to review the summary table on the",
+    "target": "Sekarang, mari kita luangkan sekitar 30 detik untuk meninjau tabel ringkasan tentang"
+  },
+  {
+    "lesson": "5",
+    "segment": 74,
+    "timestamp": "00:03:47,240 --> 00:03:48,560",
+    "source": "possessive form of noun.",
+    "target": "bentuk posesif kata benda."
+  },
+  {
+    "lesson": "5",
+    "segment": 75,
+    "timestamp": "00:03:50,480 --> 00:03:52,400",
+    "source": "That's just about the cases of use.",
+    "target": "Itu hanya tentang kasus penggunaannya."
+  },
+  {
+    "lesson": "5",
+    "segment": 76,
+    "timestamp": "00:03:52,600 --> 00:03:54,400",
+    "source": "Now, let's learn how to write it correctly.",
+    "target": "Sekarang, mari kita pelajari cara menuliskannya dengan benar."
+  },
+  {
+    "lesson": "5",
+    "segment": 77,
+    "timestamp": "00:03:54,880 --> 00:03:56,640",
+    "source": "There are some rules to pay attention to.",
+    "target": "Ada beberapa aturan yang perlu diperhatikan."
+  },
+  {
+    "lesson": "5",
+    "segment": 78,
+    "timestamp": "00:03:57,000 --> 00:04:00,160",
+    "source": "Let's go back to the second wrong sentence in the examples we just had.",
+    "target": "Mari kita kembali ke kalimat salah kedua dalam contoh yang baru saja kita bahas."
+  },
+  {
+    "lesson": "5",
+    "segment": 79,
+    "timestamp": "00:04:01,560 --> 00:04:02,560",
+    "source": "Oops, what's wrong?",
+    "target": "Ups, apa yang salah?"
+  },
+  {
+    "lesson": "5",
+    "segment": 80,
+    "timestamp": "00:04:02,960 --> 00:04:03,960",
+    "source": "It looks like it's okay.",
+    "target": "Kelihatannya baik-baik saja."
+  },
+  {
+    "lesson": "5",
+    "segment": 81,
+    "timestamp": "00:04:04,080 --> 00:04:07,800",
+    "source": "The possessive case is S, and \"students\" are plural, so they have an S.",
+    "target": "Bentuk posesifnya adalah S, dan \"students\" adalah bentuk jamak, jadi mereka memiliki S."
+  },
+  {
+    "lesson": "5",
+    "segment": 82,
+    "timestamp": "00:04:08,480 --> 00:04:11,960",
+    "source": "But it looks a little weird to see two S next to each other, doesn't it?",
+    "target": "Tapi terlihat agak aneh melihat dua S bersebelahan, kan?"
+  },
+  {
+    "lesson": "5",
+    "segment": 83,
+    "timestamp": "00:04:12,240 --> 00:04:14,974",
+    "source": "If anyone feels a little bit stuck here, then you're right.",
+    "target": "Jika ada yang merasa sedikit bingung di sini, maka Anda benar."
+  },
+  {
+    "lesson": "5",
+    "segment": 84,
+    "timestamp": "00:04:15,040 --> 00:04:16,720",
+    "source": "That's not how we write it in English.",
+    "target": "Bukan seperti itu cara kita menulisnya dalam bahasa Inggris."
+  },
+  {
+    "lesson": "5",
+    "segment": 85,
+    "timestamp": "00:04:17,240 --> 00:04:21,734",
+    "source": "For plural nouns that are added to the end of S or ES, when using the possessive",
+    "target": "Untuk kata benda jamak yang ditambahkan di akhir S atau ES, ketika menggunakan bentuk posesif"
+  },
+  {
+    "lesson": "5",
+    "segment": 86,
+    "timestamp": "00:04:21,800 --> 00:04:24,840",
+    "source": "case, we just add an apostrophe, not an S, everyone.",
+    "target": ", kita hanya menambahkan apostrof, bukan S."
+  },
+  {
+    "lesson": "5",
+    "segment": 87,
+    "timestamp": "00:04:25,320 --> 00:04:29,134",
+    "source": "Here we have to put \"students'\" apostrophe, to be correct, equivalent",
+    "target": "Di sini kita harus menambahkan apostrof \"students'\", agar benar, setara"
+  },
+  {
+    "lesson": "5",
+    "segment": 88,
+    "timestamp": "00:04:29,200 --> 00:04:30,160",
+    "source": "to the structure below.",
+    "target": "dengan struktur di bawah ini."
+  },
+  {
+    "lesson": "5",
+    "segment": 89,
+    "timestamp": "00:04:31,400 --> 00:04:34,334",
+    "source": "At this point, I guess some of you will ask, what about other",
+    "target": "Pada titik ini, saya kira beberapa dari Anda akan bertanya, bagaimana dengan"
+  },
+  {
+    "lesson": "5",
+    "segment": 90,
+    "timestamp": "00:04:34,400 --> 00:04:35,760",
+    "source": "plural cases of noun?",
+    "target": "bentuk jamak kata benda lainnya"
+  },
+  {
+    "lesson": "5",
+    "segment": 91,
+    "timestamp": "00:04:35,960 --> 00:04:39,694",
+    "source": "Because we learned a lot of different plural forms yesterday, and also,",
+    "target": "? Karena kita telah mempelajari banyak bentuk jamak yang berbeda kemarin, dan juga,"
+  },
+  {
+    "lesson": "5",
+    "segment": 92,
+    "timestamp": "00:04:39,760 --> 00:04:43,640",
+    "source": "nouns ending in -S, but not plural, are they the same as the above rule?",
+    "target": "kata benda yang berakhiran -S, tetapi bukan bentuk jamak, apakah aturannya sama dengan aturan di atas?"
+  },
+  {
+    "lesson": "5",
+    "segment": 93,
+    "timestamp": "00:04:44,040 --> 00:04:47,760",
+    "source": "To answer this question, everyone, let's do the following exercise together,",
+    "target": "Untuk menjawab pertanyaan ini, semuanya, mari kita kerjakan latihan berikut bersama-sama,"
+  },
+  {
+    "lesson": "5",
+    "segment": 94,
+    "timestamp": "00:04:48,000 --> 00:04:50,800",
+    "source": "which is also a chance to practice the knowledge we just learned.",
+    "target": "yang juga merupakan kesempatan untuk mempraktikkan pengetahuan yang baru saja kita pelajari."
+  },
+  {
+    "lesson": "5",
+    "segment": 95,
+    "timestamp": "00:04:52,200 --> 00:04:55,694",
+    "source": "Pause the video in one minute, identify all the possessive cases",
+    "target": "Jeda video dalam satu menit, identifikasi semua kasus posesif"
+  },
+  {
+    "lesson": "5",
+    "segment": 96,
+    "timestamp": "00:04:55,760 --> 00:04:58,680",
+    "source": "of noun used in the following paragraph. Ready?",
+    "target": "kata benda yang digunakan dalam paragraf berikut. Siap?"
+  },
+  {
+    "lesson": "5",
+    "segment": 97,
+    "timestamp": "00:04:59,080 --> 00:05:00,567",
+    "source": "Time starts now.",
+    "target": "Waktu dimulai sekarang."
+  },
+  {
+    "lesson": "5",
+    "segment": 98,
+    "timestamp": "00:05:10,000 --> 00:05:12,076",
+    "source": "Time for our answers.",
+    "target": "Waktunya untuk jawaban kita."
+  },
+  {
+    "lesson": "5",
+    "segment": 99,
+    "timestamp": "00:05:12,120 --> 00:05:15,400",
+    "source": "First, let's point out all the cases of possessive nouns.",
+    "target": "Pertama, mari kita tunjukkan semua kasus kata benda posesif."
+  },
+  {
+    "lesson": "5",
+    "segment": 100,
+    "timestamp": "00:05:15,960 --> 00:05:20,040",
+    "source": "\"The cats' fur\" - this is the case of a plural noun with an S at the end.",
+    "target": "\"Bulu kucing\" - ini adalah kasus kata benda jamak dengan akhiran S."
+  },
+  {
+    "lesson": "5",
+    "segment": 101,
+    "timestamp": "00:05:20,280 --> 00:05:22,494",
+    "source": "So we just put an apostrophe, not S.",
+    "target": "Jadi kita hanya menambahkan apostrof, bukan S."
+  },
+  {
+    "lesson": "5",
+    "segment": 102,
+    "timestamp": "00:05:22,560 --> 00:05:24,000",
+    "source": "Everyone pay attention about it.",
+    "target": "Semuanya perhatikan hal ini."
+  },
+  {
+    "lesson": "5",
+    "segment": 103,
+    "timestamp": "00:05:24,520 --> 00:05:25,974",
+    "source": "\"Her children's favorite cat.\"",
+    "target": "\"Kucing kesayangan anak-anaknya.\""
+  },
+  {
+    "lesson": "5",
+    "segment": 104,
+    "timestamp": "00:05:26,040 --> 00:05:29,560",
+    "source": "Oh, this is one of the plural exception cases we mentioned in the last lesson.",
+    "target": "Oh, ini adalah salah satu kasus pengecualian jamak yang kita sebutkan di pelajaran sebelumnya."
+  },
+  {
+    "lesson": "5",
+    "segment": 105,
+    "timestamp": "00:05:30,000 --> 00:05:31,840",
+    "source": "\"Children\" is the plural of \"child\".",
+    "target": "\"Anak-anak\" adalah bentuk jamak dari \"anak\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 106,
+    "timestamp": "00:05:31,920 --> 00:05:35,854",
+    "source": "Nouns that become plural without adding S or ES, we still put",
+    "target": "Kata benda yang menjadi jamak tanpa menambahkan S atau ES, kita tetap menggunakan"
+  },
+  {
+    "lesson": "5",
+    "segment": 107,
+    "timestamp": "00:05:35,920 --> 00:05:37,560",
+    "source": "the possessive case as \"'s\".",
+    "target": "bentuk posesif \"'s\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 108,
+    "timestamp": "00:05:38,000 --> 00:05:42,414",
+    "source": "\"My neighbor's son\" - \"neighbor\" is singular, and the addition of S indicates",
+    "target": "\"Anak tetangga saya\" - \"tetangga\" adalah tunggal, dan penambahan S menunjukkan"
+  },
+  {
+    "lesson": "5",
+    "segment": 109,
+    "timestamp": "00:05:42,480 --> 00:05:44,680",
+    "source": "possession, showing that it is the neighbor's son.",
+    "target": "kepemilikan, menunjukkan bahwa itu adalah anak tetangga."
+  },
+  {
+    "lesson": "5",
+    "segment": 110,
+    "timestamp": "00:05:45,160 --> 00:05:49,574",
+    "source": "\"James' hobby\" - \"James\" here is a singular noun, but it ends with an -s,",
+    "target": "\"Hobi James\" - \"James\" di sini adalah kata benda tunggal, tetapi berakhiran -s,"
+  },
+  {
+    "lesson": "5",
+    "segment": 111,
+    "timestamp": "00:05:49,640 --> 00:05:52,280",
+    "source": "and according to the way we add the possessive case here,",
+    "target": "dan menurut cara kita menambahkan kasus posesif di sini,"
+  },
+  {
+    "lesson": "5",
+    "segment": 112,
+    "timestamp": "00:05:52,440 --> 00:05:54,040",
+    "source": "we only need an apostrophe.",
+    "target": "kita hanya membutuhkan apostrof."
+  },
+  {
+    "lesson": "5",
+    "segment": 113,
+    "timestamp": "00:05:54,600 --> 00:05:57,934",
+    "source": "\"James's bag\", but immediately after that, we see that still \"James\",",
+    "target": "\"Tas James\", tetapi segera setelah itu, kita melihat bahwa masih \"James\","
+  },
+  {
+    "lesson": "5",
+    "segment": 114,
+    "timestamp": "00:05:58,000 --> 00:05:59,854",
+    "source": "a singular noun ending in -s.",
+    "target": "kata benda tunggal yang berakhiran -s."
+  },
+  {
+    "lesson": "5",
+    "segment": 115,
+    "timestamp": "00:05:59,920 --> 00:06:03,120",
+    "source": "We can also add S, so both ways of writing are acceptable.",
+    "target": "Kita juga dapat menambahkan S, jadi kedua cara penulisan tersebut dapat diterima."
+  },
+  {
+    "lesson": "5",
+    "segment": 116,
+    "timestamp": "00:06:05,200 --> 00:06:07,974",
+    "source": "At this point, I believe you have a clearer understanding",
+    "target": "Pada titik ini, saya yakin Anda memiliki pemahaman yang lebih jelas"
+  },
+  {
+    "lesson": "5",
+    "segment": 117,
+    "timestamp": "00:06:08,040 --> 00:06:10,200",
+    "source": "of how to use and write the possessive case.",
+    "target": "tentang cara menggunakan dan menulis kasus posesif."
+  },
+  {
+    "lesson": "5",
+    "segment": 118,
+    "timestamp": "00:06:10,640 --> 00:06:12,080",
+    "source": "Let me summarize it a little.",
+    "target": "Izinkan saya meringkasnya sedikit."
+  },
+  {
+    "lesson": "5",
+    "segment": 119,
+    "timestamp": "00:06:15,440 --> 00:06:18,894",
+    "source": "Structure one, when noun one is a singular noun or a plural noun,",
+    "target": "Struktur satu, ketika kata benda satu adalah kata benda tunggal atau jamak,"
+  },
+  {
+    "lesson": "5",
+    "segment": 120,
+    "timestamp": "00:06:18,960 --> 00:06:20,000",
+    "source": "but not ending in -s.",
+    "target": "tetapi tidak berakhiran -s."
+  },
+  {
+    "lesson": "5",
+    "segment": 121,
+    "timestamp": "00:06:20,480 --> 00:06:24,560",
+    "source": "Structure two, when noun one is a singular or plural noun ending in s.",
+    "target": "Struktur dua, ketika kata benda satu adalah kata benda tunggal atau jamak yang berakhiran s."
+  },
+  {
+    "lesson": "5",
+    "segment": 122,
+    "timestamp": "00:06:25,040 --> 00:06:27,280",
+    "source": "So according to you, which of the two nouns,",
+    "target": "Jadi menurut Anda, manakah dari kedua kata benda tersebut,"
+  },
+  {
+    "lesson": "5",
+    "segment": 123,
+    "timestamp": "00:06:27,360 --> 00:06:30,974",
+    "source": "noun one and noun two, is the main noun, meaning the noun we will use",
+    "target": "kata benda satu dan kata benda dua, yang merupakan kata benda utama, artinya kata benda yang akan kita gunakan"
+  },
+  {
+    "lesson": "5",
+    "segment": 124,
+    "timestamp": "00:06:31,040 --> 00:06:32,520",
+    "source": "to conjugate the verb later?",
+    "target": "untuk mengkonjugasikan kata kerja nanti?"
+  },
+  {
+    "lesson": "5",
+    "segment": 125,
+    "timestamp": "00:06:32,960 --> 00:06:36,294",
+    "source": "Let's look back at some examples of the possessive case we have",
+    "target": "Mari kita lihat kembali beberapa contoh kasus posesif yang telah kita"
+  },
+  {
+    "lesson": "5",
+    "segment": 126,
+    "timestamp": "00:06:36,360 --> 00:06:37,880",
+    "source": "learned in the previous exercise.",
+    "target": "pelajari dalam latihan sebelumnya."
+  },
+  {
+    "lesson": "5",
+    "segment": 127,
+    "timestamp": "00:06:38,440 --> 00:06:39,320",
+    "source": "The cats' fur.",
+    "target": "Bulu kucing."
+  },
+  {
+    "lesson": "5",
+    "segment": 128,
+    "timestamp": "00:06:40,640 --> 00:06:44,080",
+    "source": "Here noun one is \"cat\", noun two is \"fur\", meaning \"the cats' fur\".",
+    "target": "Di sini, kata benda pertama adalah \"kucing\", kata benda kedua adalah \"bulu\", yang berarti \"bulu kucing\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 129,
+    "timestamp": "00:06:44,240 --> 00:06:46,920",
+    "source": "So does this phrase refer to the cat or its fur?",
+    "target": "Jadi, apakah frasa ini merujuk pada kucing atau bulunya?"
+  },
+  {
+    "lesson": "5",
+    "segment": 130,
+    "timestamp": "00:06:47,400 --> 00:06:49,800",
+    "source": "That's right. It's the cats' fur, not the cat.",
+    "target": "Benar. Itu adalah bulu kucing, bukan kucingnya."
+  },
+  {
+    "lesson": "5",
+    "segment": 131,
+    "timestamp": "00:06:49,960 --> 00:06:52,280",
+    "source": "So noun two, that is \"fur\", is the main noun.",
+    "target": "Jadi, kata benda kedua, yaitu \"bulu\", adalah kata benda utama."
+  },
+  {
+    "lesson": "5",
+    "segment": 132,
+    "timestamp": "00:06:52,600 --> 00:06:55,480",
+    "source": "Let's look at another example to test if this rule is correct.",
+    "target": "Mari kita lihat contoh lain untuk menguji apakah aturan ini benar."
+  },
+  {
+    "lesson": "5",
+    "segment": 133,
+    "timestamp": "00:06:56,120 --> 00:06:57,080",
+    "source": "My neighbor's son.",
+    "target": "Anak tetangga saya."
+  },
+  {
+    "lesson": "5",
+    "segment": 134,
+    "timestamp": "00:06:58,320 --> 00:07:01,120",
+    "source": "Here, noun one is \"neighbor\" and noun two is \"son\".",
+    "target": "Di sini, kata benda pertama adalah \"tetangga\" dan kata benda kedua adalah \"anak\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 135,
+    "timestamp": "00:07:01,320 --> 00:07:03,120",
+    "source": "This phrase means \"the neighbor's son\".",
+    "target": "Frasa ini berarti \"anak tetangga\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 136,
+    "timestamp": "00:07:03,280 --> 00:07:06,080",
+    "source": "So the main noun is noun two, \"son\", not the \"neighbor\".",
+    "target": "Jadi, kata benda utama adalah kata benda kedua, \"anak\", bukan \"tetangga\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 137,
+    "timestamp": "00:07:07,640 --> 00:07:11,654",
+    "source": "From the above two examples, I concluded for you that in the case",
+    "target": "Dari dua contoh di atas, saya menyimpulkan bahwa dalam kasus"
+  },
+  {
+    "lesson": "5",
+    "segment": 138,
+    "timestamp": "00:07:11,720 --> 00:07:15,040",
+    "source": "of possessive case, noun two will always be the main noun.",
+    "target": "posesif, kata benda kedua akan selalu menjadi kata benda utama."
+  },
+  {
+    "lesson": "5",
+    "segment": 139,
+    "timestamp": "00:07:15,240 --> 00:07:19,214",
+    "source": "So if you encounter an exercise about conjugating verbs with a subject",
+    "target": "Jadi, jika Anda menemukan latihan tentang mengkonjugasikan kata kerja dengan subjek"
+  },
+  {
+    "lesson": "5",
+    "segment": 140,
+    "timestamp": "00:07:19,280 --> 00:07:22,520",
+    "source": "in possessive case, always look at the second noun after",
+    "target": "dalam kasus posesif, selalu perhatikan kata benda kedua setelahnya"
+  },
+  {
+    "lesson": "5",
+    "segment": 141,
+    "timestamp": "00:07:22,760 --> 00:07:24,760",
+    "source": "to conjugate the verb accordingly.",
+    "target": "untuk mengkonjugasikan kata kerja yang sesuai."
+  },
+  {
+    "lesson": "5",
+    "segment": 142,
+    "timestamp": "00:07:26,200 --> 00:07:29,160",
+    "source": "Let's do an exercise together to review the knowledge we just had.",
+    "target": "Mari kita lakukan latihan bersama untuk meninjau kembali pengetahuan yang baru saja kita dapatkan."
+  },
+  {
+    "lesson": "5",
+    "segment": 143,
+    "timestamp": "00:07:29,600 --> 00:07:33,614",
+    "source": "Identity the possessive phrases in the following paragraph and indicate",
+    "target": "Identifikasi frasa posesif dalam paragraf berikut dan tunjukkan"
+  },
+  {
+    "lesson": "5",
+    "segment": 144,
+    "timestamp": "00:07:33,680 --> 00:07:35,480",
+    "source": "which is the main noun in each phrase.",
+    "target": "mana kata benda utama dalam setiap frasa."
+  },
+  {
+    "lesson": "5",
+    "segment": 145,
+    "timestamp": "00:07:36,960 --> 00:07:39,800",
+    "source": "Pause the video for 30 seconds to do this exercise.",
+    "target": "Jeda video selama 30 detik untuk mengerjakan latihan ini."
+  },
+  {
+    "lesson": "5",
+    "segment": 146,
+    "timestamp": "00:07:41,840 --> 00:07:44,280",
+    "source": "Time's up. Check the answers with me, everyone.",
+    "target": "Waktu habis. Mari kita periksa jawabannya bersama-sama."
+  },
+  {
+    "lesson": "5",
+    "segment": 147,
+    "timestamp": "00:07:44,680 --> 00:07:47,374",
+    "source": "We have the first possessive case, \"my sister's name\",",
+    "target": "Kita memiliki kasus posesif pertama, \"nama saudara perempuan saya\","
+  },
+  {
+    "lesson": "5",
+    "segment": 148,
+    "timestamp": "00:07:47,440 --> 00:07:48,880",
+    "source": "with the main noun being \"name\".",
+    "target": "dengan kata benda utamanya adalah \"nama\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 149,
+    "timestamp": "00:07:49,320 --> 00:07:52,960",
+    "source": "The second phrase is \"Sarah's friends\", with \"friends\" as the main noun.",
+    "target": "Frasa kedua adalah \"teman-teman Sarah\", dengan \"teman-teman\" sebagai kata benda utamanya."
+  },
+  {
+    "lesson": "5",
+    "segment": 150,
+    "timestamp": "00:07:53,400 --> 00:07:55,560",
+    "source": "The third phrase is \"Mark's game collection\",",
+    "target": "Frasa ketiga adalah \"Koleksi permainan Mark\","
+  },
+  {
+    "lesson": "5",
+    "segment": 151,
+    "timestamp": "00:07:55,640 --> 00:07:57,760",
+    "source": "with the main noun being \"game collection\".",
+    "target": "dengan kata benda utama \"koleksi permainan\"."
+  },
+  {
+    "lesson": "5",
+    "segment": 152,
+    "timestamp": "00:07:58,200 --> 00:08:01,640",
+    "source": "Next is the phrase \"Lisa's favorite game\", with \"game\" as the main noun.",
+    "target": "Selanjutnya adalah frasa \"Permainan favorit Lisa\", dengan \"permainan\" sebagai kata benda utama."
+  },
+  {
+    "lesson": "5",
+    "segment": 153,
+    "timestamp": "00:08:01,920 --> 00:08:05,800",
+    "source": "The fifth phrase is \"my mom's chocolate cake\", with \"cake\" as the main noun.",
+    "target": "Frasa kelima adalah \"kue cokelat ibuku\", dengan \"kue\" sebagai kata benda utama."
+  },
+  {
+    "lesson": "5",
+    "segment": 154,
+    "timestamp": "00:08:06,160 --> 00:08:09,400",
+    "source": "Finally, there is \"friends' presence\", with \"presence\" as the main noun.",
+    "target": "Terakhir, ada \"kehadiran teman-teman\", dengan \"kehadiran\" sebagai kata benda utama."
+  },
+  {
+    "lesson": "5",
+    "segment": 155,
+    "timestamp": "00:08:10,760 --> 00:08:13,320",
+    "source": "The lesson on the possessive case of nouns ends here.",
+    "target": "Pelajaran tentang kasus posesif kata benda berakhir di sini."
+  },
+  {
+    "lesson": "5",
+    "segment": 156,
+    "timestamp": "00:08:13,640 --> 00:08:16,894",
+    "source": "Along with the types of nouns that can be used with the possessive case",
+    "target": "Bersama dengan jenis kata benda yang dapat digunakan dengan kasus posesif"
+  },
+  {
+    "lesson": "5",
+    "segment": 157,
+    "timestamp": "00:08:16,960 --> 00:08:20,654",
+    "source": "and the rules of writing to keep in mind, we have a better understanding of how",
+    "target": "dan aturan penulisan yang perlu diingat, kita memiliki pemahaman yang lebih baik tentang cara"
+  },
+  {
+    "lesson": "5",
+    "segment": 158,
+    "timestamp": "00:08:20,720 --> 00:08:23,520",
+    "source": "to use it correctly so that we can use it in the exam later.",
+    "target": "menggunakannya dengan benar sehingga kita dapat menggunakannya dalam ujian nanti."
+  },
+  {
+    "lesson": "5",
+    "segment": 159,
+    "timestamp": "00:08:23,960 --> 00:08:27,774",
+    "source": "There is only one more lesson on quantifiers, and we will complete all",
+    "target": "Hanya ada satu pelajaran lagi tentang kata keterangan jumlah, dan kita akan menyelesaikan semua"
+  },
+  {
+    "lesson": "5",
+    "segment": 160,
+    "timestamp": "00:08:27,840 --> 00:08:30,533",
+    "source": "the knowledge about nouns in the basic grammar course.",
+    "target": "pengetahuan tentang kata benda dalam kursus tata bahasa dasar."
+  },
+  {
+    "lesson": "5",
+    "segment": 161,
+    "timestamp": "00:08:30,600 --> 00:08:32,593",
+    "source": "Don't forget to systematize and practice",
+    "target": "Jangan lupa untuk mensistematiskan dan berlatih"
+  },
+  {
+    "lesson": "5",
+    "segment": 162,
+    "timestamp": "00:08:32,600 --> 00:08:34,920",
+    "source": "from now on to make the knowledge your own, everyone.",
+    "target": "mulai sekarang untuk menguasai pengetahuan ini."
+  },
+  {
+    "lesson": "5",
+    "segment": 163,
+    "timestamp": "00:08:35,480 --> 00:08:36,720",
+    "source": "Goodbye and see you next time.",
+    "target": "Sampai jumpa lagi."
+  }
+]

@@ -1,0 +1,616 @@
+﻿1
+00:00:12,440 --> 00:00:15,550
+Hi guys, I'm back with another exciting lesson.
+
+2
+00:00:16,116 --> 00:00:18,300
+And in today's lesson, we're going to practice
+
+3
+00:00:18,300 --> 00:00:20,790
+the flowchart completion in IELTS Reading.
+
+4
+00:00:22,160 --> 00:00:24,110
+This lesson has three parts.
+
+5
+00:00:25,470 --> 00:00:26,320
+Number one.
+
+6
+00:00:26,780 --> 00:00:30,120
+Introduction to flowchart completion in IELTS Reading.
+
+7
+00:00:30,620 --> 00:00:31,700
+Number two.
+
+8
+00:00:31,700 --> 00:00:34,900
+Steps for flowchart completion in IELTS Reading.
+
+9
+00:00:35,280 --> 00:00:37,580
+And number three, practice.
+
+10
+00:00:37,930 --> 00:00:39,750
+Let's get started with the first part.
+
+11
+00:00:44,810 --> 00:00:48,050
+Flowchart completion question type has the following features.
+
+12
+00:00:49,090 --> 00:00:52,130
+Instead of completing a sentence like sentence completion
+
+13
+00:00:52,130 --> 00:00:55,360
+or a table like table completion,
+
+14
+00:00:55,360 --> 00:00:59,610
+this question type requires us to complete a diagram or
+
+15
+00:00:59,610 --> 00:01:01,990
+procedure within a word limit.
+
+16
+00:01:02,850 --> 00:01:06,630
+This type of diagram summarizes information from the
+
+17
+00:01:06,630 --> 00:01:10,430
+passage and represents a sequence of continuous events,
+
+18
+00:01:10,790 --> 00:01:13,830
+actions, or steps in a process or the
+
+19
+00:01:13,830 --> 00:01:15,710
+transformation of an object.
+
+20
+00:01:16,430 --> 00:01:19,570
+And another important thing to remember is that
+
+21
+00:01:19,570 --> 00:01:22,910
+the answers might not come in order as
+
+22
+00:01:22,910 --> 00:01:24,580
+the information in the passage.
+
+23
+00:01:24,750 --> 00:01:27,490
+Therefore, you need to read the passage carefully
+
+24
+00:01:27,490 --> 00:01:28,850
+to find the answers.
+
+25
+00:01:29,750 --> 00:01:32,230
+When dealing with this question type, you need
+
+26
+00:01:32,230 --> 00:01:34,030
+to pay attention to the following things.
+
+27
+00:01:35,430 --> 00:01:37,270
+Identify the order of questions.
+
+28
+00:01:38,090 --> 00:01:41,610
+Locate paragraphs containing keywords of the flowchart.
+
+29
+00:01:42,690 --> 00:01:46,730
+Moreover, similar to other completion question types, the
+
+30
+00:01:46,730 --> 00:01:49,730
+answers are 100% taken from the passage
+
+31
+00:01:49,730 --> 00:01:52,310
+within the word limit or not changed in
+
+32
+00:01:52,310 --> 00:01:53,490
+terms of word form.
+
+33
+00:01:54,390 --> 00:01:57,630
+Okay, we've had an overview of flowchart completion.
+
+34
+00:01:58,150 --> 00:02:00,110
+Let's move on to the steps for this
+
+35
+00:02:00,110 --> 00:02:01,910
+question type to see if there are any
+
+36
+00:02:01,910 --> 00:02:04,770
+differences compared to other completion question types.
+
+37
+00:02:05,430 --> 00:02:07,710
+Let's take a quick look again at the
+
+38
+00:02:07,710 --> 00:02:09,789
+four steps for completion tasks.
+
+39
+00:02:10,310 --> 00:02:13,110
+Until this point, you are probably quite familiar
+
+40
+00:02:13,110 --> 00:02:14,250
+with this process.
+
+41
+00:02:14,910 --> 00:02:16,930
+First, you check the word limit.
+
+42
+00:02:17,530 --> 00:02:19,930
+Second, you predict the type of word.
+
+43
+00:02:20,430 --> 00:02:22,770
+Third, you locate the information.
+
+44
+00:02:23,310 --> 00:02:25,290
+And finally, fill in the answer.
+
+45
+00:02:26,160 --> 00:02:28,990
+Steps 1, 2, and 4 are standard.
+
+46
+00:02:29,650 --> 00:02:32,170
+So what makes flowchart completion different?
+
+47
+00:02:32,930 --> 00:02:35,650
+The secret, again, is in step 3.
+
+48
+00:02:36,490 --> 00:02:40,150
+So for this task, what should step 3 focus on?
+
+49
+00:02:41,030 --> 00:02:44,970
+Unlike a table, which organizes information by topic,
+
+50
+00:02:45,410 --> 00:02:49,190
+a flowchart shows order or sequence of events.
+
+51
+00:02:49,900 --> 00:02:51,740
+In this specific exercise,
+
+52
+00:02:51,740 --> 00:02:56,260
+it shows the step-by-step process of cloud formation.
+
+53
+00:02:56,750 --> 00:02:59,230
+This means the information in the text will
+
+54
+00:02:59,230 --> 00:03:02,610
+follow or describe a logical timeline.
+
+55
+00:03:03,370 --> 00:03:05,990
+Once you find the first step, the next
+
+56
+00:03:05,990 --> 00:03:09,350
+steps will usually follow right after it in the passage.
+
+57
+00:03:10,750 --> 00:03:13,530
+Let's look at question number 1 to see
+
+58
+00:03:13,530 --> 00:03:14,870
+where the process begins.
+
+59
+00:03:15,570 --> 00:03:20,183
+The box says, "The desert surface constantly absorb..."
+
+60
+00:03:20,880 --> 00:03:23,540
+Absorb is our key verb here,
+
+61
+00:03:23,540 --> 00:03:26,780
+and it means to take in or soak up.
+
+62
+00:03:27,270 --> 00:03:30,110
+So we need to scan specifically for a
+
+63
+00:03:30,110 --> 00:03:33,230
+noun or a noun phrase that shows the
+
+64
+00:03:33,230 --> 00:03:37,130
+ground is taking in something, like energy or heat.
+
+65
+00:03:38,170 --> 00:03:41,310
+We need to find this starting action in the text.
+
+66
+00:03:41,970 --> 00:03:44,730
+Now scan the first paragraph quickly.
+
+67
+00:03:45,610 --> 00:03:49,630
+Look for desert surface, or synonyms like ground.
+
+68
+00:03:50,470 --> 00:03:52,750
+Let's see whether you can finish this task
+
+69
+00:03:52,750 --> 00:03:54,170
+within 20 seconds.
+
+70
+00:04:17,100 --> 00:04:19,339
+Did you spot the phrase about the ground
+
+71
+00:04:19,339 --> 00:04:20,459
+receiving energy?
+
+72
+00:04:21,160 --> 00:04:23,960
+In the first paragraph, the text states that
+
+73
+00:04:23,960 --> 00:04:28,100
+the ground receives the full force of solar energy.
+
+74
+00:04:28,460 --> 00:04:31,260
+If we compare this to the flowchart, the
+
+75
+00:04:31,260 --> 00:04:36,080
+verb receives acts as a direct synonym for absorbs.
+
+76
+00:04:36,980 --> 00:04:39,900
+And since solar energy is a noun phrase
+
+77
+00:04:39,900 --> 00:04:43,680
+that fits our grammar prediction perfectly, we can
+
+78
+00:04:43,680 --> 00:04:47,060
+confirm that solar energy is the correct answer
+
+79
+00:04:47,060 --> 00:04:48,240
+for question 1.
+
+80
+00:04:49,860 --> 00:04:52,120
+Now that we have found the starting point,
+
+81
+00:04:52,480 --> 00:04:55,400
+remember to follow the sequence for the rest of the chart.
+
+82
+00:04:56,080 --> 00:04:58,940
+I will leave you with questions 2 to 5.
+
+83
+00:04:59,660 --> 00:05:02,020
+Please pause the video now and try to
+
+84
+00:05:02,020 --> 00:05:04,880
+complete all the questions within 5 minutes.
+
+85
+00:05:15,700 --> 00:05:18,520
+Moving on to the second step in the flowchart.
+
+86
+00:05:19,280 --> 00:05:22,760
+Here the box mentions that this causes the
+
+87
+00:05:22,760 --> 00:05:24,800
+to heat up and rise.
+
+88
+00:05:25,580 --> 00:05:28,140
+So we are looking for a noun or
+
+89
+00:05:28,140 --> 00:05:32,120
+a noun phrase, specifically the object that gets
+
+90
+00:05:32,120 --> 00:05:33,720
+hot and moves upwards.
+
+91
+00:05:34,560 --> 00:05:37,720
+If we continue reading the first paragraph, the
+
+92
+00:05:37,720 --> 00:05:41,100
+text explains that the energy warms the air.
+
+93
+00:05:42,120 --> 00:05:44,680
+Immediately after that, it states...
+
+94
+00:05:44,680 --> 00:05:49,320
+Consequently, this heated air begins to rise rapidly
+
+95
+00:05:49,540 --> 00:05:51,900
+We can see a clear match here.
+
+96
+00:05:52,620 --> 00:05:55,540
+Warms corresponds to heats up.
+
+97
+00:05:56,300 --> 00:05:59,340
+The subject performing the action is air.
+
+98
+00:06:00,060 --> 00:06:03,940
+Therefore the correct word to fill in the blank is air.
+
+99
+00:06:05,220 --> 00:06:08,660
+Following the sequence, let's look at the next stage.
+
+100
+00:06:09,300 --> 00:06:12,500
+The flowchart indicates that the rising current is
+
+101
+00:06:12,500 --> 00:06:15,300
+pushed higher when it encounters something.
+
+102
+00:06:16,100 --> 00:06:21,760
+In this context, encounters implies meeting or hitting an obstacle
+
+103
+00:06:22,300 --> 00:06:25,860
+So we need another noun or noun phrase here.
+
+104
+00:06:26,390 --> 00:06:28,860
+As we scan down to the second paragraph,
+
+105
+00:06:29,380 --> 00:06:32,780
+the text describes how the air eventually hits
+
+106
+00:06:32,780 --> 00:06:34,380
+tall stone barriers.
+
+107
+00:06:35,420 --> 00:06:38,500
+It also mentions that these dry zones are
+
+108
+00:06:38,500 --> 00:06:41,060
+located near massive mountains.
+
+109
+00:06:41,800 --> 00:06:45,000
+Since mountains fits the context of a large
+
+110
+00:06:45,000 --> 00:06:48,440
+natural barrier that forces air upwards.
+
+111
+00:06:48,440 --> 00:06:50,900
+Mountains is the correct answer here.
+
+112
+00:06:52,360 --> 00:06:56,360
+Now, let's observe what happens at higher altitudes
+
+113
+00:06:56,360 --> 00:06:57,680
+in question four.
+
+114
+00:06:58,600 --> 00:07:01,520
+The chart mentions a quick drop in.
+
+115
+00:07:02,340 --> 00:07:04,820
+This phrase suggests we need to find a
+
+116
+00:07:04,820 --> 00:07:09,080
+noun or a noun phrase that decreases or falls.
+
+117
+00:07:09,880 --> 00:07:13,020
+In the third paragraph, the writer states...
+
+118
+00:07:13,020 --> 00:07:16,580
+The temperature at these heights is significantly lower.
+
+119
+00:07:17,600 --> 00:07:20,840
+While the text uses the adjective lower, the
+
+120
+00:07:20,840 --> 00:07:24,000
+flowchart paraphrases this as a drop.
+
+121
+00:07:24,860 --> 00:07:27,720
+This confirms that the factor changing here is
+
+122
+00:07:27,720 --> 00:07:28,940
+the temperature.
+
+123
+00:07:29,880 --> 00:07:32,680
+Finally, we reach the last step of the
+
+124
+00:07:32,680 --> 00:07:33,720
+formation process.
+
+125
+00:07:34,600 --> 00:07:35,620
+The note says...
+
+126
+00:07:35,620 --> 00:07:40,720
+Water vapour changes into small to form large clouds.
+
+127
+00:07:41,760 --> 00:07:45,460
+We need to identify what the vapour transforms into.
+
+128
+00:07:46,480 --> 00:07:49,820
+Reading further in the text, we find the sentence...
+
+129
+00:07:49,820 --> 00:07:54,860
+Vapor begins to turn back into tiny droplets of water.
+
+130
+00:07:55,458 --> 00:07:58,620
+Here we have perfect synonyms helping us.
+
+131
+00:07:59,400 --> 00:08:02,760
+Turn back into means changes into.
+
+132
+00:08:03,550 --> 00:08:06,220
+Tiny is another word for small.
+
+133
+00:08:07,100 --> 00:08:09,700
+So the missing word is droplets.
+
+134
+00:08:11,220 --> 00:08:13,000
+And that completes the chart.
+
+135
+00:08:13,460 --> 00:08:16,580
+By finding the starting point and simply following
+
+136
+00:08:16,580 --> 00:08:19,020
+the flow of the passage, we were able
+
+137
+00:08:19,020 --> 00:08:21,380
+to answer every question in order.
+
+138
+00:08:22,100 --> 00:08:24,780
+We relied on the logic of the process
+
+139
+00:08:24,780 --> 00:08:27,560
+rather than just scanning for random words.
+
+140
+00:08:28,360 --> 00:08:32,140
+This approach makes flowchart tasks much more manageable.
+
+141
+00:08:37,900 --> 00:08:40,820
+So this lesson helps you to...
+
+142
+00:08:41,400 --> 00:08:45,220
+1. Understand the format of flowchart completion and its
+
+143
+00:08:45,220 --> 00:08:47,120
+differences from other question types.
+
+144
+00:08:47,640 --> 00:08:50,340
+2. Remember, understand and apply steps 
+
+145
+00:08:50,340 --> 00:08:52,680
+for flowchart completion in IELTS Reading.
+
+146
+00:08:53,240 --> 00:08:55,820
+These are some important tips I want to give you.
+
+147
+00:08:56,460 --> 00:08:59,440
+For flowchart completion, pay attention to the order
+
+148
+00:08:59,440 --> 00:09:00,520
+of the questions.
+
+149
+00:09:01,040 --> 00:09:03,800
+Pay attention to the given information in words
+
+150
+00:09:03,800 --> 00:09:05,800
+of each step to find the answers.
+
+151
+00:09:06,780 --> 00:09:09,120
+Thank you for staying with me until the
+
+152
+00:09:09,120 --> 00:09:10,533
+very end of this lesson.
+
+153
+00:09:10,660 --> 00:09:11,900
+See you next time.
+
+154
+00:09:11,900 --> 00:09:12,740
+Goodbye.
+

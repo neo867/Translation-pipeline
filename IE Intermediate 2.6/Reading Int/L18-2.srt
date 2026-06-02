@@ -1,0 +1,625 @@
+1
+00:00:11,950 --> 00:00:13,150
+ Hi Preppies!
+
+2
+00:00:13,290 --> 00:00:15,550
+I'm back with another exciting lesson.
+
+3
+00:00:16,270 --> 00:00:18,790
+Let's start today's lesson with this task.
+
+4
+00:00:19,370 --> 00:00:21,210
+Alright, have you found the answer?
+
+5
+00:00:22,210 --> 00:00:26,610
+From the interactive question, you've just had an experience of handling
+
+6
+00:00:26,610 --> 00:00:29,710
+matching information to paragraphs question type.
+
+7
+00:00:30,410 --> 00:00:33,150
+Locate paragraphs containing given information.
+
+8
+00:00:33,910 --> 00:00:36,410
+In today's lesson, we're going to learn about this.
+
+9
+00:00:37,090 --> 00:00:41,950
+We will go back to the question at the beginning
+after understanding steps for this question type.
+
+10
+00:00:42,830 --> 00:00:45,010
+This lesson has three parts.
+
+11
+00:00:46,530 --> 00:00:51,930
+1. Introduction to matching
+information to paragraphs
+
+12
+00:00:52,690 --> 00:00:57,030
+2. Steps for matching information to paragraphs
+
+13
+00:00:57,790 --> 00:00:58,250
+3. Practice.
+
+14
+00:00:59,370 --> 00:01:05,330
+This lesson aims to help you understand
+features of matching information to paragraphs.
+
+15
+00:01:05,990 --> 00:01:10,170
+Understand and apply steps for matching information to paragraphs.
+
+16
+00:01:11,430 --> 00:01:13,250
+So what are we waiting for?
+
+17
+00:01:13,430 --> 00:01:16,270
+Let's dive into the first part of today's lesson.
+
+18
+00:01:21,850 --> 00:01:25,870
+Matching information to paragraphs in IELTS reading is a question type which
+
+19
+00:01:25,870 --> 00:01:30,050
+requires candidates to match questions with paragraphs containing suitable
+
+20
+00:01:30,050 --> 00:01:31,890
+information in the reading passage.
+
+21
+00:01:32,630 --> 00:01:35,530
+This question type has the following main parts.
+
+22
+00:01:37,090 --> 00:01:37,830
+A requirement.
+
+23
+00:01:38,930 --> 00:01:45,970
+For those who take the paper-based test, please note
+that the requirement is write the correct letter A to H.
+
+24
+00:01:46,450 --> 00:01:51,250
+So when filling in the answers, you only write the letters from A to H,
+
+25
+00:01:51,250 --> 00:01:55,550
+ not including the word section or paragraph A or paragraph H.
+
+26
+00:01:56,430 --> 00:01:59,450
+The remaining part is numbered questions.
+
+27
+00:02:00,590 --> 00:02:04,850
+Next, you need to pay attention to the types of information in the questions,
+
+28
+00:02:05,350 --> 00:02:05,930
+including.
+
+29
+00:02:26,210 --> 00:02:26,810
+Definition.
+
+30
+00:02:28,910 --> 00:02:29,510
+Explanation.
+
+31
+00:02:31,290 --> 00:02:31,890
+Example.
+
+32
+00:02:34,190 --> 00:02:39,930
+Next, let's take a look at some features of
+this question type to help you tackle it better.
+
+33
+00:02:41,050 --> 00:02:44,990
+In matching headings, in which you have to match headings with paragraphs,
+
+34
+00:02:44,990 --> 00:02:47,150
+your main task is to find the main idea.
+
+35
+00:02:48,050 --> 00:02:52,230
+In matching information to paragraphs, it requires you to match information
+
+36
+00:02:52,230 --> 00:02:56,190
+with paragraphs or find a detailed piece of information in the paragraphs.
+
+37
+00:02:57,110 --> 00:03:02,590
+The information for answering the questions may not be located in just one or
+
+38
+00:03:02,590 --> 00:03:06,190
+two sentences, but could be found in the whole paragraph.
+
+39
+00:03:06,870 --> 00:03:12,090
+Therefore, many times you have to find
+very detailed information in the paragraph.
+
+40
+00:03:12,850 --> 00:03:17,550
+Moreover, you have to understand the overall meaning of the entire paragraph to
+
+41
+00:03:17,550 --> 00:03:18,910
+find the correct answer.
+
+42
+00:03:19,690 --> 00:03:24,490
+The number of paragraphs is always more than the number of questions, so there
+
+43
+00:03:24,490 --> 00:03:27,390
+will be options or paragraphs that are not used.
+
+44
+00:03:28,290 --> 00:03:31,230
+Check if the requirement includes this sentence.
+
+45
+00:03:32,110 --> 00:03:38,710
+Note then, you may use any letters more than once, as in this example.
+
+46
+00:03:39,390 --> 00:03:44,430
+It means that one paragraph can contain the information for two questions, and
+
+47
+00:03:44,430 --> 00:03:46,730
+these two questions can have the same answer.
+
+48
+00:03:47,190 --> 00:03:52,350
+In the case where the requirement does not include the sentence, it means that
+
+49
+00:03:52,350 --> 00:03:59,510
+each answer can be written only once, and there
+won't be any question having the same answer.
+
+50
+00:04:00,530 --> 00:04:06,610
+And the last feature is that the questions might
+not come in order as the information in the passage.
+
+51
+00:04:08,010 --> 00:04:12,390
+You should handle matching information to paragraphs questions after completing
+
+52
+00:04:12,390 --> 00:04:17,390
+other question types because the information is located in the whole passage.
+
+53
+00:04:18,050 --> 00:04:22,050
+After finishing questions that require finding detailed information, we can
+
+54
+00:04:22,050 --> 00:04:24,510
+somewhat understand the content of the paragraphs.
+
+55
+00:04:24,910 --> 00:04:29,670
+Hence, you can use scanning skill when
+looking for detailed information more quickly.
+
+56
+00:04:30,350 --> 00:04:34,050
+So, we've gained the basic information about this question type.
+
+57
+00:04:34,550 --> 00:04:36,070
+How about the steps for it?
+
+58
+00:04:36,350 --> 00:04:38,910
+Let's find out about them in the next part.
+
+59
+00:04:43,020 --> 00:04:46,520
+There are three main steps for this question type.
+
+60
+00:04:47,380 --> 00:04:52,280
+Step 1. Read the requirement carefully
+and underline keywords in questions.
+
+61
+00:04:53,140 --> 00:05:00,340
+Step 2. Apply scanning skills to find keywords in
+paragraphs corresponding to keywords in questions.
+
+62
+00:05:01,240 --> 00:05:08,220
+Step 3. Read paragraphs carefully, compare their
+information with questions, and choose the answers.
+
+63
+00:05:09,040 --> 00:05:13,000
+Now, we're going to apply these steps to the following passage.
+
+64
+00:05:23,120 --> 00:05:25,740
+Let's take the first step together.
+
+65
+00:05:26,560 --> 00:05:29,260
+Step 1.
+Read the requirement carefully.
+
+66
+00:05:29,900 --> 00:05:32,800
+We have five questions and four paragraphs.
+
+67
+00:05:33,220 --> 00:05:35,400
+A, B, C, D.
+
+68
+00:05:36,120 --> 00:05:42,180
+Because of the NB notes, don't assume that you will use every paragraph once.
+
+69
+00:05:42,680 --> 00:05:47,200
+Some might be used twice, or some might not be used at all.
+
+70
+00:05:47,880 --> 00:05:53,940
+Now that we've understood the requirements, let's
+read and underline the keywords in question 1.
+
+71
+00:05:55,760 --> 00:06:01,540
+Question 1. A reference to historical
+methods used to promote home ownership.
+
+72
+00:06:02,300 --> 00:06:07,980
+The key phrase here is historical methods and promote home ownership.
+
+73
+00:06:08,660 --> 00:06:13,160
+We need to find a paragraph that talks about how things were done in the past
+
+74
+00:06:13,160 --> 00:06:15,260
+to help people buy homes.
+
+75
+00:06:16,340 --> 00:06:24,740
+Step 2. Apply scanning skills to find keywords in
+paragraphs corresponding to keywords in questions.
+
+76
+00:06:25,820 --> 00:06:29,640
+Now, we scan the text for synonyms or related words.
+
+77
+00:06:30,460 --> 00:06:34,200
+In paragraph A, we immediately see the word historically.
+
+78
+00:06:35,120 --> 00:06:36,780
+This matches our keyword.
+
+79
+00:06:37,540 --> 00:06:42,640
+We also see promoted home ownership, which is an exact match.
+
+80
+00:06:43,200 --> 00:06:49,940
+And we see examples of methods like low
+interest loans and suburban development.
+
+81
+00:06:51,180 --> 00:06:54,280
+Step 3.
+Read paragraphs carefully.
+
+82
+00:06:54,820 --> 00:06:58,460
+Compare their information with questions and choose the answers.
+
+83
+00:06:59,340 --> 00:07:01,880
+Let's read paragraph A in detail.
+
+84
+00:07:02,740 --> 00:07:07,880
+In the decades following World War II, governments promoted home ownership
+
+85
+00:07:07,880 --> 00:07:11,820
+through low interest loans and suburban development.
+
+86
+00:07:12,560 --> 00:07:18,860
+Here, low interest loans and suburban development are the methods used.
+
+87
+00:07:19,560 --> 00:07:25,580
+Decades following World War II sets the historical context and the text
+
+88
+00:07:25,580 --> 00:07:29,540
+explicitly says they promoted home ownership.
+
+89
+00:07:30,600 --> 00:07:32,900
+This perfectly matches question 1.
+
+90
+00:07:33,480 --> 00:07:38,140
+A reference to historical methods used to promote home ownership.
+
+91
+00:07:38,860 --> 00:07:42,020
+So, the answer to question 1 is A.
+
+92
+00:07:47,920 --> 00:07:52,740
+To practice this question type, we're going
+to move on to the remaining questions.
+
+93
+00:07:53,660 --> 00:07:57,900
+Remember the note, you may use any letter more than once.
+
+94
+00:07:58,680 --> 00:08:05,100
+So, paragraph A could be the answer again, or it could be B, C or D.
+
+95
+00:08:05,920 --> 00:08:11,900
+Preppies, please pause the video for four
+minutes to finish questions 2 through 5.
+
+96
+00:08:16,180 --> 00:08:16,940
+Time's up.
+
+97
+00:08:17,180 --> 00:08:18,800
+Let's check question 2.
+
+98
+00:08:19,760 --> 00:08:26,720
+Question 2. Rent control may benefit tenants
+initially, but can lead to neglected properties.
+
+99
+00:08:27,620 --> 00:08:32,100
+Scanning for rent control, we find it in paragraph C.
+
+100
+00:08:32,780 --> 00:08:37,799
+The text says rent control schemes may protect tenants in the short term.
+
+101
+00:08:38,360 --> 00:08:41,320
+This matches benefit tenants initially.
+
+102
+00:08:42,179 --> 00:08:47,980
+It continues, but discouraged landlords
+from maintaining or improving properties.
+
+103
+00:08:48,780 --> 00:08:54,680
+If a landlord stops maintaining a property, it becomes a neglected property.
+
+104
+00:08:55,540 --> 00:08:58,620
+So, paragraph C contains this information.
+
+105
+00:08:59,240 --> 00:09:00,740
+The answer is C.
+
+106
+00:09:02,620 --> 00:09:08,400
+Question 3. Examples of the social
+consequences of high housing costs.
+
+107
+00:09:09,560 --> 00:09:15,500
+Scanning for social and high housing costs, we go to paragraph D.
+
+108
+00:09:16,380 --> 00:09:22,580
+The first sentence mentions the impact of
+unaffordable housing on social well -being.
+
+109
+00:09:23,300 --> 00:09:26,440
+The text then lists specific examples.
+
+110
+00:09:27,380 --> 00:09:29,100
+1. Overcrowding.
+
+111
+00:09:29,520 --> 00:09:32,360
+2. Increased commuting times.
+
+112
+00:09:32,860 --> 00:09:36,320
+3. Displacement of lower income families.
+
+113
+00:09:37,140 --> 00:09:39,200
+4. Social divide.
+
+114
+00:09:39,980 --> 00:09:43,140
+These are all examples of social consequences.
+
+115
+00:09:44,120 --> 00:09:46,180
+Therefore, the answer is D.
+
+116
+00:09:47,880 --> 00:09:54,580
+Question 4. An explanation of why housing
+supply fails to meet demand in cities.
+
+117
+00:09:55,500 --> 00:10:00,460
+The key words supply and demand leads us to paragraph B.
+
+118
+00:10:01,000 --> 00:10:06,640
+The text explicitly mentions the imbalance between supply and demand.
+
+119
+00:10:07,680 --> 00:10:10,080
+It explains why supply fails.
+
+120
+00:10:10,920 --> 00:10:16,640
+Planning restrictions, limited land
+availability and lengthy approval processes.
+
+121
+00:10:17,960 --> 00:10:21,560
+These are the reasons, the explanation for the failure.
+
+122
+00:10:22,220 --> 00:10:24,180
+So, the answer is B.
+
+123
+00:10:25,320 --> 00:10:30,680
+Question 5. A statement on how
+difficult purchasing a home has become.
+
+124
+00:10:31,220 --> 00:10:34,160
+We need to find a statement about difficulty.
+
+125
+00:10:34,900 --> 00:10:37,320
+Let's look at paragraph A again.
+
+126
+00:10:38,180 --> 00:10:43,420
+The last sentence says, what was once a relatively straightforward path to
+
+127
+00:10:43,420 --> 00:10:48,140
+ownership has become, for many, an almost impossible dream.
+
+128
+00:10:49,160 --> 00:10:54,880
+Describing home ownership as an almost impossible dream is a very strong
+
+129
+00:10:54,880 --> 00:10:57,820
+statement about how difficult it has become.
+
+130
+00:10:58,540 --> 00:11:00,680
+So, the answer is A.
+
+131
+00:11:01,480 --> 00:11:07,160
+Notice that we used paragraph A for both question 1 and question 5.
+
+132
+00:11:07,760 --> 00:11:15,900
+This confirms why the note NB, you may use
+any letter more than once, was so important.
+
+133
+00:11:17,420 --> 00:11:21,480
+We've dealt with an example of matching information to paragraphs.
+
+134
+00:11:21,920 --> 00:11:25,200
+Let's recap the key points of this lesson together.
+
+135
+00:11:29,720 --> 00:11:34,600
+You should pay attention to the important features of matching information to
+
+136
+00:11:34,600 --> 00:11:37,220
+paragraphs mentioned at the beginning of the lesson.
+
+137
+00:11:38,200 --> 00:11:43,600
+Task. Matching information with paragraphs
+to find detailed information in the passage.
+
+138
+00:11:44,420 --> 00:11:49,360
+Find detailed information and understand the overall meaning of the paragraph
+
+139
+00:11:49,360 --> 00:11:50,720
+to find the answer.
+
+140
+00:11:51,560 --> 00:11:58,320
+The number of paragraphs is more than the
+questions, so some paragraphs are not used.
+
+141
+00:11:59,180 --> 00:12:01,640
+Check if the requirement includes this sentence.
+
+142
+00:12:02,540 --> 00:12:06,340
+Note NB, you may use any letters more than once.
+
+143
+00:12:07,460 --> 00:12:11,220
+Questions might not come in order as the information in the passage.
+
+144
+00:12:12,500 --> 00:12:16,260
+Moreover, you need to remember three steps for this question type.
+
+145
+00:12:17,080 --> 00:12:21,760
+Step 1. Read the requirement carefully
+and underline keywords in questions.
+
+146
+00:12:22,480 --> 00:12:29,340
+Step 2. Apply scanning skills to find keywords in
+paragraphs corresponding to keywords in questions.
+
+147
+00:12:30,060 --> 00:12:36,820
+Step 3. Read paragraphs carefully, compare the
+information with questions, and choose the answers.
+
+148
+00:12:37,420 --> 00:12:39,860
+For now, goodbye and see you in the next lesson.
+

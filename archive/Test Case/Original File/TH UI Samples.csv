@@ -1,0 +1,768 @@
+key,source,target
+vwr_toeic.suggestion_for_sentence,Here is the suggestion for sentence {sentence},นี่คือคำแนะนำสำหรับประโยค {sentence}
+vwr_toeic.suggestion_message,Here is the suggestion for sentence {sentence},นี่คือข้อเสนอสำหรับประโย {sentence}
+vwr_toeic.sample.unexposed_message,"<p>Hello, Teacher Bee will guide you in building a complete TOEIC Writing task with the given prompt!</p><p>Please check the suggestions to complete your test!</p>",สวัสดีค่ะ ครูคือ Teacher Bee จะช่วยแนะนำการทำงานให้สมบูรณ์แบบในงานเขียน IELTS ตามที่กำหนด! กรุณาดูคำแนะนำเพื่อทำงานให้เสร็จ
+vwr_toeic.sample.unexposed_message_ielts,"<p>Hello, Teacher Bee will guide you in building a complete IELTS Writing task with the given prompt!</p><p>Please check the suggestions to complete your test!</p>",สวัสดีค่ะ ครูคือ Teacher Bee จะช่วยแนะนำการทำงานให้สมบูรณ์แบบในงานเขียน IELTS ตามที่กำหนด! กรุณาดูคำแนะนำเพื่อทำงานให้เสร็จ
+vwr_toeic.reference_sample,Sample answer ideas,แนวทางตัวอย่างคำตอบ
+vwr_toeic.extra_time_left.sub_button,Move to the next section,ไปยังส่วนถัดไป
+vwr_toeic.extra_time_left.message,"You haven't used all the allocated time. If you move to the next section, you will not be able to return to this one. Are you sure you've completed it and want to proceed?",คุณยังไม่ได้ใช้เวลาที่กำหนดทั้งหมด หากคุณย้ายไปยังส่วนถัดไป คุณจะไม่สามารถกลับมาที่ส่วนนี้ได้ คุณแน่ใจว่าคุณทำเสร็จแล้วและต้องการดำเนินการต่อหรือไม่?
+vwr_toeic.exceed_time.end_of_time_message,Time for this section has ended. Your submission has been saved,เวลาสำหรับส่วนนี้หมดแล้ว งานของคุณได้รับการบันทึกแล้ว
+vwr_toeic.exceed_time.auto_redirect_in,Automatically moving to the next question in,กำลังย้ายไปยังคำถามถัดไปโดยอัตโนมัติใน
+vwr_toeic.start_exercise,Start,เริ่มทำข้อสอบ
+vwr_toeic.guide_line.not_show_again,"Got it, don't show again",เข้าใจแล้ว ไม่ต้องแสดงอีก
+vwr_toeic.question_list.selected_part_only,This is a Part-based practice test,นี่คือแบบทดสอบฝึกหัดแบบ Part-based
+vwr_toeic.question_list.selected_questions,This test set only includes Question {question},ชุดการทดสอบนี้ประกอบด้วยคำถาม {question} เท่านั้น
+vwr_toeic.question_list.view_sample_question,View sample answer for Question {question},ดูคำตอบตัวอย่างสำหรับคำถาม {question}
+vwr_toeic.question_list.hidden_menu_question,Hide question list,ซ่อนรายการคำถาม
+vwr_toeic.practice_mode,Practice mode,ห้องฝึกซ้อม
+vwr_toeic.test_mode,Test mode,โหมดทดสอบ
+vwr_toeic.select_mode.title,Choose the test mode,เลือกโหมดการทดสอบ
+vwr_toeic.select_mode.practice_title_first,No time limit for the test,ไม่มีการจับเวลา
+vwr_toeic.select_mode.practice_title_second,The virtual teacher accompanies you throughout the test,ครูเสมือนจะอยู่กับคุณตลอดกระบวนการทำแบบฝึกหัด
+vwr_toeic.select_mode.practice_title_third,Auto-save drafts and return to the test later,บันทึกแบบร่างอัตโนมัติและกลับมาทดสอบภายหลังได้
+vwr_toeic.select_mode.practice_title_fourth,Instant scoring and detailed feedback for all marking criteria,การให้คะแนนและการประเมินผลละเอียดตามเกณฑ์
+vwr_toeic.select_mode.examination_title_first,Time limit similar to the real exam,ขีดจำกัดเวลาคล้ายกับการสอบจริง
+vwr_toeic.select_mode.examination_title_second,No virtual teacher support available for this assigment,ไม่มีการสนับสนุนครูเสมือนจริงสำหรับงานนี้
+vwr_toeic.select_mode.examination_title_third,"The test simulation process is like the real exam, no draft saving",กระบวนการจำลองการสอบเหมือนการสอบจริง ไม่สามารถบันทึกร่างได้
+vwr_toeic.select_mode.examination_title_fourth,Instant scoring and detailed feedback for all marking criteria,การให้คะแนนและการประเมินผลละเอียดตามเกณฑ์
+vwr_toeic.exercise.text_hint,Enter your essay,กรุณากรอกเรียงความของคุณ
+vwr_toeic.exercise.time_out,You have exceeded the standard time for this section,คุณเกินเวลามาตรฐานสำหรับส่วนนี้แล้ว
+vwr_toeic.exercise.suggestion,Guidance for the test,คำแนะนำสำหรับการทดสอบ
+vwr_toeic.exercise.question_element.start_counting,Start timing,เริ่มจับเวลา
+vwr_toeic.exercise.question_element.start_time_to_think,Start timing the thinking process,เริ่มจับเวลาคิด
+vwr_toeic.exercise.question_element.continue_read_question,Continue listening to the prompt,ฟังคำถามต่อ
+vwr_toeic.exercise.analysis.out_of_quota,Out of analysis attemps,หมดโอกาสในการวิเคราะห์แล้ว
+vwr_toeic.exercise.analysis.save_and_analyze_later,Save and analyze later,บันทึกและวิเคราะห์ในภายหลัง
+vwr_toeic.exercise.auto_save_draft,Draft automatically saved {time},บันทึกร่างอัตโนมัติ {time}
+vwr_toeic.exercise.review_submission,Review submission,ตรวจสอบการส่งคำตอบ
+vwr_toeic.exercise.your_answers,Your answer,การส่งของคุณ
+vwr_toeic.exercise.keep_time_to_think,Continue thinking,คิดต่อ
+vwr_toeic.exercise.start_record,Answer,เริ่มตอบคำถาม
+vwr_toeic.exercise.start_record_warning,Are you sure you want to skip the thinking time and start answering now?,คุณแน่ใจหรือไม่ว่าต้องการข้ามเวลาคิดและเริ่มตอบตอนนี้
+vwr_toeic.exercise.retry_recording,Record again,บันทึกอีกครั้ง
+vwr_toeic.exercise.not_finished_exercise,Incomplete task,งานยังไม่เสร็จ
+vwr_toeic.exercise.completion_congrat,"Congratulations on completing your work. Prep hopes that with the detailed feedback, you'll do even better on future assignments!",ยินดีที่คุณทำงานเสร็จเรียบร้อยแล้ว Prep หวังว่าด้วยข้อเสนอแนะแบบละเอียดนี้ คุณจะทำได้ดีขึ้นในงานที่มาถึง!
+vwr_toeic.exercise.examination_hide_question_label,The content of the question is not displayed because you are in Test Mode,เนื้อหาของคำถามไม่แสดงเนื่องจากคุณอยู่ในโหมดทดสอบ
+vwr_toeic.result.your_submission_is_effective,"Your answer effectively addresses the task requirements by presenting, explaining, and supporting your viewpoint with clear and relevant arguments and examples",คำตอบของคุณตอบโจทย์ความต้องการของงานได้อย่างมีประสิทธิภาพ โดยมีการนำเสนอ อธิบาย และสนับสนุนมุมมองของคุณด้วยข้อโต้แย้งและตัวอย่างที่ชัดเจนและตรงประเด็น
+vwr_toeic.result.your_submission_is_choosing_correct_words,"Your answer demonstrates appropriate word choice and idiomatic expressions, using vocabulary directly related to the topic and effectively addressing the task requirements",คำตอบของคุณแสดงให้เห็นถึงการเลือกใช้คำและสำนวนที่เหมาะสม โดยใช้คำศัพท์ที่เกี่ยวข้องกับหัวข้อโดยตรง และตอบโจทย์ความต้องการของงานได้อย่างมีประสิทธิภาพ
+vwr_toeic.result.relevance,Relevance,ความเกี่ยวข้อง
+vwr_toeic.result.level_description_reference_writing,TOEIC Writing score conversion,ตารางแปลงคะแนน TOEIC Writing
+vwr_toeic.result.score,Score,คะแนน
+vwr_toeic.result.plag_or_ai_message,"Some parts of your answer were found to contain plagiarism or AI-generated. Therefore, the score does not reflect your true abilities. Please make sure to write the essay on your own next time!",บางส่วนของการส่งของคุณถูกตรวจพบการคัดลอกหรือการใช้ AI ดังนั้นคะแนนที่ได้รับไม่สะท้อนความสามารถที่แท้จริงของคุณ กรุณาลองเขียนงานด้วยตัวเองในครั้งถัดไป!
+vwr_toeic.result.date,Test date {time},วันสอบ {time}
+vwr_toeic.result.level,Level,ระดับ
+vwr_toeic.result.level_description_reference,TOEIC Speaking score conversion,ตารางแปลงคะแนน TOEIC Speaking
+vwr_toeic.result.level_description,Level description,รายละเอียดระดับความสามารถ
+vwr_toeic.result.overview,TEST OVERVIEW,ภาพรวมของการทดสอบ
+vwr_toeic.result.title,Results,ผลลัพธ์
+vwr_toeic.result.general_statistics,General statistics,สถิติทั่วไป
+vwr_toeic.result.empty_transcript,The system could not detect the content of your response,ระบบตรวจไม่พบเนื้อหาที่คุณตอบกลับ
+vwr_toeic.result.think_time,Thinking time,เวลาคิด
+vwr_toeic.result.completion,Completion level,ระดับความสำเร็จ
+vwr_toeic.result.missing_warning,"For part-based practice tests, Prep will estimate the total score based on the completed parts. The results are for reference only!",สำหรับการทดสอบแบบแบ่งเป็นส่วน ๆ Prep จะประมาณคะแนนรวมจากส่วนที่ทำเสร็จแล้ว ผลลัพธ์นี้ใช้เป็นข้อมูลอ้างอิงเท่านั้น!
+vwr_toeic.result.not_qualified.title,"Your answer did not meet the standard, so Prep cannot provide feedback for the following reasons:",คำตอบของคุณไม่ตรงตามมาตรฐาน ดังนั้น Prep จึงไม่สามารถให้ข้อเสนอแนะได้ด้วยเหตุผลดังต่อไปนี้:
+vwr_toeic.result.not_qualified.body," • Your response repeated the question, refused to answer, or was irrelevant to the topic<br> • The answer was written in a language other than English<br> • The response contained meaningless characters<br>",-คุณไม่ได้ตอบ หรือคำตอบไม่ตรงตามโจทย์<br>-คุณภาพของไฟล์บันทึกไม่ดีค่ะ ดังนั้นระบบไม่สามารถบันทึกการตอบสนองได้ค่ะ<br>
+vwr_toeic.result.not_qualified.conclusion,Please complete the task more carefully so that Prep can provide an evaluation!,กรุณาทำงานให้ระมัดระวังมากขึ้นเพื่อให้ Prep สามารถให้การประเมินได้!
+vwr_toeic.result.criteria.student_content,Your answer,การส่งของคุณ
+vwr_toeic.result.criteria.criteria_based_comments,Comments on Grading Criteria,ความคิดเห็นตามเกณฑ์
+vwr_toeic.result.criteria.content_upgrade,Upgrade your answer,อัปเกรดคำตอบ
+vwr_toeic.result.criteria.vocab_upgrade,Upgrade vocabulary,อัปเกรดคำศัพท์
+vwr_toeic.result.criteria.upgraded_vocab,List of upgraded words,รายการคำศัพท์ที่อัปเกรดแล้ว
+vwr_toeic.result.criteria.sample_idea,Sample ideas,แนวทางตัวอย่างคำตอบ
+vwr_toeic.result.criteria.pronunciation,Pronunciation,การออกเสียง
+vwr_toeic.result.criteria.intonation_stress,Intonation and Stress,น้ำเสียงและการเน้นเสียง
+vwr_toeic.result.criteria.main_stressed,Primary,หลัก
+vwr_toeic.result.criteria.sub_stressed,Secondary,รอง
+vwr_toeic.result.criteria.unstressed,No stress,ไม่มีการเน้นเสียง
+vwr_toeic.result.criteria.syllable,Syllable,พยางค์
+vwr_toeic.result.criteria.stress,Correct level of stress,การเน้นเสียงที่ถูกต้อง
+vwr_toeic.result.criteria.phone,Phonetic transcription,การถอดเสียงสัทอักษร
+vwr_toeic.result.criteria.phone_marking,You spoke,การประเมิน
+vwr_toeic.result.criteria.user_stressed,How you stressed,การเน้นเสยงของคุญ
+vwr_toeic.result.criteria.sounds_like,Sounds like {sound},เสียงเหมือน {sound}
+vwr_toeic.result.criteria.unclear,Unclear,ไม่ชัดเจน
+vwr_toeic.result.criteria.stressed_unclear,Unclear stress,การเน้นเสียงไม่ชัดเจน
+vwr_toeic.result.criteria.misstressed,Stressed as,เน้นเสียงว่า
+vwr_toeic.result.criteria.stressed,Primary stress,เน้นเสียงหลัก
+vwr_toeic.result.criteria.non_stressed,Secondary stress,เน้นเสียงรอง
+vwr_toeic.result.criteria.grammar.grammar,Grammar,ไวยากรณ์
+vwr_toeic.result.criteria.grammar.error,Grammatical errors,ข้อผิดพลาดทางไวยากรณ์
+vwr_toeic.result.criteria.grammar.length,Sentence length,ความยาวประโยค
+vwr_toeic.result.criteria.grammar.lexical_diversity,Vocabulary range,ช่วงคำศัพท์
+vwr_toeic.result.criteria.grammar.grammatical_accuracy,Accuracy level,ระดับความถูกต้อง
+vwr_toeic.result.criteria.grammar.grammatical_range,Diversity of grammatical structures,ความหลากหลายของโครงสร้างไวยากรณ์
+vwr_toeic.result.criteria.grammar.noun_phrase_complexity,Complexity of noun phrases,ความซับซ้อนของวลีคำนาม
+vwr_toeic.result.criteria.grammar.verb_construction_variation,Verb phrase variations,ความหลากหลายของวลีคำกริยา
+vwr_toeic.result.criteria.grammar.adverb_modifier_variation,Adverbial modifier variations,ความหลากหลายของวลีขยาย
+vwr_toeic.result.criteria.grammar.explanation,Error explanation,คำอธิบายข้อผิดพลาด
+vwr_toeic.result.criteria.grammar.replacement,Replacements,การทดแทน
+vwr_toeic.result.criteria.vocab.vocab,Vocabulary,คำศัพท์
+vwr_toeic.result.criteria.vocab.lexical_diversity,Diversity of vocabulary,ความหลากหลายของคำศัพท์
+vwr_toeic.result.criteria.vocab.word_sophistication,Sophisticated use of words,การใช้คำที่ซับซ้อน
+vwr_toeic.result.criteria.vocab.academic_language_use,Use of academic language,การใช้ภาษาวิชาการ
+vwr_toeic.result.criteria.vocab.collocation_commonality,Commonality of phrases,ความเหมือนกันของวลี
+vwr_toeic.result.criteria.cohesion,Coherence level,ระดับความสอดคล้องของเนื้อหา
+vwr_toeic.result.criteria.relevant_of_content,Content relevance,ความเกี่ยวข้องของเนื้อหา
+vwr_toeic.result.criteria.completeness_of_content,Content completeness,ความสมบูรณ์ของเนื้อหา
+vwr_toeic.result.summary,General statistics,สถิติทั่วไป
+vwr_toeic.result.your_submission,Your submission,การส่งของคุณ
+vwr_toeic.result.ai_usage_rate,AI usage rate in the answer,อัตราการใช้ AI ในคำตอบ
+vwr_toeic.result.quality_and_diversity_of_sentence,Sentence quality and variety,คุณภาพประโยคและความหลากหลาย
+vwr_toeic.result.grammar_error,Grammar error,ข้อผิดพลาดทางไวยากรณ์
+vwr_toeic.result.explanation_error,Error explanation,อธิบายข้อผิดพลาด
+vwr_toeic.result.replacement,Replacements,การทดแทน
+vwr_toeic.result.content_upgrade,Upgrade your answer,อัปเกรดคำตอบ
+vwr_toeic.result.opinion_support_by_reason,Arguments supported by reasons/ examples,ข้อโต้แย้งที่สนับสนุนด้วยเหตุผล/ตัวอย่าง
+vwr_toeic.error.ielts_exceed_max_count,You should write a maximum of {number} words for this section,คุณควรเขียนไม่เกิน {number} คำสำหรับส่วนนี้
+vwr_toeic.error.not_finished,You haven't completed this question yet,คุณยังไม่ได้ตอบคำถามนี้เสร็จสมบูรณ์
+vwr_toeic.tips.1,"Master vocabulary on common TOEIC topics like office, computers, contracts, marketing,...","เรียนรู้คำศัพท์เกี่ยวกับหัวข้อทั่วไปใน TOEIC เช่น สำนักงาน, คอมพิวเตอร์, สัญญา, การตลาด ฯลฯ,..."
+vwr_toeic.tips.2,Apply collocations and phrasal verbs flexibly in the TOEIC Writing test.,ใช้การจัดคำและวลีเชิงพหูพจน์อย่างยืดหยุ่นใน TOEIC Writing.
+vwr_toeic.tips.3,"Combine individual words into complete, grammatically correct sentences.",รวมคำเดี่ยว ๆ ให้เป็นประโยคที่สมบูรณ์และถูกต้องตามหลักไวยากรณ์.
+vwr_toeic.tips.4,Don't forget to use conjunctions to link sentences and clauses smoothly.,อย่าลืมใช้คำเชื่อมเพื่อเชื่อมโยงประโยคและคลอสให้ลื่นไหล.
+vwr_toeic.tips.5,"Understand how to differentiate between word types, sentence structure, and sentence order.",เข้าใจการแยกแยะประเภทคำ โครงสร้างประโยค และลำดับประโยค.
+vwr_toeic.tips.6,"Learn how to use the 8 parts of speech in English, including nouns, verbs, adjectives, adverbs, prepositions, conjunctions, pronouns, and interjections.",เรียนรู้การใช้ 8 ประเภทคำในภาษาอังกฤษ ได้แก่ คำนาม คำกริยา คำคุณศัพท์ คำกริยาวิเศษณ์ คำบุพบท คำเชื่อม คำสรรพนาม และคำอุทาน.
+vwr_toeic.tips.7,"Learn how to use the 6 basic tenses in English, including present simple, past simple, future simple, present continuous, past continuous, present perfect.","เรียนรู้การใช้ 6 tense พื้นฐานในภาษาอังกฤษ ได้แก่present simple, past simple, future simple, present continuous, past continuous, present perfect."
+vwr_toeic.tips.8,Candidates should create complete sentences in both simple and complex sentence structures.,ผู้เข้าสอบควรสร้างประโยคที่สมบูรณ์ทั้งในรูปแบบประโยคง่ายและซับซ้อน.
+vwr_toeic.tips.9,Spend 8 minutes writing complete sentences based on the picture and related vocabulary provided in the prompt.,ใช้เวลา 8 นาทีในการเขียนประโยคที่สมบูรณ์ตามภาพและคำศัพท์ที่ให้มาในโจทย์.
+vwr_toeic.tips.10,Spend 10 minutes reading and writing a short paragraph in response to a letter.,ใช้เวลา 10 นาทีในการอ่านและเขียนย่อหน้าสั้น ๆ ตอบจดหมาย.
+vwr_toeic.tips.11,"Spend 30 minutes writing an essay answering the prompt's question, explaining and supporting your opinion on the issue.",ใช้เวลา 30 นาทีในการเขียนเรียงความเพื่อตอบคำถาม อธิบาย และสนับสนุนความคิดเห็นของคุณเกี่ยวกับประเด็นนี้.
+vwr_toeic.tips.12,"If your essay exceeds the word limit, consider removing unnecessary words or sentences.",ถ้าเรียงความของคุณยาวเกินไป ลองลบคำหรือประโยคที่ไม่จำเป็นออก.
+vwr_toeic.tips.13,Try to write correctly and meet the word count requirements in the allotted time.,พยายามเขียนให้ถูกต้องและตามจำนวนคำที่กำหนดในเวลาที่กำหนด.
+vwr_toeic.tips.14,Practice writing regularly to fully understand the TOEIC Writing test format.,ฝึกเขียนเป็นประจำเพื่อเข้าใจรูปแบบการสอบ TOEIC Writing ให้ดี.
+vwr_toeic.tips.15,Master the TOEIC Writing scoring criteria to complete the test more effectively.,ทำความเข้าใจเกณฑ์การให้คะแนน TOEIC Writing เพื่อทำข้อสอบได้อย่างมีประสิทธิภาพ.
+vwr_toeic.tips.16,Avoid losing points by writing with correct spelling.,หลีกเลี่ยงการเสียคะแนนโดยการเขียนให้สะกดคำถูกต้อง.
+vwr_toeic.tips.17,Divide the essay into clear paragraphs.,แบ่งเรียงความออกเป็นย่อหน้าที่ชัดเจน.
+vwr_toeic.tips.18,Save a little time at the end of the test to check for grammar and vocabulary mistakes.,เผื่อเวลาเล็กน้อยในตอนท้ายของการสอบเพื่อตรวจสอบข้อผิดพลาดทางไวยากรณ์และคำศัพท์.
+vwr_toeic.tips.19,"Get into the habit of reading newspapers, magazines, blogs… daily to improve your writing skills.",ทำให้เป็นนิสัยในการอ่านหนังสือพิมพ์ นิตยสาร บล็อก... ทุกวันเพื่อพัฒนาทักษะการเขียน.
+vwr_toeic.tips.20,"When explaining an idea, candidates should add sentences to explain and provide examples.",เมื่ออธิบายความคิด ควรเพิ่มประโยคเพื่ออธิบายและยกตัวอย่าง.
+vwr_toeic.tips.21,"Use additional study materials to effectively practice for TOEIC Writing, such as: Tomato TOEIC Writing, Tactics for TOEIC Speaking and Writing,...","ใช้สื่อการเรียนรู้เพิ่มเติมในการฝึกสอบ TOEIC Writing เช่น Tomato TOEIC Writing, Tactics for TOEIC Speaking and Writing,...."
+vwr_toeic.tips.22,Learning to type quickly on a QWERTY keyboard is essential to avoid wasting time on the test.,การพิมพ์เร็วบนคีย์บอร์ด QWERTY เป็นสิ่งสำคัญเพื่อหลีกเลี่ยงการเสียเวลาในข้อสอบ.
+vwr_toeic.tips.23,"Observe the picture, identify the subject, and imagine the content to structure your writing.",สังเกตภาพ ระบุหัวข้อ และจินตนาการเนื้อหาเพื่อวางโครงสร้างการเขียนของคุณ.
+vwr_toeic.tips.24,"A basic email structure should include: an opening greeting, a main purpose statement, a conclusion, and a closing greeting.",โครงสร้างอีเมลพื้นฐานควรมี: การทักทาย เปิดเรื่องหลัก สรุป และการทักทายปิดท้าย.
+vwr_toeic.tips.25,Candidates should pay attention to the identities of the email sender and recipient to role-play appropriately.,ผู้เข้าสอบควรใส่ใจตัวตนของผู้ส่งและผู้รับอีเมล์เพื่อการแสดงบทบาทที่เหมาะสม.
+vwr_toeic.tips.26,Avoid using overly complicated language that could confuse the reader when writing emails.,หลีกเลี่ยงการใช้ภาษาที่ซับซ้อนเกินไปซึ่งอาจทำให้ผู้อ่านสับสนเมื่อเขียนอีเมล์.
+vwr_toeic.tips.27,Prepare some sentence patterns for different purposes to optimize time during the test.,เตรียมรูปแบบประโยคสำหรับวัตถุประสงค์ต่าง ๆ เพื่อใช้เวลาในการสอบให้ดี.
+vwr_toeic.tips.28,Prepare an outline and supporting sentence structures for your argument to save time during the exam.,เตรียมโครงร่างและโครงสร้างประโยคสำหรับข้อโต้แย้งเพื่อประหยัดเวลาในระหว่างการสอบ.
+vwr_toeic.tips.29,"To generate rich writing ideas, candidates should read widely on topics related to education, work, or personal development.",เพื่อสร้างไอเดียการเขียนที่หลากหลาย ผู้เข้าสอบควรอ่านหนังสือเกี่ยวกับการศึกษา งาน หรือการพัฒนาตนเอง.
+vwr_toeic.tips.30,"Produce a paragraph with several sentences to convey information clearly, ask questions, give instructions, or narrate,...",เขียนย่อหน้าที่มีหลายประโยคเพื่อถ่ายทอดข้อมูลให้ชัดเจน ถามคำถาม ให้คำแนะนำ หรือเล่าเรื่อง...
+vwr_toeic.tips.31,Continuously practice TOEIC Writing on a computer to become familiar with the test format.,ฝึกฝนการเขียน TOEIC บนคอมพิวเตอร์อย่างต่อเนื่องเพื่อทำความคุ้นเคยกับรูปแบบการทดสอบ.
+vwr_toeic.tips.32,"Read many sample essays to familiarize yourself with the types of questions, collect vocabulary, and use good grammar structures.",อ่านตัวอย่างเรียงความมากมายเพื่อทำความคุ้นเคยกับประเภทของคำถาม รวบรวมคำศัพท์ และใช้โครงสร้างไวยากรณ์ที่ดี.
+vwr_toeic.tips.33,Follow the principle of doing easier tasks first to save time and create a relaxed mindset.,ทำงานง่ายก่อนเพื่อประหยัดเวลาและทำให้รู้สึกผ่อนคลาย.
+checkout.info_notice,The course and all accompanying benefits will be added to this account after the payment process is successful!,คอร์สเรียนและสิทธิประโยชน์ทั้งหมดจะถูกเพิ่มลงในบัญชีนี้หลังจากที่กระบวนการชำระเงินเสร็จสมบูรณ์!
+checkout.export_invoice,Issue Invoice,ออกใบแจ้งหนี้
+checkout.invoice_company,Company,บริษัท
+checkout.invoice_personal,Individual,บุคคล
+checkout.invoice_buyer_name,Buyer's full name,ชื่อและนามสกุลผู้ซื้อ
+checkout.placeholder_invoice_buyer_name,Enter buyer's full name,ป้อนชื่อและนามสกุลผู้ซื้อ
+checkout.placeholder_invoice_department,Enter department name,ป้อนชื่อหน่วยงาน
+checkout.placeholder_invoice_tax_number,Enter tax identification number,ป้อนหมายเลขประจำตัวผู้เสียภาษี
+checkout.placeholder_invoice_address,Enter address,ป้อนที่อยู่
+checkout.placeholder_invoice_receiver_email,Enter email for receiving the invoice,ป้อนอีเมลเพื่อรับใบแจ้งหนี้
+checkout.error_invoice_department,Enter company name,ป้อนชื่อบริษัท
+checkout.error_invoice_email,Please enter correct email format,กรุณาป้อนอีเมลในรูปแบบที่ถูกต้อง
+checkout.invoice_department,Name of department,ชื่อหน่วยงาน
+checkout.invoice_tax_number,Tax identification number,หมายเลขประจำตัวผู้เสียภาษี
+checkout.invoice_address,Address,ที่อยู่
+checkout.invoice_receiver_email,Email for receiving the invoice,อีเมลสำหรับรับใบแจ้งหนี้
+checkout.continue_checkout,Continue to payment,ดำเนินการชำระเงินต่อ
+checkout.invalid_coupon,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!,รหัสคูปองหรือโปรโมชั่นนี้ไม่สามารถใช้งานได้อีกแล้ว<br /> กรุณาลองใช้รหัสอื่น หรือดำเนินการชำระเงินต่อโดยไม่ใช้รหัส!
+checkout.product_unavailable,The product you selected has changed.<br />Please choose again or contact support staff for assistance!,ผลิตภัณฑ์ที่คุณเลือกมีการเปลี่ยนแปลง<br />กรุณาเลือกใหม่หรือติดต่อทีมสนับสนุนเพื่อขอความช่วยเหลือ!
+checkout.checkout,Checkout,Checkout
+checkout.return_shopping,Return to shopping,กลับไปยังการสั่งซื้อ
+checkout.total_price,Total price,ราคาทั้งหมด
+checkout.promo,Promotion,โปรโมชั่น
+checkout.coupon_code,Coupon code,รหัสคูปอง
+checkout.discount_price_amount,Discounted price,ราคาลดแล้ว
+checkout.price_after_discount,Price after promotion,ราคาหลังจากโปรโมชั่น
+checkout.x_people_used_course,More than {x} Prep students have used this roadmap,ผู้เรียนของ Prep มากกว่า {x} คนที่ใช้แผนการเรียนนี้แล้ว
+checkout.product,Product,ผลิตภัณฑ์
+checkout.select_promo,Select,เลือก
+checkout.coupon_code_placeholder,Enter coupon code,ป้อนรหัสคูปอง
+checkout.coupon_apply,Apply,ใช้
+checkout.gifts,Included gift,ของแถม
+checkout.your_info,Your information,ข้อมูลของคุณ
+checkout.select_1_discount,Select a promotional code,เลือกรหัสโปรโมชัน 01 รหัส
+checkout.no_promo_yet,No promotional code available,ไม่มีรหัสโปรโมชัน
+checkout.consent_text,"By clicking {slot1}, you confirm that you have read and agreed to the {slot2} and the {slot3} of Prep!",โดยการกด {slot1} คุณยืนยันว่าคุณได้อ่านและเห็นด้วยกับ {slot2} รวมถึง {slot3} ของ Prep!
+checkout.consent_text_slot_1,Continue to payment,ดำเนินการชำระเงินต่อ
+checkout.consent_text_slot_2,Terms and Conditions,ข้อกำหนดและเงื่อนไข
+checkout.consent_text_slot_3,Information security policy,นโยบายความเป็นส่วนตัว
+checkout.discount_conflict_with_current_coupon,This promotion cannot be used simultaneously with the current coupon!,โปรโมชันนี้ไม่สามารถใช้ร่วมกับคูปองปัจจุบันได้!
+checkout.coupon_apply_not_successfully,Coupon application failed,การใช้คูปองไม่สำเร็จ
+checkout.coupon_apply_successfully,Coupon applied successfully!,ใช้คูปองสำเร็จแล้ว!
+checkout.coupon_conflict_with_current_discount,This coupon cannot be used simultaneously with the current promotion!,คูปองนี้ไม่สามารถใช้ร่วมกับโปรโมชันปัจจุบันได้!
+checkout.maximum_discount_limitation,Apply a maximum discount of {x}% on the order value,ใช้ส่วนลดสูงสุด {x}% ของมูลค่าคำสั่งซื้อ
+checkout.ask_for_advice,Talk with us directly,ขอคำปรึกษาได้เลย
+checkout.need_support_contact,Do you need more help?,ยังลังเลอยู่ใช่ไหม? <br /> ติดต่อ Prep เพื่อ
+checkout.back_to_homepage,Back to homepage,กลับไปที่หน้าแรก
+checkout.title_sale_policy_not_support_in_market,"We’re sorry, this product is not supported in your area",ขออภัย ผลิตภัณฑ์นี้ไม่รองรับในพื้นที่ของคุณ
+checkout.desc_sale_policy_not_support_in_market,Please visit homepage to update and explore products suitable for your area,กรุณาเข้าสู่หน้าแรกเพื่ออัปเดตและสำรวจผลิตภัณฑ์ที่เหมาะสมกับพื้นที่ของคุณ
+checkout.program_consulting,Talk with our team,ปรึกษาโปรแกรมการเรียน
+checkout.contact_support_notice,"Please provide your details below, and Prep will reach out to you for a consultation as soon as possible.",กรุณาทิ้งข้อมูลของคุณไว้ Prep จะติดต่อกลับเพื่อให้คำปรึกษากับคุณทันที!
+checkout.contact_support,Contact support,ติดต่อทีมสนับสนุน
+checkout.b2b_prevent_checkout_title,You cannot access this feature,คุณไม่สามารถเข้าถึงคุณสมบัตินี้ได้
+checkout.b2b_prevent_checkout_desc,The account {username} is a business account and cannot make payments on this platform. Please contact the business/ provider for support,บัญชี {username} เป็นบัญชีธุรกิจและไม่สามารถชำระเงินบนแพลตฟอร์มนี้ได้ โปรดติดต่อธุรกิจ/ผู้ให้บริการเพื่อขอความช่วยเหลือ
+checkout.email_required_note,"Your email address is required for your receipt, course activation, and important updates. Please ensure your email address is accurate to avoid lost of essential information.",ที่อยู่อีเมลของคุณจำเป็นสำหรับใบเสร็จ การเปิดใช้งานคอร์สเรียน และการอัปเดตที่สำคัญ โปรดตรวจสอบให้แน่ใจว่าที่อยู่อีเมลของคุณถูกต้องเพื่อหลีกเลี่ยงการสูญหายของข้อมูลที่จำเป็น
+checkout.invoice_id_number,Identification number,หมายเลขประจำตัว
+checkout.invoice_passport_number,Passport Number,หมายเลขหนังสือเดินทาง
+checkout.placeholder_invoice_passport_number,Enter passport number,ป้อนหมายเลขหนังสือเดินทาง
+checkout.use_my_account_email,Use my account email,ใช้อีเมลบัญชีของฉัน
+checkout.invoice_national_id_number,National ID Number,เลขบัตรประจำตัวประชาชน
+checkout.placeholder_invoice_national_id_number,Enter national ID number,ป้อนหมายเลขบัตรประจำตัวประชาชน
+checkout.fail_to_apply_coupon_expired,This coupon has expired. Please check the code and try again.,คูปองนี้หมดอายุแล้ว โปรดตรวจสอบรหัสและลองอีกครั้ง
+checkout.invoice_tax_number_v1,Tax Identification Number - 10 or 13 digits,เลขประจำตัวผู้เสียภาษี - 10 หรือ 13 หลัก
+checkout.error_invoice_tax_number_wrong_format,Invalid tax code format. Please enter a 10-digit or 13-digit code,รูปแบบรหัสภาษีไม่ถูกต้อง โปรดป้อนรหัส 10 หลักหรือ 13 หลัก
+checkout.error_invoice_id_number_wrong_format,Invalid Identity Number format. Please enter a 12-digit number,รูปแบบหมายเลขประจำตัวไม่ถูกต้อง โปรดป้อนหมายเลข 12 หลัก
+checkout.order_details,Order details,รายละเอียดคำสั่งซื้อ
+checkout.x_people_used_course_v1,"More than 12,567 Prep students have used this roadmap","ผู้เรียนของ Prep มากกว่า 12,567 คนที่ใช้แผนการเรียนนี้แล้ว"
+payment.payment,Payment,การชำระเงิน
+payment.method,Payment method,วิธีการชำระเงิน
+payment.info,Payment information,ข้อมูลการชำระเงิน
+payment.transfer_bank,Bank,ธนาคาร
+payment.3rd_info,Payment solutions provided by,โซลูชันการชำระเงินที่จัดทำโดย
+payment.transfer_info,Transfer information,ข้อมูลการโอนเงิน
+payment.transfer_account,Account number,หมายเลขบัญชี
+payment.transfer_holder_name,Account holder's name,ชื่อเจ้าของบัญชี
+payment.transfer_message,Transfer description,เนื้อหาการโอนเงิน
+payment.transfer_amount,Amount to be transferred,จำนวนเงินที่ต้องโอน
+payment.bank_select,Select bank,เลือกธนาคาร
+payment.guide_title,Payment instructions,คำแนะนำการชำระเงิน
+payment.guide_open_app,Open the banking app on your mobile device,เปิดแอปธนาคารบนอุปกรณ์เคลื่อนที่ของคุณ
+payment.guide_scan_qr,"In the app, select the QR code scanning feature",ในแอปให้เลือกฟังก์ชันการสแกนรหัส QR
+payment.guide_scan_and_process,Scan the QR code above and make the payment,สแกนรหัส QR ด้านบนและชำระเงิน
+payment.note_transfer_info_bank_transfer,"After you successfully make the payment, please wait 5 minutes for the system to process your order. If you do not receive a response after this time, please provide a payment image to the admissions consultant to order confirmation!",หลังจากที่คุณชำระเงินสำเร็จ กรุณารอเป็นเวลา 5 นาทีเพื่อให้ระบบประมวลผลคำสั่งซื้อของคุณ หากเกินเวลาดังกล่าวแล้วยังไม่ได้รับการตอบกลับ กรุณาส่งภาพใบเสร็จการชำระเงินให้กับที่ปรึกษาการสมัครเรียนเพื่อยืนยันคำสั่งซื้อของคุณ!
+payment.failure,Payment failed,การชำระเงินล้มเหลว
+payment.failure_notice,<strong>Oops!...</strong> Something went wrong causing the payment process to fail. <br /> Please try again or contact support staff for immediate assistance!,<strong>โอ๊ะ!...</strong> เกิดปัญหาที่ทำให้กระบวนการชำระเงินไม่สำเร็จ<br /> กรุณาลองชำระเงินใหม่อีกครั้งหรือติดต่อทีมสนับสนุนเพื่อขอความช่วยเหลือได้ทันที!
+payment.success,Payment successful,การชำระเงินสำเร็จ
+payment.repayment,Pay again,ชำระเงินอีกครั้ง
+payment.start_learn,Start learning now,เริ่มเรียนตอนนี้เลย
+payment.complete_payment_in_time,Complete the payment process in,กรุณาดำเนินการชำระเงินให้เสร็จสิ้นภายใน
+payment.complete_payment_in_time_lite,Payment within,ชำระเงินภายใน
+payment.coupon_expired_msg,The validity of the order/ coupon code has expired. Please contact support to create a new order/ coupon code!,คำสั่งซื้อ/ รหัสคูปองหมดอายุแล้ว กรุณาติดต่อทีมสนับสนุนเพื่อสร้างคำสั่งซื้อ/ รหัสคูปองใหม่!
+payment.9pay_intro,The transaction is processed by 9Pay - an electronic payment gateway licensed by the State Bank to act as a payment intermediary,ธุรกรรมนี้ดำเนินการโดย 9Pay - เกตเวย์การชำระเงินอิเล็กทรอนิกส์ที่ได้รับใบอนุญาตจากธนาคารแห่งชาติให้ทำหน้าที่เป็นตัวกลางการชำระเงิน
+payment.note_transfer_info_9pay,"After successful payment, please wait for 5 minutes for the system to process your order. If you do not receive a response after this time, please select {suffix}",หลังจากการชำระเงินสำเร็จ กรุณารอเป็นเวลา 5 นาทีเพื่อให้ระบบดำเนินการคำสั่งซื้อของคุณ หากคุณไม่ได้รับการตอบกลับภายในเวลานี้ กรุณาเลือก {suffix}
+payment.note_transfer_info_9pay_suffix,Check order status,ตรวจสอบสถานะคำสั่งซื้อ
+payment.payment_processing_9pay,Please wait a moment. Your order is being processed by the system. It is expected to be completed in,กรุณารอชั่วครู่ คำสั่งซื้อของคุณกำลังถูกประมวลผลโดยระบบ คาดว่าจะเสร็จสิ้นภายใน
+payment.payment_pending_9pay,The payment process has not been completed yet.<br />Please contact Prep's Hotline for immediate assistance!,กระบวนการชำระเงินยังไม่เสร็จสิ้น<br />กรุณาติดต่อสายด่วนของ Prep เพื่อรับการสนับสนุนทันที!
+payment.contact_support_hotline,Contact support hotline,ติดต่อสายด่วนฝ่ายสนับสนุน
+payment.pay,Pay,การชำระเงิน
+payment.direct_payment_via,Pay directly through,ชำระเงินโดยตรงผ่าน
+payment.or_pay_by_paypal_to_email,Or transfer via PayPal to the email,หรือโอนเงินผ่าน PayPal ไปยังอีเมล
+payment.paypal_done_notice,"After completing your payment, you might be required to send a screenshot of the payment confirmation to our support email at <a href='mailto:{'support@prepedu.com'}'>{'support@prepedu.com'}</a>",หลังจากการชำระเงินสำเร็จ กรุณาส่งภาพใบเสร็จการชำระเงินให้ทีมที่ปรึกษาการรับสมัครเพื่อยืนยันคำสั่งซื้อของคุณ!
+payment.payment_processing_msg_prefix,Your order is being processed by the system and is expected to be completed in,คำสั่งซื้อของคุณกำลังถูกประมวลผลโดยระบบ คาดว่าจะเสร็จสิ้นภายใน
+payment.payment_processing_msg_suffix,Please do not turn off this notification before receiving a response from Prep!,กรุณาอย่าปิดการแจ้งเตือนนี้ก่อนที่จะได้รับการตอบกลับจาก Prep!
+payment.payment_pending_msg,The payment process could not be completed. Please try again or contact Prep for immediate assistance!,ไม่สามารถทำรายการชำระเงินได้ กรุณาลองอีกครั้งหรือติดต่อ Prep เพื่อขอความช่วยเหลือทันที!
+payment.success_notice,"<strong>Hooray!</strong> Congratulations on your successful payment. <br /> Now, you can start studying right away! <br /> Wishing you achieve your desired results soon!",<strong>เย้!</strong> ยินดีด้วยที่คุณชำระเงินสำเร็จ <br /> ตอนนี้คุณสามารถเริ่มเรียนได้ทันที! <br /> ขอให้คุณประสบความสำเร็จตามที่ต้องการในเร็ว ๆ นี้!
+payment.success_notice_lite,"<strong>Hooray!</strong> Congratulations on your successful payment. Now, you can start studying right away!",<strong>เย้!</strong> ยินดีด้วยที่คุณชำระเงินสำเร็จตอนนี้คุณสามารถเริ่มเรียนได้ทันที!
+payment.payment_suspended,The payment process is currently interrupted.<br />Please contact Prep's Hotline for immediate assistance!,กระบวนการชำระเงินกำลังถูกขัดจังหวะ<br />กรุณาติดต่อสายด่วนของ Prep เพื่อรับการสนับสนุนทันที!
+payment.unavailable,Unavailable,ไม่สามารถใช้งานได้
+payment.unavailable_description,<span>Ooop!</span> Your order no longer exists.<br />Please contact support staff to create a new order!,<span>โอ๊ะ!</span> คำสั่งซื้อของคุณไม่มีอยู่แล้ว<br />กรุณาติดต่อทีมสนับสนุนเพื่อสร้างคำสั่งซื้อใหม่!
+payment.support,Support,การสนับสนุน
+payment.support_payment,Payment support,สนับสนุนการชำระเงิน
+payment.qr_code_expired,QR code has expired,QR Code หมดอายุแล้ว
+payment.click_to_reload,Click to reload,คลิกเพื่อโหลดใหม่
+payment.receiving_bank,Receiving Bank,ธนาคารผู้รับ
+payment.placeholder_receiving_bank,Select receiving bank,เลือกธนาคารผู้รับ
+payment.guide_desc,Please follow the steps below to complete your payment,โปรดทำตามขั้นตอนด้านล่างเพื่อดำเนินการชำระเงินให้เสร็จสมบูรณ์
+payment.guide_airwallex_step_1,Select the receiving bank and click Continue,เลือกธนาคารผู้รับและคลิกดำเนินการต่อ
+payment.guide_airwallex_step_2,You will be redirected to a page where a Payment Code is generated and displayed,คุณจะถูกนำไปยังหน้าที่จะมีการสร้างและแสดงรหัสการชำระเงิน
+payment.guide_airwallex_step_3,Follow up the instructions and complete the bank transfer,ทำตามคำแนะนำและดำเนินการโอนเงินผ่านธนาคารให้เสร็จสิ้น
+payment.keep_browser_util_successfull_payment,The system will automatically redirect you after a successful payment. Please do not close or navigate away from this page,ระบบจะนำคุณไปยังหน้าถัดไปโดยอัตโนมัติหลังจากการชำระเงินสำเร็จ กรุณาอย่าปิดหรือออกจากหน้านี้
+payment.scan_qr_gopay_title,Scan this QR code using the GoPay app<br />on your phone,สแกนคิวอาร์โค้ดนี้โดยใช้แอป GoPay<br />บนโทรศัพท์ของคุณ
+payment.payment_directly_via,Pay directly via {app},ชำระเงินโดยตรงผ่าน {app}
+payment.pay_by,Pay by {app},ชำระเงินด้วย {app}
+payment.activate_my_code,Activate my code,เปิดใช้งานรหัสของฉัน
+payment.installment_conversion_fee,{fee} installment conversion fee,ค่าธรรมเนียมการแปลงเป็นผ่อนชำระ {fee}
+payment.consent_text,"By confirming payment, you have read and agree to Prep's {slot1} and {slot2}!",เมื่อยืนยันการชำระเงินแล้ว จะถือว่าคุณได้อ่านและยอมรับ {slot1} และ {slot2} ของ Prep!
+payment.consent_text_slot_1,Terms & Conditions,ข้อกำหนดและเงื่อนไข
+payment.consent_text_slot_2,Privacy Policy,นโยบายความเป็นส่วนตัว
+verify.notice,Please confirm your phone number to continue with the payment!,กรุณายืนยันหมายเลขโทรศัพท์เพื่อดำเนินการชำระเงินต่อ!
+verify.resend_after,Resend the code after {x}s,ส่งรหัสอีกครั้งหลังจาก {x} วินาที
+verify.send_code,Send verification code,ส่งรหัสยืนยัน
+verify.counter,{x} attempts remaining,เหลือ {x} ครั้ง
+verify.otp_send_limit,You have used up all your attempts to send the OTP. Please try again in 15 minutes!,คุณใช้จำนวนครั้งในการส่งรหัส OTP หมดแล้ว กรุณาลองอีกครั้งหลังจาก 15 นาที!
+verify.otp_input,Confirmation OTP code,รหัส OTP ยืนยัน
+verify.send_otp_successfully,OTP code sent successfully,ส่งรหัส OTP สำเร็จแล้ว
+verify.otp_label,A 6-digit code will be sent to your phone number,รหัส 6 หลักจะถูกส่งไปยังหมายเลขโทรศัพท์ของคุณ
+verify.restore_account_info_msg,"You requested to delete your account on {start}. Your account is currently in a temporary lock period and will be pernamently deleted after {end}.<br /><br />Be confirming the payment, your account will be restored along with all previous data",คุณได้ส่งคำขอลบบัญชีของคุณเมื่อวันที่ {start} ขณะนี้บัญชีของคุณอยู่ในช่วงล็อกชั่วคราวและจะถูกลบอย่างถาวรหลังจากวันที่ {end}<br /><br />เมื่อยืนยันการชำระเงิน บัญชีของคุณจะถูกกู้คืนพร้อมกับข้อมูลก่อนหน้าทั้งหมด
+verify.restore_account,Restore account,กู้คืนบัญชี
+verify.restore_account_now,Restore account now,กู้คืนบัญชีตอนนี้
+verify.auth_restore_account_title,Your account is temporarily locked,บัญชีของคุณถูกล็อกชั่วคราว
+verify.auth_restore_account_desc,You requested to delete your account on {start}. Your account is currently in a temporary lock period and will be permanently deleted after {end}.{breakline}Would you like to restore your account so you don't miss out on current offers?,คุณได้ส่งคำขอลบบัญชีของคุณเมื่อวันที่ {start} ขณะนี้บัญชีของคุณอยู่ในช่วงล็อกชั่วคราว และจะถูกลบอย่างถาวรหลังจากวันที่ {end}{breakline}คุณต้องการกู้คืนบัญชีเพื่อไม่ให้พลาดข้อเสนอปัจจุบันหรือไม่
+verify.change_account,Change account,เปลี่ยนบัญชี
+common.step,Step,ขั้นตอนที่
+common.value,Value,มูลค่า
+common.an_error_occurred,An error occurred,เกิดข้อผิดพลาด
+common.note,Note,หมายเหตุ
+common.search,Search,ค้นหา
+common.select,Select,เลือก
+common.no_matching_results,No matching results found,ไม่พบผลลัพธ์ที่ตรงกัน
+common.view_more,View more,ดูเพิ่มเติม
+common.email,Email,อีเมล
+common.prep_has_received_your_info,Prep has received your information,Prep ได้รับข้อมูลของคุณแล้ว
+common.prep_will_contact_you_soon,"Be mindful of your phone, Prep will contact you soon",โปรดรอสาย! Prep จะติดต่อคุณในเร็ว ๆ นี้
+common.an_error_occurred_try_again,An error occurred. Please try again,เกิดข้อผิดพลาด กรุณาลองอีกครั้ง
+common.expired_session_title,Session expired. Please log in again,เซสชันหมดอายุแล้ว กรุณาเข้าสู่ระบบอีกครั้ง
+common.expired_session_desc,"Your session has expired or your password was changed. For security reasons, please log in again",เซสชันของคุณหมดอายุหรือรหัสผ่านถูกเปลี่ยน กรุณาเข้าสู่ระบบใหม่อีกครั้งเพื่อความปลอดภัย
+common.understanded,I understand,ฉันเข้าใจแล้ว
+common.i_understand,I understand,เข้าใจแล้ว
+common.days,days,วัน
+common.hours,hours,ชั่วโมง
+common.minutes,minutes,นาที
+common.seconds,seconds,วินาที
+common.copy,Copy,คัดลอก
+common.copy_successful,Copy successful,คัดลอกสำเร็จแล้ว
+common.phone_number,Phone number,หมายเลขโทรศัพท์
+common.placeholder_phone_number,Enter phone number,ป้อนหมายเลขโทรศัพท์
+common.email_placeholder,Enter your email address,ที่อยู่อีเมลของคุณ
+common.email_err_wrong_format,"Email is invalid format, please double-check!",อีเมลอยู่ในรูปแบบที่ไม่ถูกต้อง โปรดตรวจสอบอีกครั้ง!
+common.learner_info,Learner information,ข้อมูลผู้เรียน
+common.prep_account,Prep account,บัญชี Prep
+common.name,Name,ชื่อ
+common.continue,Continue,ต่อไป
+common.buyer_info,Buyer information,ข้อมูลผู้ซื้อ
+common.username,Username,ชื่อผู้ใช้
+common.retry,Try again,ลองอีกครั้ง
+meta_data.checkout,Checkout,Checkout
+meta_data.pay_order,Order payment,ชำระเงินคำสั่งซื้อ
+meta_data.pending,Pending processing,รอการดำเนินการ
+meta_data.success,Payment successful,กำลังดำเนินการ
+meta_data.failure,Payment failed,การชำระเงินล้มเหลว
+meta_data.unavailable,Unavailable,ไม่สามารถใช้งานได้
+view_less_gifts,View less,แสดงน้อยลง
+view_all_gifts,View all {n} gifts,ดูของขวัญทั้งหมด {n} ชิ้น
+title,Smart Learning & Test Preparation Platform with Exclusive Prep AI Technology,Smart Learning & Test Preparation Platform with Exclusive Prep AI Technology
+description,"Study online, prepare for exams, practice with mock tests, and take simulated exams from home. Our courses offer a solid outcome commitment. Comprehensive English and Chinese courses for all learners. The Prep app and website feature virtual classroom technology, enabling advanced AI-powered speaking and writing practice and feedback.","Study online, prepare for exams, practice with mock tests, and take simulated exams from home. Our courses offer a solid outcome commitment. Comprehensive English and Chinese courses for all learners. The Prep app and website feature virtual classroom technology, enabling advanced AI-powered speaking and writing practice and feedback."
+site_name,PREPEDU.COM Smart learning and test prep platform,PREPEDU.COM แพลตฟอร์มการเรียนรู้และการเตรียมสอบอัจฉริยะ
+b2b.title,Smart learning and test prep platform,แพลตฟอร์มการเรียนรู้และการเตรียมสอบอัจฉริยะ
+b2b.description,"Learning a foreign language is easy with a personalized, comprehensive study and exam preparation roadmap",เรียนรู้ภาษาต่างประเทศได้ง่ายๆ ด้วยแผนการเรียนและการเตรียมสอบที่ปรับให้เหมาะกับคุณ
+hero_line_1,Smart learning,แพลตฟอร์มการเรียนรู้
+hero_line_2,and exam preparation,และการเตรียมสอบ
+hero_line_3,platform,อัจฉริยะ
+explore_now,Explore now,ดูเพิ่มเติม
+product_line_you_are_interested_in,Learning Programs<br /> That Might Suit You,ค้นพบโปรแกรมการเรียนรู้ได้ <br />เลยตอนนี้
+learn_and_practice_every_time_every_where,"Study and Prepare <br /> <gradient>for Exams Anywhere, Anytime</gradient>",เรียน<br /><gradient>ได้ทุกที่ทุกเวลา<gradient>
+in_all_devices_with_only_one_platform_prep,on just one platform: Prep,ทุกอุปกรณ์ ผ่านแพลตฟอร์มเดียว - Prep
+verify,Verify,ยืนยัน
+delete,Delete,ลบ
+i_understanded,I understand,ฉันเข้าใจแล้ว
+understood,Understood,เข้าใจแล้ว
+confirm,Confirm,ยืนยัน
+resend_otp,Resend code,ส่งรหัสอีกครั้ง
+login,Log in,เข้าสู่ระบบ
+register,Register,สมัครใช้งาน
+search,Search,ค้นหา
+no_matching_results,No matching results found,ไม่พบผลลัพธ์ที่ตรงกัน
+select,Select,เลือก
+error_alert,An error occurred. Please try again,เกิดข้อผิดพลาด กรุณาลองอีกครั้ง
+view_more,View more,ดูเพิ่มเติม
+view_all,View all,ดูทั้งหมด
+view_less,Show less,แสดงน้อยลง
+back,Back,ย้อนกลับ
+language,Language,ภาษา
+select_language,Select language,เลือกภาษา
+static_page_ready_in_lang,The article is available in languages,บทความนี้มีอยู่ใน
+edit,Edit,แก้ไข
+cancel,Cancel,ยกเลิก
+save,Save,บันทึก
+continue,Continue,ต่อไป
+update,Update,อัปเดต
+check,Check,ตรวจสอบ
+apply,Apply,ใช้
+save_infor,Save,บันทึกข้อมูล
+add_infor,Update information,อัปเดตข้อมูล
+scroll_to_continue,Scroll down to continue,เลื่อนลงเพื่อดำเนินการต่อ
+otp_authen_title,OTP Authentication,ยืนยันด้วยรหัส OTP
+otp_authen_desc,The OTP has been sent to the phone number <span></span> by Prep,OTP ถูกส่งไปยัง <span></span> โดย Prep แล้ว
+otp_authen_desc_1,The OTP code has been sent to the phone number <span></span> by Prep. Please enter the OTP code you receive below,รหัส OTP ได้ถูกส่งไปยังหมายเลขโทรศัพท์ <span></span> โดย Prep โปรดป้อนรหัส OTP ที่คุณได้รับด้านล่างนี้้
+otp_authen_sent_please_enter,Please enter the verification code below,กรุณากรอกรหัสยืนยันด้านล่าง
+product,Product,สินค้า
+all,All,ทั้งหมด
+note,Note,หมายเหตุ
+login_or_register_to_continue,Please log in or register to continue,กรุณาเข้าสู่ระบบ/ สมัครสมาชิกเพื่อดำเนินการต่อ
+login_or_register,Log in or register,เข้าสู่ระบบ/ สมัครใช้งาน
+switch_account,Switch account,เปลี่ยนบัญชี
+congratulations,Congratulations!,ยินดีด้วย
+explore_now,Explore now,สำรวจเลย
+n_students,<span></span> students,ผู้เรียนกว่า <span></span> คน
+experience_now,Experience now,สัมผัสประสบการณ์ทันที
+n_months,{n} months,{n} เดือน
+n_days,{n} days,{n} วัน
+accompanying_gifts,Accompanying gifts,ของแถม
+value,Value,มูลค่า
+details,Details,รายละเอียด
+students,students,ผู้เรียน
+step_n,Step {n},ขั้นที่ {n}
+honoring_the_best_student_of_the_month,Honoring the student of the month,ผู้เรียนดีเด่นประจำเดือน
+archive_high_result_after_study_with_prep,Improved their IELTS Scores by studying on Prep,บรรลุ <span>ผลลัพธ์ที่สูง<span> หลังจากเรียนที่ Prep
+n_age,{n} years old,อายุ {n} ปี
+exam_date,Exam date,วันสอบ
+list_students,List of students,พบกับผู้เรียนดีเด่นบางส่วนของเรา
+share,Share,แชร์
+link_copied,Link copied,คัดลอกลิงก์แล้ว
+share_via,Share via,แชร์ผ่าน
+or_copy_link,Or copy link,หรือคัดลอกลิงก์
+expired_session_title,Session expired. Please log in again,เซสชันหมดอายุแล้ว กรุณาเข้าสู่ระบบอีกครั้ง
+expired_session_desc,"Your session has expired or your password was changed. For security reasons, please log in again",เซสชันของคุณหมดอายุหรือรหัสผ่านถูกเปลี่ยน กรุณาเข้าสู่ระบบใหม่อีกครั้งเพื่อความปลอดภัย
+explore_course,Explore course,สำรวจหลักสูตร
+form.phone_label,Phone number,หมายเลขโทรศัพท์
+form.phone_placeholder,Enter your phone number,หมายเลขโทรศัพท์ของคุณโดยไม่ต้องใส่ 0
+form.phone_placeholder_1,Enter phone number,ป้อนหมายเลขโทรศัพท์
+form.phone_err_required,Please enter your phone number,กรุณากรอกหมายเลขโทรศัพท์ของคุณ
+form.phone_err_wrong_format,Phone number is invalid format,หมายเลขโทรศัพท์รูปแบบไม่ถูกต้อง
+form.field_err_required,This field cannot be left blank,ช่องนี้ไม่สามารถเว้นว่างได้
+form.field_err_required_1,Field cannot be empty,ช่องข้อมูลต้องไม่เว้นว่าง
+form.full_name_label,Full name,ชื่อและนามสกุล
+form.full_name_placeholder,Enter your full name,ชื่อและนามสกุลของคุณ
+form.full_name_err_max_length,Full name must not exceed {max} characters,ชื่อ-นามสกุลต้องไม่เกิน {max} ตัวอักษร
+form.yob_label,Year of birth,ปีเกิด
+form.yob_placeholder,Enter year of birth,กรุณาระบุปีเกิด
+form.social_netword_label,How would you like to be contacted?,คุณต้องการติดต่อทางไหน?
+form.address_social_network_label,Address {socialNetwork},ที่อยู่ {socialNetwork}
+form.address_social_network_placeholder,Enter {socialNetwork} address,ป้อนที่อยู่ {socialNetwork}
+form.address_social_network_err_wrong_format,"Address is invalid format, please double-check!",ที่อยู่ไม่ถูกต้อง โปรดตรวจสอบอีกครั้ง!
+form.email_label,Email,อีเมล
+form.email_placeholder,Enter your email address,ที่อยู่อีเมลของคุณ
+form.email_placeholder_1,Enter your email,กรอกอีเมลของคุณ
+form.email_err_wrong_format,"Email is invalid format, please double-check!",อีเมลอยู่ในรูปแบบที่ไม่ถูกต้อง โปรดตรวจสอบอีกครั้ง!
+form.email_err_wrong_format_1,"Please enter a valid email address <br /> (e.g., email@example.com)",กรุณากรอกที่อยู่อีเมลที่ถูกต้อง <br /> (เช่น email@example.com)
+form.you_are_label,You are,อาชีพ
+form.the_course_you_are_interested_in_label,The course you are interested in,คอร์สเรียนที่คุณสนใจ
+form.content_label,Content,เนื้อหา
+form.content_placeholder,Share about you,โปรดเล่าให้เราฟัง เพื่อให้เราช่วยคุณได้ดียิ่งขึ้น!
+form.content_placeholder_1,Your current skill level,ระดับคะแนนปัจจุบัน
+form.content_placeholder_2,Your desired learning goals,เป้าหมายในการเตรียมสอบ
+form.content_placeholder_3,Your issues,ปัญหาที่คุณกำลังพบเจอ
+form.any_other_question,Any other specific questions,มีคำถามเฉพาะเจาะจงอื่น ๆ อีกไหม
+form.current_level_label,Current level,ระดับปัจจุบัน
+form.desired_goal_label,Desired goal,เป้าหมายผลลัพธ์
+form.note_consent,"By submitting your registration for consultation, you agree to Prep's Privacy policy.",โดยการส่งแบบฟอร์มสมัครรับคำปรึกษานี้ คุณได้ยอมรับนโยบายการคุ้มครองข้อมูลของ Prep แล้ว
+form.submit_registration,Submit registration,ลงทะเบียน
+form.submit_successfully,Submitted successfully,ส่งสำเร็จ
+form.prep_will_contact_you_within_24h,Prep will contact you within 24 hours,Prep จะติดต่อคุณภายใน 24 ชั่วโมง
+form.dob_label,Date of birth,วันเกิด
+form.dob_placeholder,Select date of birth,เลือกวันเดือนปีเกิด
+form.country_label,Country,ประเทศ
+form.country_placeholder,Select Country,เลือกประเทศ
+form.province_label,Province,จังหวัด
+form.province_placeholder,Select province,เลือกจังหวัด
+form.career_label,Profession,อาชีพ
+form.career_placeholder,Choose profession,เลือกอาชีพ
+form.old_password_label,Old password,รหัสผ่านเก่า
+form.password_label,Password,รหัสผ่าน
+form.password_placeholder,Enter password,ใส่รหัสผ่าน
+form.password_err_required,Please enter your password,กรุณากรอกรหัสผ่านของคุณ
+form.password_err_min_max_length,Password must be between {min}-{max} characters,รหัสผ่านต้องมีความยาวระหว่าง {min}-{max} ตัวอักษร
+form.password_err_duplicate_username_phone,Password cannot be the same as phone number/ username,รหัสผ่านต้องไม่ซ้ำกับหมายเลขโทรศัพท์/ชื่อผู้ใช้
+form.password_err_character_invalid,"Password must include at least one lowercase letter, one number, and one uppercase letter",รหัสผ่านต้องประกอบด้วยอย่างน้อย 1 ตัวอักษรตัวพิมพ์เล็ก 1 ตัวเลข และ 1 ตัวอักษรตัวพิมพ์ใหญ่
+form.confirm_password_label,Confirm password,ยืนยันรหัสผ่าน
+form.confirm_password_err_not_matching,Password confirmation is incorrect,การยืนยันรหัสผ่านไม่ถูกต้อง
+form.username_label,Username,ชื่อผู้ใช้
+form.username_placeholder,Enter username,กรอกชื่อผู้ใช้
+form.username_err_required,Please enter your username,กรุณากรอกชื่อผู้ใช้
+form.username_password_err_required,Please enter your username and password,กรุณากรอกชื่อผู้ใช้และรหัสผ่านของคุณ
+form.save_infor_successfully,Successfully saved information,บันทึกข้อมูลสำเร็จ
+form.you_have_other_questions,Let us know if you need further assistance!,หากยังมีคำถามอยู่
+form.leave_your_information_for_contact_and_solve,"Please leave your information, and Prep will contact you to help resolve any issues",โปรดฝากข้อมูลไว้ Prep จะติดต่อและช่วยแก้ไขปัญหาทุกอย่างของคุณ
+form.email_or_username_placeholder,Enter your email/username,ป้อนอีเมล/ชื่อผู้ใช้
+form.email_username_password_err_required,Please enter your email/username and password,กรุณากรอกอีเมล/ชื่อผู้ใช้และรหัสผ่านของคุณ
+form.email_username_err_required,Please enter your email/username,กรุณากรอกอีเมล/ชื่อผู้ใช้
+form.name_label,Name,ชื่อ
+form.child_full_name_label,Child's full name,ชื่อและนามสกุลของบุตร
+form.child_full_name_placeholder,Enter child's full name,กรอกชื่อและนามสกุลของบุตร
+form.address_label,Address,อยู่
+form.address_placeholder,Enter your address,ป้อนที่อยู่ของคุณ
+header.home,Home,หน้าแรก
+header.courses,Course,คอร์สเรียน
+header.blog,Blog,บล็อก
+header.news,News,ข่าว
+header.dictionary,Dictionary,พจนานุกรม
+header.entry_test,Entry test,วัดระดับฟรี
+header.build_roadmap,Create your study plan,ออกแบบแผนการเรียน
+header.test_practice,Test Practice,ฝึกทำข้อสอบ
+header.target_commitment,Output commitment,การรับประกันผลลัพธ์
+header.start_learning,Start,เริ่มเรียน
+header.start,Start,เริ่มต้น
+header.settings,Setting,การตั้งค่า
+header.logout,Log out,ออกจากระบบ
+header.business,Business,สำหรับองค์กร
+header.blog_n_news,Blog & News,บล็อกและข่าวสาร
+download_app.title,Download PREP on,ดาวน์โหลดแอปพลิเคชันบนโทรศัพท์
+download_app.subtitle,Download on,ดาวน์โหลดได้ที่
+download_app.get_the_app,Get the app,ดาวน์โหลดแอป
+download_app.learn_better_with_mobile_app,Learn better with our Prep mobile app,เรียนรู้ได้ดียิ่งขึ้นด้วยแอปมือถือ Prep ของเรา
+footer.connect_with_us,CONNECT WITH US,เชื่อมต่อกับเรา
+footer.expand_menu,You might be interested,คุณอาจสนใจ
+footer.cert_by,CERTIFIED BY,ได้รับการรับรองโดย
+footer.download_mobile_app,DOWNLOAD PREP ON,ดาวน์โหลดแอปพลิเคชันบนโทรศัพท์
+contact.contact_hotline,Contact Hotline,ติดต่อสายด่วน
+contact.register_consultant,Register for a consultation,ลงทะเบียนเพื่อรับคำปรึกษา
+contact.message_to_prepbee_for_advice,Message PrepBee now to ask for advice!,ส่งข้อความถึง Prep ทันทีเพื่อรับคำปรึกษา!
+contact.program_consulting,Consult study program,ปรึกษาโปรแกรมการเรียน
+contact.contact_support_desc,"Please leave your information, and Prep will contact you for consultation right away!",กรุณาแจ้งข้อมูลของคุณ Prep จะติดต่อเพื่อให้คำปรึกษาให้คุณทันที!
+contact.contact_support_note,Please <span>contact customer support</span> for assistance,กรุณา <span>ติดต่อฝ่ายบริการลูกค้า</span> เพื่อรับความช่วยเหลือ
+contact.need_support_contact,Still unsure? <br /> Contact Prep to <span>more advice</span>,ยังไม่แน่ใจอยู่เหรอ? <br /> ติดต่อ Prep เพื่อ <span>ขอคำแนะนำเพิ่มเติม</span>
+contact.need_support_contact_inline,Still unsure? Contact Prep to <span>more advice</span>,ยังไม่แน่ใจอยู่เหรอ? ติดต่อ Prep เพื่อ <span>ขอคำแนะนำเพิ่มเติม</span>
+contact.register_for_updates,Register for updates,ลงทะเบียนเพื่อรับข้อมูล
+contact.contact_phone,Contact {phone},ติดต่อ {phone}
+contact.contact_support_roadmap,Register for a learning roadmap consultation,ลงทะเบียนเพื่อรับคำปรึกษาแผนการเรียน
+breadcrumb.home,Home,หน้าแรก
+breadcrumb.news,News,ข่าว
+breadcrumb.student,Hall of fame,หอเกียรติยศ
+breadcrumb.free_entry_test,Free Entry Test,วัดระดับฟรี
+breadcrumb.score_guarantee_programme,Score Guarantee Programme,นโยบายการรับประกันผลการเรียน
+exit,Exit,ออก
+reload,Reload,โหลดใหม่
+try_again,Try again,ลองอีกครั้ง
+see_details,See details,ดูรายละเอียด
+otp_email_desc,We've sent a 6-digit code to <span></span>. Please enter it below to continue,เราได้ส่งรหัส 6 หลักไปที่ <span></span> โปรดป้อนรหัสด้านล่างเพื่อไปต่อ
+view_details,View details,ดูรายละเอียด
+show_all,Show all,ดูทั้งหมด
+select_program,Select program,เลือกหลักสูตร
+your_selected_program,Your selected program,หลักสูตรที่คุณเลือก
+count_results,{n} result(s),{n} ผลลัพธ์
+test_new_common,test_new_common,test_new_common
+download,Download,ดาวน์โหลด
+or,Or,หรือ
+continue_on_app,Continue on App,ดำเนินการต่อในแอป
+copy_to_clipboard,Copy to clipboard,คัดลอกไปยังคลิปบอร์ด
+proceed,Proceed,ดำเนินการต่อ
+start_learning,Start learning,เริ่มเรียน
+n_parents,<span></span> parents,ผู้ปกครอง <span></span> ท่าน
+report,Report,รายงานข้อผิดพลาด
+back_to_search,Back to search,กลับไปที่การค้นหา
+shuffle,Shuffle,สลับ
+days,Days,วัน
+hours,Hours,ชั่วโมง
+minutes,Minutes,นาที
+seconds,Seconds,วินาที
+hello_guest,"Hello, Guest",สวัสดี ผู้เยี่ยมชม
+highlight,Highlights,ไฮไลท์
+tag,Tags,แท็ก
+categories,Categories,หมวดหมู่
+sort,Sort by,เรียงตาม
+sort_by,Sorted by,เรียงตาม
+newest,Newest,ล่าสุด
+oldest,Oldest,เก่าที่สุด
+no_article,Oops!... There are no posts for this category yet. Prep will update soon!,อุ๊ย!... ยังไม่มีบทความสำหรับหมวดหมู่นี้ Prep จะอัปเดตเร็วๆ นี้!
+no_student,Oops!... There are no high-scoring students for this exam yet. Prep will update soon!,โอ๊ะ!... ยังไม่มีนักเรียนที่ได้คะแนนสูงสำหรับการสอบนี้ Prep จะอัปเดตเร็ว ๆ นี้!
+no_lang_support,"This article does not support this language, please select another supported language",บทความนี้ไม่รองรับภาษานี้ กรุณาเลือกภาษาอื่น
+count_posts,There are {n} posts,มีบทความ {n} บท
+article_has_been_translated_into_langs,The article has been translated into multiple languages,บทความได้รับการแปลเป็นหลายภาษาแล้ว
+count_character,{x}/{y} characters,{x}/{y} ตัวอักษร
+content_publishing_rules,Content publishing rules,Content publishing rules
+search_bar_blog,Search blog,ค้นหาบทความการศึกษา
+search_bar_news,Search news,ค้นหาข่าว
+search_bar_student,Search rising stars news,ค้นหาข่าวการยกย่องนักเรียน
+search_placeholder,Search,ค้นหา
+connect_with_prep,Connect with Prep,ติดต่อ Prep ผ่านโซเชียล
+personal_roadmap,Personalized roadmap,แผนการเรียนรู้ส่วนบุคคล
+interest_posts,Most read,อ่านมากที่สุด
+table_of_content,Table of content,รายการเนื้อหา
+blog.handbook,Handbook,คู่มือ
+blog.main_topics,Main topics,หัวข้อหลัก
+blog.blog_tagline,Sharing effective study tips and exam prep strategies,แบ่งปันเคล็ดลับการเรียนที่มีประสิทธิภาพและกลยุทธ์การเตรียมสอบ
+blog.type_premium,Premium,พรีเมียม
+blog.type_general,General,ทั่วไป
+news_events.title,Event,เหตุการณ์
+news_events.trending,Featured events,เหตุการณ์ที่โดดเด่น
+news_events.latest,Latest events,เหตุการณ์ล่าสุด
+news_events.hero_event_address,Address:,ที่อยู่:
+news_events.hero_event_time,Time:,เวลา:
+news_events.hero_event_participants,Number of participants:,จำนวนผู้เข้าร่วม:
+news_events.hero_event_register,Register,ลงทะเบียน
+news_events.highlight_events,Highlight events,เหตุการณ์เด่น
+news_events.related_posts,Related posts,บทความที่เกี่ยวข้อง
+news_events.promotions_event,Promotion program,โปรแกรมโปรโมชั่น
+news_events.promotion,Promotions,โปรโมชั่น
+student.hall_of_fame,Hall of fame,หอเกียรติยศ
+student.rising_star,Rising stars,ดาวรุ่ง
+student.new_talents,New talents,ความสามารถใหม่
+student.leaderboard,Prep Leaderboard,บัญชีเกียรติยศของ Prep
+student.learned,Completed,เสร็จสิ้นแล้ว
+student.test_score,Test scores,คะแนนสอบ
+student.talent,Talent,ความสามารถพิเศษ
+comment.title,Comment,ความคิดเห็น
+comment.fullname,Full name,ชื่อเต็ม
+comment.fullname_placeholder,Enter your full name,ป้อนชื่อและนามสกุลของคุณ
+comment.email_placeholder,Enter your email address,ที่อยู่อีเมลของคุณ
+comment.comment_placeholder,Enter your comment,ใส่ความคิดเห็น
+comment.submit,Submit,ส่ง
+comment.reply,Reply,ตอบกลับ
+comment.load_more,View more {n} comments,ดูเพิ่มเติม {n} ความคิดเห็น
+comment.expand,View {n} replies,ดู {n} การตอบกลับ
+comment.collapse,Hide all replies,ซ่อนการตอบกลับทั้งหมด
+comment.submit_success,Comment submitted successfully,ส่งความคิดเห็นสำเร็จ
+comment.submit_failed,Comment submission failed,ส่งความคิดเห็นล้มเหลว
+comment.email_invalid,Invalid email address!,ที่อยู่อีเมลไม่ถูกต้อง
+premium.login_to_view,Log in to view this content,คุณต้องเข้าสู่ระบบเพื่อดูเนื้อหานี้
+premium.login_now,Log in,เข้าสู่ระบบ
+premium.to_view_personal_content,to experience the personlized premium content,เพื่อสัมผัสเนื้อหาพรีเมียมที่ปรับให้เหมาะกับคุณ
+premium.premium_content_introduce,Content tailored for you,เนื้อหาสำหรับคุณ
+premium.premium_content,Premium content,เนื้อหาแบบพรีเมียม
+search_placeholder_v1,Type what you're looking for,พิมพ์สิ่งที่คุณกำลังมองหา
+filter_category_label,Category,หมวดหมู่
+filter_type_label,Type,ประเภท
+filter_sort_label,Sort,จัดเรียง
+clear_filters,Clear filters,ล้างตัวกรอง
+no_article_v1,No articles found. Try other filters,ไม่พบบทความ ลองใช้ตัวกรองอื่น
+no_category,No category found,ไม่พบหมวดหมู่
+account,Account,บัญชี
+password,Password,รหัสผ่าน
+contact_to_change_email,Please contact us if you want to change your email,กรุณาติดต่อเราหากคุณต้องการเปลี่ยนอีเมล
+auth_intro_1,Join the Smart learning and test preparation platform now,เข้าร่วมแพลตฟอร์มการเรียนรู้และเตรียมสอบอัจฉริยะตอนนี้
+auth_intro_2,Completely free Entry test.,ฟรี Entry test ทั้งหมด
+auth_intro_3,"With just one account, you can take the Entry test to quickly determine your level",เพียงบัญชีเดียว คุณสามารถทำแบบทดสอบวัดระดับเพื่อประเมินระดับของคุณได้อย่างรวดเร็ว
+auth_intro_b2b_1,Smart learning and test prep platform,แพลตฟอร์มการเรียนรู้และการเตรียมสอบอัจฉริยะ
+auth_intro_b2b_2,"Learning a foreign language is easy with a personalized, comprehensive study and exam preparation roadmap",เรียนรู้ภาษาต่างประเทศได้ง่ายๆ ด้วยแผนการเรียนและการเตรียมสอบที่ปรับให้เหมาะกับคุณ
+auth_selector_title,Join Prep - a smart learning and test preparation platform now,เข้าร่วม Prep – แพลตฟอร์มการเรียนรู้และเตรียมสอบอัจฉริยะ
+consent_text,"By joining, you confirm that you have read and agreed to Prep's <term>Terms & Conditions</term> and <policy>Privacy Policy</policy>",ในการเข้าร่วม คุณยืนยันว่าคุณได้อ่านและยอมรับ <term>ข้อกำหนดและเงื่อนไข</term> และ <policy>นโยบายความเป็นส่วนตัว</policy> ของ Prep แล้ว
+consent_checkbox_label,I have read and agree to Prep's <term>Terms & Conditions</term> and <policy>Privacy Policy</policy>,ฉันได้อ่านและยอมรับ <term>ข้อกำหนดและเงื่อนไข</term> และ <policy>นโยบายความเป็นส่วนตัว</policy> ของ Prep แล้ว
+phone_err_already_register_title,This phone number is already registered,หมายเลขโทรศัพท์นี้ได้ลงทะเบียนแล้ว
+phone_err_already_register_desc,You can <action>Log in with phone number</action> or use a different one,คุณสามารถ <action>เข้าสู่ระบบด้วยหมายเลขโทรศัพท์</action> หรือใช้หมายเลขอื่น
+register_done_title,Welcome <br /> to Prep,ยินดีต้อนรับ <br /> สู่ Prep
+register_done_desc,<span>Update information</span> for a chance to receive <br /><span>more exciting offers</span>,<span>อัปเดตข้อมูล</span> เพื่อโอกาสรับ <br /><span>ข้อเสนอสุดพิเศษอีกมากมาย</span>
+continue_discover,Continue exploring,สำรวจต่อ
+click_here_to_login_by,Click here to log in with,คลิกที่นี่เพื่อเข้าสู่ระบบด้วย
+forgot_password,Forgot password?,ลืมรหัสผ่าน?
+update_new_password,Update new password,อัปเดตรหัสผ่านใหม่
+continue_login,Continue to log in,ดำเนินการเข้าสู่ระบบต่อ
+update_password_successfully,Password successfully updated,อัปเดตรหัสผ่านสำเร็จ
+need_more_infor_to_continue,It seems we need more information to proceed,ดูเหมือนว่าเราต้องการข้อมูลเพิ่มเติมเพื่อดำเนินการต่อ
+change_password_auto_logout_desc,"For security reasons, please log in again using your new password",เพื่อความปลอดภัย กรุณาเข้าสู่ระบบอีกครั้งด้วยรหัสผ่านใหม่ของคุณ
+agree_term_msg_required,Please agree to the Terms & Conditions and Privacy Policy before proceeding,โปรดยอมรับข้อกำหนดและเงื่อนไขและนโยบายความเป็นส่วนตัวก่อนดำเนินการต่อ
+delete_account,Delete account,ลบบัญชี
+reason_delete_account_title,Please let us know why you want to delete your account,โปรดแจ้งให้เราทราบว่าทำไมคุณถึงต้องการลบบัญชีของคุณ
+your_reason_delete_account,Your reason,เหตุผลของคุณ
+reason_delete_account_other_placeholder,Please share your reason,โปรดระบุเหตุผลของคุณ
+delete_account_warning_title,Are you sure you want to delete account?,คุณแน่ใจหรือไม่ว่าต้องการลบบัญชี?
+delete_account_warning_pre,"By deleting your account, you agree to <textDanger>permanently lose access</textDanger> to the following information:",เมื่อคุณลบบัญชีของคุณแล้ว คุณยอมรับว่า <textDanger>คุณจะไม่สามารถเข้าถึง</textDanger> ข้อมูลต่อไปนี้ได้อีกต่อไป:
+delete_account_warning_1,"All course content, learning history, study results, and test practice records",เนื้อหาหลักสูตรทั้งหมด ประวัติการเรียนรู้ ผลการเรียน และบันทึกการฝึกทำแบบทดสอบ
+delete_account_warning_2,All tests in Prep AI Virtual Room,แบบทดสอบทั้งหมดใน Prep AI Virtual Room
+delete_account_warning_3,All account information and entitlements (like gifts and vouchers),ข้อมูลบัญชีและสิทธิ์ทั้งหมด (เช่น ของขวัญและบัตรกำนัล)
+delete_account_warning_post,Deleting your account is <textDanger>permanent</textDanger> and takes effect <textDanger>immediately</textDanger>. This action <textDanger>cannot be undone</textDanger>,การลบบัญชีของคุณเป็นสิ่งที่ <textDanger>ถาวร</textDanger> และมีผล <textDanger>ทันที</textDanger> การดำเนินการนี้ <textDanger>ไม่สามารถยกเลิกได้</textDanger>
+confirm_account_deletion,Confirm account deletion,ยืนยันการลบบัญชี
+fail_to_delete_account,The account deletion request could not be verified. Please ensure the information entered is correct and try again,ไม่สามารถยืนยันคำขอลบบัญชีได้  โปรดตรวจสอบให้แน่ใจว่าข้อมูลที่ป้อนถูกต้อง และลองอีกครั้ง
+delete_account_successfully,Your account has been successfully deleted,บัญชีของคุณถูกลบเรียบร้อยแล้ว
+delete_account_successfully_desc,Thank you for being a part of Prep. We appreciate the time you spent with us,ขอบคุณที่ร่วมเป็นส่วนหนึ่งของ Prep: เราซาบซึ้งในเวลาที่คุณใช้กับเรา
+prevent_delete_account_b2b_title,This feature is currently unavailable,ฟีเจอร์นี้ยังไม่พร้อมใช้งานในขณะนี้
+prevent_delete_account_b2b_description,This feature is not available for business account. Please check with your admin at your organizer if you need help deleting your account,ฟีเจอร์นี้ไม่พร้อมใช้งานสำหรับบัญชีธุรกิจ โปรดตรวจสอบกับผู้ดูแลระบบของคุณที่องค์กรของคุณ หากคุณต้องการความช่วยเหลือในการลบบัญชีของคุณ
+device_management.device_management,Device management,การจัดการอุปกรณ์
+device_management.account_verification_title,Account verification,ยืนยันตัวตน
+device_management.account_verification_desc,"To access Device Management, you need to verify your account",ในการเข้าถึงการจัดการอุปกรณ์ คุณต้องยืนยันตัวตนของคุณ
+device_management.list_devices_title,List of devices you are using,รายการอุปกรณ์ทั้งหมดที่คุณกำลังใช้งาน
+device_management.count_devices,{x}/{y} devices,{x}/{y} อุปกรณ์
+device_management.last_visited,Last login,การเข้าสู่ระบบครั้งล่าสุด
+device_management.contact_support_via_email_title,Contact support via email,ติดต่อทีมสนับสนุนผ่านอีเมล
+device_management.contact_support_via_email_desc,Contact us at <a href='mailto:support@prepedu.com'>support@prepedu.com</a> for the best assistance,ติดต่อเราได้ที่ <a href='mailto:support@prepedu.com'>support@prepedu.com</a> เพื่อรับการสนับสนุนที่ดีที่สุด
+device_management.confirm_remove_device_title,Confirm removing device,ยืนยันการลบอุปกรณ์
+device_management.confirm_remove_device_desc,This device will be removed from your access list,อุปกรณ์นี้จะถูกลบออกจากรายการเข้าถึงของคุณ
+device_management.remove_device_successfully,Successfully deleted device,ลบอุปกรณ์สำเร็จ
+device_management.can_login_on_move_device_mobile_app,You can log in on {num} more mobile devices,คุณสามารถเข้าสู่ระบบได้อีก {num} อุปกรณ์บนแอปมือถือ
+device_management.can_login_on_move_device_browser,You can log in on {num} more web browsers,คุณสามารถเข้าสู่ระบบได้อีก {num} เบราว์เซอร์เว็บไซต์
+device_management.can_login_on_move_device_tablet,You can log in on {num} more tablet devices,คุณสามารถเข้าสู่ระบบได้อีก {num} อุปกรณ์แท็บเล็ต
+device_management.device_access_limit_title,Device access limit,จำกัดการเข้าถึงอุปกรณ์
+device_management.device_access_limit_desc,You cannot access because this account has exceeded the allowed number of devices. Please access Device Management to check,คุณไม่สามารถเข้าถึงได้เนื่องจากบัญชีนี้เกินจำนวนอุปกรณ์ที่อนุญาต กรุณาไปที่การจัดการอุปกรณ์เพื่อตรวจสอบ
+device_management.device_management_warning,Account sharing is prohibited. Violations may result in a warning or account suspension. Please keep your account secure and follow our Terms and Conditions,ห้ามมิให้มีการแบ่งปันบัญชี การละเมิดอาจส่งผลให้มีการเตือนหรือระงับบัญชี โปรดรักษาความปลอดภัยบัญชีของคุณและปฏิบัติตามนโยบายการใช้งานของเราค่ะ/ครับ
+device_management.trusted_devices,Trusted devices,อุปกรณ์ที่เชื่อถือได้
+device_management.access_history,Access history,ประวัติการเข้าถึง
+device_management.device_management_intro,Manage trusted devices and your access history.,จัดการอุปกรณ์ที่เชื่อถือได้และประวัติการเข้าถึงของคุณ
+device_management.empty_access_history,No activity has been recorded yet,ยังไม่มีการบันทึกกิจกรรม
+device_management.load_error_access_history,Could not load access history.<br />Please refresh the page,ไม่สามารถโหลดประวัติการเข้าถึงได้<br />กรุณารีเฟรชหน้า
+activation_code.activation_code,Activation code,รหัสเปิดใช้งาน
+activation_code.search_code,Search code,ค้นหารหัส
+activation_code.my_codes,My activation code,รหัสเปิดใช้งานของฉัน
+activation_code.search_code_title,Enter the activation code to start your experience now,กรอกรหัสเปิดใช้งานเพื่อเริ่มต้นประสบการณ์ได้เลย
+activation_code.search_code_placeholder,Enter activation code,กรอกรหัสเปิดใช้งาน
+activation_code.activation_code_benefit_note,Note: Learning benefits will accumulate (if applicable) if you already own the corresponding course,หมายเหตุ: สิทธิประโยชน์จะถูกรวมสะสม (ถ้ามี) ในกรณีที่คุณเป็นเจ้าของคอสเรียนที่เกี่ยวข้องกันอยู่แล้ว
+activation_code.learning_benefits,Learning benefits,สิทธิประโยชน์ด้านการเรียนรู้
+activation_code.not_activated,Not activated,ยังไม่ได้เปิดใช้งาน
+activation_code.activated,Activated,เปิดใช้งานแล้ว
+activation_code.expired,Expired,หมดอายุแล้ว
+activation_code.expiration_date,Expiration date,วันหมดอายุ
+activation_code.activation_date,Activation date,วันที่เปิดใช้งาน
+activation_code.activation_code_list,Activation code list,รายการรหัสเปิดใช้งาน
+activation_code.activate_successful_title,Activation successful,เปิดใช้งานสำเร็จ
+activation_code.you_have_successfully_activated,You have successfully activated your code,คุณเปิดใช้งานคอร์สสำเร็จแล้ว
+activation_code.activate_successful_desc,Congratulations! Your code has been activated. Start learning now!,ยินดีด้วย! รหัสของคุณได้รับการเปิดใช้งานแล้ว เริ่มเรียนได้เลย!
+activation_code.activate_failed,Activation failed,การเปิดใช้งานล้มเหลว
+activation_code.buy_activation_code,Buy activation code,ซื้อรหัสเปิดใช้งาน
+activation_code.activate_new_code,Activate a new code,เปิดใช้งานรหัสใหม่
+activation_code.not_found_activation_code_title,You have not got any activation code,คุณยังไม่มีรหัสเปิดใช้งาน
+activation_code.not_found_activation_code_desc,Get your activation code by following Prep's events or purchase one to start,ยินดีด้วย! รหัสของคุณได้รับการเปิดใช้งานแล้ว เริ่มเรียนได้เลย!
+activation_code.cf_activate_title,Do you want to activate the code?,คุณอยากจะเปิดใช้งานโค้ดไหม?
+activation_code.cf_activate_desc,"After you confirm, your learning benefits will be effective from {today}",หลังจากที่คุณยืนยัน สิทธิประโยชน์ด้านการเรียนรู้ของคุณจะมีผลตั้งแต่วันที่ {today} เป็นต้นไป
+activation_code.cf_activate_warning_refundable,<bold>Please note that the activation code is non-refundable under any circumstances.</bold> Make sure to check the benefits and validity period before activating,<bold>โปรดทราบว่าโค้ดเปิดใช้งานไม่สามารถขอคืนเงินได้ไม่ว่ากรณีใด ๆ</bold> โปรดตรวจสอบสิทธิ์และระยะเวลาการใช้งานก่อนทำการเปิดใช้งาน
+activation_code.activated_account,Activated account,บัญชีที่เปิดใช้งานแล้ว
+activation_code.activate,Activate,เปิดใช้งาน
+activation_code.title_line_1,Enter the activation code,กรอกรหัสเปิดใช้งาน
+activation_code.title_line_2,to start your experience now,เพื่อเริ่มต้นประสบการณ์ได้เลย
+activation_code.activation_code_desc,Manage activation codes,จัดการรหัสเปิดใช้งาน
+activation_code.upcoming,Upcoming,ที่กำลังจะมาถึง
+activation_code.valid_date,Valid date,วันที่ใช้งานได้
+family_center.family_center,Family center,ศูนย์ครอบครัว
+family_center.family_center_tagline,"All your family learning accounts, managed together",จัดการบัญชีเรียนรู้ของครอบครัวคุณทั้งหมดร่วมกันได้ในที่เดียว
+family_center.child_account,Child account,บัญชีบุตรหลาน
+family_center.parent_account,Parent account,บัญชีผู้ปกครอง
+family_center.accounts_linked_to_you,The learning accounts linked to you,บัญชีผู้เรียนที่เชื่อมโยงกับคุณ
+family_center.active_course,Active Course,คอร์สที่กำลังเรียน
+family_center.last_active,Last active,ใช้งานล่าสุด
+family_center.empty_child_account,You haven’t linked any child accounts yet,คุณยังไม่ได้เชื่อมโยงบัญชีบุตรหลานใด ๆ
+family_center.parent_account_to_you,The main account used to manage and support your learning journey,บัญชีหลักที่ใช้จัดการและสนับสนุนเส้นทางการเรียนรู้ของคุณ
+family_center.empty_parent_account,You haven’t linked any parent accounts yet,คุณยังไม่ได้เชื่อมโยงบัญชีผู้ปกครองใด ๆ
+family_center.cannot_view_learning_profile_child,The child is not currently enrolled in any program with a viewable learning profile.,บุตรหลานยังไม่ได้ลงทะเบียนในโปรแกรมใด ๆ ที่มีโปรไฟล์การเรียนรู้ที่สามารถดูได้
+forgot_password_label,Forgot password,ลืมรหัสผ่าน
+forgot_password_email_label,Enter the email linked with your account to receive verification code,โปรดใส่อีเมลที่ผูกกับบัญชีของคุณเพื่อรับรหัสยืนยัน
+forgot_password_username_contact_support,"If you login with a username, please Contact Customer support for assistance!",หากคุณเข้าสู่ระบบด้วยชื่อผู้ใช้ โปรดติดต่อฝ่ายบริการลูกค้าเพื่อขอความช่วยเหลือ!
+order_history.order_history,Order history,ประวัติการสั่งซื้อ
+order_history.order_history_intro,Keep track of your purchases easily,ติดตามการสั่งซื้อของคุณได้อย่างง่ายดาย
+order_history.empty_order_history,You don’t have any order yet.,คุณยังไม่มีรายการสั่งซื้อ
+order_history.buyer_info,Buyer information,ข้อมูลผู้ซื้อ
+order_history.learner_info,Learner information,ข้อมูลผู้เรียน
+order_history.order_detail,Order detail,รายละเอียดคำสั่งซื้อ
+order_history.total_price,Total price,ราคาทั้งหมด
+order_history.discount,Discount,ส่วนลด
+order_history.price_after_promotion,Price after promotion,ราคาหลังจากโปรโมชั่น
+order_history.payment_method,Payment method,วิธีการชำระเงิน
+order_history.payment_date,Payment date,วันที่ชำระเงิน
+order_history.discount_price,Discount price,ราคาส่วนลด
+order_history.gift,Gift,ของขวัญ
+order_history.coupon_code,Coupon code,รหัสคูปอง
+order_history.status_success,Success,สำเร็จ
+order_history.status_refunded,Refunded,คืนเงินแล้ว
+delete_account_warning_pre_v1,"If it's been less than <days></days> days since you initiated the deletion, you can restore your account. <bold>After <days></days> days</bold>, you agree to <textDanger>permanently lose access</textDanger> to the following information:",หากยังไม่ถึง <days></days> วันนับตั้งแต่คุณเริ่มดำเนินการลบ คุณสามารถกู้คืนบัญชีของคุณได้ <bold>หลังจาก <days></days> วัน</bold> คุณยินยอมที่จะ<textDanger>สูญเสียสิทธิ์การเข้าถึง</textDanger>ข้อมูลต่อไปนี้อย่างถาวร:
+delete_account_warning_post_v1,Deleting your account is <textDanger>permanent</textDanger> and takes effect <textDanger>after <days></days> days</textDanger>,การลบบัญชีของคุณเป็นสิ่งที่ <textDanger>ถาวร</textDanger> และมีผล <textDanger>หลังจาก <days></days> วัน</textDanger>
+delete_account_successfully_desc_v1,Thank you for being a part of Prep. We hope to continue accompanying you on your learning journey !,ขอบคุณที่เป็นส่วนหนึ่งของ Prep เราหวังว่าจะได้ร่วมเดินทางบนเส้นทางการเรียนรู้ของคุณต่อไป!
+restore_account_desc_pre,You can restore your account with all your previous learning progress before,คุณสามารถกู้คืนบัญชีของคุณพร้อมกับความคืบหน้าในการเรียนรู้ทั้งหมดก่อนหน้านี้ได้ก่อน
+restore_account_desc_post,"After the time shown above, you will permanently lose access to your account and all of your learning data. You may refer to <link>the instructions</link> or the information sent to your email.",หลังจากเวลาที่แสดงด้านบน คุณจะสูญเสียสิทธิ์การเข้าถึงบัญชีและข้อมูลการเรียนรู้ทั้งหมดของคุณอย่างถาวร คุณสามารถดู <link>คำแนะนำ</link> หรือข้อมูลที่ส่งไปยังอีเมลของคุณได้
+fail_to_delete_account_v1,Failed to delete account. Please try again later,ลบบัญชีไม่สำเร็จ โปรดลองอีกครั้งในภายหลัง
+learning_profile,Learning profile,โปรไฟล์การเรียนรู้
+view_learning_profile,View Learning Profile,ดูโปรไฟล์การเรียนรู้
+auth_restore_account_title,Your account is scheduled for deletion,บัญชีของคุณถูกกำหนดให้ลบ
+auth_restore_account_desc,You requested to delete your account on <start></start> and will be permanently deleted after <end></end>.<br></br><br></br>You can still restore your account and continue your learning progress.,คุณได้ส่งคำขอลบบัญชีของคุณเมื่อ <start></start> และจะถูกลบอย่างถาวรหลังจาก <end></end>.<br></br><br></br>คุณยังสามารถกู้คืนบัญชีและเรียนรู้ต่อจากความคืบหน้าเดิมได้
+restore_account_now,Restore account now,กู้คืนบัญชีตอนนี้
+back_to_login,Back to login,กลับไปที่หน้าล็อกอิน
+auth_restore_account_success_title,Welcome back!,ยินดีต้อนรับกลับมา!
+auth_restore_account_success_desc,"<bold>All your learning progress has been preserved,</bold> let's continue the journey with Prep!",<bold>ความคืบหน้าในการเรียนรู้ทั้งหมดของคุณถูกเก็บรักษาไว้</bold> มาเดินทางต่อกับ Prep กันเถอะ!
+let_start,Let's Start,เริ่มกันเลย
+restore_account,Restore account,กู้คืนบัญชี
+other_log_in_options,Other log in options,ตัวเลือกการเข้าสู่ระบบอื่นๆ
+other_registration_options,Other registration options,ตัวเลือกการลงทะเบียนอื่น ๆ
+continue_with_method,Continue with {method},ดำเนินการต่อด้วย {method}
+msg_sign_in_social_network_unavailable,Sign in with {method} is currently unavailable. Please try again later or use a different method,การลงชื่อเข้าใช้ด้วย {method} ไม่สามารถใช้ได้ในขณะนี้ โปรดลองอีกครั้งในภายหลังหรือใช้วิธีอื่น
+msg_sign_in_social_network_verify_email,This email is already registered. Please enter the code we sent to connect your account,อีเมลนี้ลงทะเบียนแล้ว โปรดป้อนรหัสที่เราส่งให้เพื่อเชื่อมต่อบัญชีของคุณ
+login_social_verify_phone_desc,Please add your phone number to verify your account,กรุณาเพิ่มหมายเลขโทรศัพท์ของคุณเพื่อยืนยันบัญชี
+login_to_your_account,Log in to your account,เข้าสู่ระบบบัญชีของคุณ
+profile,Profile,โปรไฟล์
+change_password,Change password,เปลี่ยนรหัสผ่าน
+billing,Billing,การเรียกเก็บเงิน
+tools,Tools,เครื่องมือ
+settings,Settings,การตั้งค่า
+delete_account_desc,Permanently delete all your learning progress and data,ลบความคืบหน้าในการเรียนรู้และข้อมูลทั้งหมดของคุณอย่างถาวร
+change_password_desc,Secure your account,รักษาความปลอดภัยบัญชีของคุณ
+abusive_account.warning_title,Warning!,คำเตือน!
+abusive_account.warning_desc,"We've noticed unusual activity on your account. Please follow our <term>Terms and Conditions</term> to keep your learning safe. Note: You will be restricted from accessing all lessons on <lock_date></lock_date>. For assistance, please email us at <email>support@prepedu.com</email> or use the support form below",เราพบกิจกรรมที่ผิดปกติในบัญชีของคุณ โปรดปฏิบัติตาม <term>ข้อกำหนดและเงื่อนไข</term> ของเราเพื่อให้การเรียนรู้ของคุณปลอดภัย หมายเหตุ: คุณจะถูกจำกัดการเข้าถึงบทเรียนทั้งหมดในวันที่ <lock_date></lock_date> หากต้องการความช่วยเหลือ โปรดส่งอีเมลถึงเราที่ <email>support@prepedu.com</email> หรือใช้แบบฟอร์มการสนับสนุนด้านล่าง
+abusive_account.fill_form,Fill out the support form,กรอกแบบฟอร์มการสนับสนุน
+abusive_account.soft_lock_title,Warning!,คำเตือน!
+abusive_account.soft_lock_desc,"Your account has been suspended on <lock_date></lock_date> due to repeated violations of our <term>Terms and Conditions</term>. To reactivate your account and continue learning, please contact us at <email>support@prepedu.com</email>",บัญชีของคุณถูกระงับในวันที่ <lock_date></lock_date> เนื่องจากการละเมิด <term>ข้อกำหนดและเงื่อนไข</term> ของเราซ้ำแล้วซ้ำเล่า หากต้องการเปิดใช้งานบัญชีของคุณอีกครั้งและเรียนรู้ต่อ โปรดติดต่อเราที่ <email>support@prepedu.com</email>
+abusive_account.contact_now,Contact now,ติดต่อตอนนี้

@@ -1,0 +1,636 @@
+﻿1
+00:00:11,680 --> 00:00:13,920
+Hey there, it's me.
+
+2
+00:00:14,400 --> 00:00:18,300
+I'm very excited to work with you guys on a new lesson
+
+3
+00:00:18,300 --> 00:00:22,580
+in the IELTS writing 5.0 to 6.0 course.
+
+4
+00:00:23,250 --> 00:00:25,700
+Let's make the most of our time together, shall we?
+
+5
+00:00:26,530 --> 00:00:31,680
+Let's start today's lesson with a question, and please answer honestly.
+
+6
+00:00:32,600 --> 00:00:38,360
+Raise your hand if you feel dizzy or lightheaded whenever you see
+
+7
+00:00:38,360 --> 00:00:41,420
+a chart with lots of numbers and images.
+
+8
+00:00:42,440 --> 00:00:46,440
+After many years of teaching, I understand that many of you often
+
+9
+00:00:46,440 --> 00:00:52,200
+feel anxious or even panicked when dealing with charts and data, partly
+
+10
+00:00:52,200 --> 00:00:57,420
+because you lack confidence when choosing information, and partly because you
+
+11
+00:00:57,420 --> 00:01:01,600
+don't know how to organize or describe them, or where to start.
+
+12
+00:01:02,080 --> 00:01:04,500
+Everything seems too messy.
+
+13
+00:01:06,480 --> 00:01:11,180
+But after today's lesson, I believe that you won't have to worry
+
+14
+00:01:11,180 --> 00:01:16,740
+anymore, because we will work together to analyze charts and learn how
+
+15
+00:01:16,740 --> 00:01:19,020
+to make a detailed outline.
+
+16
+00:01:19,280 --> 00:01:22,780
+And we are going to help you with that by looking at
+
+17
+00:01:22,780 --> 00:01:28,580
+common mistakes that often trap students at band score 5.0, and
+
+18
+00:01:28,580 --> 00:01:32,040
+what you can do differently to achieve band 6.
+
+19
+00:01:32,360 --> 00:01:34,740
+Let's look at these four bar charts.
+
+20
+00:01:35,180 --> 00:01:38,920
+The charts below show the figure for hours per week in the
+
+21
+00:01:38,920 --> 00:01:44,160
+industrial sector in four European countries in 2002.
+
+22
+00:01:44,900 --> 00:01:50,640
+Summarize the information by selecting and reporting the main features, and
+
+23
+00:01:50,640 --> 00:01:52,860
+make comparisons where relevant.
+
+24
+00:01:53,200 --> 00:01:56,460
+The first mistake is providing no overview.
+
+25
+00:01:57,200 --> 00:02:01,180
+This is a very important part in your task achievement score.
+
+26
+00:02:01,720 --> 00:02:06,680
+Many students start describing France's 1-14 hour bar immediately.
+
+27
+00:02:07,360 --> 00:02:13,640
+To achieve band 6.0, you must provide a summary of the most noticeable features.
+
+28
+00:02:14,060 --> 00:02:16,160
+So how can we write an overview?
+
+29
+00:02:16,840 --> 00:02:18,360
+Do you remember the V model?
+
+30
+00:02:19,360 --> 00:02:23,720
+We learned about it in lesson 1, section 1.
+
+31
+00:02:25,020 --> 00:02:26,600
+Let me remind you a bit.
+
+32
+00:02:27,560 --> 00:02:33,040
+It's a two-way thinking method from general to specific and from
+
+33
+00:02:33,040 --> 00:02:34,620
+specific to general.
+
+34
+00:02:36,120 --> 00:02:41,780
+Let's use the V model to analyze this question, which involves three steps.
+
+35
+00:02:42,600 --> 00:02:43,520
+Step 1.
+
+36
+00:02:44,510 --> 00:02:48,800
+Take an overview of the chart and identify the big three.
+
+37
+00:02:50,060 --> 00:02:50,920
+Step 2.
+
+38
+00:02:51,620 --> 00:02:53,600
+Identify the great three.
+
+39
+00:02:54,740 --> 00:02:55,600
+And step 3.
+
+40
+00:02:56,100 --> 00:03:00,040
+Go into details and identify the major three.
+
+41
+00:03:00,840 --> 00:03:06,320
+Alright, according to the V model, in step 1, we need to
+
+42
+00:03:06,320 --> 00:03:10,920
+take an overview of the chart and identify the big three.
+
+43
+00:03:11,830 --> 00:03:14,980
+Here, I'm talking about three elements.
+
+44
+00:03:15,940 --> 00:03:22,320
+The title of the chart, the x-axis or horizontal axis, and
+
+45
+00:03:22,320 --> 00:03:25,660
+the y-axis or vertical axis.
+
+46
+00:03:26,200 --> 00:03:33,260
+So we've completed step 1, identify the big three, moving on to step 2.
+
+47
+00:03:33,540 --> 00:03:38,060
+By looking at the overview of the chart, we will now identify
+
+48
+00:03:38,060 --> 00:03:43,920
+the great three, corresponding to the three elements, 1.
+
+49
+00:03:44,940 --> 00:03:47,740
+Subjects of comparison, 2.
+
+50
+00:03:48,400 --> 00:03:50,920
+Global trends, and 3.
+
+51
+00:03:51,600 --> 00:03:52,580
+Global features.
+
+52
+00:03:53,920 --> 00:03:57,940
+For subjects of comparison, we have the following types.
+
+53
+00:03:58,580 --> 00:04:01,040
+Line graphs include lines.
+
+54
+00:04:02,220 --> 00:04:04,480
+Bar charts include bars.
+
+55
+00:04:05,260 --> 00:04:09,200
+These are narrow rectangles and groups of bars.
+
+56
+00:04:09,880 --> 00:04:13,420
+Tables include rows and columns.
+
+57
+00:04:14,580 --> 00:04:18,680
+And pie charts, all the sections within the chart.
+
+58
+00:04:19,380 --> 00:04:24,840
+In these bar charts, the subjects of comparison are bars and groups of bars.
+
+59
+00:04:25,050 --> 00:04:29,820
+The second element in the great three is global trends.
+
+60
+00:04:30,400 --> 00:04:32,260
+Trends are the changes over time.
+
+61
+00:04:32,900 --> 00:04:37,240
+And for charts with trends, this is the most important factor.
+
+62
+00:04:37,840 --> 00:04:42,120
+So it must be prioritised and clearly defined.
+
+63
+00:04:43,420 --> 00:04:47,900
+Global trend is the general trend of the graph before we describe
+
+64
+00:04:47,900 --> 00:04:49,400
+the trend of each line.
+
+65
+00:04:50,160 --> 00:04:51,960
+I'm sure you still remember.
+
+66
+00:04:52,390 --> 00:04:57,580
+This is one of the two key components of an overview that
+
+67
+00:04:57,580 --> 00:04:59,440
+we learned in the previous lesson.
+
+68
+00:05:00,380 --> 00:05:06,280
+Global trends often include the general trend of all lines, if any.
+
+69
+00:05:06,920 --> 00:05:11,840
+For example, if all lines in a graph increase, that is also
+
+70
+00:05:11,840 --> 00:05:13,880
+the global trend of the graph.
+
+71
+00:05:14,500 --> 00:05:17,160
+And the most significant change.
+
+72
+00:05:17,650 --> 00:05:23,500
+In this task, your overview should highlight that 36 to 40 hours
+
+73
+00:05:23,500 --> 00:05:28,920
+was most common for three countries, while France was the exception, with
+
+74
+00:05:28,920 --> 00:05:32,500
+31 to 35 hours being the peak.
+
+75
+00:05:32,920 --> 00:05:37,680
+The second common mistake is providing an overview with numbers.
+
+76
+00:05:38,380 --> 00:05:43,420
+Exact figures like 70% for Denmark belong in the body.
+
+77
+00:05:43,580 --> 00:05:46,740
+The overview should use general descriptors.
+
+78
+00:05:47,260 --> 00:05:53,180
+Instead of saying French workers peaked at 40%, say they were most
+
+79
+00:05:53,180 --> 00:05:58,320
+likely to work between 31 and 35 hours.
+
+80
+00:05:58,800 --> 00:06:01,920
+Mistake three is describing all data points.
+
+81
+00:06:02,500 --> 00:06:05,360
+Don't list all eight ranges for France.
+
+82
+00:06:05,920 --> 00:06:08,500
+Instead, group the low-level data.
+
+83
+00:06:09,160 --> 00:06:11,640
+In step three, we'll go into details.
+
+84
+00:06:12,340 --> 00:06:17,460
+To analyse a chart and identify some specific details to include in
+
+85
+00:06:17,460 --> 00:06:21,280
+this outline, which elements do we need to focus on?
+
+86
+00:06:22,040 --> 00:06:24,420
+Let's take 30 seconds to think.
+
+87
+00:06:58,860 --> 00:07:02,820
+Some of you might get lost a bit and don't know where to start.
+
+88
+00:07:03,740 --> 00:07:05,580
+Here are some suggestions from me.
+
+89
+00:07:06,580 --> 00:07:09,180
+Please answer the major three questions.
+
+90
+00:07:09,820 --> 00:07:10,260
+1.
+
+91
+00:07:11,000 --> 00:07:14,740
+How should the information be divided into two body paragraphs?
+
+92
+00:07:16,060 --> 00:07:16,940
+2.
+
+93
+00:07:17,520 --> 00:07:21,360
+Which individual trends and features should be selected?
+
+94
+00:07:22,380 --> 00:07:25,580
+It means the trends and features of each line.
+
+95
+00:07:26,720 --> 00:07:27,480
+And 3.
+
+96
+00:07:28,040 --> 00:07:32,120
+How should we organise this information to describe the chart?
+
+97
+00:07:32,620 --> 00:07:37,000
+Therefore, we should group minor data to avoid listing everything.
+
+98
+00:07:37,440 --> 00:07:43,420
+In the France chart, instead of describing eight bars, we describe only
+
+99
+00:07:43,420 --> 00:07:48,520
+the peak, 31 to 35 hours, and then group the rest.
+
+100
+00:07:49,180 --> 00:07:54,100
+We can state that about 10% of employees worked below 14
+
+101
+00:07:54,100 --> 00:07:58,940
+hours over 50 hours and 41 to 45 hours.
+
+102
+00:07:59,400 --> 00:08:02,700
+This keeps your writing concise and analytical.
+
+103
+00:08:03,240 --> 00:08:05,900
+Mistake four is a lack of data grouping.
+
+104
+00:08:05,900 --> 00:08:10,240
+Don't write four separate paragraphs for four countries.
+
+105
+00:08:10,880 --> 00:08:14,940
+Use the horizontal approach to group subjects with similarities.
+
+106
+00:08:15,860 --> 00:08:21,120
+Body one should compare France and Denmark, and body two should compare
+
+107
+00:08:21,120 --> 00:08:22,520
+Sweden and the UK.
+
+108
+00:08:23,220 --> 00:08:26,480
+We have the following outline for these bar charts.
+
+109
+00:08:34,520 --> 00:08:37,820
+Mistake five is using the incorrect tense.
+
+110
+00:08:38,280 --> 00:08:41,240
+This mistake will poorly affect your score on grammar.
+
+111
+00:08:41,240 --> 00:08:44,680
+Look at the x-axis to identify when.
+
+112
+00:08:45,620 --> 00:08:47,560
+These charts are from 2002.
+
+113
+00:08:48,480 --> 00:08:50,680
+All verbs must be in the past tense.
+
+114
+00:08:51,380 --> 00:08:54,940
+I suggest you write a big word past on your paper to
+
+115
+00:08:54,940 --> 00:08:59,040
+remind you to use worked, accounted for, or was.
+
+116
+00:09:02,700 --> 00:09:06,020
+Mistake six is subject-verb disagreement.
+
+117
+00:09:06,600 --> 00:09:11,060
+When your subject is the proportion of workers, the verb must be
+
+118
+00:09:11,060 --> 00:09:14,380
+singular because proportion is singular.
+
+119
+00:09:14,900 --> 00:09:16,660
+For example, write...
+
+120
+00:09:29,860 --> 00:09:33,280
+Mistake seven is using incorrect prepositions.
+
+121
+00:09:33,920 --> 00:09:39,340
+Using prepositions accurately in your sentences is very important in grammar
+
+122
+00:09:39,340 --> 00:09:40,960
+and lexical resources.
+
+123
+00:09:41,800 --> 00:09:46,580
+For example, using accounted at 70% is a common error.
+
+124
+00:09:47,360 --> 00:09:51,260
+The correct collocation is accounted for 70%.
+
+125
+00:09:51,260 --> 00:09:58,500
+Similarly, use stood at or working between 15 and 45 hours.
+
+126
+00:10:00,160 --> 00:10:06,400
+Next, mistake eight is excessive repetition, which affects your score on
+
+127
+00:10:06,400 --> 00:10:07,580
+lexical resources.
+
+128
+00:10:08,400 --> 00:10:12,460
+Do not use workers or common in every sentence.
+
+129
+00:10:13,060 --> 00:10:19,380
+Vary your vocabulary by using employees, working arrangement, most numerous, or
+
+130
+00:10:19,380 --> 00:10:20,420
+working time.
+
+131
+00:10:20,780 --> 00:10:26,520
+In order to avoid these mistakes and improve your lexical resources score,
+
+132
+00:10:26,520 --> 00:10:31,780
+you need to read a lot and enhance your vocabulary by learning
+
+133
+00:10:31,780 --> 00:10:36,740
+graph-specific phrases and practicing your paraphrasing skills.
+
+134
+00:10:37,520 --> 00:10:42,460
+For line graphs and bar charts, you should learn comparative languages,
+
+135
+00:10:42,940 --> 00:10:46,980
+languages for describing trends and changes over time.
+
+136
+00:10:49,310 --> 00:10:52,910
+Mistake nine is using incorrect trend verbs.
+
+137
+00:10:53,350 --> 00:11:00,270
+In our sample task, these charts are static, meaning they don't show changes over time.
+
+138
+00:11:00,790 --> 00:11:03,170
+Avoid increased or dropped.
+
+139
+00:11:03,670 --> 00:11:09,790
+Instead, use comparative verbs like was three times the next highest figure
+
+140
+00:11:09,790 --> 00:11:12,330
+or followed closely by.
+
+141
+00:11:12,530 --> 00:11:16,930
+Finally, mistake 10 is writing one sentence per data point.
+
+142
+00:11:17,650 --> 00:11:19,310
+This makes the writing choppy.
+
+143
+00:11:19,750 --> 00:11:22,770
+Use relative clauses to combine information.
+
+144
+00:11:23,530 --> 00:11:29,570
+Instead of two sentences, write, In France, people who worked 31 to
+
+145
+00:11:29,570 --> 00:11:35,910
+35 hours were the most numerous at 40%, followed closely by those
+
+146
+00:11:35,910 --> 00:11:40,410
+working 36 to 40 hours at 35%.
+
+147
+00:11:40,410 --> 00:11:43,010
+Now let's look at our sample writing.
+
+148
+00:11:53,300 --> 00:11:55,500
+Great job so far, everyone.
+
+149
+00:11:56,140 --> 00:12:01,260
+Today, we learned 10 common mistakes that students might make when describing
+
+150
+00:12:01,260 --> 00:12:03,360
+line graphs and bar charts.
+
+151
+00:12:03,840 --> 00:12:10,820
+They are no overview, overview with numbers, describing all data points, lack
+
+152
+00:12:10,820 --> 00:12:16,940
+of data grouping, incorrect tense, subject-verb disagreement, incorrect
+
+153
+00:12:16,940 --> 00:12:24,320
+prepositions, excessive repetition, incorrect trend verbs, and one sentence per
+
+154
+00:12:24,320 --> 00:12:25,160
+data point.
+
+155
+00:12:25,660 --> 00:12:28,660
+Now let's review through some quick exercises.
+
+156
+00:12:29,220 --> 00:12:34,060
+Today's lesson has been quite long with a fair amount of information.
+
+157
+00:12:34,620 --> 00:12:39,340
+Let's take a short break and we'll continue with the analysis and
+
+158
+00:12:39,340 --> 00:12:41,740
+the horizontal approach in the next lesson.
+
+159
+00:12:42,280 --> 00:12:43,560
+Have a good one, guys.
+

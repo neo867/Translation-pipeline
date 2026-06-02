@@ -1,0 +1,986 @@
+1
+00:00:06,240 --> 00:00:15,500
+Hey guys, welcome back to our IELTS listening course.
+
+2
+00:00:15,880 --> 00:00:25,040
+In the previous video, we learned about the characteristics of Section 3 and why tracking multiple speakers is one of the biggest challenges.
+
+3
+00:00:25,400 --> 00:00:30,900
+Today, we're going to put that knowledge into practice with a real listening exercise.
+
+4
+00:00:31,210 --> 00:00:39,231
+By the end of this video, you'll be able to distinguish speakers
+by voice and gender, follow the natural flow of conversation,
+
+5
+00:00:39,255 --> 00:00:49,580
+identify exactly who says what, and most importantly, track each speaker's opinions using a simple but powerful note-taking technique.
+
+6
+00:00:49,860 --> 00:00:50,480
+Let's begin.
+
+7
+00:00:55,410 --> 00:00:58,620
+Here is our listening exercise today.
+
+8
+00:00:58,620 --> 00:01:01,680
+There are two question types in this exercise.
+
+9
+00:01:01,980 --> 00:01:05,380
+Multiple choice with multiple answers and matching.
+
+10
+00:01:05,660 --> 00:01:10,120
+Before we listen, let's do what you should always do in the exam.
+
+11
+00:01:10,400 --> 00:01:13,740
+Analyze the questions carefully and underline the keywords.
+
+12
+00:01:14,600 --> 00:01:16,500
+You'll have about 30 seconds to read the questions.
+
+13
+00:01:16,920 --> 00:01:17,900
+30 seconds begin.
+
+14
+00:01:50,790 --> 00:02:05,050
+For questions 21 to 24, we need to select two correct answers in the options A
+to E, and for questions 25 to 30, we need to match each question with A, B, or C.
+
+15
+00:02:05,270 --> 00:02:07,229
+Now here are the keywords that I found.
+
+16
+00:02:07,550 --> 00:02:15,850
+In questions 21 to 22, the key phrase is two
+reasons and updating the rules this year.
+
+17
+00:02:16,210 --> 00:02:20,430
+So we need to listen for why the university changed their rules.
+
+18
+00:02:20,710 --> 00:02:22,950
+Let me highlight the keywords in each option.
+
+19
+00:02:22,950 --> 00:02:30,330
+For questions 23 to 24, the key phrase is first-time cheating and penalties.
+
+20
+00:02:30,810 --> 00:02:33,690
+We need punishments for first offense only.
+
+21
+00:02:34,030 --> 00:02:38,630
+For questions 25 to 30, we match each type of work with a rule.
+
+22
+00:02:38,850 --> 00:02:47,710
+The keywords are the types of work themselves, and we need to determine
+if each is allowed freely, allowed with citation, or completely banned.
+
+23
+00:02:48,130 --> 00:02:52,370
+Now, from these keywords, what can we predict about the audio?
+
+24
+00:02:52,370 --> 00:02:53,770
+First, the topic.
+
+25
+00:02:53,910 --> 00:02:59,610
+This is clearly about academic integrity,
+plagiarism rules, cheating, and proper referencing.
+
+26
+00:02:59,950 --> 00:03:01,090
+Second, the speakers.
+
+27
+00:03:01,430 --> 00:03:06,570
+The question says, the students mention. So we're
+listening to students discussing this topic.
+
+28
+00:03:07,330 --> 00:03:10,590
+We can expect two or possibly three student voices.
+
+29
+00:03:11,310 --> 00:03:12,670
+Third, the structure.
+
+30
+00:03:13,170 --> 00:03:14,910
+Notice how the questions are grouped.
+
+31
+00:03:15,470 --> 00:03:20,130
+Questions 21 to 24 seem to be about general rules and punishments.
+
+32
+00:03:20,750 --> 00:03:24,050
+Questions 25 to 30 are about specific types of work.
+
+33
+00:03:24,570 --> 00:03:27,670
+This tells us the conversation will likely have two parts.
+
+34
+00:03:29,130 --> 00:03:33,830
+Before we listen, let me show you a technique
+to track each speaker in the recording.
+
+35
+00:03:34,030 --> 00:03:37,050
+Draw a simple table with columns for each speaker.
+
+36
+00:03:37,350 --> 00:03:40,390
+Since we predicted two students, we'll create two columns.
+
+37
+00:03:40,670 --> 00:03:43,890
+Leave space on the left for question numbers or topics.
+
+38
+00:03:44,150 --> 00:03:47,270
+As you listen, write brief notes in each speaker's column.
+
+39
+00:03:47,270 --> 00:03:53,270
+We'll also use arrows to show when speakers
+agree, disagree, or build on each other's points.
+
+40
+00:03:53,950 --> 00:03:56,150
+Now, let's listen to the first part of the audio.
+
+41
+00:03:56,650 --> 00:04:00,390
+During this first listen, focus on three things.
+
+42
+00:04:01,390 --> 00:04:10,710
+Identifying each speaker's name, noting their voice characteristics,
+and getting a general sense of the conversation flow.
+
+43
+00:04:11,130 --> 00:04:14,010
+Don't worry about answering every question yet.
+
+44
+00:04:16,100 --> 00:04:25,180
+Part 3. You will hear two students, Mark and Anna, talking
+about the new university rules on plagiarism and cheating.
+
+45
+00:04:25,940 --> 00:04:31,280
+Before you listen, you have some time to look at questions 21 to 24.
+
+46
+00:04:51,000 --> 00:04:55,440
+Now listen and answer questions 21 to 24.
+
+47
+00:04:56,880 --> 00:04:57,840
+Hi, Anna.
+
+48
+00:04:58,340 --> 00:05:01,500
+Did you go to the academic governance workshop this morning?
+
+49
+00:05:01,800 --> 00:05:03,960
+The one about the new university rules?
+
+50
+00:05:04,640 --> 00:05:05,300
+Hi, Mark.
+
+51
+00:05:05,300 --> 00:05:06,680
+Yes, I was there.
+
+52
+00:05:07,080 --> 00:05:08,680
+It was actually quite important.
+
+53
+00:05:09,160 --> 00:05:13,960
+I didn't realize they had changed so many
+regulations regarding plagiarism and cheating.
+
+54
+00:05:14,640 --> 00:05:15,180
+Me neither.
+
+55
+00:05:15,640 --> 00:05:19,560
+I was trying to figure out why they decided to change everything now.
+
+56
+00:05:19,960 --> 00:05:22,000
+Was it because of the new government laws?
+
+57
+00:05:22,300 --> 00:05:25,080
+Okay, let's identify our speakers.
+
+58
+00:05:25,500 --> 00:05:26,660
+Did you catch their names?
+
+59
+00:05:27,120 --> 00:05:29,700
+Speaker 1 is Mark, male voice.
+
+60
+00:05:30,060 --> 00:05:33,320
+Speaker 2 is Anna, female voice.
+
+61
+00:05:34,080 --> 00:05:38,880
+Now, let's listen to the audio and write down your answers on paper.
+
+62
+00:05:39,520 --> 00:05:40,400
+Hi, Anna.
+
+63
+00:05:40,900 --> 00:05:44,060
+Did you go to the academic governance workshop this morning?
+
+64
+00:05:44,400 --> 00:05:46,540
+The one about the new university rules?
+
+65
+00:05:47,240 --> 00:05:47,860
+Hi, Mark.
+
+66
+00:05:48,240 --> 00:05:49,240
+Yes, I was there.
+
+67
+00:05:49,640 --> 00:05:51,220
+It was actually quite important.
+
+68
+00:05:51,720 --> 00:05:56,520
+I didn't realize they had changed so many
+regulations regarding plagiarism and cheating.
+
+69
+00:05:57,200 --> 00:05:57,740
+Me neither.
+
+70
+00:05:58,080 --> 00:06:02,120
+I was trying to figure out why they decided to change everything now.
+
+71
+00:06:02,120 --> 00:06:04,540
+Was it because of the new government laws?
+
+72
+00:06:05,300 --> 00:06:09,740
+I thought so too, but the presenter said the
+government laws haven't changed in 10 years.
+
+73
+00:06:10,280 --> 00:06:15,180
+The main reason was actually the technology, you know, AI and chatbots.
+
+74
+00:06:15,860 --> 00:06:16,960
+Ah, right.
+
+75
+00:06:17,460 --> 00:06:19,660
+Because computers can write essays now.
+
+76
+00:06:20,300 --> 00:06:20,940
+Exactly.
+
+77
+00:06:21,380 --> 00:06:27,640
+And I think some students were complaining because the old
+rules didn't mention computers, so they had to update them.
+
+78
+00:06:28,140 --> 00:06:29,380
+Actually not.
+
+79
+00:06:29,640 --> 00:06:33,460
+The reason was that the professors didn't know how to handle these cases.
+
+80
+00:06:34,080 --> 00:06:39,040
+Every teacher used different ways or criteria
+when giving marks, which was confusing.
+
+81
+00:06:39,780 --> 00:06:43,880
+Oh, this improvement process may take some time and money.
+
+82
+00:06:44,260 --> 00:06:45,200
+That's true.
+
+83
+00:06:45,920 --> 00:06:48,600
+Anyway, did you catch the part about the punishments?
+
+84
+00:06:48,860 --> 00:06:50,460
+It sounded pretty scary.
+
+85
+00:06:51,140 --> 00:06:51,940
+It depends.
+
+86
+00:06:52,300 --> 00:06:55,420
+If it's your first time breaking the rules, it's not too bad.
+
+87
+00:06:55,720 --> 00:06:57,580
+You don't get kicked out of university.
+
+88
+00:06:57,580 --> 00:06:59,360
+That's only for the third time.
+
+89
+00:07:00,180 --> 00:07:01,280
+Do they tell your parents?
+
+90
+00:07:02,020 --> 00:07:03,460
+No, we're adults.
+
+91
+00:07:03,640 --> 00:07:04,980
+They don't call our parents.
+
+92
+00:07:05,340 --> 00:07:07,100
+But you do fail the assignment.
+
+93
+00:07:07,380 --> 00:07:09,040
+You get zero marks automatically.
+
+94
+00:07:09,500 --> 00:07:10,520
+That hurts.
+
+95
+00:07:10,920 --> 00:07:11,920
+Is there a fine?
+
+96
+00:07:12,180 --> 00:07:13,420
+Do we have to pay money?
+
+97
+00:07:14,000 --> 00:07:15,060
+No fines.
+
+98
+00:07:15,320 --> 00:07:17,000
+But you can't just walk away.
+
+99
+00:07:17,360 --> 00:07:20,780
+You have to sign up for a special class on academic writing.
+
+100
+00:07:21,180 --> 00:07:24,920
+You have to sit there for three hours and learn how to reference correctly.
+
+101
+00:07:25,600 --> 00:07:27,720
+Ugh, a mandatory workshop.
+
+102
+00:07:28,160 --> 00:07:29,360
+That sounds boring.
+
+103
+00:07:29,800 --> 00:07:31,740
+But it's still better than being expelled.
+
+104
+00:07:32,220 --> 00:07:34,320
+And at least students can learn something.
+
+105
+00:07:34,940 --> 00:07:35,500
+Exactly.
+
+106
+00:07:36,720 --> 00:07:43,300
+Before you hear the rest of the discussion, you
+have some time to look at questions 25 to 30.
+
+107
+00:07:45,280 --> 00:07:48,980
+Anyway, I took some notes on what is allowed and what isn't.
+
+108
+00:07:49,100 --> 00:07:51,100
+We should review them for our next essay.
+
+109
+00:07:51,580 --> 00:07:52,120
+Good idea.
+
+110
+00:07:52,400 --> 00:07:53,220
+Let's look at the list.
+
+111
+00:07:53,880 --> 00:07:56,000
+We have common knowledge.
+
+112
+00:07:56,520 --> 00:08:02,040
+Things like Paris is the capital of France or World War II ended in 1945.
+
+113
+00:08:02,940 --> 00:08:07,200
+The rule says that for basic facts like that, you don't need a citation.
+
+114
+00:08:07,720 --> 00:08:10,940
+In other words, you don't need to write a reference or source.
+
+115
+00:08:11,340 --> 00:08:12,120
+Everyone knows it.
+
+116
+00:08:12,540 --> 00:08:13,880
+What about paraphrasing?
+
+117
+00:08:14,340 --> 00:08:17,860
+If I read a book and then write the idea in my own words?
+
+118
+00:08:18,360 --> 00:08:24,200
+A lot of people get this wrong, and they would argue
+that in this case, a reference is not necessary.
+
+119
+00:08:24,640 --> 00:08:32,960
+But the thing is, even if you change the words, the idea belongs to
+the author, so it is allowed as long as the reference is provided.
+
+120
+00:08:33,580 --> 00:08:39,580
+Many groups and even individuals are providing essay
+writing services, and many students have signed up for that.
+
+121
+00:08:40,120 --> 00:08:44,020
+I've heard about that, but this is obviously the worst type of cheating.
+
+122
+00:08:44,300 --> 00:08:47,760
+And of course, under no circumstance is cheating allowed.
+
+123
+00:08:48,100 --> 00:08:48,760
+That's right.
+
+124
+00:08:49,000 --> 00:08:52,520
+And I think the same rule applies for copying a friend, doesn't it?
+
+125
+00:08:53,040 --> 00:08:53,340
+True.
+
+126
+00:08:53,680 --> 00:08:57,680
+Both students will get in trouble, the one who copied and the one who shared.
+
+127
+00:08:58,240 --> 00:08:59,920
+Next, data and graphs.
+
+128
+00:09:00,640 --> 00:09:06,340
+In my previous assignment, I used a table taken from an official
+website, but I couldn't get a full mark for the reference.
+
+129
+00:09:06,980 --> 00:09:10,360
+I thought this kind of information could
+be used without mentioning the sources.
+
+130
+00:09:11,060 --> 00:09:14,180
+No. The fact is, you
+have to treat it like a quote.
+
+131
+00:09:14,560 --> 00:09:17,180
+You must cite the source under the image.
+
+132
+00:09:17,760 --> 00:09:27,440
+Oh, one of my friends used a paper she wrote herself last semester because she thought
+it was totally acceptable, but whatever the reason is, she got a zero mark for it.
+
+133
+00:09:27,920 --> 00:09:28,480
+That's a pity.
+
+134
+00:09:28,820 --> 00:09:30,540
+It's called self-plagiarism.
+
+135
+00:09:30,920 --> 00:09:31,820
+You can't do it.
+
+136
+00:09:32,040 --> 00:09:34,060
+You have to write something new every time.
+
+137
+00:09:34,520 --> 00:09:38,220
+Mmm, there's a lot to consider when doing our next assignments, then.
+
+138
+00:09:38,580 --> 00:09:38,980
+Right.
+
+139
+00:09:39,880 --> 00:09:48,080
+Now, let's listen one more time, but this time I will show you the
+script and my tracking table that highlights what each speaker says.
+
+140
+00:09:48,240 --> 00:09:50,660
+Listen carefully to see how I took my notes.
+
+141
+00:09:51,480 --> 00:09:52,380
+Hi, Anna.
+
+142
+00:09:52,800 --> 00:09:56,060
+Did you go to the academic governance workshop this morning?
+
+143
+00:09:56,400 --> 00:09:58,540
+The one about the new university rules?
+
+144
+00:09:59,260 --> 00:09:59,840
+Hi, Mark.
+
+145
+00:10:00,200 --> 00:10:01,240
+Yes, I was there.
+
+146
+00:10:01,640 --> 00:10:03,240
+It was actually quite important.
+
+147
+00:10:03,700 --> 00:10:08,520
+I didn't realize they had changed so many
+regulations regarding plagiarism and cheating.
+
+148
+00:10:09,240 --> 00:10:09,740
+Me neither.
+
+149
+00:10:10,220 --> 00:10:14,120
+I was trying to figure out why they decided to change everything now.
+
+150
+00:10:14,520 --> 00:10:16,540
+Was it because of the new government laws?
+
+151
+00:10:17,060 --> 00:10:21,740
+I thought so too, but the presenter said the
+government laws haven't changed in ten years.
+
+152
+00:10:22,280 --> 00:10:24,500
+The main reason was actually the technology.
+
+153
+00:10:25,100 --> 00:10:27,740
+You know, AI and chatbots.
+
+154
+00:10:27,860 --> 00:10:28,900
+Ah, right.
+
+155
+00:10:29,320 --> 00:10:31,660
+Because computers can write essays now.
+
+156
+00:10:32,300 --> 00:10:39,640
+Exactly. And I think some students were complaining because the
+old rules didn't mention computers, so they had to update them.
+
+157
+00:10:40,240 --> 00:10:45,440
+Actually not. The reason was that the professors
+didn't know how to handle these cases.
+
+158
+00:10:45,440 --> 00:10:51,040
+Every teacher used different ways or criteria
+when giving marks, which was confusing.
+
+159
+00:10:51,860 --> 00:10:55,880
+Oh, this improvement process may take some time and money.
+
+160
+00:10:56,300 --> 00:10:57,200
+That's true.
+
+161
+00:10:57,900 --> 00:11:00,600
+Anyway, did you catch the part about the punishments?
+
+162
+00:11:00,840 --> 00:11:02,460
+It sounded pretty scary.
+
+163
+00:11:03,140 --> 00:11:03,920
+It depends.
+
+164
+00:11:04,300 --> 00:11:07,420
+If it's your first time breaking the rules, it's not too bad.
+
+165
+00:11:07,740 --> 00:11:09,580
+You don't get kicked out of university.
+
+166
+00:11:09,820 --> 00:11:11,320
+That's only for the third time.
+
+167
+00:11:11,720 --> 00:11:13,140
+Do they tell your parents?
+
+168
+00:11:13,960 --> 00:11:15,480
+No, we're adults.
+
+169
+00:11:15,640 --> 00:11:16,860
+They don't call our parents.
+
+170
+00:11:17,420 --> 00:11:19,120
+But you do fail the assignment.
+
+171
+00:11:19,360 --> 00:11:21,060
+You get zero marks automatically.
+
+172
+00:11:21,820 --> 00:11:22,520
+That hurts.
+
+173
+00:11:22,920 --> 00:11:23,920
+Is there a fine?
+
+174
+00:11:24,240 --> 00:11:25,420
+Do we have to pay money?
+
+175
+00:11:26,060 --> 00:11:27,060
+No fines.
+
+176
+00:11:27,340 --> 00:11:28,980
+But you can't just walk away.
+
+177
+00:11:29,400 --> 00:11:32,800
+You have to sign up for a special class on academic writing.
+
+178
+00:11:33,180 --> 00:11:36,920
+You have to sit there for three hours and learn how to reference correctly.
+
+179
+00:11:37,640 --> 00:11:39,700
+Ah, a mandatory workshop.
+
+180
+00:11:40,080 --> 00:11:41,380
+That sounds boring.
+
+181
+00:11:41,380 --> 00:11:46,340
+But it's still better than being expelled,
+and at least students can learn something.
+
+182
+00:11:46,980 --> 00:11:47,500
+Exactly.
+
+183
+00:11:48,800 --> 00:11:55,320
+Before you hear the rest of the discussion, you
+have some time to look at questions 25 to 30.
+
+184
+00:11:57,660 --> 00:12:01,320
+Anyway, I took some notes on what is allowed and what isn't.
+
+185
+00:12:01,460 --> 00:12:03,460
+We should review them for our next essay.
+
+186
+00:12:03,960 --> 00:12:04,480
+Good idea.
+
+187
+00:12:04,740 --> 00:12:05,600
+Let's look at the list.
+
+188
+00:12:06,220 --> 00:12:08,340
+We have common knowledge.
+
+189
+00:12:08,860 --> 00:12:14,420
+Things like Paris is the capital of France, or World War II ended in 1945.
+
+190
+00:12:15,280 --> 00:12:19,540
+The rule says that for basic facts like that, you don't need a citation.
+
+191
+00:12:20,040 --> 00:12:23,280
+In other words, you don't need to write a reference or source.
+
+192
+00:12:23,660 --> 00:12:24,480
+Everyone knows it.
+
+193
+00:12:24,880 --> 00:12:26,220
+What about paraphrasing?
+
+194
+00:12:26,640 --> 00:12:30,200
+If I read a book and then write the idea in my own words?
+
+195
+00:12:30,700 --> 00:12:36,560
+A lot of people get this wrong, and they would argue
+that in this case, a reference is not necessary.
+
+196
+00:12:37,040 --> 00:12:41,800
+But the thing is, even if you change the words, the idea belongs to the author,
+
+197
+00:12:42,040 --> 00:12:45,320
+so it is allowed as long as the reference is provided.
+
+198
+00:12:45,940 --> 00:12:51,960
+Many groups and even individuals are providing essay
+writing services, and many students have signed up for that.
+
+199
+00:12:52,500 --> 00:13:00,120
+I've heard about that, but this is obviously the worst type of
+cheating, and of course under no circumstance is cheating allowed.
+
+200
+00:13:00,600 --> 00:13:01,120
+That's right.
+
+201
+00:13:01,120 --> 00:13:04,880
+And I think the same rule applies for copying a friend, doesn't it?
+
+202
+00:13:05,340 --> 00:13:05,740
+True.
+
+203
+00:13:06,040 --> 00:13:10,040
+Both students will get in trouble, the one who copied and the one who shared.
+
+204
+00:13:10,600 --> 00:13:12,260
+Next, data and graphs.
+
+205
+00:13:12,960 --> 00:13:18,700
+In my previous assignment, I used a table taken from an official
+website, but I couldn't get a full mark for the reference.
+
+206
+00:13:19,340 --> 00:13:22,700
+I thought this kind of information could
+be used without mentioning the sources.
+
+207
+00:13:23,360 --> 00:13:26,540
+No, the fact is you have to treat it like a quote.
+
+208
+00:13:26,860 --> 00:13:29,520
+You must cite the source under the image.
+
+209
+00:13:30,060 --> 00:13:36,020
+Oh, one of my friends used a paper she wrote herself last
+semester because she thought it was totally acceptable.
+
+210
+00:13:36,520 --> 00:13:39,800
+But whatever the reason is, she got a zero mark for it.
+
+211
+00:13:40,260 --> 00:13:40,840
+That's a pity.
+
+212
+00:13:41,180 --> 00:13:42,880
+It's called self-plagiarism.
+
+213
+00:13:43,320 --> 00:13:44,140
+You can't do it.
+
+214
+00:13:44,420 --> 00:13:46,380
+You have to write something new every time.
+
+215
+00:13:47,180 --> 00:13:50,560
+There's a lot to consider when doing our next assignments then.
+
+216
+00:13:50,840 --> 00:13:51,320
+Right.
+
+217
+00:13:51,720 --> 00:13:56,140
+Did you see how I used the arrows to show the direction of the conversation?
+
+218
+00:13:56,140 --> 00:14:00,500
+This zigzag pattern is typical of academic discussions.
+
+219
+00:14:00,900 --> 00:14:05,380
+One person raises a point, the other responds, then the first person reacts.
+
+220
+00:14:06,040 --> 00:14:10,160
+In the recording, we also notice the signposting languages that help us
+
+221
+00:14:10,160 --> 00:14:16,020
+navigate the conversation, such as, I thought so too, but actually not.
+
+222
+00:14:16,520 --> 00:14:19,260
+No fines, but you can't just walk away.
+
+223
+00:14:19,840 --> 00:14:23,740
+But the thing is, we finished another listening exercise today.
+
+224
+00:14:23,980 --> 00:14:24,980
+Great job, everyone.
+
+225
+00:14:29,720 --> 00:14:33,360
+Let's wrap up with the key takeaways from today's practice.
+
+226
+00:14:33,700 --> 00:14:36,400
+First, always identify speakers early.
+
+227
+00:14:36,760 --> 00:14:39,000
+Listen for names in the opening seconds.
+
+228
+00:14:39,260 --> 00:14:41,340
+Note gender and voice characteristics.
+
+229
+00:14:41,700 --> 00:14:43,860
+Second, use the speaker tracking table.
+
+230
+00:14:44,160 --> 00:14:48,480
+Create columns for each speaker and use arrows to show conversation flow.
+
+231
+00:14:48,820 --> 00:14:52,800
+This keeps your notes organized and helps you attribute information correctly.
+
+232
+00:14:53,400 --> 00:14:55,920
+Third, watch for the zigzag pattern.
+
+233
+00:14:55,920 --> 00:14:58,860
+Academic discussions bounce back and forth.
+
+234
+00:14:59,000 --> 00:15:03,780
+The answer might come from a correction
+or response, not the original statement.
+
+235
+00:15:04,060 --> 00:15:07,720
+Fourth, listen for signposting that eliminates options.
+
+236
+00:15:07,960 --> 00:15:08,880
+Great work today.
+
+237
+00:15:09,140 --> 00:15:12,320
+Don't forget to practice and I will see you in the next lesson.
+

@@ -1,0 +1,51 @@
+﻿key,english content,id content
+checkout,Checkout,Beli sekarang
+pay_order,Order payment,Pembayaran pesanan
+pending,Pending processing,Sedang diproses
+success,Payment successful,Pembayaran berhasil
+failure,Payment failed,Pembayaran gagal
+unavailable,Unavailable,Tidak tersedia
+info_notice,The course and all accompanying benefits will be added to this account after the payment process is successful!,Kursus dan semua Manfaat yang menyertainya akan ditambahkan ke akun ini setelah proses pembayaran berhasil!
+export_invoice,Issue Invoice,Buat Faktur
+invoice_company,Company,Perusahaan
+invoice_personal,Individual,Individu
+invoice_buyer_name,Buyer's full name,Nama lengkap pembeli
+placeholder_invoice_buyer_name,Enter buyer's full name,Masukkan Nama lengkap pembeli
+info_phone_number,Phone number,Nomor telepon
+placeholder_phone_number,Enter phone number,Masukkan nomor telepon
+placeholder_invoice_department,Enter department name,Masukkan nama departemen
+placeholder_invoice_tax_number,Enter tax identification number,Masukkan nomor identifikasi pajak
+placeholder_invoice_address,Enter address,Masukkan alamat
+placeholder_invoice_receiver_email,Enter email for receiving the invoice,Masukkan email untuk menerima faktur
+error_invoice_department,Enter company name,Masukkan nama perusahaan
+error_invoice_email,Please enter correct email format,Masukkan format Email yang benar
+invoice_department,Name of department,Nama departemen
+invoice_tax_number,Tax identification number,Nomor identifikasi pajak
+invoice_address,Address,Alamat
+invoice_receiver_email,Email for receiving the invoice,Email untuk menerima faktur
+continue_checkout,Continue to payment,Lanjutkan ke pembayaran
+invalid_coupon,The coupon or promotional code is no longer valid.<br />Please try again with a different code or continue payment without code!,Kupon atau kode promo tidak berlaku lagi.<br />Silakan coba lagi dengan kode lain atau lanjutkan pembayaran tanpa kode!
+product_unavailable,The product you selected has changed.<br />Please choose again or contact support staff for assistance!,Produk yang Anda pilih telah berubah.<br />Silakan pilih kembali atau hubungi staf dukungan untuk bantuan!
+checkout,checkout,Beli sekarang
+return_shoppping,Return to shopping,Kembali ke belanja
+total_price,Total price,Total harga
+promo,Promotion,Promosi
+coupon_code,Coupon code,Kode kupon
+coupon_code_placeholder,Enter coupon code,Masukkan kode kupon
+discount_price_amount,Discounted price,Harga diskon
+price_after_discount,Price after promotion,Harga setelah promosi
+x_people_used_course,More than {x} Prep students have used this roadmap,Lebih dari {x} peserta didik Prep telah menggunakan Peta belajar ini
+product,Product,Produk
+select_promo,Select,Pilih
+gifts,Included gift,Hadiah tambahan
+coupon_apply,Apply,Terapkan
+your_info,Your information,Informasi Anda
+select_1_discount,Select a promotional code,Pilih kode promosi
+no_promo_yet,No promotional code available,Tidak ada kode promosi yang tersedia
+empty_discount,"Oops, there are currently no promotional programs for this product!","Maaf, saat ini tidak ada program promosi untuk Produk ini!"
+consent_text,"By clicking <span>Continue to payment<span>, you confirm that you have read and agreed to the <a>Terms and Conditions<a> and the <a>Information security policy<a> of Prep!","Dengan mengklik <span>Lanjutkan ke pembayaran</span>, Anda mengonfirmasi bahwa Anda telah membaca dan menyetujui <a>Ketentuan dan Syarat</a> serta <a>Kebijakan keamanan informasi</a> dari Prep!"
+discount_conflict_with_current_coupon,This promotion cannot be used simultaneously with the current coupon!,Promosi ini tidak dapat digunakan secara bersamaan dengan kupon saat ini!
+coupon_apply_not_successfully,Coupon application failed,Pengajuan kupon gagal
+coupon_apply_successfully,Coupon applied successfully!,Kupon berhasil diterapkan!
+coupon_conflict_with_current_discount,This coupon cannot be used simultaneously with the current promotion!,Promosi ini tidak dapat digunakan secara bersamaan dengan kupon saat ini!
+maximum_discount_limitation,Apply a maximum discount of {x}% on the order value,Berikan diskon maksimal {x}% pada Nilai pesanan
