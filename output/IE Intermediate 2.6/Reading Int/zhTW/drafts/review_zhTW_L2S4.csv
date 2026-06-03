@@ -1,0 +1,271 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:12,050 --> 00:00:14,190","Hey everyone, it's me.",大家好，是我。,100,ok,,
+2,"00:00:15,050 --> 00:00:17,970","Welcome to another skill building section for reading,",歡迎來到另一個閱讀技巧建構單元，,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+3,"00:00:18,410 --> 00:00:21,550",and we're going into the unknown realm today.,今天我們將進入未知的領域。,100,ok,,
+4,"00:00:22,190 --> 00:00:24,530","First of all, I have a question for you.",首先，我有一個問題想問你。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+5,"00:00:25,350 --> 00:00:27,270",Have you ever thought that you would try,你曾經想過要嘗試嗎？,87,minor_issues,,[low] style: None
+6,"00:00:27,270 --> 00:00:28,690",your best to practice reading?,你來練習閱讀嗎？,35,needs_revision,你盡力練習閱讀嗎？,[medium] terminology: None; [high] meaning_drift: None
+7,"00:00:29,370 --> 00:00:32,270","However, you see many new words when reading",然而，你在閱讀時會看到很多,70,minor_issues,不過，你在閱讀時會看到許多,[low] style: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] register: None
+8,"00:00:32,270 --> 00:00:35,210","and have to constantly look for their meanings,",生詞，還必須不斷查閱它們的意,35,needs_revision,生詞，還必須不斷查閱它們的意義,[medium] terminology: None; [high] meaning_drift: None
+9,"00:00:35,210 --> 00:00:37,170",which is really time consuming.,思，這真的很耗時。,87,minor_issues,,[low] typo: None
+10,"00:00:38,150 --> 00:00:39,810",It can take you an hour to read,閱讀可能需要你花上一小時,100,ok,,
+11,"00:00:39,810 --> 00:00:40,790",a few sentences.,幾句話。,100,ok,,
+12,"00:00:41,890 --> 00:00:43,850","Another thing is that when studying at home,",另一件事是，在家學習時，,80,minor_issues,,[medium] terminology: None
+13,"00:00:44,170 --> 00:00:46,930",you can use a dictionary to look up new words.,你可以使用字典來查新單字。,80,minor_issues,,[medium] terminology: None
+14,"00:00:47,410 --> 00:00:50,029","But when taking the actual IELTS exam,",但在參加實際的 IELTS 考試時,100,ok,,
+15,"00:00:50,030 --> 00:00:51,010",what should you do?,，你應該怎麼做呢？,87,minor_issues,,[low] typo: None
+16,"00:00:51,530 --> 00:00:52,490",Should you just give up?,你要就此放棄嗎？,100,ok,,
+17,"00:00:54,570 --> 00:00:55,830",Understanding this feeling.,了解這種感受。,45,needs_revision,瞭解這種感受。,[high] terminology: None
+18,"00:00:56,170 --> 00:00:58,790","Today, I'm going to introduce to you a",今天，我要向大家介紹一項名,45,needs_revision,,[high] meaning_drift: None
+19,"00:00:58,790 --> 00:01:02,780","skill called understanding vocabulary in context,",為「在語境中理解詞彙」的技巧，這,100,ok,,
+20,"00:01:03,300 --> 00:01:07,130",which helps reduce the use of dictionaries to look up new words.,項技巧能幫助減少查字典來查找新單字的次數。,45,needs_revision,項技巧能幫助減少查字典來查詢新單字的次數。,[high] terminology: None
+21,"00:01:07,850 --> 00:01:10,370",Another term for this is guessing meaning.,另一個名稱為「guessing meaning」(猜測語意)。,74,minor_issues,另一個名稱為「guessing 意義」(猜測語意)。,[medium] terminology: None; [low] style: None; [low] style: None
+22,"00:01:15,480 --> 00:01:18,580","First of all, we're going to discuss some advantages of",首先，我們要討論一些在語境中,30,needs_revision,首先，我們要討論一些這些優勢,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+23,"00:01:18,580 --> 00:01:22,100",understanding vocabulary in context or guessing meaning.,理解詞彙或猜測詞意的優點。,30,needs_revision,理解語境中的詞彙或猜測詞意。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+24,"00:01:23,630 --> 00:01:25,060",Increase reading efficiency.,提升閱讀效率。,80,minor_issues,,[medium] terminology: None
+25,"00:01:26,260 --> 00:01:28,680",Guessing the meanings of words helps us to,猜測詞義有助於我們,80,minor_issues,,[medium] terminology: None
+26,"00:01:28,680 --> 00:01:30,960","not depend on dictionaries too much,",不過度依賴字典，讓,100,ok,,
+27,"00:01:31,320 --> 00:01:34,520","allowing us to deal with text, even in situations where",我們能夠處理文本，即使在字典無,30,needs_revision,我們能夠處理文字，即使是在,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+28,"00:01:34,520 --> 00:01:37,640","dictionaries are not available, such as in the exam room.",法使用的場合，例如在考場中。,35,needs_revision,"Dictionary unavailable, such as in exam rooms.",[medium] terminology: None; [high] meaning_drift: None
+29,"00:01:38,260 --> 00:01:41,060","Moreover, it will speed up the process of",此外，它將加快處理文本的,45,needs_revision,此外，它將加快處理文字的,[high] terminology: None
+30,"00:01:41,060 --> 00:01:44,660",handling text and enhance reading comprehension a lot.,速度，並大幅提升閱讀理解能力。,42,needs_revision,處理文字，並大幅提升閱讀理解能力。,[high] meaning_drift: None; [low] grammar: None
+31,"00:01:45,540 --> 00:01:47,880","From that, you can form good reading habits",由此，你可以養成良好的閱讀習,70,minor_issues,由此，你可以養成良好的閱讀習慣,[medium] terminology: None; [medium] terminology: None; [low] typo: None
+32,"00:01:47,880 --> 00:01:51,320",and feel less stressed when having to look up many new words.,慣，並在需要查閱大量新單字時減少壓力。,80,minor_issues,,[medium] terminology: None
+33,"00:01:52,900 --> 00:01:54,920",Reduce the number of words to learn.,減少需要學習的單字數量。,100,ok,,
+34,"00:01:55,700 --> 00:01:59,060","You probably heard that to achieve a 6.5 in IELTS,",你大概聽過，要達到 IELTS 6.5,100,ok,,
+35,"00:01:59,440 --> 00:02:02,060",you need to learn thousands of English words.,分，你需要學習數千個英文單字。,87,minor_issues,,[low] typo: None
+36,"00:02:02,760 --> 00:02:04,840",This number can make you want to give up.,這個數字可能讓你想要放棄。,45,needs_revision,這個數位可能讓你想要放棄。,[high] terminology: None
+37,"00:02:05,500 --> 00:02:08,120","However, with the skill of guessing meaning,",然而，憑藉猜測詞義的技巧，,77,minor_issues,,[low] style: None; [medium] terminology: None
+38,"00:02:08,520 --> 00:02:11,660",the number of words to learn can significantly decrease.,需要學習的單字數量可以顯著減少。,100,ok,,
+39,"00:02:12,340 --> 00:02:14,440",It may even come down to just hundreds,甚至可能只需要掌握數百,45,needs_revision,甚至可能只剩幾百,[high] meaning_drift: None
+40,"00:02:14,440 --> 00:02:16,080",of the most important ones.,個最重要的單字。,45,needs_revision,其中最重要的一個。,[high] meaning_drift: None
+41,"00:02:16,820 --> 00:02:18,920","Based on them, you can guess the meanings",根據這些內容，你可以猜出,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+42,"00:02:18,920 --> 00:02:21,180",of the majority of unknown words.,大多數生字的含義。,35,needs_revision,大多數單詞的含義。,[medium] terminology: None; [high] meaning_drift: None
+43,"00:02:22,280 --> 00:02:24,740","Now, I'm going to give you three steps",現在，我將為您提供三個步,35,needs_revision,現在，我將為您提供三個步驟,[medium] terminology: None; [high] meaning_drift: None
+44,"00:02:24,740 --> 00:02:27,200",for guessing the meaning of an unknown word,驟，幫助您在閱讀時猜測生字,30,needs_revision,步驟，猜測生字的意義,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+45,"00:02:27,200 --> 00:02:28,040",while reading.,的含義。,35,needs_revision,閱讀時。,[medium] terminology: None; [high] meaning_drift: None
+46,"00:02:29,540 --> 00:02:30,060",Step 1.,步驟一：,45,needs_revision,,[high] placeholder: None
+47,"00:02:30,920 --> 00:02:33,440",Decide whether it is necessary to guess the,判斷是否有必要猜,45,needs_revision,,[high] meaning_drift: None
+48,"00:02:33,440 --> 00:02:35,700",meaning of an unknown word or not.,測生字的含義。,30,needs_revision,或未知單詞的含義。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+49,"00:02:37,100 --> 00:02:37,740",Step 2.,步驟二。,45,needs_revision,,[high] placeholder: None
+50,"00:02:38,660 --> 00:02:41,240",Read the information area that contains the unknown,請閱讀包含該生字的資訊區域。,100,ok,,
+51,"00:02:41,240 --> 00:02:44,940",word carefully and find clues about its meaning.,仔細查看該字詞並尋找其含義的線索。,35,needs_revision,仔細檢視該字詞並尋找其含義的線索。,[high] terminology: None; [medium] terminology: None
+52,"00:02:46,660 --> 00:02:47,300",Step 3.,步驟 3。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+53,"00:02:48,040 --> 00:02:51,360",Guess its meaning to some extent based on the clues.,根據線索推測其部分含義。,80,minor_issues,,[medium] terminology: None
+54,"00:02:52,680 --> 00:02:55,300",Let's analyse each step in detail.,讓我們詳細說明每個步驟。,100,ok,,
+55,"00:02:56,460 --> 00:02:56,920",Step 1.,步驟一：,45,needs_revision,,[high] placeholder: None
+56,"00:02:57,640 --> 00:03:00,220",Decide whether it is necessary to guess the,判斷是否有必要推,30,needs_revision,判斷是否有必要猜,[high] meaning_drift: None; [high] meaning_drift: None
+57,"00:03:00,220 --> 00:03:02,680",meaning of an unknown word or not.,測生詞的含義。,30,needs_revision,查詢不認識單字的含義或否。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+58,"00:03:03,800 --> 00:03:07,400","Perhaps this sounds strange, because you may think",這聽起來可能有些奇怪，因為您可,45,needs_revision,這聽起來可能有點奇怪，因為你可能會想,[high] meaning_drift: None
+59,"00:03:07,400 --> 00:03:09,000",that you have to guess the meaning of,能會認為必須猜出每個詞,30,needs_revision,就必須猜測其意思,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+60,"00:03:09,000 --> 00:03:11,760",every word or understand all of them.,的含義或理解所有詞彙。,35,needs_revision,每個詞的意思或理解所有詞彙。,[medium] terminology: None; [high] meaning_drift: None
+61,"00:03:12,200 --> 00:03:13,920",It's not always like that.,情況並非總是如此。,100,ok,,
+62,"00:03:14,700 --> 00:03:17,940","Sometimes we can completely skip some words, but",有時我們可以完全跳過某些詞彙,80,minor_issues,,[medium] terminology: None
+63,"00:03:17,940 --> 00:03:20,480",still understand the information being conveyed.,，但仍能理解所傳達的資訊。,87,minor_issues,,[low] style: None
+64,"00:03:21,060 --> 00:03:23,680","In that case, guessing the meaning of an",在這種情況下，猜測生詞的,80,minor_issues,,[medium] terminology: None
+65,"00:03:23,680 --> 00:03:27,080",unknown word might not be really useful or,意思可能並不那麼有用，或者,32,needs_revision,不認識的字可能沒那麼有用，或者,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+66,"00:03:27,080 --> 00:03:29,640",not help us answer reading questions faster.,無助於我們更快地回答閱讀問題。,80,minor_issues,,[medium] terminology: None
+67,"00:03:30,740 --> 00:03:33,080","Therefore, the first thing we need to do",因此，我們需要做的第,45,needs_revision,因此，我們需要做的第一件事,[high] meaning_drift: None
+68,"00:03:33,080 --> 00:03:35,960",is to decide whether it is necessary to,一件事是決定是否有,35,needs_revision,就是要判斷是否有必要,[medium] terminology: None; [high] meaning_drift: None
+69,"00:03:35,960 --> 00:03:38,760",guess the meaning of an unknown word or not.,必要猜測生詞的含義。,87,minor_issues,,[low] style: None
+70,"00:03:39,610 --> 00:03:41,920",We can do this by skipping that word,我們可以透過跳過那個 word 來達成。,87,minor_issues,我們可以透過跳過那個 字 來達成。,[low] style: None
+71,"00:03:41,920 --> 00:03:43,480",and continuing to read.,並繼續閱讀。,100,ok,,
+72,"00:03:44,060 --> 00:03:47,200","If we still understand what the sentence conveys,",如果我們仍然理解該句子所傳達的意思，,84,minor_issues,,[low] style: None; [low] style: None
+73,"00:03:47,360 --> 00:03:49,200",then we can completely ignore it.,那麼我們可以完全忽略它。,100,ok,,
+74,"00:03:49,900 --> 00:03:52,640","If we keep reading and don't understand anything,",如果我們繼續閱讀卻完全無法理解，就需,80,minor_issues,,[medium] terminology: None
+75,"00:03:53,120 --> 00:03:55,214",then we need to go back to that word,要回到那個 word 處。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [low] style: None
+76,"00:03:55,380 --> 00:03:57,440",and guess its meaning to some extent.,並嘗試推測其含義。,77,minor_issues,,[medium] terminology: None; [low] style: None
+77,"00:03:58,920 --> 00:04:01,960",Let's take two sentences below as an example.,以下面兩句話為例。,80,minor_issues,,[medium] terminology: None
+78,"00:04:03,320 --> 00:04:06,080","In these two sentences, I guess that",在這兩個句子中，我猜對你們很,45,needs_revision,在這兩個句子中，我想,[high] meaning_drift: None
+79,"00:04:06,080 --> 00:04:09,040",there are two unfamiliar words to many of you.,多人來說有兩個不熟悉的 words。,74,minor_issues,對許多人而言有兩個不熟悉的 單字。,[medium] terminology: None; [low] terminology: None; [low] grammar: None
+80,"00:04:10,000 --> 00:04:12,360","Among them, this word is the one we",其中，這個字詞是我們在,87,minor_issues,其中，這個詞是我們在,[low] collocation: None
+81,"00:04:12,360 --> 00:04:15,760",can skip guessing its meaning and still understand,即使跳過猜測詞義，仍能理,84,minor_issues,即使跳過猜測詞義，仍能理解,[low] style: None; [low] typo: None
+82,"00:04:15,760 --> 00:04:17,140",what the sentence talks about.,解句子的大意。,42,needs_revision,理解句子的主旨。,[high] meaning_drift: None; [low] register: None
+83,"00:04:17,839 --> 00:04:19,959","Because there is a noun there, the commitment",因為那裡有一個名詞，commitmen,77,minor_issues,,[medium] terminology: None; [low] style: None
+84,"00:04:19,959 --> 00:04:24,700","is a noun, meaning a promise or firm decision to do something.",t 是一個名詞，意思是做出承諾或堅定的決定去做某事。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+85,"00:04:25,360 --> 00:04:29,000","So, it's okay if you don't know what this word means.",所以，如果你不知道這個 word 的意思，沒關係。,87,minor_issues,,[low] style: None
+86,"00:04:29,600 --> 00:04:32,620","However, you need to know the word dissipate.",不過，你需要知道 dissipate 這個字。,87,minor_issues,不過，你需要知道 消散 這個字。,[low] terminology: None
+87,"00:04:33,480 --> 00:04:35,640",What meaning drop out after just one month?,經過短短一個月，drop out 的意義是什麼？,80,minor_issues,經過短短一個月，下降 out 的意義是什麼？,[medium] terminology: None
+88,"00:04:36,280 --> 00:04:38,120","If we don't understand this word,",如果我們不了解這個字，整句,30,needs_revision,如果我們不瞭解這個字，整句,[high] terminology: None; [high] meaning_drift: None
+89,"00:04:38,340 --> 00:04:41,940",the meaning of the whole sentence may be unclear and,話的意思可能會不清楚，我們也會錯過 d,30,needs_revision,整句整句話的意思可能會不清楚，並且,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+90,"00:04:41,940 --> 00:04:46,260",we will miss an event or cause of the action drop out.,rop out 所代表的事件或動作原因。,30,needs_revision,我們將錯過事件，或因動作退出而導致中斷。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+91,"00:04:47,180 --> 00:04:49,740","So, between the two new words, we should",所以，在兩個新單字之間，我們應該更,32,needs_revision,所以，在兩個新單字之間，我們應該做什麼,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+92,"00:04:49,740 --> 00:04:52,680",focus more on guessing the meaning of dissipate.,著重於猜測 dissipate 的意義。,80,minor_issues,,[medium] terminology: None
+93,"00:04:53,540 --> 00:04:56,100","At this point, you still haven't learned about",到了這個階段，你還不了解如何運用,30,needs_revision,到了這個階段，你還不瞭解如何運用,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+94,"00:04:56,100 --> 00:04:57,700",the clue to guess the meaning.,clue 來猜測意思。,35,needs_revision,要猜測意思的線索。,[medium] terminology: None; [high] meaning_drift: None
+95,"00:04:58,540 --> 00:05:00,960",I'm going to tell you what these two words mean.,我接下來要告訴你這兩個字的意義。,100,ok,,
+96,"00:05:07,460 --> 00:05:09,940","If you pay a little more attention, you",如果你多花一點注意力，,74,minor_issues,如果你多注意，,[medium] terminology: None; [low] collocation: None; [low] register: None
+97,"00:05:09,940 --> 00:05:12,920",can save a large amount of time and,就能在閱讀理解上節省,35,needs_revision,可以節省大量時間並,[medium] terminology: None; [high] meaning_drift: None
+98,"00:05:12,920 --> 00:05:14,560",effort in reading comprehension.,大量的時間和精力。,30,needs_revision,閱讀理解的努力,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+99,"00:05:15,660 --> 00:05:17,680",Let's continue with step two.,我們繼續第二步。,100,ok,,
+100,"00:05:18,480 --> 00:05:20,920",Read the information area that contains the unknown,閱讀包含該單字的資訊區。,100,ok,,
+101,"00:05:20,920 --> 00:05:24,260",word carefully and find clues about its meaning.,仔細閱讀 word 並尋找關於其意義的線索。,74,minor_issues,仔細閱讀 字詞 並尋找其意義的線索。,[medium] terminology: None; [low] placeholder: None; [low] collocation: None
+102,"00:05:25,060 --> 00:05:28,280","For reading the information area that contains the unknown word,",閱讀包含未知單字的 information area,70,minor_issues,閱讀包含未知單字的 資訊區,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None
+103,"00:05:28,280 --> 00:05:29,820",you should follow this order.,時，請依照此順序進行。,35,needs_revision,請依照這個順序。,[medium] terminology: None; [high] meaning_drift: None
+104,"00:05:30,820 --> 00:05:33,760",Read the sentence that contains the unknown word carefully.,仔細閱讀包含該單字的句子。,100,ok,,
+105,"00:05:34,440 --> 00:05:37,840","In many cases, only one sentence can provide",在許多情況下，只有一個句子能提供,100,ok,,
+106,"00:05:37,840 --> 00:05:40,960",us with enough clues to understand the meaning of a word.,讓我們有足夠的線索來理解一個詞的意思。,80,minor_issues,,[medium] terminology: None
+107,"00:05:41,560 --> 00:05:43,860",This sentence is also what we should focus,這句也是我們為理解所,32,needs_revision,這句話也是我們應該關注的重點,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+108,"00:05:43,860 --> 00:05:47,160",on the most to understand the message being conveyed.,傳達訊息而應最著重的部分。,77,minor_issues,傳達訊息時應最著重的部分。,[medium] terminology: None; [low] grammar: None
+109,"00:05:48,800 --> 00:05:51,280",If the sentence that contains the unknown word,如果包含該單字的句子無法,45,needs_revision,若該句包含生字,[high] meaning_drift: None
+110,"00:05:51,280 --> 00:05:55,080","doesn't provide enough context for us to guess its meaning,",提供足夠的線索讓我們推測其意思，,80,minor_issues,,[medium] terminology: None
+111,"00:05:55,080 --> 00:05:59,088",we should read the sentences before and after it.,我們應該閱讀它前後的文章。,80,minor_issues,,[medium] terminology: None
+112,"00:06:00,010 --> 00:06:02,880",These three sentences will form an information area,這三個句子會形成單字未知,35,needs_revision,這三個句子會形成資訊區,[medium] terminology: None; [high] meaning_drift: None
+113,"00:06:02,880 --> 00:06:06,220","of the unknown word, and it's likely that",資訊區，而關於其意思,30,needs_revision,unknown word，and it's likely that,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+114,"00:06:06,220 --> 00:06:09,880",the clues about its meaning are located in this area.,的線索很可能位於此區域內。,35,needs_revision,其意義的線索位於此區域。,[medium] terminology: None; [high] meaning_drift: None
+115,"00:06:10,760 --> 00:06:14,260","After reading carefully, we will find clues about its meaning.",仔細閱讀後，我們會找到關於其意思的線索。,80,minor_issues,,[medium] terminology: None
+116,"00:06:14,980 --> 00:06:16,780",We're going to talk about this in the,我們將在課程的接下來的,45,needs_revision,我們接下來要談論的是,[high] meaning_drift: None
+117,"00:06:16,780 --> 00:06:18,160",following part of the lesson.,部分中討論這一點。,35,needs_revision,課程的接下來的部分。,[medium] terminology: None; [high] meaning_drift: None
+118,"00:06:18,580 --> 00:06:20,960","Normally, there are four types of clues.",通常有四類線索。,100,ok,,
+119,"00:06:21,820 --> 00:06:25,600","Number one, grammar and word form clues.",第一，文法與詞彙形式線索。,80,minor_issues,,[medium] terminology: None
+120,"00:06:26,480 --> 00:06:28,960","Number two, definition clues.",第二，定義線索。,80,minor_issues,,[medium] terminology: None
+121,"00:06:29,840 --> 00:06:32,680","Number three, linking word clues.",第三，連接詞線索。,35,needs_revision,第三，連結詞線索。,[high] terminology: None; [medium] terminology: None
+122,"00:06:33,580 --> 00:06:36,740","And number four, context clues.",第四，上下文線索。,100,ok,,
+123,"00:06:38,220 --> 00:06:41,560","All right, now we only have step three,",好，現在只剩下第三步,80,minor_issues,,[medium] terminology: None
+124,"00:06:42,360 --> 00:06:45,720",guess its meaning to some extent based on the clues.,了，根據線索來推測它的意思。,32,needs_revision,根據線索推測其意思。,[medium] terminology: None; [high] meaning_drift: None; [low] register: None
+125,"00:06:46,440 --> 00:06:48,480",This step is quite clear.,這一步非常清楚。,80,minor_issues,,[medium] terminology: None
+126,"00:06:49,138 --> 00:06:51,340",We will guess the meaning of the unknown word,我們將根據線索來推測「unknown w,30,needs_revision,我們將根據線索來推測「unknown word,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+127,"00:06:51,340 --> 00:06:52,600",based on the clues.,ord」的意思。,35,needs_revision,based on the clues.,[medium] terminology: None; [high] meaning_drift: None
+128,"00:06:53,140 --> 00:06:56,645","However, the meaning may be true to some extent,",然而，其意思在某种程度上可能,71,minor_issues,然而，含義某種程度上可能,[low] style: None; [medium] terminology: None; [low] register: None; [low] script: None
+129,"00:06:56,650 --> 00:06:58,700",which is enough for us to understand,是正确的，這足以讓我們,45,needs_revision,這足以讓我們理解,[high] meaning_drift: None
+130,"00:06:58,700 --> 00:07:00,600",the general information being conveyed.,理解所傳達的整體資訊。,100,ok,,
+131,"00:07:01,420 --> 00:07:04,860","Now, you may wonder, what if there are",現在，你可能會想，如果沒有「clues」,42,needs_revision,現在，你可能會想，如果沒有「線索」,[low] placeholder: None; [high] meaning_drift: None
+132,"00:07:04,860 --> 00:07:07,760","no clues for its meaning, or I still",可以推測「meaning」，或者即使使,30,needs_revision,可以推測「意義」，或者我仍然,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+133,"00:07:07,760 --> 00:07:09,860",can't guess it even using the clues?,用了「clues」還是猜不出來怎麼辦？,32,needs_revision,用了「線索」還是猜不出來怎麼辦？,[medium] terminology: None; [high] meaning_drift: None; [low] register: None
+134,"00:07:10,840 --> 00:07:14,280","Of course, this situation can happen, and I",當然，這種情況可能會發生，,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+135,"00:07:14,280 --> 00:07:16,360",will divide it into two possibilities.,我會將其分為兩種可能性。,100,ok,,
+136,"00:07:17,100 --> 00:07:18,960",When you practice at home.,當你在家里練習時。,32,needs_revision,當你在家裡練習時。,[high] terminology: None; [medium] terminology: None; [low] style: None
+137,"00:07:19,980 --> 00:07:22,700","At this time, you can use some tools like dictionaries.",此時，您可以使用字典等工具。,100,ok,,
+138,"00:07:23,140 --> 00:07:25,300","So, if you have tried your best but",所以，如果您已經盡力但,100,ok,,
+139,"00:07:25,300 --> 00:07:27,140","couldn't guess the meaning of a word, you",仍無法推測出某個字詞的意思,77,minor_issues,,[low] style: None; [medium] terminology: None
+140,"00:07:27,140 --> 00:07:30,120",can use some English-English dictionaries such as,，您可以使用一些英英字典，例如,80,minor_issues,,[medium] terminology: None
+141,"00:07:30,120 --> 00:07:31,940",Cambridge or Oxford to look it up.,查劍橋或牛津詞典。,100,ok,,
+142,"00:07:32,560 --> 00:07:35,520","At the intermediate level, I highly recommend using",在初級階段，我強烈建議使用,35,needs_revision,在中階層，我強烈建議使用,[medium] terminology: None; [high] meaning_drift: None
+143,"00:07:35,520 --> 00:07:38,200",an English-English dictionary to understand,英英字典來了解詞彙的正確,30,needs_revision,英英字典來瞭解詞彙的正確,[high] terminology: None; [high] meaning_drift: None
+144,"00:07:38,200 --> 00:07:41,260",the correct meaning of a word and read examples to,意義，並透過閱讀例句來理解,77,minor_issues,正確的字義，並透過閱讀例句來理解,[medium] terminology: None; [low] style: None
+145,"00:07:41,260 --> 00:07:43,580",understand how it's used in a sentence.,如何在句子中使用它。,80,minor_issues,,[medium] terminology: None
+146,"00:07:44,560 --> 00:07:47,080",When you take the actual IELTS exam.,當您參加實際的 IELTS 考試時。,100,ok,,
+147,"00:07:47,920 --> 00:07:50,449","Now you don't have any tools to support you,",現在您沒有任何工具可以輔助，,80,minor_issues,,[medium] terminology: None
+148,"00:07:50,740 --> 00:07:54,220",so my only advice is to make your best guess.,因此我唯一的建議是盡力猜測。,100,ok,,
+149,"00:07:54,820 --> 00:07:57,220","You have to guess the meaning of an unfamiliar word,",您必須猜測生單字的含義，即使其,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+150,"00:07:57,500 --> 00:07:58,760",even if it's unclear.,意思不明確。,35,needs_revision,即使不清楚。,[medium] terminology: None; [high] meaning_drift: None
+151,"00:07:59,180 --> 00:08:02,840","If you can't do anything with it, ignore it and move on.",如果無法利用它，就忽略它並繼續往下。,100,ok,,
+152,"00:08:03,560 --> 00:08:06,500","However, with what you will learn in this course,",不過，透過您在這個課程中將學到的內容，,80,minor_issues,,[medium] terminology: None
+153,"00:08:06,500 --> 00:08:08,280",I'm quite sure that you will be able to,我有信心，您能夠猜出詞彙的意思,45,needs_revision,我很有把握你應該能做到,[high] meaning_drift: None
+154,"00:08:08,280 --> 00:08:09,820",guess the meanings of words enough,，從而在 IELTS 閱讀,35,needs_revision,guess the meanings of words enough,[medium] terminology: None; [high] meaning_drift: None
+155,"00:08:09,820 --> 00:08:13,240",to get a band 6 or higher in IELTS reading.,測驗中取得 6 分或更高的分數。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+156,"00:08:14,400 --> 00:08:17,320",We have just discussed the steps for guessing meaning.,我們剛剛討論了猜測詞義的步驟。,80,minor_issues,,[medium] terminology: None
+157,"00:08:17,680 --> 00:08:19,740","In the next part, we're going to take",在下一部分中，我們,32,needs_revision,在下一部分，我們要,[medium] terminology: None; [low] style: None; [high] meaning_drift: None
+158,"00:08:19,740 --> 00:08:22,120",a deep dive into four types of clues,將深入探討四種猜測,35,needs_revision,將深入探討四種線索,[medium] terminology: None; [high] meaning_drift: None
+159,"00:08:22,120 --> 00:08:23,120",about guessing meaning.,詞義的線索。,35,needs_revision,猜測意思。,[medium] terminology: None; [high] meaning_drift: None
+160,"00:08:23,580 --> 00:08:24,880","So, let's move on.",那麼，我們繼續。,100,ok,,
+161,"00:08:29,990 --> 00:08:32,010",Let's discover the first type.,我們來認識第一種類型。,45,needs_revision,我們來認識第一種型別。,[high] terminology: None
+162,"00:08:32,870 --> 00:08:34,770",Grammar and word form clues.,Grammar and word form 線索。,35,needs_revision,語法和詞形線索。,[medium] terminology: None; [high] meaning_drift: None
+163,"00:08:35,830 --> 00:08:38,490",Guessing meaning based on grammar and word form.,根據文法和詞彙形式來猜測詞義。,80,minor_issues,,[medium] terminology: None
+164,"00:08:39,230 --> 00:08:41,610",The knowledge of grammar and word form in,文法與詞彙形式的知識在,100,ok,,
+165,"00:08:41,610 --> 00:08:44,210",English is an important tool to help us,English 是幫助我們的重要工具。,100,ok,,
+166,"00:08:44,210 --> 00:08:46,130",guess the meanings of unknown words.,猜測生詞的意思。,80,minor_issues,,[medium] terminology: None
+167,"00:08:46,790 --> 00:08:49,650","About grammar, let's take a look at some common cases.",關於文法，讓我們來看看一些常見的例子。,100,ok,,
+168,"00:08:50,850 --> 00:08:52,590","Active voice, passive voice.",主動語態、被動語態。,100,ok,,
+169,"00:08:53,450 --> 00:08:56,118",This can help us know whether the subject of a sentence,這能幫助我們判斷句子的主詞是否為,100,ok,,
+170,"00:08:56,120 --> 00:08:57,680",is the one performing the action,動作的主動執行者。,87,minor_issues,,[low] style: None
+171,"00:08:57,680 --> 00:09:00,030",or the one being affected by the action.,或受該動作影響的一方。,100,ok,,
+172,"00:09:00,030 --> 00:09:02,180",For example.,例如。,100,ok,,
+173,"00:09:02,180 --> 00:09:05,180","Linguists study the intricacies of language,",語言學家研究語言的奧妙,100,ok,,
+174,"00:09:05,180 --> 00:09:10,800","analyzing its structure, evolution, and cultural significance",，分析其結構、演變及文化意義。,100,ok,,
+175,"00:09:11,090 --> 00:09:14,790","Here we have the word ""linguists"", which sounds strange",這裡有「linguists」這個詞，聽起來很奇怪,100,ok,,
+176,"00:09:14,790 --> 00:09:15,530",to some of you.,對你們中的某些人來說。,100,ok,,
+177,"00:09:16,350 --> 00:09:20,110","However, we can identify that this is an active sentence.",然而，我們可以確認這是一個主動句。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+178,"00:09:20,630 --> 00:09:23,970","So, linguists is the subject performing the action.",所以，linguists 是執行動作的的主詞。,77,minor_issues,,[medium] terminology: None; [low] style: None
+179,"00:09:24,550 --> 00:09:26,970",And the action here is to study.,而這裡的動作是 to study,45,needs_revision,而這裡的動作是 學習,[high] meaning_drift: None
+180,"00:09:27,970 --> 00:09:30,690","From this, we can see that this unfamiliar",從這點來看，我們可以看到這個不熟悉的,100,ok,,
+181,"00:09:30,690 --> 00:09:33,470",word must be a noun referring to a,這個字必須是一個名詞，指稱能夠執,32,needs_revision,該字必須是名詞，且指涉,[medium] terminology: None; [high] meaning_drift: None; [low] style: None
+182,"00:09:33,470 --> 00:09:35,790",person who can do the action study.,行 study 這個動作的人。,87,minor_issues,能夠進行 study 這個動作的人。,[low] grammar: None
+183,"00:09:36,630 --> 00:09:37,650",That's for now.,目前就先這樣。,80,minor_issues,,[medium] terminology: None
+184,"00:09:38,350 --> 00:09:41,310","To be more specific about what linguists mean,",要更明確地說明 linguists 所指的含義,77,minor_issues,要更明確地說明 語言學家 所指的含義,[medium] terminology: None; [low] terminology: None
+185,"00:09:41,770 --> 00:09:43,070",we need other clues.,，我們需要其他線索。,87,minor_issues,我們需要其他線索。,[low] typo: None
+186,"00:09:43,710 --> 00:09:45,690",We will get back to this sentence later.,我們稍後會再回到這個句子。,80,minor_issues,,[medium] terminology: None
+187,"00:09:46,270 --> 00:09:47,930",I have another example.,我還有另一個範例。,100,ok,,
+188,"00:09:49,000 --> 00:09:52,560",The premises for quality education are ensured by,透過實施嚴格的課程標準並,45,needs_revision,品質教育的基礎由,[high] meaning_drift: None
+189,"00:09:52,560 --> 00:09:55,020",implementing rigorous curriculum standards,聘請高度合格的教師，確,45,needs_revision,實施嚴格的課程標準,[high] meaning_drift: None
+190,"00:09:55,020 --> 00:09:57,460",and employing highly qualified teachers.,保了優質教育的基礎。,45,needs_revision,並聘請高資格的教師。,[high] meaning_drift: None
+191,"00:09:58,390 --> 00:10:02,370","The word ""premises"" is also new to you, am I right?",「premises」這個詞對你來說也是新的，對吧？,87,minor_issues,,[low] style: None
+192,"00:10:03,030 --> 00:10:05,250",We can see that this sentence is the,我們可以看出這個句子是被动語態，使,30,needs_revision,我們可以看出這個句子是被动語態，是,[high] meaning_drift: None; [low] typo: None; [high] None: None
+193,"00:10:05,250 --> 00:10:07,490",passive voice with are ensured.,用了 are ensured。,45,needs_revision,被動語態搭配 are ensured。,[high] meaning_drift: None
+194,"00:10:08,050 --> 00:10:10,730","So, the subject here is being affected by",因此，這裡的主詞受到動詞 ens,30,needs_revision,因此，這裡的主詞受到 的,[high] meaning_drift: None; [high] meaning_drift: None
+195,"00:10:10,730 --> 00:10:14,330","the verb ensure, meaning to make sure that",ure 的影響，意思是確保……,30,needs_revision,動詞 ensure 的意思是確保……,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+196,"00:10:14,330 --> 00:10:16,990",something happens or is definite.,發生某事或確定。,87,minor_issues,發生狀況或已確定。,[low] register: None
+197,"00:10:18,330 --> 00:10:22,500","So, it must be something related to quality education,",因此，這必須與優質教育有關，而優質教育,30,needs_revision,因此，這應該與優質教育有關，而優質教育,[high] meaning_drift: None; [high] meaning_drift: None
+198,"00:10:22,500 --> 00:10:24,730",which is ensured in some ways.,在某些方面已獲得確保。,87,minor_issues,在某些方面已得到保障。,[low] collocation: None
+199,"00:10:25,510 --> 00:10:28,550",The next grammar clue is relative clause.,下一個文法線索是 relative clause。,87,minor_issues,下一個文法線索是 關係子句。,[low] style: None
+200,"00:10:29,090 --> 00:10:32,400","When a noun is followed by a relative clause,",當一個名詞後接 relative clause 時，,87,minor_issues,當一個名詞後接 關係子句 時，,[low] terminology: None
+201,"00:10:32,400 --> 00:10:34,170",the clause will modify it.,這個子修飾詞修飾它。,42,needs_revision,,[low] terminology: None; [high] meaning_drift: None
+202,"00:10:34,510 --> 00:10:36,330",And we just need to look at the,我們只需查看 relative pr,30,needs_revision,我們只需檢視 relative pr,[high] terminology: None; [high] meaning_drift: None
+203,"00:10:36,330 --> 00:10:39,390",relative pronoun or relative adverb to guess what,onoun 或 relative adverb，即可推測,39,needs_revision,關係代名詞 或 關係副詞，可猜測其意,[high] meaning_drift: None; [low] terminology: None; [low] register: None
+204,"00:10:39,390 --> 00:10:40,490",the noun refers to.,noun 指的是什麼。,35,needs_revision,名詞 指的是什麼。,[medium] terminology: None; [high] meaning_drift: None
+205,"00:10:41,230 --> 00:10:45,570","If it's who or whom, it's about a person.",如果是 who 或 whom，則是指人。,100,ok,,
+206,"00:10:46,230 --> 00:10:49,290","If it's which, it indicates an object.",如果是 which，則表示受詞。,100,ok,,
+207,"00:10:49,750 --> 00:10:53,150","If it's where, it mentions a place.",如果是 where，則表示地點。,45,needs_revision,如果是 地點，則表示地點。,[high] meaning_drift: None
+208,"00:10:53,150 --> 00:10:56,790","And if it's when, it shows a time.",如果是 when，則表示時間。,100,ok,,
+209,"00:10:57,990 --> 00:11:01,510","For example, the subsidy which is provided by",例如，今年政府為公立,45,needs_revision,例如，由...提供的補貼,[high] meaning_drift: None
+210,"00:11:01,510 --> 00:11:04,230",the government for state schools this year aims,學校提供的補助金旨在,45,needs_revision,今年政府針對公立學校的目標是,[high] meaning_drift: None
+211,"00:11:04,230 --> 00:11:06,400",to enhance educational opportunities,以提升教育機會並支,45,needs_revision,,[high] meaning_drift: None
+212,"00:11:06,400 --> 00:11:08,580",and support students' learning outcomes.,持學生的學習成果。,30,needs_revision,並支持學生的學習成果。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+213,"00:11:09,170 --> 00:11:12,870","The word subsidy is unfamiliar to us, but",我們對 subsidy 這個詞感,45,needs_revision,我們對 subsidy 這個詞感到陌生，但,[high] meaning_drift: None
+214,"00:11:12,870 --> 00:11:15,010",we can see that it is a noun,到陌生，但可以看出它,35,needs_revision,我們可以發現這是一個名詞,[medium] terminology: None; [high] meaning_drift: None
+215,"00:11:15,010 --> 00:11:18,010",referring to an object or an event because,是一個名詞，指稱受詞或事件，因為,30,needs_revision,指的是，指稱對象或或事件，因為,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None; [low] terminology: None; [high] meaning_drift: None
+216,"00:11:18,010 --> 00:11:20,590","there is a relative clause starting with ""which""",其旁邊有一個以 which 開頭,45,needs_revision,有一個以 which 開頭的關係子句,[high] meaning_drift: None
+217,"00:11:20,590 --> 00:11:21,750",right next to it.,的關係子句。,35,needs_revision,緊鄰其旁。,[medium] terminology: None; [high] meaning_drift: None
+218,"00:11:22,970 --> 00:11:26,190","Usually, these grammar clues will help us identify",通常，這些文法線索能幫助我們,80,minor_issues,,[medium] terminology: None
+219,"00:11:26,190 --> 00:11:28,770",the subject or object in a general way.,大致辨識出主詞或受詞。,100,ok,,
+220,"00:11:29,530 --> 00:11:31,970","Combined with other clues below, we can understand",搭配下方的其他線索，我們可以了解,45,needs_revision,搭配下方的其他線索，我們可以瞭解,[high] terminology: None
+221,"00:11:31,970 --> 00:11:33,350",the meaning more correctly.,意義更精確。,87,minor_issues,意義更正確。,[low] collocation: None
+222,"00:11:33,890 --> 00:11:36,190","So, please stay tuned for the next part.",因此，請繼續關注下一個部分。,80,minor_issues,,[medium] terminology: None
+223,"00:11:37,230 --> 00:11:40,490","Regarding word form, this clue is clearer.",關於詞彙形式，這個線索比較明確。,100,ok,,
+224,"00:11:41,210 --> 00:11:43,410",We can identify the word form of the,我們可以根據其結構來,30,needs_revision,我們可以辨識出,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+225,"00:11:43,410 --> 00:11:46,670",unknown word based on its structure and identify,判斷該單字的形式，並辨識出,30,needs_revision,根據其結構判斷該單字並識別,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+226,"00:11:46,670 --> 00:11:49,730",new words based on our knowledge about root words.,基於我們對字根的認識，推導出新的單字。,30,needs_revision,基於我們對字根的認識，推匯出新的單字。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+227,"00:11:49,730 --> 00:11:54,550","For example, cognitive skills are developed through various",例如，認知技能是透過各種教育,45,needs_revision,例如，認知技能是透過各種途徑,[high] meaning_drift: None
+228,"00:11:54,550 --> 00:11:57,330",educational and experiential activities.,和經驗活動來培養的。,45,needs_revision,教育與體驗活動。,[high] meaning_drift: None
+229,"00:11:58,090 --> 00:12:00,610",We can immediately guess that this is an,我們可以立即推斷這是一個形容詞，因,30,needs_revision,我們可以立即猜這是一個,[high] meaning_drift: None; [high] meaning_drift: None
+230,"00:12:00,610 --> 00:12:03,890",adjective because it comes before the noun activities,為它出現在名詞 activities 之前。,32,needs_revision,因為它出現在名詞 activities 之前。,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+231,"00:12:03,890 --> 00:12:06,970","and it has the suffix ""-ile"", which is",並且它帶有「-ile」這個後綴，這,42,needs_revision,並且它帶有「-ile」這個字尾，這,[high] terminology: None; [low] style: None
+232,"00:12:06,970 --> 00:12:08,550",a typical adjective suffix.,是一種典型的形容詞後綴。,45,needs_revision,是一種典型的形容詞字尾。,[high] terminology: None
+233,"00:12:09,830 --> 00:12:13,290","When pronouncing this word, does it sound familiar to you?",發音時，這個字聽起來是否讓您感到熟悉？,100,ok,,
+234,"00:12:14,050 --> 00:12:16,090","That's right, experiential.",沒錯，是經驗性的。,45,needs_revision,沒錯，是體驗性的。,[high] meaning_drift: None
+235,"00:12:16,090 --> 00:12:20,270","It is the adjective form of experience, which",它是 experience 的形容詞形式，而,84,minor_issues,它是 經驗 的形容詞形式，而,[low] terminology: None; [low] grammar: None
+236,"00:12:20,270 --> 00:12:23,250",is a noun meaning knowledge or skill from,這是一個名詞，意指透過做、看或感,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+237,"00:12:23,250 --> 00:12:25,370","doing, seeing or feeling things.",受事物而獲得的知識或技能。,45,needs_revision,做、看或感受事物。,[high] meaning_drift: None
+238,"00:12:26,650 --> 00:12:29,230","Therefore, we can see that this word means",因此，我們可以看到這個詞的意,45,needs_revision,因此，我們可以看到這個詞的意義,[high] meaning_drift: None
+239,"00:12:29,230 --> 00:12:31,110",based on experience.,思是基於經驗。,77,minor_issues,基於經驗。,[medium] terminology: None; [low] typo: None
+240,"00:12:32,490 --> 00:12:35,010",There will always be words looking both familiar,總會有一些看起來很熟悉的字詞,100,ok,,
+241,"00:12:35,010 --> 00:12:38,810",and unfamiliar to us like this one when you read a passage.,以及對我們來說不熟悉的，例如你在閱讀文章時遇到的這篇文章。,45,needs_revision,以及像這篇文章一樣，我們不熟悉的內容。,[high] meaning_drift: None
+242,"00:12:39,550 --> 00:12:42,740","In those cases, try to identify their word form",在這些情況下，試著辨識它們的詞性，,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+243,"00:12:42,740 --> 00:12:45,370",and see if they have any common root words.,並看看它們是否有任何共同的字根。,100,ok,,
+244,"00:12:46,180 --> 00:12:48,020","Sometimes, the definition of a word",有時候，我們不認識的,45,needs_revision,有時候，詞彙的定義,[high] meaning_drift: None
+245,"00:12:48,020 --> 00:12:50,280",we don't know appears in the reading passage.,單字定義會出現在閱讀文章中,45,needs_revision,,[high] meaning_drift: None
+246,"00:12:50,630 --> 00:12:55,630","For example, entrepreneurship, the study of how to",例如，創業（如何創辦新,45,needs_revision,例如，創業（如何,[high] meaning_drift: None
+247,"00:12:55,630 --> 00:12:58,150","start a new business, has been included in",企業的學科）近年來已,35,needs_revision,"start a new business, has been included in",[medium] terminology: None; [high] meaning_drift: None
+248,"00:12:58,150 --> 00:13:01,410",the curriculum of many universities in recent years.,納入許多大學的課程中。,45,needs_revision,近年來許多大學的課程。,[high] meaning_drift: None
+249,"00:13:02,450 --> 00:13:05,770",This word looks unfamiliar and is kind of,這個字看起來很陌生，而且有點,87,minor_issues,,[low] style: None
+250,"00:13:05,770 --> 00:13:07,410","English-French, am I right?",英語-法語，我對吧？,87,minor_issues,英語-法語，我說得對嗎？,[low] register: None
+251,"00:13:08,130 --> 00:13:10,950","However, its definition is right next to it,",然而，它的定義就在旁邊，即,77,minor_issues,,[low] style: None; [medium] terminology: None
+252,"00:13:11,330 --> 00:13:13,610",the study of how to start a new business.,如何開始新創事業的探討。,45,needs_revision,如何開始新創事業的方法。,[high] meaning_drift: None
+253,"00:13:14,300 --> 00:13:18,000","With this definition, we already understand what to study.",有了這個definition，我們就已經知道該學習什麼了。,87,minor_issues,有了這個定義，我們就已經知道該學習什麼了。,[low] terminology: None
+254,"00:13:18,390 --> 00:13:20,780","This clue doesn't always appear in the reading passage,",這個線索並不一定會出現在閱讀文章中，,100,ok,,
+255,"00:13:20,780 --> 00:13:24,960","but if it does, it usually goes with some signal words as follows.",但如果有的話，通常會伴隨著以下的一些信號詞。,30,needs_revision,但如果有的話，通常會伴隨著以下的一些訊號詞。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+256,"00:13:25,910 --> 00:13:29,510",The information comes after verbs such as to,資訊通常出現在動詞之後，例如 to be、involve、en,30,needs_revision,資訊通常出現在動詞之後，例如 to be、involve 等,[low] style: None; [medium] terminology: None; [high] meaning_drift: None; [low] typo: None
+257,"00:13:29,510 --> 00:13:34,650","be, involve, entail and revolve around.",tail 和 revolve around 等形式。,45,needs_revision,"be, involve, entail 以及 revolve around。",[high] meaning_drift: None
+258,"00:13:36,590 --> 00:13:40,550","Meteorology involves the study of atmospheric conditions, weather",氣象學涉及大氣條件、天氣模式以,45,needs_revision,氣象學涉及大氣條件、天氣模式等,[high] meaning_drift: None
+259,"00:13:40,550 --> 00:13:44,090",patterns and the impact of various factors on our climate.,及各種因素對我們氣候的影響。,100,ok,,
+260,"00:13:45,090 --> 00:13:48,590","Nouns ending in ""-ogy"", often refer to subjects",以 -ogy 結尾的名詞，通常指的是主詞,45,needs_revision,以 -ogy 結尾的名詞，通常指的是主題,[high] meaning_drift: None
+261,"00:13:48,590 --> 00:13:53,910",or fields of study and after the word involved is its definition.,或是學科領域，以及「involved」一詞在其後的定義。,45,needs_revision,或為學科領域，而「involved」一詞的定義位於其後。,[high] meaning_drift: None
+262,"00:13:54,770 --> 00:13:58,110","The study of atmospheric conditions, weather patterns and",對大氣條件、天氣模式，以及各種因素,45,needs_revision,,[high] meaning_drift: None
+263,"00:13:58,110 --> 00:14:00,790",the impact of various factors on our climate,對我們氣候的影響之研究，或,42,needs_revision,各種因素對我們氣候的影響,[low] style: None; [high] meaning_drift: None
+264,"00:14:00,790 --> 00:14:03,110",or the study of weather.,是對天氣的研究,100,ok,,
+265,"00:14:07,690 --> 00:14:09,450",How do you feel about the first two,對於前兩個，您感覺如何？,100,ok,,
+266,"00:14:09,450 --> 00:14:11,170",types of clues about guessing meaning?,關於猜測詞意的線索類型？,35,needs_revision,關於猜測詞意的線索型別？,[high] terminology: None; [medium] terminology: None
+267,"00:14:11,750 --> 00:14:13,010","Quite helpful, right?",很有幫助，對吧？,100,ok,,
+268,"00:14:13,430 --> 00:14:16,250","We still have two more, but let's take",我們還有兩個，不過讓我們,87,minor_issues,我們還有兩個，不過我們,[low] register: None
+269,"00:14:16,250 --> 00:14:19,030",a break and recharge your energy before we continue.,先休息一下，補充能量，然後再繼續。,87,minor_issues,,[low] style: None
+270,"00:14:19,610 --> 00:14:20,210",See you!,再見！,100,ok,,

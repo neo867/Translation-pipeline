@@ -1,0 +1,124 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:11,990 --> 00:00:17,650","Hello eager learners, I hope you are ready to dive into today's lesson and learn something new.",各位熱切的學習者，大家好，我希望你們 已經準備好投入今天的課程，學習新事物。,77,minor_issues,,[low] style: None; [medium] terminology: None
+2,"00:00:18,310 --> 00:00:22,210",Welcome back to the next lesson of our intermediate reading course.,歡迎回到我們的中階閱讀課程下一堂課。,100,ok,,
+3,"00:00:22,910 --> 00:00:26,830","Following the previous lessons on multiple choice questions with single answer,",延續先前關於單選題的課程，今,30,needs_revision,延續先前關於單選題的課程，今天,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+4,"00:00:27,510 --> 00:00:31,729",today's lesson will focus on multiple choice questions with multiple answers.,天的課程將著重於多項選擇題。,30,needs_revision,今天的課程將著重於複選題。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+5,"00:00:32,710 --> 00:00:40,410",This lesson aims to help you understand and identify features of multiple choice questions with multiple answers.,本課程旨在協助您理解並辨識 具有多個答案的多項選擇題特徵。,80,minor_issues,,[medium] terminology: None
+6,"00:00:41,470 --> 00:00:46,750",Understand and apply skills and steps for multiple choice questions with multiple answers.,理解並套用具有多個答案 之多項選擇題的技巧與步驟。,70,minor_issues,理解並套用有多個答案的多項選擇題的技巧與步驟。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [low] collocation: None
+7,"00:00:47,310 --> 00:00:49,190",This lesson has three parts.,本課程分為三個部分。,100,ok,,
+8,"00:00:50,110 --> 00:00:54,650",1. Introduction to multiple choice questions with multiple answers.,1. 具有多個答案 之多項選擇題簡介。,77,minor_issues,,[low] style: None; [medium] terminology: None
+9,"00:00:55,310 --> 00:00:59,770",2. Steps for multiple choice questions with multiple answers.,2. 具有多個答案的 多項選擇題作答步驟。,80,minor_issues,,[medium] terminology: None
+10,"00:01:00,630 --> 00:01:02,870",And number 3. Practice,第三題。練習,45,needs_revision,,[high] placeholder: None
+11,"00:01:03,970 --> 00:01:06,430","All right, no more delay, let's begin.",好了，不再拖延，我們開始吧。,80,minor_issues,,[medium] terminology: None
+12,"00:01:10,690 --> 00:01:14,950","In the introduction to the previous lesson, you probably grasped the features",在上課的引言中，您應該已經掌握了此題,30,needs_revision,在上一課的簡介中，您應該已經掌握了此課程,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+13,"00:01:14,950 --> 00:01:16,690","of this question type, didn't you?",型的特徵，對吧？,35,needs_revision,這題型的特點，對吧？,[medium] terminology: None; [high] meaning_drift: None
+14,"00:01:17,290 --> 00:01:20,890","To check your understanding of the previous lesson, we're going to review it",為了檢查您對上一課的理解，我們將透過一些是非,32,needs_revision,為了檢查您對上一課的理解，我們將複習它,[medium] terminology: None; [high] meaning_drift: None; [low] register: None
+15,"00:01:20,890 --> 00:01:23,390",with some true or false interactive questions.,題型的互動問題來進行複習。,35,needs_revision,with some true or false interactive questions.,[medium] terminology: None; [high] meaning_drift: None
+16,"00:01:23,990 --> 00:01:25,570","All right, let's have a try.",好了，我們來試試看。,80,minor_issues,,[medium] terminology: None
+17,"00:01:25,570 --> 00:01:28,670","All right, did you have four correct answers?",好了，您答對四題了嗎？,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+18,"00:01:29,230 --> 00:01:30,850","If you did, congratulations.",如果你做到了，恭喜。,100,ok,,
+19,"00:01:31,450 --> 00:01:34,870","If you didn't get all of them right, don't worry because we're going to",如果你沒有全部答對，別擔心，因為我們現在就,80,minor_issues,,[medium] terminology: None
+20,"00:01:34,870 --> 00:01:38,450",dive into multiple choice questions with multiple answers right now.,要來進行多項選擇題（含多選答案）的練習。,80,minor_issues,,[medium] terminology: None
+21,"00:01:39,310 --> 00:01:43,470",Candidates will mostly see this question type at the end of passage two.,考生大多會在第二篇文章末尾遇到此題型。,100,ok,,
+22,"00:01:44,050 --> 00:01:46,530",It may have from one to two questions.,該題型可能包含一至兩題。,80,minor_issues,,[medium] terminology: None
+23,"00:01:47,050 --> 00:01:52,590",Each question can have four to six options and requires you to choose two to,每道題目可設有四至六個選項，並要求您選出兩至三個,35,needs_revision,每道題目可設有四至六個選項，並要求您選出兩至五個,[medium] terminology: None; [high] meaning_drift: None
+24,"00:01:52,590 --> 00:01:54,830","three correct answers, often two.",正確答案，通常為兩個。,45,needs_revision,通常有兩個正確答案。,[high] meaning_drift: None
+25,"00:01:55,690 --> 00:01:57,670",Each correct answer gets one point.,每題答對得一分。,80,minor_issues,,[medium] terminology: None
+26,"00:01:58,370 --> 00:02:06,330",What makes it difficult for candidates is that the correct answers to a question can be found in the passage without any particular order.,讓考生感到困難的是，題目的正確答案 可能散見於文章中，並無特定的順序。,100,ok,,
+27,"00:02:07,190 --> 00:02:11,170","Moreover, they can be located in one of many paragraphs.",此外，它們可能出現在多個段落中的任何一個。,100,ok,,
+28,"00:02:11,910 --> 00:02:15,970","Therefore, when candidates locate the information for the first answer,",因此，當考生找到第一題的答案時，必須,30,needs_revision,因此，，當考生找到第一題的答案時，必須,[medium] terminology: None; [low] collocation: None; [low] register: None; [low] style: None; [high] meaning_drift: None
+29,"00:02:15,970 --> 00:02:20,170",they have to find the remaining answer below or above the information file.,在該資訊的上方或下方找出其餘的答案。,100,ok,,
+30,"00:02:20,910 --> 00:02:26,010","You may think that if this is too challenging, how can I handle it?",您可能會想，如果這太具挑戰性，我該如何應對呢？,100,ok,,
+31,"00:02:26,410 --> 00:02:27,210",Don't worry.,請別擔心。,100,ok,,
+32,"00:02:27,710 --> 00:02:31,330",The answer to your question will be revealed in part two of the video.,您的問題答案將在影片的Part two揭曉。,70,minor_issues,您的問題答案將在影片的第二部分揭曉。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None
+33,"00:02:31,510 --> 00:02:33,950",So let's move on to part two.,接下來我們進入第二部分。,80,minor_issues,,[medium] terminology: None
+34,"00:02:38,080 --> 00:02:41,940","To tackle this question type, we're going to follow these three steps.",要應對此題型，我們將遵循以下三個步驟。,80,minor_issues,,[medium] terminology: None
+35,"00:02:42,700 --> 00:02:48,180","Step one, read and underline keywords in questions and options.",第一步，閱讀並劃出問題與選項中的關鍵字。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+36,"00:02:49,100 --> 00:02:54,100","Step two, locate information areas by using keywords in questions.",第二步，利用題目中的關鍵字來定位資訊區域。,80,minor_issues,,[medium] terminology: None
+37,"00:02:54,640 --> 00:02:55,900",Here is a note for you.,這裡有一份備註提供給你。,87,minor_issues,,[low] style: None
+38,"00:02:56,300 --> 00:03:00,300",The keywords in the questions may appear in one or many paragraphs.,題目中的關鍵字可能出現在一個或多個段落中。,80,minor_issues,,[medium] terminology: None
+39,"00:03:00,940 --> 00:03:05,900","If the keywords appear in a specific paragraph, we'll find the answer in that paragraph.",如果關鍵字出現在特定段落中， 我們會在那個段落中找到答案。,100,ok,,
+40,"00:03:06,740 --> 00:03:11,840","Step three, compare keywords in questions with the information scanned in the passage.",第三步，將題目中的關鍵字與 文章中掃描到的資訊進行比較。,80,minor_issues,,[medium] terminology: None
+41,"00:03:11,840 --> 00:03:16,540","Because there are a lot of options, we will scan the keywords of the options",由於選項眾多，我們將逐一掃描選項中的關,35,needs_revision,由於選項眾多，我們將逐一掃描選項中的關鍵字,[medium] terminology: None; [high] meaning_drift: None
+42,"00:03:16,540 --> 00:03:21,240",one by one instead of scanning many options at the same time.,鍵字，而不是一次掃描多個選項。,42,needs_revision,一次一個，而不是同時掃描多個選項。,[high] meaning_drift: None; [low] collocation: None
+43,"00:03:21,720 --> 00:03:25,120",Now we're going to apply three steps to understand them better.,現在我們將套用三個步驟，以便更好地理解它們。,100,ok,,
+44,"00:03:25,840 --> 00:03:31,060",Let's take a look at the following reading passage with a multiple choice question with multiple answers.,讓我們來看看以下這段閱讀文章，其 中包含一道有多個正確答案的選擇題。,80,minor_issues,,[medium] terminology: None
+45,"00:03:36,700 --> 00:03:43,020","First, we're going to take step one, read and underline keywords in questions and options.",首先，我們將執行第一步：在 問題與選項中劃出關鍵字。,80,minor_issues,,[medium] terminology: None
+46,"00:03:43,260 --> 00:03:45,480",You'll do this in 30 seconds.,你將在 30 秒內完成。,100,ok,,
+47,"00:03:46,000 --> 00:03:48,660","All right, time starts now.",好，現在開始。,80,minor_issues,,[medium] terminology: None
+48,"00:04:21,840 --> 00:04:22,760",Time's up.,時間到了。,100,ok,,
+49,"00:04:23,100 --> 00:04:24,860",These are the keywords in the question.,這些是問題中的關鍵字。,100,ok,,
+50,"00:04:25,320 --> 00:04:33,920","So we have three main keywords, content creation, grow financially, and early stages in the question.",所以我們有三個主要關鍵字：content creation、 財務成長，以及問題中的早期階段。,70,minor_issues,所以我們有三個主要關鍵字：內容創作、 財務增長，以及問題中的早期階段。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] collocation: None
+51,"00:04:34,140 --> 00:04:39,900",And the word factors is the information we need to find for this question.,而 factors 這個詞是我們需要為這個問題找到的資訊。,80,minor_issues,,[medium] terminology: None
+52,"00:04:40,280 --> 00:04:44,280",And here are the keywords that I found in the options.,以下是我在選項中找到的關鍵字。,100,ok,,
+53,"00:04:45,400 --> 00:04:52,480","Now, we're going to take step two, locate information areas by using keywords in questions.",現在，我們要進行第二步，利 用問題中的關鍵字來定位資訊區域。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+54,"00:04:53,140 --> 00:04:59,540","By using the keywords, content creation, grow financially, and early stages, we",透過使用關鍵字、content creation、grow financially 和 early,71,minor_issues,透過使用關鍵字、內容創作、財務成長 和 早期,[medium] terminology: None; [low] style: None; [low] style: None; [low] style: None
+55,"00:04:59,540 --> 00:05:02,320",can locate the answer in paragraph C.,stages，我們可以在 C 段找出答案。,35,needs_revision,OK，我們可以在 C 段找出答案。,[medium] terminology: None; [high] meaning_drift: None
+56,"00:05:02,750 --> 00:05:09,980","We can identify that from the words financial gain, which is a synonym of grow financially.",我們可以從 financial gain 這個詞辨識出 來，它是 grow financially 的同義詞。,80,minor_issues,,[medium] terminology: None
+57,"00:05:11,340 --> 00:05:16,560","Now we're going to take step three, compare keywords in questions with the",現在我們要進行第三步，比較問題中的關鍵字與,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+58,"00:05:16,560 --> 00:05:23,840","information scanned in the passage option A, the development of high definition digital diaries.",文章中所掃描的資訊：選項 A ，高解析度數位日記的發展。,74,minor_issues,段落中所掃描的資訊：選項 A ，高解析度數位日誌的發展。,[medium] terminology: None; [low] terminology: None; [low] terminology: None
+59,"00:05:24,380 --> 00:05:28,160","For option A, the keyword is digital diaries.",對於 option A，關鍵字是 digital diaries。,74,minor_issues,對於 選項 A，關鍵字是 數位日記。,[medium] terminology: None; [low] terminology: None; [low] terminology: None
+60,"00:05:28,600 --> 00:05:34,520","While the passage mentions social media and creators making videos, it never",雖然文章提到了社群媒體和創作者製作影片，但從未提及高解析度或,74,minor_issues,,[low] style: None; [low] style: None; [medium] terminology: None
+61,"00:05:34,520 --> 00:05:40,020",mentions high definition or the specific term digital diaries.,「digital diaries」這個特定詞彙。,45,needs_revision,提到高清或特定詞彙「digital diaries」。,[high] meaning_drift: None
+62,"00:05:40,580 --> 00:05:48,100","The text focuses on platforms and revenue, not the technical evolution of the video format itself.",本文著重於平台與營收，而非 影片形式本身的技術演進。,80,minor_issues,,[medium] terminology: None
+63,"00:05:48,580 --> 00:05:50,720","Therefore, A is incorrect.",因此，選項 A 不正確。,100,ok,,
+64,"00:05:51,330 --> 00:05:58,060","Regarding option B, we have the keywords brands, reach audiences, and trusted individuals.",關於選項 B，我們有關鍵字：品牌 、觸及受眾以及可信賴的個人。,100,ok,,
+65,"00:05:58,620 --> 00:06:04,120","If we look at the last two sentences of the passage, it states brands began",如果我們檢視文章的最後兩句話，其中指出品牌,84,minor_issues,如果我們看文章的最後兩句話，提到品牌,[low] register: None; [low] collocation: None
+66,"00:06:04,120 --> 00:06:09,640",to realise that a recommendation from a trusted creator was often more,開始意識到，來自可信賴創作者的推薦，通,71,minor_issues,,[low] style: None; [medium] terminology: None; [low] register: None; [low] typo: None
+67,"00:06:09,640 --> 00:06:12,920",effective than a traditional television commercial.,常比傳統的電視廣告更為有效。,100,ok,,
+68,"00:06:13,440 --> 00:06:21,420","It further explains that this led to sponsored content, where companies pay creators.",文中進一步解釋，這導致了贊助內容的 出現，即企業付費給創作者。,77,minor_issues,,[low] style: None; [medium] terminology: None
+69,"00:06:22,040 --> 00:06:25,920",The keywords match the passage's logic perfectly.,這些關鍵字與文章內容的邏輯完全吻合。,100,ok,,
+70,"00:06:26,600 --> 00:06:29,380","Therefore, B is a correct answer.",因此，選項 B 是正確答案。,100,ok,,
+71,"00:06:30,220 --> 00:06:35,180","For option C, the keyword is cost of television advertising.",關於選項 C，關鍵字是電視廣告成本。,100,ok,,
+72,"00:06:35,820 --> 00:06:40,740","Looking back at the text, it does mention traditional television commercials,",回頭檢視文章，文中確實有提到傳統電視廣告，但僅是,80,minor_issues,,[medium] terminology: None
+73,"00:06:41,240 --> 00:06:45,040",but only to compare their effectiveness to influences.,用來比較其有效性與其他影響因素。,45,needs_revision,僅用於比較其有效性與影響力。,[high] meaning_drift: None
+74,"00:06:45,820 --> 00:06:51,720","The passage says brands found creators more effective, but it says nothing",文章指出品牌認為創作者更有效，但並未提及,84,minor_issues,文章指出品牌認為創作者更有效，但但未提及,[low] style: None; [low] register: None
+75,"00:06:51,720 --> 00:06:54,740",about the cost of TV ads increasing.,電視廣告成本上升。,80,minor_issues,,[medium] terminology: None
+76,"00:06:55,300 --> 00:07:00,420",We cannot assume the cost went up just because brands shifted their budget.,我們不能僅因品牌轉移預算，就假設成本上升。,80,minor_issues,,[medium] terminology: None
+77,"00:07:00,420 --> 00:07:03,160","Therefore, C is incorrect.",因此，選項 C 不正確。,100,ok,,
+78,"00:07:04,140 --> 00:07:08,840","For option D, our keywords are systems that pay users and popularity.",對於選項 D，我們的關鍵字為付酬機制與人氣。,80,minor_issues,,[medium] terminology: None
+79,"00:07:09,560 --> 00:07:15,080","Scanning the middle of the passage, we find the term monetization programs.",掃描文章中間部分，我們找到 monetization programs 這個術語。,87,minor_issues,,[low] style: None
+80,"00:07:15,640 --> 00:07:20,560",The text explains that platforms introduced these to encourage popular creators,文中解釋，平台推出這些形式是為了透過分享部分廣,45,needs_revision,原文說明，平台推出此舉是為了鼓勵熱門創作者,[high] meaning_drift: None
+81,"00:07:20,560 --> 00:07:24,700",by sharing a portion of their advertising revenue.,告收益，來鼓勵受歡迎的創作者。,42,needs_revision,並分享部分廣告收益。,[low] style: None; [high] meaning_drift: None
+82,"00:07:25,540 --> 00:07:31,340","Since the system pays creators based on their ability to keep users on the app,",由於系統會根據創作者留住使用者的能力來支付報酬，而,87,minor_issues,,[low] style: None
+83,"00:07:31,640 --> 00:07:36,620","which is a result of their popularity, this matches the passage perfectly.",這種能力取決於他們的人氣，這與文章內容完全吻合。,30,needs_revision,這導致他們的人氣，這與文章內容完全吻合。,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+84,"00:07:37,240 --> 00:07:40,900","Therefore, D is our second correct answer.",因此，D 是我們第二個正確答案。,100,ok,,
+85,"00:07:42,420 --> 00:07:47,480","Finally, for option E, let's look for the keyword professional contracts.",最後，針對選項 E，讓我們尋找關鍵字 professional contracts。,70,minor_issues,最後，針對選項 E，讓我們尋找關鍵字 專業合約。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None
+86,"00:07:47,760 --> 00:07:53,600","While the passage discusses monetization programs and sponsored content, it",雖然文章討論了 monetization programs 和 spo,71,minor_issues,雖然文章討論了 獲利計畫 和 贊助內容,[low] style: None; [medium] terminology: None; [low] style: None; [low] style: None
+87,"00:07:53,600 --> 00:07:59,300",does not mention anything about contracts or a requirement for creators to sign them.,nsored content，但並未提及 任何關於合約或創作者必須簽署合約的要求。,74,minor_issues,受限制的內容，但並未提及 任何關於合約或創作者必須簽署合約的要求。,[low] style: None; [medium] terminology: None; [low] typo: None
+88,"00:07:59,720 --> 00:08:04,520",The text focuses on the financial incentives and the relationship between,本文著重於財務誘因以及品牌與創作者之,39,needs_revision,本文著重於財務誘因以及品牌與創作者之間的關係,[low] style: None; [low] style: None; [high] meaning_drift: None
+89,"00:08:04,520 --> 00:08:09,840","brands and creators, not the legal or administrative formalities of joining the industry.",間的關係，而非加入 該產業的法律或行政形式。,39,needs_revision,品牌與創作者之間的關係，而非加入該產業的法律或行政手續。,[high] meaning_drift: None; [low] terminology: None; [low] typo: None
+90,"00:08:10,440 --> 00:08:12,700","Therefore, E is incorrect.",因此，E 是錯誤的。,80,minor_issues,,[medium] terminology: None
+91,"00:08:12,700 --> 00:08:14,600","Great job, everyone.",大家做得很好。,100,ok,,
+92,"00:08:15,200 --> 00:08:18,720","Now, let's practice with another multiple choice question.",現在，讓我們透過另一道選擇題來進行練習。,100,ok,,
+93,"00:08:23,930 --> 00:08:25,330",Look at this question.,請看這道題目。,100,ok,,
+94,"00:08:25,930 --> 00:08:29,150",You have 30 seconds to find the keywords in the question.,你有 30 秒的時間來找出問題中的關鍵字。,100,ok,,
+95,"00:08:29,650 --> 00:08:31,809","30 seconds, start now.",30 秒，現在開始。,80,minor_issues,,[medium] terminology: None
+96,"00:09:04,860 --> 00:09:06,800",Here are the keywords that I found.,以下是我找到的關鍵字。,100,ok,,
+97,"00:09:10,690 --> 00:09:18,050","Since the question already mentions according to paragraph E, we can skip step 2 and move to step 3.",由於題目已提及根據段落 E，我們可 以跳過步驟 2，直接進入步驟 3。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+98,"00:09:18,430 --> 00:09:22,990",Pause the video for about 3 minutes to look for the answer in the paragraph.,暫停影片約 3 分鐘，在段落中尋找答案。,100,ok,,
+99,"00:09:24,510 --> 00:09:26,290",Did you find all the correct answers?,你找到所有正確答案了嗎？,80,minor_issues,,[medium] terminology: None
+100,"00:09:26,930 --> 00:09:28,290",Let's look at the explanation.,我們來看看解釋。,100,ok,,
+101,"00:09:29,050 --> 00:09:34,690","In option B, we have the keywords balancing various responsibilities.",在選項 B 中，我們看到關鍵字平衡了各種責任。,100,ok,,
+102,"00:09:35,410 --> 00:09:42,390","The passage lists roles like script writer, writing and marketing manager, promotion.",該段落列出了如 script writer、writing and m arketing manager 與 promotion 等角色。,70,minor_issues,該段落列出了如 劇本作家、寫作與行銷經理 與 推廣 等角色。,[medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None; [low] style: None; [low] style: None
+103,"00:09:42,390 --> 00:09:48,730",It explicitly states that these roles must be mastered simultaneously.,文中明確指出，必須同時掌握這些角色。,100,ok,,
+104,"00:09:49,650 --> 00:09:54,210",This matches the idea of balancing different tasks perfectly.,這完全符合平衡不同任務的概念。,100,ok,,
+105,"00:09:54,870 --> 00:09:57,010","Therefore, B is a correct answer.",因此，B 是正確答案。,100,ok,,
+106,"00:09:57,850 --> 00:10:03,810","For option C, the keywords are logical systems and content visibility.",對於選項 C，關鍵字為邏輯系統與內容可見性。,100,ok,,
+107,"00:10:04,290 --> 00:10:09,550","In the passage, we find the word algorithms, which are defined as mathematical",在文章中，我們發現了「algorithms」一詞，其定義為數學規則，是決定哪些,45,needs_revision,在文章中，我們發現了「algorithms」一詞，其定義為數學的，是決定哪些,[high] meaning_drift: None
+108,"00:10:09,550 --> 00:10:16,790","rules, synonym of logical systems that decide which videos get shown to people,",影片會顯示給使用者的「logical systems」，也是「content v,70,minor_issues,影片會顯示給使用者的「邏輯系統」，也是「content v,[low] style: None; [low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None
+109,"00:10:17,310 --> 00:10:19,530",synonym of content visibility.,isibility」的同義詞。,77,minor_issues,,[medium] terminology: None; [low] style: None
+110,"00:10:20,090 --> 00:10:23,750",The text says understanding these is essential.,文中指出，理解這些內容至關重要。,100,ok,,
+111,"00:10:24,530 --> 00:10:28,810",This is an exact match for the information provided.,這與所提供的資訊完全相符。,100,ok,,
+112,"00:10:29,450 --> 00:10:32,910","Therefore, C is also a correct answer.",因此，C 也是正確答案。,87,minor_issues,,[low] style: None
+113,"00:10:38,590 --> 00:10:39,570",Good job!,做得很好！,80,minor_issues,,[medium] terminology: None
+114,"00:10:39,930 --> 00:10:43,350","Before finishing the lesson, let's quickly recap what we have learned.",在結束課程之前，讓我們快速複習一下我們所學的內容。,77,minor_issues,,[low] style: None; [medium] terminology: None
+115,"00:10:44,170 --> 00:10:49,570","After this lesson, we can understand features of multiple choice questions with multiple answers,",本課程結束後，我們將能夠了解具有多個答案的多項選擇題的,30,needs_revision,本課程結束後，我們將能夠瞭解具有多個答案的多項選擇題的,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+116,"00:10:49,570 --> 00:10:56,350",understand and apply three steps for multiple choice questions with multiple answers.,特徵，並掌握這類型題 目的三個解題步驟並加以套用。,30,needs_revision,特徵，並掌握這型別題 目的三個解題步驟並加以套用。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+117,"00:10:57,010 --> 00:11:03,650",Step 1. Read and underline keywords in questions and options.,步驟一：閱讀並劃出 問題與選項中的關鍵字。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] placeholder: None
+118,"00:11:04,190 --> 00:11:08,930",Step 2. Locate information areas by using keywords in questions.,步驟 2：利用題目中的 關鍵字來定位資訊區域。,80,minor_issues,,[medium] terminology: None
+119,"00:11:09,850 --> 00:11:15,070",Step 3. Compare keywords and questions with the information scanned in the passage.,步驟 3：將關鍵字與題目和文 章中所掃描的資訊進行比較。,70,minor_issues,步驟 3：將關鍵字與題目和文章中所所讀取的資訊進行比較。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] typo: None; [low] register: None
+120,"00:11:15,690 --> 00:11:20,090","To master these steps, please do some practice exercises for this question type.",要掌握這些步驟，請請練習一下 此題型的練習題。,87,minor_issues,,[low] style: None
+121,"00:11:20,090 --> 00:11:21,910","For now, let's call it a day.",暫時先這樣吧。,80,minor_issues,,[medium] terminology: None
+122,"00:11:22,590 --> 00:11:23,730",See you in the next lesson.,下一堂課見。,100,ok,,
+123,"00:11:24,030 --> 00:11:24,310",Goodbye!,再見！,100,ok,,

@@ -1,0 +1,168 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:12,100 --> 00:00:17,620","Welcome back everyone, I hope you are ready to dive into today's lesson and learn something new.",歡迎回來，各位。希望大家已準備 好投入今天的課程，學習新事物。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+2,"00:00:18,260 --> 00:00:23,140",Today we're going to learn about a quite challenging question type in the IELTS reading test.,今天我們要來學習 IELTS 閱讀測驗中一個相當具有挑戰性的題型。,80,minor_issues,,[medium] terminology: None
+3,"00:00:23,760 --> 00:00:25,300","True, false or not given.",True、False 或 Not Given。,77,minor_issues,True、False 或 Not Given,[medium] terminology: None; [low] style: None
+4,"00:00:26,040 --> 00:00:29,540","However, don't worry guys, today we're going to tackle it together.",不過，大家別擔心，今天我們會一起解決它。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+5,"00:00:30,560 --> 00:00:37,880","This lesson aims to help you understand and identify features of true, false or not given questions and answers.",本課程旨在幫助您了解並辨識 True、F alse 或 Not Given 題型的特徵。,30,needs_revision,本課程旨在幫助您瞭解並辨識 True、F alse 或 Not Given 題型的特徵。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None
+6,"00:00:38,680 --> 00:00:42,580","Understand and apply steps for true, false or not given questions.",了解並套用 True、False 或 Not Given 題型的解答步驟。,30,needs_revision,瞭解並套用 True、False 或 Not Given 題型的解答步驟。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+7,"00:00:43,200 --> 00:00:45,980","Alright, no more delay, let's begin.",好了，不再拖延，我們開始吧。,100,ok,,
+8,"00:00:50,810 --> 00:00:55,430","First of all, let's explore the features of the true, false or not given questions.",首先，讓我們探討 True、False 或 Not Given 題型的特徵。,80,minor_issues,,[medium] terminology: None
+9,"00:00:55,910 --> 00:01:00,910",This question type often appears in reading passage 1 and 2 of the test.,此題型經常出現在測驗的閱讀文章 1 和 2 中。,80,minor_issues,,[medium] terminology: None
+10,"00:01:01,330 --> 00:01:06,050","The thing that helps you identify this question type is the question, do the",幫助您辨識此題型的關鍵在於題目：以下,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+11,"00:01:06,050 --> 00:01:09,590",following statements agree with the information given in the reading passage?,陳述是否符合閱讀文章所提供的資訊？,45,needs_revision,,[high] meaning_drift: None
+12,"00:01:10,470 --> 00:01:14,690",So this question type requires candidates to identify whether statements in,因此，此題型要求考生判斷題目中的陳述是否,80,minor_issues,,[medium] terminology: None
+13,"00:01:14,690 --> 00:01:20,290",questions agree or disagree with the information in the reading passage or are not mentioned.,符合閱讀文章所提供的資訊、 與之矛盾，或是未提及。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+14,"00:01:20,870 --> 00:01:25,470",Let's take a closer look at an example to understand the structure of this question type.,讓我們進一步透過範 例來了解此題型的結構。,35,needs_revision,讓我們進一步透過範 例來瞭解此題型的結構。,[high] terminology: None; [medium] terminology: None
+15,"00:01:26,910 --> 00:01:28,770",The question type has two parts.,此題型分為兩個部分。,100,ok,,
+16,"00:01:29,570 --> 00:01:34,090",The first one is the requirements requiring candidates to identify whether,第一題為要求考生判斷所給陳述是否為 True、False,70,minor_issues,第一題為要求考生判斷所給陳述是否為 正確、錯誤,[medium] terminology: None; [medium] terminology: None; [low] terminology: None
+17,"00:01:34,090 --> 00:01:36,970","given statements are true, false or not given.",或 Not Given 的題型。,30,needs_revision,若陳述為真、假或未提及。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+18,"00:01:37,930 --> 00:01:40,370",The second one is the numbered statements.,第二題為編號陳述題。,100,ok,,
+19,"00:01:41,190 --> 00:01:44,990","For this question type, there is a feature that can be considered as an",此題型有一個可視為的,30,needs_revision,此題型具備一個可視為...的功能,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+20,"00:01:44,990 --> 00:01:47,910",advantage and helps us handle it more quickly.,優勢，並協助我們更迅速地處理。,100,ok,,
+21,"00:01:48,910 --> 00:01:53,810","It is, these statements come in order as the information in the passage.",是的，這些陳述會依照文章中的資訊順序出現。,80,minor_issues,,[medium] terminology: None
+22,"00:01:55,170 --> 00:01:59,610",This means that if we find the information for statement 1 in the previous line,這表示如果我們在前一行或前一段找到第 1 題陳,45,needs_revision,這表示如果我們在前一行或前一段找到第 1 題的資訊,[high] meaning_drift: None
+23,"00:01:59,610 --> 00:02:04,070","or paragraph, we can move on to the next line or paragraph to find the",述的資訊，就可以移至下一行或下一段，以尋,32,needs_revision,段落後，我們，就可以移至下一行或下一段，以尋找,[medium] terminology: None; [high] meaning_drift: None; [low] grammar: None
+24,"00:02:04,070 --> 00:02:05,610",information for the next statement.,找下一題陳述的資訊。,84,minor_issues,關於下一份陳述的資訊。,[low] terminology: None; [low] register: None
+25,"00:02:06,170 --> 00:02:11,150","So for this question type, finding the information isn't really time consuming, is it?",因此，對於此題型而言， 尋找資訊並不怎麼耗時，對吧？,100,ok,,
+26,"00:02:11,730 --> 00:02:17,270","Next, we're going to learn how to identify which information is true, false or not given.",接下來，我們將學習如何辨識 資訊是正確、錯誤或未提及。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+27,"00:02:17,730 --> 00:02:23,510","If we can't distinguish these three types of answers, we won't be able to choose the correct answer.",如果我們無法區分這三種類型的題目， 我們將無法選擇正確答案。,30,needs_revision,如果我們無法區分這三種型別的答案， 我們將無法選擇正確答案。,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+28,"00:02:24,350 --> 00:02:27,850","Distinguish three types of answers, true, false or not given.",區分三種答案類型：true、false 或 not given。,30,needs_revision,區分三種答案型別：正確、錯誤 或 未提及。,[high] terminology: None; [medium] terminology: None; [low] terminology: None; [low] terminology: None; [low] terminology: None
+29,"00:02:28,590 --> 00:02:29,550",1. True.,1. True。,100,ok,,
+30,"00:02:30,290 --> 00:02:34,610",The statement 100% agrees with the information in the passage.,1. True。該陳述與文章中的資訊完全相符。,30,needs_revision,1. 正確。該陳述與文章中的資訊完全相符。,[medium] terminology: None; [high] placeholder: None; [high] meaning_drift: None
+31,"00:02:35,370 --> 00:02:40,310","Firstly, the statement will be true if it 100% agrees with the information in the passage.",首先，如果該陳述 100% 符合事實，則為 true。 與文章中的資訊相符。,45,needs_revision,首先，如果該陳述 100% 符合事實，則該陳述為真。因為它與文章中的資訊相符。,[high] meaning_drift: None
+32,"00:02:40,850 --> 00:02:44,590",You should note that the statement should 100% agree with the conveyed,你應該注意，該陳述必須與所傳遞的資訊完全相,30,needs_revision,你應該注意，該陳述必須與所傳達的內容完全一致,[medium] terminology: None; [high] placeholder: None; [high] meaning_drift: None
+33,"00:02:44,590 --> 00:02:50,670",information because the keywords in the statement might not 100% match those of the passage.,符，因為陳述中的關鍵字可能與文 章中的關鍵字不完全一致。,30,needs_revision,OK，因為陳述中的關鍵字可能與文 章中的關鍵字不完全一致。,[medium] terminology: None; [high] placeholder: None; [high] meaning_drift: None
+34,"00:02:51,430 --> 00:02:54,070","Instead, the keywords might be paraphrased.",相反地，關鍵字可能會經過改寫。,100,ok,,
+35,"00:02:54,670 --> 00:02:58,490","Speaking of paraphrasing, does anyone remember the techniques for paraphrasing",說到改寫，有人還記得我介紹給你們的,35,needs_revision,說到改寫，有人還記得那些改寫技巧嗎,[medium] terminology: None; [high] meaning_drift: None
+36,"00:02:58,490 --> 00:02:59,590",that I introduced to you?,改寫技巧嗎？,45,needs_revision,嗎？,[high] meaning_drift: None
+37,"00:03:00,330 --> 00:03:04,530","In case you don't, I'm going to introduce some techniques for paraphrasing again.",如果你們還不清楚，我將 再次介紹一些改寫技巧。,100,ok,,
+38,"00:03:05,110 --> 00:03:09,650",We have four techniques which are called GOSS for short.,我們有四種技巧，簡稱為 GOSS。,100,ok,,
+39,"00:03:10,170 --> 00:03:10,550",Grammar.,文法。,100,ok,,
+40,"00:03:11,290 --> 00:03:14,810",Express the same information using different grammatical structures.,使用不同的文法結構來表達相同資訊。,100,ok,,
+41,"00:03:15,970 --> 00:03:21,250","Example, change the word form or the active voice to the passive voice.",範例：變更詞彙形式，或將主動語態改為被動語態。,100,ok,,
+42,"00:03:21,830 --> 00:03:24,410",The first one is paraphrasing using grammar.,第一種是透過文法進行改寫。,80,minor_issues,,[medium] terminology: None
+43,"00:03:25,230 --> 00:03:28,690","For example, keywords can be changed in terms of word form.",例如，可以變更關鍵字的詞彙形式。,80,minor_issues,,[medium] terminology: None
+44,"00:03:29,250 --> 00:03:32,710",Original sentence can be changed from active voice to passive voice.,原句可從主動語態改為被動語態。,80,minor_issues,,[medium] terminology: None
+45,"00:03:33,390 --> 00:03:33,490",Order.,順序。,100,ok,,
+46,"00:03:34,290 --> 00:03:37,430",Reversing the order of some information in the sentence.,調整句中部分資訊的順序。,80,minor_issues,,[medium] terminology: None
+47,"00:03:38,010 --> 00:03:43,070","The second technique is called ORDER, which reverses the information order of",第二種技巧稱為「順序」（ORDER），即調整,42,needs_revision,第二種技巧稱為「順序排列」（ORDER），其原理為反轉,[high] meaning_drift: None; [low] terminology: None
+48,"00:03:43,070 --> 00:03:44,610",some information in the sentence.,句中部分資訊的順序。,35,needs_revision,句子中的部分資訊。,[medium] terminology: None; [high] meaning_drift: None
+49,"00:03:45,000 --> 00:03:49,390",We can encounter this technique in sentences that have a feature of listing.,我們可以在具有列表特徵的句子中遇到這種技巧。,45,needs_revision,我們可以在具有清單特徵的句子中遇到這種技巧。,[high] terminology: None
+50,"00:03:51,090 --> 00:03:51,450",Summary.,摘要,100,ok,,
+51,"00:03:52,290 --> 00:03:55,730",Use a collective noun instead of listing all the items.,使用集合名詞，而非逐一列出所有項目。,35,needs_revision,使用集合名詞，而非逐一列出所有專案。,[high] terminology: None; [medium] terminology: None
+52,"00:03:56,390 --> 00:04:01,950","The third one is summary, in which we use a collective noun instead of listing all the items.",第三點是摘要，在此我們使用集 合名詞，而非逐一列出所有項目。,30,needs_revision,第三點是摘要，在此我們使用集 合名詞，而非逐一列出所有專案。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+53,"00:04:03,370 --> 00:04:03,730",Synonym.,同義詞。,100,ok,,
+54,"00:04:04,570 --> 00:04:09,390","Use words, phrases or expressions that have similar meanings to the original sentence.",使用與原句意思相近的單 字、片語或表達方式。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+55,"00:04:10,130 --> 00:04:14,270","The final technique is synonym, in which we use words, phrases or expressions",最後一個技巧是同義詞，在此我們使用意思與原,45,needs_revision,最後一個技巧是同義詞，在此我們使用詞彙、短語或表達方式,[high] meaning_drift: None
+56,"00:04:14,270 --> 00:04:17,810",that have a similar meaning to the original sentence.,句相近的單字、片語或表達方式。,30,needs_revision,與原句相近的單字、片語或表達方式。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+57,"00:04:18,510 --> 00:04:18,790",False.,錯誤。,100,ok,,
+58,"00:04:19,410 --> 00:04:22,450",The statement contradicts the information in the passage.,此陳述與文章內容相矛盾。,100,ok,,
+59,"00:04:23,490 --> 00:04:27,210",The statement will be false if it contradicts the information in the passage.,如果該陳述與文章內容相矛盾，則為錯誤。,100,ok,,
+60,"00:04:28,230 --> 00:04:32,130","So for false statements, the structures are often small details.",因此，對於 false 的陳述，其結構通常是細小的細節。,74,minor_issues,因此，對於 錯誤 的陳述，其結構往往由細微末節構成。,[medium] terminology: None; [low] terminology: None; [low] collocation: None
+61,"00:04:32,890 --> 00:04:34,950","Therefore, I have a tip for you.",因此，這裡有一個小建議給您。,100,ok,,
+62,"00:04:35,650 --> 00:04:41,950","Pay attention to details, especially qualifying words, such as Adverbs of",注意細節，特別是修飾性詞彙，例如頻率副詞（Adverbs of frequency），如 often、barely、alway,70,minor_issues,注意細節，特別是修飾性詞彙，例如頻率副詞（Adverbs of frequency），如 often、barely、always,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] typo: None
+63,"00:04:41,950 --> 00:04:49,570","frequency, like often, barely, always, and sometimes Adverbs of probability,",s 和 sometimes；可能性副詞（Adverbs of probability），如 likely 和 probably；數量,42,needs_revision,,[high] meaning_drift: None; [low] terminology: None
+64,"00:04:50,110 --> 00:04:58,570","like likely and probably Quantifiers, like some, many, and a few Adverbs",詞（Quantifiers），如 some、many 和 a few；表示排他性的副詞（Adverbs indicating,30,needs_revision,,[medium] terminology: None; [low] terminology: None; [high] meaning_drift: None; [low] placeholder: None
+65,"00:04:58,570 --> 00:05:08,670","indicating exclusivity, like purely, solely, only Unique, and mainly Modal",exclusivity），如 purely、solely 和 only；Unique 和 mainly；以及情態動詞（Modal,45,needs_revision,"exclusive, such as purely, solely, and only; unique and mainly; and modal verbs",[high] meaning_drift: None
+66,"00:05:08,670 --> 00:05:18,690","verbs, like can, could, should, and must Ordinal numbers, like first, second, third, etc.",verbs），如 can、could、should 和 must。 序數詞，例如 first、second、third 等。,80,minor_issues,動詞），如 can、could、should 和 must。 序數詞，例如 first、second、third 等。,[medium] terminology: None
+67,"00:05:19,930 --> 00:05:27,070","Adjectives of time order, like newest, latest, most recent, or oldest",表示時間順序的形容詞，例如 newest、latest、most recent 或 oldest,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [low] terminology: None
+68,"00:05:27,070 --> 00:05:32,330",These words and phrases can completely change the meaning of the question when compared to the passage.,與文章相比，這些詞彙和片語 可能會完全改變問題的意思。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+69,"00:05:32,750 --> 00:05:35,370",So pay attention to them to avoid the distractors.,因此請注意它們，以避開干擾選項。,80,minor_issues,,[medium] terminology: None
+70,"00:05:36,050 --> 00:05:40,030","Finally, we're going to learn about the final type of answer that is the most",最後，我們將學習最後一種讓考生最感到困,35,needs_revision,最後，我們將學習最後一種題型,[medium] terminology: None; [high] meaning_drift: None
+71,"00:05:40,030 --> 00:05:41,350",confusing to the candidates.,惑的答題類型。,30,needs_revision,惑的答題型別。,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+72,"00:05:41,970 --> 00:05:42,550",Not given.,未提供來源。,35,needs_revision,未提供。,[medium] terminology: None; [high] meaning_drift: None
+73,"00:05:42,990 --> 00:05:43,650",Not given.,未提供來源。,35,needs_revision,未提供。,[medium] terminology: None; [high] meaning_drift: None
+74,"00:05:44,210 --> 00:05:46,790",There is no information on the passage.,文章中未提供相關資訊。,100,ok,,
+75,"00:05:47,270 --> 00:05:51,190",This is a difficult type of answer because candidates don't know what,這是種難題，因為考生不知道該尋找哪些,30,needs_revision,這是種難題，因為考生不知道該如何作答,[high] meaning_drift: None; [high] meaning_drift: None
+76,"00:05:51,190 --> 00:05:54,390",information to find or what information not to find.,資訊，也不該尋找哪些資訊。,42,needs_revision,資訊是該尋找的，還是該避免尋找的。,[low] style: None; [high] meaning_drift: None
+77,"00:05:55,110 --> 00:06:00,850","Also, it can take them a lot of time to identify whether the statement is false or not given.",此外，考生可能需要花費大量時間來判 斷該陳述是錯誤還是未提供來源。,30,needs_revision,此外，考生可能需要花費大量時間來判 斷該陳述是錯誤還是無法判斷。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+78,"00:06:01,430 --> 00:06:04,310",So what is the most important feature of not given statements?,那麼，「未提供來源」這類題型最重要的特徵是什麼？,42,needs_revision,那麼，「未提及」這類題型最重要的特徵是什麼？,[high] meaning_drift: None; [low] style: None
+79,"00:06:04,830 --> 00:06:08,990","To understand this, we're going to analyze the example in the funny skit.",要理解這一點，我們將分析那個搞笑短劇中的範例。,100,ok,,
+80,"00:06:09,690 --> 00:06:14,790","In 20 seconds, you'll read the following not given statement and guess which",在 20 秒內，您將閱讀以下「未提供來源」的陳述，,30,needs_revision,在 20 秒內，您將閱讀以下「未提及」的陳述，,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+81,"00:06:14,790 --> 00:06:18,450",part in the statement is not mentioned in the information area.,並猜測該陳述中哪一部分在資訊區中未被提及。,100,ok,,
+82,"00:06:18,870 --> 00:06:21,070","20 seconds, start now.",20 秒，現在開始。,80,minor_issues,,[medium] terminology: None
+83,"00:06:43,410 --> 00:06:44,350",Have you found the answer?,你找到答案了嗎？,100,ok,,
+84,"00:06:44,690 --> 00:06:49,990","Although the statement includes keywords like bamboo, grow, and grass that are",雖然該陳述包含了像 bamboo、grow 和 grass,32,needs_revision,,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+85,"00:06:49,990 --> 00:06:53,430","similar to the topic of the passage, there is a crucial difference.",等與文章主題相似的關鍵字，但存在著關鍵性的差異。,87,minor_issues,,[low] style: None
+86,"00:06:53,790 --> 00:06:57,510",The passage certainly talks about how fast bamboo grows.,該段落確實談論了竹子生長的速度有多快。,80,minor_issues,,[medium] terminology: None
+87,"00:06:57,870 --> 00:07:04,150","However, it does not mention a comparison regarding how difficult it is to grow compared to other plants.",然而，文中並未提及與其他植 物相比，種植難度如何的比較。,87,minor_issues,,[low] style: None
+88,"00:07:04,530 --> 00:07:07,030",It never claims it is the most difficult.,它從未宣稱自己是最困難的。,100,ok,,
+89,"00:07:07,570 --> 00:07:11,630","Therefore, a statement is not given when it contains keywords or their",因此，若陳述句中包含了文章中的關鍵字或,30,needs_revision,因此，若陳述句中包含了的關鍵字或其,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+90,"00:07:11,630 --> 00:07:16,390","paraphrases from the passage, but the specific relationship or comparison found",其同義轉述，但未提及該陳述句中具體的關係或比,30,needs_revision,文章中的同義轉述，但未提及該陳述句中具體的關係或比較,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] terminology: None
+91,"00:07:16,390 --> 00:07:18,790",in the statement is not mentioned in the text.,較內容，則視為未提供資訊。,35,needs_revision,原文並未提及。,[medium] terminology: None; [high] meaning_drift: None
+92,"00:07:20,470 --> 00:07:25,410","It sounds quite simple, but students still mistake not given for true or false.",聽起來相當簡單，但學生仍會將「not given」誤認為「true」或「false」。,70,minor_issues,聽起來相當簡單，但學生仍會將「「未提及」」誤認為「true」或「false」。,[low] style: None; [medium] terminology: None; [medium] terminology: None
+93,"00:07:26,050 --> 00:07:29,370",So why do we easily make mistakes with not given statements?,那麼，為什麼我們容易在「未提及」的題目上犯錯？,100,ok,,
+94,"00:07:29,910 --> 00:07:33,750",Let's watch the funny skit again and identify two mistakes that make the,讓我們再看一遍這則有趣的短劇，並找出兩個導致角,35,needs_revision,讓我們再看一遍這則有趣的短劇，並找出兩個導致角色,[medium] terminology: None; [high] meaning_drift: None
+95,"00:07:33,750 --> 00:07:35,510",character choose the wrong answer.,色選擇錯誤答案的錯誤。,35,needs_revision,角色選錯答案。,[medium] terminology: None; [high] meaning_drift: None
+96,"00:07:35,730 --> 00:07:38,630",The first common mistake is relying on personal knowledge.,第一個常見的錯誤是依賴個人知識。,100,ok,,
+97,"00:07:39,030 --> 00:07:42,850","For example, you might look at this and think, well, I tried to grow bamboo",例如，你可能會看著它想：好吧，我試著種竹子。,100,ok,,
+98,"00:07:42,850 --> 00:07:45,370","once and it died, so it must be difficult.",試了一次就死了，所以一定很難。,100,ok,,
+99,"00:07:45,690 --> 00:07:48,730",This assumption leads you to choose true incorrectly.,這個假設會導致你錯誤地選擇 true。,100,ok,,
+100,"00:07:48,960 --> 00:07:53,570","When taking the actual test, familiar topics can help us understand the",在進行正式測驗時，熟悉的題材有助於我們理解,80,minor_issues,,[medium] terminology: None
+101,"00:07:53,570 --> 00:07:58,210","content, but we must never choose an answer based on our own outside knowledge.",內容，但我們絕不可憑藉自身的課外知識來選擇答案。,80,minor_issues,,[medium] terminology: None
+102,"00:07:58,570 --> 00:08:03,030",We must strictly compare the statement with the information provided in the passage.,我們必須嚴格比對該陳述與 文章中提供的資訊。,100,ok,,
+103,"00:08:04,450 --> 00:08:07,750",The second common mistake is relying only on keywords.,第二個常見錯誤是僅依賴關鍵字。,100,ok,,
+104,"00:08:08,430 --> 00:08:12,990",You might see that bamboo and grow are present in both the text and the,您可能會發現 bamboo 和 grow 這兩個詞同時出現,45,needs_revision,您可能會看到 bamboo 和 grow 同時出現在文字和,[high] meaning_drift: None
+105,"00:08:12,990 --> 00:08:17,470","statement, so you immediately assume the answer is true without checking the full meaning.",在文章和題目中，因此您會立刻假設答案為 true，而沒有核對完整的意思。,70,minor_issues,因此您會直接假設答案為「正確」，而未核對完整語意。,[medium] terminology: None; [medium] terminology: None; [low] style: None; [low] collocation: None
+106,"00:08:17,470 --> 00:08:22,210","By doing this, you miss the fact that the comparison is missing from the text entirely.",這樣做會讓您忽略一個事實，即 文章中完全沒有提到這項比較。,80,minor_issues,,[medium] terminology: None
+107,"00:08:22,670 --> 00:08:27,090","Common mistakes include relying on personal knowledge, relying on keywords.",常見錯誤包括依賴個人知識、依賴 keywords。,77,minor_issues,常見錯誤包括依賴個人知識、依賴 關鍵字。,[medium] terminology: None; [low] terminology: None
+108,"00:08:27,510 --> 00:08:31,270","From these mistakes, what should we do to avoid choosing the wrong answer?",從這些錯誤中，我們應該如何避免選擇錯誤的答案？,100,ok,,
+109,"00:08:32,669 --> 00:08:34,450",Truly understand the meaning.,真正理解其意義。,100,ok,,
+110,"00:08:34,870 --> 00:08:38,929","Analyze the full content of the statement and the relevant part of the passage,",分析陳述的完整內容以及文章的相關部分，而不僅,45,needs_revision,分析陳述的完整內容以及文章的相關部分，並,[high] meaning_drift: None
+111,"00:08:39,230 --> 00:08:40,770",not just the matching keywords.,僅是匹配的關鍵字。,35,needs_revision,不只是匹配的關鍵字。,[medium] terminology: None; [high] meaning_drift: None
+112,"00:08:41,270 --> 00:08:42,230",Stick to the text.,請以原文為依據。,100,ok,,
+113,"00:08:42,630 --> 00:08:46,670",Do not use personal knowledge to make assumptions or fill in gaps.,請勿憑個人知識進行假設或補足空白。,80,minor_issues,,[medium] terminology: None
+114,"00:08:46,670 --> 00:08:48,270",Watch for qualifiers.,留意限定詞。,100,ok,,
+115,"00:08:48,690 --> 00:08:55,530",Pay close attention to comparison words or qualifying words that might be in the statement but not in the text.,請密切留意陳述句中可能有、但原 文中並未出現的比較詞或限定詞。,80,minor_issues,,[medium] terminology: None
+116,"00:08:55,890 --> 00:09:02,850","Alright, now that we've understood the features of this question type, let's move on to part two to learn the steps for it.",好了，現在我們已經了解了此題型的特徵，接 下來進入第二部分，學習相關的步驟。,30,needs_revision,好了，現在我們已經瞭解了此題型的特徵，接 下來進入第二部分，學習相關的步驟。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+117,"00:09:08,490 --> 00:09:12,090","To tackle this question type, we need to follow these three steps.",要應對此題型，我們需要遵循以下三個步驟。,80,minor_issues,,[medium] terminology: None
+118,"00:09:12,950 --> 00:09:18,010","Step one, underline keywords in statements and pay attention to scanning words.",第一步，在陳述句中劃出關鍵字，並注意掃描詞。,80,minor_issues,,[medium] terminology: None
+119,"00:09:18,710 --> 00:09:22,910","Scanning words are keywords which are found more easily than other keywords,",掃描詞是比其他關鍵字更容易找到的關鍵字，,100,ok,,
+120,"00:09:23,410 --> 00:09:28,790","including unchangeable keywords like proper nouns, acronyms and numbers,",包含難以變化的專有名詞、縮寫、數字、複,32,needs_revision,包含難以變化的專有名詞、縮寫、數位、複,[high] terminology: None; [medium] terminology: None; [low] style: None
+121,"00:09:29,490 --> 00:09:32,550",compounds and long words.,合詞和長詞。,100,ok,,
+122,"00:09:33,790 --> 00:09:40,150","Step two, scan passages to locate information areas containing keywords and their paraphrases.",第二步，掃描文章以定位資訊 包含關鍵字及其同義表述的區域。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+123,"00:09:41,370 --> 00:09:46,930","Step three, read information areas identified in step two carefully to decide",第三步，仔細閱讀第二步中已標識的資訊區域，以判斷這些陳述為 t,35,needs_revision,第三步，仔細閱讀第二步中已標識的資訊區域，以做出判斷,[medium] terminology: None; [high] meaning_drift: None
+124,"00:09:46,930 --> 00:09:49,930","whether these statements are true, false or not given.",rue、false 或 not given。,70,minor_issues,true、錯誤 或 未提及。,[medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None; [low] style: None; [low] terminology: None
+125,"00:09:50,850 --> 00:09:52,450",Here is a note for you.,這是一則備註。,45,needs_revision,這是一則留言。,[high] meaning_drift: None
+126,"00:09:53,270 --> 00:09:59,790",You should read the whole statement to understand its meaning and shouldn't rely completely on keywords.,您應該閱讀整段陳述以了解其含義。 理解其含義，且不應完全依賴關鍵字。,30,needs_revision,您應該閱讀整段陳述以瞭解其含義。 理解其含義，且不應完全依賴關鍵字。,[high] terminology: None; [low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+127,"00:10:00,210 --> 00:10:03,530","Now that we have mastered the theory, let's put it into practice.",現在我們已經掌握了理論，讓我們來進行練習。,100,ok,,
+128,"00:10:03,750 --> 00:10:07,610",We are going to apply the three steps we just learned to solve a specific,我們將套用剛才學到的三個步驟，來解答基於一篇,45,needs_revision,我們將套用剛才學到的三個步驟，來解決以下特定,[high] meaning_drift: None
+129,"00:10:07,610 --> 00:10:11,370",question based on a reading passage about regulating hate speech.,關於規範仇恨言論的閱讀文章的特定問題。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+130,"00:10:11,650 --> 00:10:13,150",Let's look at question one.,讓我們來看第一題。,100,ok,,
+131,"00:10:13,390 --> 00:10:18,870",The United Nations considers any communication that is simply rude to be a form of hate speech.,聯合國認為，任何單純粗魯的溝 通都屬於仇恨言論的一種形式。,87,minor_issues,聯合國認為，任何單純粗魯的溝通都屬於仇恨言論的一種形式。,[low] style: None
+132,"00:10:20,310 --> 00:10:24,770","Step one, underline keywords in statements and pay attention to scanning words.",第一步，劃出題目中的關鍵字，並注意掃描詞。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+133,"00:10:25,090 --> 00:10:27,950","First, we need to identify the important words.",首先，我們需要找出重要的字詞。,100,ok,,
+134,"00:10:28,370 --> 00:10:33,030","Here, United Nations is a proper noun with capital letters, making it an",這裡的「United Nations」是一個首字母大寫的名詞，因此屬於,70,minor_issues,這裡的「聯合國」是一個首字母大寫的名詞，因此屬於,[medium] terminology: None; [medium] terminology: None
+135,"00:10:33,030 --> 00:10:36,510",excellent scanning word because it will be easy to spot in the text.,這是一個很好的「scanning」詞彙，因為它在文中很容易被發現。,84,minor_issues,,[low] terminology: None; [low] collocation: None
+136,"00:10:36,830 --> 00:10:39,170",We also need to underline the content keywords.,我們也需要為內容關鍵字加上底線。,77,minor_issues,,[low] style: None; [medium] terminology: None
+137,"00:10:39,470 --> 00:10:42,730","Any communication, simply rude and hate speech.",任何溝通，單純的無禮與仇恨言論。,84,minor_issues,任何互動，單純無禮與仇恨言論。,[low] collocation: None; [low] register: None
+138,"00:10:43,070 --> 00:10:44,750",These determine the meaning of the sentence.,這些字詞決定了句子的意義。,100,ok,,
+139,"00:10:46,290 --> 00:10:49,850","Step two, scan passages to locate information areas.",第二步，掃描文章以定位資訊區域。,100,ok,,
+140,"00:10:50,210 --> 00:10:54,170","Now, move your eyes quickly over the passage to find United Nations.",現在，快速瀏覽文章以找到 United Nations。,80,minor_issues,現在，快速瀏覽文章以找到 聯合國。,[medium] terminology: None
+141,"00:10:54,630 --> 00:10:55,650","Hmm, there it is.",嗯，在那裡。,100,ok,,
+142,"00:10:55,950 --> 00:10:57,790",It appears right in the first paragraph.,它出現在第一段中。,80,minor_issues,,[medium] terminology: None
+143,"00:10:58,210 --> 00:10:59,510",This is our information area.,這是我們的資訊區。,100,ok,,
+144,"00:11:00,930 --> 00:11:05,230","Step three, read information areas carefully to decide the answer.",第三步，仔細閱讀資訊區以決定答案,80,minor_issues,,[medium] terminology: None
+145,"00:11:05,730 --> 00:11:08,070",Now we need to compare the statement with the text.,現在我們需要將該陳述與正文進行比較。,80,minor_issues,,[medium] terminology: None
+146,"00:11:08,070 --> 00:11:13,950","The statement says, the UN considers communication that is simply rude to be hate speech.",該陳述指出，聯合國將單純粗魯的溝通視 為 hate speech。,77,minor_issues,該陳述指出，聯合國將單純粗魯的溝通視 為 仇恨言論。,[medium] terminology: None; [low] style: None
+147,"00:11:14,370 --> 00:11:20,210","The text says, hate speech is any kind of communication that attacks or uses discriminatory language.",該文本指出，hate speech 是指任何具 有攻擊性或使用歧視性語言的溝通形式。,30,needs_revision,該文字指出，仇恨言論 是指任何具 有攻擊性或使用歧視性語言的溝通形式。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] style: None
+148,"00:11:20,750 --> 00:11:24,510",Experts agree that hate speech is not just about being mean.,專家們一致認為 hate speech 不僅僅是關於惡意。,74,minor_issues,專家們一致認為 仇恨言論 不僅僅是在於惡意。,[medium] terminology: None; [low] terminology: None; [low] collocation: None
+149,"00:11:26,150 --> 00:11:27,210",Let's analyze this.,讓我們來分析這個。,80,minor_issues,,[medium] terminology: None
+150,"00:11:27,670 --> 00:11:29,510",Mean and rude are synonyms.,Mean 和 rude 是同義詞。,87,minor_issues,,[low] terminology: None
+151,"00:11:29,890 --> 00:11:35,290","The text explicitly says, hate speech is not just about being mean, it requires discriminatory language.",該文字明確指出，hate speech 不僅僅是關 於 being mean，它還需要使用歧視性的語言。,70,minor_issues,這段文字明確指出，仇恨言論 不僅僅是關 於 刻薄，它還需要使用歧視性的語言。,[medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None; [low] style: None
+152,"00:11:35,290 --> 00:11:38,770","Therefore, the statement contradicts the information in the passage.",因此，這個敘述與文章資訊相牴觸,80,minor_issues,,[medium] terminology: None
+153,"00:11:39,230 --> 00:11:41,350",So the answer for question one is false.,因此，第一題的答案為否。,100,ok,,
+154,"00:11:41,710 --> 00:11:45,510","See, by following these steps, we can avoid being tricked by words that look",請注意，依照這些步驟操作，我們可以避免被意思不同但,45,needs_revision,請注意，依照這些步驟操作，我們可以避免被看起來像,[high] meaning_drift: None
+155,"00:11:45,510 --> 00:11:47,190",similar but have different meanings.,外觀相似的詞彙所誤導。,35,needs_revision,意思相似但含義不同。,[medium] terminology: None; [high] meaning_drift: None
+156,"00:11:52,700 --> 00:11:56,600","Before finishing the lesson, we're going to quickly recap what we learned today.",在結束課程之前，我們將 快速複習我們今天所學的,77,minor_issues,,[low] style: None; [medium] terminology: None
+157,"00:11:57,320 --> 00:12:04,860","After this lesson, we can understand and identify features of true, false or not given questions and answers.",本課程結束後，我們便能理解並辨識正確、錯 誤或未提及題型中的題目與答案特徵。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+158,"00:12:05,680 --> 00:12:09,760","Understand and apply steps for true, false or not given questions.",理解並套用正確、錯誤或未提及題型的步驟。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+159,"00:12:10,820 --> 00:12:12,060",Three steps are.,共有三個步驟。,100,ok,,
+160,"00:12:12,700 --> 00:12:17,420","Step one, underline keywords in statements and pay attention to scanning words.",第一步：劃出關鍵字，注意掃描詞。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+161,"00:12:18,320 --> 00:12:24,620","Step two, scan passages to locate information areas containing keywords and their paraphrases.",第二步：掃描文章，定位包含關 鍵字及其同義轉述的資訊區域。,70,minor_issues,第二步：掃描文章，定位包含關鍵字及其同義轉述的資訊區域。,[medium] terminology: None; [medium] terminology: None; [low] typo: None
+162,"00:12:25,840 --> 00:12:31,480","Step three, read information areas identified in step two carefully to decide",第三步：仔細閱讀第二步中已標示的資訊區域，以判斷,80,minor_issues,,[medium] terminology: None
+163,"00:12:31,480 --> 00:12:34,220","whether these statements are true, false or not given.",這些陳述是否正確、錯誤或未提及。,80,minor_issues,,[medium] terminology: None
+164,"00:12:35,480 --> 00:12:39,860","To master them, you need to do practice exercises for this question type.",要掌握它們，你需要多做這種題型的練習題,80,minor_issues,,[medium] terminology: None
+165,"00:12:40,560 --> 00:12:42,220","For now, let's call it a day.",今天就先到這裡,80,minor_issues,,[medium] terminology: None
+166,"00:12:42,780 --> 00:12:44,120",See you in the next lesson.,下一堂課見。,100,ok,,
+167,"00:12:44,740 --> 00:12:45,160",Goodbye.,再見。,100,ok,,

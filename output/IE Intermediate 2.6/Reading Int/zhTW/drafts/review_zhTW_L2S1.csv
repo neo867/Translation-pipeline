@@ -1,0 +1,268 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:08,310 --> 00:00:10,730",Hi everyone and welcome.,大家好，歡迎來到這裡。,100,ok,,
+2,"00:00:11,410 --> 00:00:14,170",Let's start building our reading skills.,讓我們開始建立閱讀技巧。,80,minor_issues,,[medium] terminology: None
+3,"00:00:14,610 --> 00:00:17,370",And here comes the very first lesson.,接下來是第一课。,32,needs_revision,接下來是第一課。,[medium] terminology: None; [low] script: None; [high] None: None
+4,"00:00:17,970 --> 00:00:19,770",I know that all of us can't wait,我知道我們所有人都迫不及,77,minor_issues,,[medium] terminology: None; [low] style: None
+5,"00:00:19,770 --> 00:00:22,230",to take the exam right away and make,待想立刻參加考試並取得好成績,87,minor_issues,,[low] style: None
+6,"00:00:22,230 --> 00:00:26,030",ourselves familiar with frequently asked questions in it.,讓我們熟悉其中常見的問答。,100,ok,,
+7,"00:00:26,550 --> 00:00:31,650","However, it won't be useful unless our reading skills are improved.",然而，除非我們的閱讀技巧有所提升，否則這將沒有幫助。,87,minor_issues,,[low] style: None
+8,"00:00:32,090 --> 00:00:34,530",And this is also the very first goal,這也是我們必須達成、以精通 I,42,needs_revision,這也是該進球,[low] style: None; [high] meaning_drift: None
+9,"00:00:34,530 --> 00:00:38,230",that we need to achieve to master IELTS Reading.,ELTS Reading 的首要目標。,30,needs_revision,IELTS Reading 所需達成的目標。,[medium] terminology: None; [medium] terminology: None; [low] typo: None; [high] meaning_drift: None
+10,"00:00:39,810 --> 00:00:42,270",I want to start the lesson with a,我希望以一段開頭開始課程,87,minor_issues,,[low] style: None
+11,"00:00:42,270 --> 00:00:44,010",small challenge for you guys.,給你們的小挑戰。,100,ok,,
+12,"00:00:44,430 --> 00:00:46,590","On the next screen, there will be a picture.",在下一個畫面中，會有一張圖片。,100,ok,,
+13,"00:00:47,150 --> 00:00:49,190",You have 10 seconds to look at it,你有10秒鐘的時間看這,87,minor_issues,你有10秒鐘的時間看它,[low] collocation: None
+14,"00:00:49,190 --> 00:00:52,710",and then answer some of my questions related to the picture.,張圖，然後回答我一些與圖片相關的問題。,42,needs_revision,接著，然後回答我一些與圖片相關的問題。,[low] style: None; [high] meaning_drift: None
+15,"00:00:53,170 --> 00:00:53,910",Are you ready?,準備好了嗎？,100,ok,,
+16,"00:00:54,570 --> 00:00:56,770",10 seconds starts now.,倒數 10 秒，開始。,100,ok,,
+17,"00:01:10,490 --> 00:01:14,230","Okay, now let's answer my questions.",好的，現在來回答我的問題。,100,ok,,
+18,"00:01:15,310 --> 00:01:19,310","Number one, how many people are there in the picture?",Number one，圖片中有幾個人？,80,minor_issues,第一題，圖片中有幾個人？,[medium] terminology: None
+19,"00:01:20,050 --> 00:01:22,350","Looking at the picture quickly, you can see",快速瀏覽圖片，你可以看到有三,45,needs_revision,快速瀏覽圖片，你可以看到看到,[high] meaning_drift: None
+20,"00:01:22,350 --> 00:01:27,570","that there are three people, a man, a woman and a boy.",個人：一名男子、一名女子和一名男孩。,100,ok,,
+21,"00:01:28,150 --> 00:01:31,030","They look like a happy family, don't they?",他們看起來像一個快樂的家庭，對吧？,100,ok,,
+22,"00:01:31,470 --> 00:01:32,550",Let's continue.,我們繼續吧。,100,ok,,
+23,"00:01:33,470 --> 00:01:36,770","Number two, is the car running?",第二題，車子啟動了嗎？,100,ok,,
+24,"00:01:37,370 --> 00:01:42,170","No, obviously the car stays still and even",不，顯然車子維持不動，連車廂,42,needs_revision,不，顯然車子維持不動，甚至,[low] style: None; [high] meaning_drift: None
+25,"00:01:42,170 --> 00:01:43,890",the trunk is still open.,門都還是開著的。,45,needs_revision,行李箱還是開著的。,[high] meaning_drift: None
+26,"00:01:44,230 --> 00:01:46,970",We will answer one more question.,我們將回答最後一個問題。,80,minor_issues,,[medium] terminology: None
+27,"00:01:47,870 --> 00:01:50,470","Number three, what's the mother doing?",第三題，媽媽在做什麼？,100,ok,,
+28,"00:01:51,030 --> 00:01:53,350",She's holding her son's hand.,她正牽著她兒子的手。,100,ok,,
+29,"00:01:54,210 --> 00:01:55,070","Good job, everyone.",大家做得很好。,80,minor_issues,,[medium] terminology: None
+30,"00:01:55,510 --> 00:01:56,370",Let's continue.,我們繼續吧。,100,ok,,
+31,"00:01:58,080 --> 00:02:03,620",Now let's answer some more questions still about that picture.,現在讓我們繼續回答關於這張照片的更多問題。,100,ok,,
+32,"00:02:04,150 --> 00:02:08,110","Number one, how many trees are there in the picture?",第一題，照片中有多少棵樹？,100,ok,,
+33,"00:02:08,110 --> 00:02:10,950",Which brand of shoes is the woman wearing?,這位女士穿的是哪個品牌的鞋子？,100,ok,,
+34,"00:02:11,770 --> 00:02:15,010","Number three, what is the type of the",第三題，背景中的房,45,needs_revision,第三題，「」的類型是,[high] meaning_drift: None
+35,"00:02:15,010 --> 00:02:16,290",house in the background?,屋類型為何？,30,needs_revision,屋型別為何？,[high] terminology: None; [high] meaning_drift: None
+36,"00:02:16,890 --> 00:02:18,970",I'm pretty sure that if you don't look,我很確定，如果你不再次查看,30,needs_revision,我很確定，如果你不再次檢視,[high] terminology: None; [high] meaning_drift: None
+37,"00:02:18,970 --> 00:02:21,730","at the photo again, many of you can't",這張照片，你們中的許多人,45,needs_revision,再看一次照片，你們中許多人做不到,[high] meaning_drift: None
+38,"00:02:21,730 --> 00:02:23,750",answer these three questions.,無法回答這三個問題。,45,needs_revision,回答這三個問題。,[high] meaning_drift: None
+39,"00:02:24,070 --> 00:02:26,310","Even if you look back at it, I'm",即使你回頭看，我也不確定你,32,needs_revision,即使你回頭看，我還是,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+40,"00:02:26,310 --> 00:02:27,990",not sure you can answer them.,們能不能回答這些問題。,45,needs_revision,不確定你是否能回答這些問題。,[high] meaning_drift: None
+41,"00:02:28,330 --> 00:02:28,930",Just kidding.,開玩笑的。,100,ok,,
+42,"00:02:29,350 --> 00:02:31,510",You don't need to do that again to,你不需要再做一次就能,87,minor_issues,你不必再這樣做就能,[low] register: None
+43,"00:02:31,510 --> 00:02:32,290",find the answer.,找到答案。,100,ok,,
+44,"00:02:32,790 --> 00:02:35,210",So why can you answer the first three,那麼為什麼你能輕鬆回答first thr,45,needs_revision,那麼為什麼你能輕鬆回答前三題,[high] meaning_drift: None
+45,"00:02:35,210 --> 00:02:37,990","questions easily, but you can't do the same",ee questions，卻無法做到同樣的事？,32,needs_revision,ee 問題，卻無法做到同樣的事,[medium] terminology: None; [high] meaning_drift: None; [low] register: None
+46,"00:02:37,990 --> 00:02:40,250",thing with the three latter ones?,後面三個的部分呢？,100,ok,,
+47,"00:02:40,550 --> 00:02:43,670",Because the first three sentences show the main,因為first three sentence,42,needs_revision,因為前三句,[high] meaning_drift: None; [low] grammar: None
+48,"00:02:43,670 --> 00:02:45,350",information of the picture.,s顯示了圖片的主要資訊。,45,needs_revision,圖片資訊。,[high] meaning_drift: None
+49,"00:02:45,770 --> 00:02:48,190",They tell us what the picture is about.,他們告訴我們這張圖片在講什麼。,100,ok,,
+50,"00:02:48,590 --> 00:02:52,510","In reading, these are called keywords, which are",在閱讀中，這些被稱為關鍵字，也就是,87,minor_issues,,[low] style: None
+51,"00:02:52,510 --> 00:02:56,570","really important pieces of information, helping us to",非常重要的資訊，幫助我們,100,ok,,
+52,"00:02:56,570 --> 00:02:59,930","understand the content of a sentence, a paragraph,",理解句子、段落或閱讀文,77,minor_issues,理解句子、段落或文章,[medium] terminology: None; [low] style: None
+53,"00:03:00,390 --> 00:03:01,930",or a reading passage.,章的內容。,77,minor_issues,,[medium] terminology: None; [low] style: None
+54,"00:03:02,410 --> 00:03:05,430",The three latter questions are difficult to answer,後面三個問題很難回答，因為這,45,needs_revision,,[high] meaning_drift: None
+55,"00:03:05,430 --> 00:03:09,410",because those are small details or minor details.,些都是細微的細節或次要細節。,100,ok,,
+56,"00:03:10,070 --> 00:03:12,670",They do not affect the overall meaning.,它們不會影響整體意義。,100,ok,,
+57,"00:03:13,350 --> 00:03:17,130",We can ignore them and still understand the main content.,我們可以忽略它們，同時仍理解主要內容。,87,minor_issues,,[low] style: None
+58,"00:03:18,090 --> 00:03:21,580","When you read anything not only for IELTS Reading,",在閱讀任何內容時，不僅是為了 IELTS,30,needs_revision,閱讀任何內容時，不僅限於 IELTS 閱讀,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+59,"00:03:21,580 --> 00:03:24,940","identifying and focusing on keywords,",Reading，辨識並聚焦於,32,needs_revision,,[medium] terminology: None; [low] script: None; [high] meaning_drift: None
+60,"00:03:24,940 --> 00:03:28,610",ignoring minor details are necessary.,關鍵字，忽略細微細節是必要的。,35,needs_revision,忽略次要細節是必要的。,[medium] terminology: None; [high] meaning_drift: None
+61,"00:03:28,610 --> 00:03:30,930",They help you to speed up the reading,它們能幫助您加快閱讀,80,minor_issues,,[medium] terminology: None
+62,"00:03:30,930 --> 00:03:33,690",process and get a lot of information in,速度，並在短時間內獲,45,needs_revision,處理並獲得大量資訊,[high] meaning_drift: None
+63,"00:03:33,690 --> 00:03:35,730",a short period of time.,取大量資訊。,45,needs_revision,一段時間,[high] meaning_drift: None
+64,"00:03:36,270 --> 00:03:38,930",Our first lesson aims to help you.,我們的課程旨在幫助您。,80,minor_issues,,[medium] terminology: None
+65,"00:03:39,570 --> 00:03:43,970","Number one, remember and understand the definition of keywords.",第一，記住並理解關鍵字（keywords）的定義。,80,minor_issues,,[medium] terminology: None
+66,"00:03:44,910 --> 00:03:49,050","Number two, understand different types of keywords.",第二，理解不同類型的關鍵字。,30,needs_revision,第二，理解不同型別的關鍵字。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+67,"00:03:49,710 --> 00:03:53,410","And number three, apply the knowledge of keywords",第三，透過課程的三個部分，,30,needs_revision,第三，運用關鍵字的知識,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+68,"00:03:53,410 --> 00:03:58,240",to the reading passage through three parts of the lesson.,將關鍵字的知識套用於閱讀文章。,35,needs_revision,將課程三個部分的知識應用於閱讀文章。,[medium] terminology: None; [high] meaning_drift: None
+69,"00:03:58,480 --> 00:04:01,300",Number one: Definition of keywords.,第一：關鍵字的定義。,80,minor_issues,,[medium] terminology: None
+70,"00:04:01,300 --> 00:04:04,160",Number two: Types of keywords,第二：關鍵字的類型。,35,needs_revision,第二：關鍵字的型別。,[high] terminology: None; [medium] terminology: None
+71,"00:04:04,160 --> 00:04:11,140",And number three: Practice identifying keywords in sentences and paragraphs.,第三：練習在句子和段落 中辨識關鍵字。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+72,"00:04:11,550 --> 00:04:15,320","Once you apply these core knowledge to IELTS Reading,",一旦將這些核心知識套用到 IELTS Read,30,needs_revision,一旦將這些核心知識套用到 IELTS 閱讀,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+73,"00:04:15,320 --> 00:04:17,420",you will find it much easier.,ing，你會發現容易許多。,87,minor_issues,,[low] typo: None
+74,"00:04:17,610 --> 00:04:19,230",So stay with me.,所以請繼續跟著我。,100,ok,,
+75,"00:04:19,470 --> 00:04:21,590","All right, let's get started.",好，我們開始吧。,80,minor_issues,,[medium] terminology: None
+76,"00:04:27,300 --> 00:04:31,780","Keywords are words in a sentence, a passage,",關鍵字是句子、文章或文本,30,needs_revision,關鍵字是句子、文章或文字,[high] terminology: None; [high] meaning_drift: None
+77,"00:04:32,200 --> 00:04:34,840","a text, and carry the main content that",中的詞彙，承載作者想要傳,32,needs_revision,文字，並承載主要內容,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+78,"00:04:34,840 --> 00:04:36,480",the writer wants to convey.,達的主要內容。,45,needs_revision,作者想要表達的。,[high] meaning_drift: None
+79,"00:04:37,360 --> 00:04:40,360",These words often have important meaning or serve,這些詞彙通常具有重要的作用或發揮功能,35,needs_revision,這些詞彙通常具有重要的意義或起到作用,[medium] terminology: None; [high] meaning_drift: None
+80,"00:04:40,360 --> 00:04:43,440",the purpose of placing emphasis based on the,根據作者的意圖來放置強,42,needs_revision,基於...的重點標示,[low] style: None; [high] meaning_drift: None
+81,"00:04:43,440 --> 00:04:44,800",writer's intention.,調的重點。,45,needs_revision,作者的意圖。,[high] meaning_drift: None
+82,"00:04:45,340 --> 00:04:48,440","In other words, we just need to look at these words.",也就是說，我們只需要看這些字詞。,87,minor_issues,,[low] style: None
+83,"00:04:48,660 --> 00:04:51,800",We still understand what the sentence is about.,我們仍然了解這句 sentence 在講什麼。,30,needs_revision,我們仍然瞭解這句 句子 在講什麼。,[high] terminology: None; [low] style: None; [low] style: None; [medium] terminology: None; [low] placeholder: None
+84,"00:04:52,340 --> 00:04:53,160",That's right.,沒錯。,100,ok,,
+85,"00:04:53,560 --> 00:04:56,520",Keywords help us narrow down the amount of,關鍵字能幫助我們縮小,45,needs_revision,關鍵字能幫助我們縮小範圍,[high] meaning_drift: None
+86,"00:04:56,520 --> 00:04:59,800",information we need to read and process questions,範圍，更快地閱讀並處理,30,needs_revision,我們需要閱讀和處理的問題資訊,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+87,"00:04:59,800 --> 00:05:00,980",more quickly.,問題。,45,needs_revision,more quickly.,[high] meaning_drift: None
+88,"00:05:01,720 --> 00:05:05,300",Human brains can only effectively process a certain,人類的大腦一次只能有效處,45,needs_revision,人類大腦一次只能有效處理,[high] meaning_drift: None
+89,"00:05:05,300 --> 00:05:07,800",amount of information at a time.,理一定量的資訊。,45,needs_revision,一次顯示的資訊量。,[high] meaning_drift: None
+90,"00:05:08,280 --> 00:05:11,920","Obviously, selecting what to read will make us",顯然，選擇閱讀內容能讓我們,84,minor_issues,顯然，選擇要讀的內容會讓我們,[low] style: None; [low] style: None
+91,"00:05:11,920 --> 00:05:15,820","increase our reading speed, remember the information better,",比逐字閱讀句子、段落或整篇文章時,35,needs_revision,提高閱讀速度，並更好地記住資訊,[medium] terminology: None; [high] meaning_drift: None
+92,"00:05:16,220 --> 00:05:20,360",and be more focused compared to reading all,，閱讀速度更快、對資訊記,30,needs_revision,，閱讀速度更快、資訊,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+93,"00:05:20,360 --> 00:05:24,020","the words in a sentence, a paragraph, or a text.",憶更深刻，且注意力更集中。,30,needs_revision,句子、段落或文章中的詞語。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+94,"00:05:24,500 --> 00:05:27,540","Now we've understood the definition, we're going to",現在我們已經了解了定義，接下來要,30,needs_revision,現在我們已經瞭解了定義，接下來要,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+95,"00:05:27,540 --> 00:05:30,360",learn about different types of keywords so that,了解各種類型的關鍵字，以便我們,30,needs_revision,瞭解各種型別的關鍵字，以便,[high] terminology: None; [high] terminology: None; [high] meaning_drift: None
+96,"00:05:30,360 --> 00:05:32,040",we can use them effectively.,能有效地使用它們。,100,ok,,
+97,"00:05:32,720 --> 00:05:33,460",Let's go.,我們走吧。,80,minor_issues,,[medium] terminology: None
+98,"00:05:38,510 --> 00:05:40,470","To begin with, I would like to give",首先，我想提供以,45,needs_revision,首先，我想先說,[high] meaning_drift: None
+99,"00:05:40,470 --> 00:05:41,770",you the following pictures.,下圖片給您。,45,needs_revision,以下是圖片。,[high] meaning_drift: None
+100,"00:05:42,610 --> 00:05:45,430",Please guess what I'm trying to talk about.,請猜一下我在談論什麼。,100,ok,,
+101,"00:05:52,790 --> 00:05:56,230","One thing in common between these pictures, as",如你所見，這些圖片的共,35,needs_revision,這些圖片的共同點是,[medium] terminology: None; [high] meaning_drift: None
+102,"00:05:56,230 --> 00:05:59,750","you've already seen, is that they are cars.",同點是它們都是汽車。,100,ok,,
+103,"00:06:00,090 --> 00:06:02,350","To be more specific, we are talking about",更具體來說，我們正在討論不,45,needs_revision,,[high] meaning_drift: None
+104,"00:06:02,350 --> 00:06:04,070",different types of cars.,同類型的汽車。,35,needs_revision,同型別的汽車。,[high] terminology: None; [medium] terminology: None
+105,"00:06:04,270 --> 00:06:06,970","In the next screen, please pause the video",在下一個畫面中，請暫停影,70,minor_issues,在下一個畫面中，請暫停影片,[medium] terminology: None; [medium] terminology: None; [low] typo: None
+106,"00:06:06,970 --> 00:06:10,830",and spend two minutes studying the highlighted keywords,片並花費兩分鐘研究以兩種顏色標示,35,needs_revision,並花兩分鐘複習高亮關鍵字,[medium] terminology: None; [high] meaning_drift: None
+107,"00:06:10,830 --> 00:06:13,950",in two colors in order to see the,的關鍵字，以便看出它,45,needs_revision,兩種顏色，以便看清,[high] meaning_drift: None
+108,"00:06:13,950 --> 00:06:15,170",differences between them.,們之間的差異。,87,minor_issues,,[low] style: None
+109,"00:06:15,770 --> 00:06:18,810","Once you have your own answers, we'll get",一旦你有了自己的答案，我們就會開始,45,needs_revision,一旦你有了答案，我們就繼續,[high] meaning_drift: None
+110,"00:06:18,810 --> 00:06:20,150",back to our lesson.,回到我們的課程。,80,minor_issues,,[medium] terminology: None
+111,"00:06:20,670 --> 00:06:21,870",See you in a bit.,我們稍後見。,100,ok,,
+112,"00:06:28,830 --> 00:06:31,550",I guess most of you notice that the,我想你們大多數人都注意到，黃色,45,needs_revision,我想你們大多數人都注意到，了,[high] meaning_drift: None
+113,"00:06:31,550 --> 00:06:35,850","yellow keywords are proper nouns or acronyms, don't you?",的 keywords 是專有名詞或縮寫，對吧？,74,minor_issues,的 關鍵字 是專有名詞或縮寫，對吧？,[medium] terminology: None; [low] terminology: None; [low] grammar: None
+114,"00:06:36,210 --> 00:06:39,110",And the blue keywords are general words.,而藍色的關鍵字是通用詞彙。,80,minor_issues,,[medium] terminology: None
+115,"00:06:39,500 --> 00:06:44,420","In general, the yellow keywords are called unchangeable keywords",一般而言，黃色的關鍵字被稱為不可變關鍵字,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+116,"00:06:44,620 --> 00:06:47,210",or keywords that cannot be changed.,，或無法變更的關鍵字。,100,ok,,
+117,"00:06:47,570 --> 00:06:48,910","Sounds reasonable, right?",聽起來很合理，對吧？,100,ok,,
+118,"00:06:49,490 --> 00:06:52,770","Since it's a personal name, we cannot change anything.",由於這是一個 personal name，我們無法做任何變更。,87,minor_issues,由於這是一個 人名，我們無法做任何變更。,[low] terminology: None
+119,"00:06:53,590 --> 00:06:56,700",The blue keywords are changeable keywords,藍色關鍵字為可變更關鍵字,80,minor_issues,,[medium] terminology: None
+120,"00:06:56,700 --> 00:06:59,190",or the keywords that can be changed.,或是可變更的關鍵字。,100,ok,,
+121,"00:06:59,650 --> 00:07:03,390","In this example, types can be replaced by kinds.",在此範例中，types 可以替換為 kinds。,80,minor_issues,,[medium] terminology: None
+122,"00:07:03,790 --> 00:07:07,670",They both refer to a particular group of something.,它們都指涉某特定的一群事物。,87,minor_issues,它們都指的是某特定的一群事物。,[low] register: None
+123,"00:07:08,310 --> 00:07:11,550",Big can be replaced to large.,Big 可替換為 large。,100,ok,,
+124,"00:07:12,410 --> 00:07:14,970",Good can be replaced with suitable.,Good 可替換為 suitable。,77,minor_issues,良好 可替換為 suitable。,[medium] terminology: None; [low] terminology: None
+125,"00:07:16,150 --> 00:07:18,950",Trips can be replaced with journeys.,Trips 可替換為 journeys。,45,needs_revision,行程可替換為旅程。,[high] meaning_drift: None
+126,"00:07:20,060 --> 00:07:22,100",They have the same meaning.,它們的意思相同。,80,minor_issues,,[medium] terminology: None
+127,"00:07:22,670 --> 00:07:25,590","In this context, taken off is used when",在此語境中，「taken of,45,needs_revision,在此語境中，taken off 用於,[high] meaning_drift: None
+128,"00:07:25,590 --> 00:07:27,970",we are talking about a car with a,f」是用來描述配備可拆卸,45,needs_revision,OK,[high] meaning_drift: None
+129,"00:07:27,970 --> 00:07:28,890",removable roof.,車頂的汽車。,45,needs_revision,可拆卸車頂。,[high] meaning_drift: None
+130,"00:07:29,330 --> 00:07:32,090","So, we can replace it with removed.",所以，我們可以用 removed 來取代它。,87,minor_issues,所以，我們可以用 移除 來取代它。,[low] terminology: None
+131,"00:07:32,810 --> 00:07:35,950",Very can be replaced with extremely.,Very 可以替換為 extremely。,42,needs_revision,,[high] meaning_drift: None; [low] script: None
+132,"00:07:36,750 --> 00:07:39,550",Fun can be replaced with exciting.,Fun 可以替換為 exciting。,84,minor_issues,趣味 可以替換為 令人興奮的。,[low] terminology: None; [low] terminology: None
+133,"00:07:40,350 --> 00:07:45,250",And the phrase run on means using electricity to run.,而片語 run on 的意思是使用電力來 run。,77,minor_issues,,[medium] terminology: None; [low] style: None
+134,"00:07:45,710 --> 00:07:48,930","Instead, we can change it to the word use.",不過，我們可以將它改為『use』這個詞,100,ok,,
+135,"00:07:50,940 --> 00:07:54,380","Let's get more specific about each type, shall we?",讓我們針對每一種類型更具體地說明，好嗎？,45,needs_revision,讓我們針對每一種型別更具體地說明，好嗎？,[high] terminology: None
+136,"00:07:54,680 --> 00:07:57,600",Starting with changeable keywords.,以可變的關鍵字開始。,100,ok,,
+137,"00:07:58,120 --> 00:08:00,140",We're going to look at all the changeable,我們將再次檢視剛才在上,35,needs_revision,我們接下來要查看所有可變更的,[medium] terminology: None; [high] meaning_drift: None
+138,"00:08:00,140 --> 00:08:02,640",keywords we just saw in the last example,個範例中看到的所有限定,30,needs_revision,上一個範例中看到的關鍵字,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+139,"00:08:02,640 --> 00:08:04,200",one more time.,關鍵字。,45,needs_revision,再說一次。,[high] meaning_drift: None
+140,"00:08:04,820 --> 00:08:07,480","Now, I'd like you to name the part",現在，請你指出這,45,needs_revision,現在，請你指出這個部分,[high] meaning_drift: None
+141,"00:08:07,480 --> 00:08:10,540",of speech of those keywords and divide them,些關鍵字的詞性，並將它,42,needs_revision,這些關鍵字的詞性，並加以分類,[low] grammar: None; [high] meaning_drift: None
+142,"00:08:10,540 --> 00:08:12,720",into four groups for me.,們分成四組。,45,needs_revision,分為四組。,[high] meaning_drift: None
+143,"00:08:13,520 --> 00:08:16,920",Let's spend about one minute doing this exercise.,我們來花大約一分鐘完成這個練習。,80,minor_issues,,[medium] terminology: None
+144,"00:08:17,480 --> 00:08:18,680","Make it fast, everyone.",動作要快，各位。,80,minor_issues,,[medium] terminology: None
+145,"00:08:19,360 --> 00:08:22,120","Three, two, one, start.",三、二、一，開始。,100,ok,,
+146,"00:08:23,260 --> 00:08:28,820",These keywords are divided into four groups corresponding,這些關鍵字分為四組，分別對,45,needs_revision,這些關鍵字分為四組，分別對應,[high] meaning_drift: None
+147,"00:08:28,820 --> 00:08:31,200",to four parts of speech.,應四種詞性。,45,needs_revision,分為四種詞性。,[high] meaning_drift: None
+148,"00:08:32,380 --> 00:08:33,760",Nouns.,名詞。,100,ok,,
+149,"00:08:33,780 --> 00:08:34,780",Types.,類型。,45,needs_revision,型別。,[high] terminology: None
+150,"00:08:35,940 --> 00:08:36,420",Trips.,行程。,100,ok,,
+151,"00:08:37,980 --> 00:08:38,600",Verbs.,動詞。,100,ok,,
+152,"00:08:39,860 --> 00:08:40,880",Taken off.,脫下。,100,ok,,
+153,"00:08:42,180 --> 00:08:43,420",Run on.,Run on 錯誤。,45,needs_revision,Run on。,[high] meaning_drift: None
+154,"00:08:45,100 --> 00:08:46,140",Adjectives.,形容詞。,100,ok,,
+155,"00:08:47,280 --> 00:08:47,820",Big.,大。,100,ok,,
+156,"00:08:49,020 --> 00:08:49,840",Good.,好。,80,minor_issues,,[medium] terminology: None
+157,"00:08:51,320 --> 00:08:51,780",Fun.,有趣。,100,ok,,
+158,"00:08:53,600 --> 00:08:54,280",Adverbs.,副詞。,100,ok,,
+159,"00:08:55,240 --> 00:08:55,800",Very.,非常。,100,ok,,
+160,"00:08:59,500 --> 00:09:00,200",That's right.,沒錯。,100,ok,,
+161,"00:09:00,640 --> 00:09:05,260","When we read a sentence, nouns, verbs, adjectives,",當我們閱讀句子時，需要著重於 nouns、ver,30,needs_revision,當我們閱讀句子時，需要著重於 nouns、動詞,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+162,"00:09:05,720 --> 00:09:08,140",adverbs are the words we need to focus,bs、adjectives、adve,30,needs_revision,副詞是我們需要專注的詞彙,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+163,"00:09:08,140 --> 00:09:11,420",on because they will often be the keywords,rbs，因為它們通常會是表達句子 mai,35,needs_revision,因為它們通常會是關鍵詞,[medium] terminology: None; [high] meaning_drift: None
+164,"00:09:11,420 --> 00:09:15,440",expressing the main content of the sentence.,n content 的 keywords。,30,needs_revision,表達句子的主要內容。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+165,"00:09:16,140 --> 00:09:18,780","There are other parts of speech like pronouns,",還有其他詞性，例如代名詞、,100,ok,,
+166,"00:09:19,100 --> 00:09:20,720","prepositions, or articles.",介系詞或冠詞。,100,ok,,
+167,"00:09:21,080 --> 00:09:24,640",We can skip them and still understand the meaning.,我們可以跳過它們，仍然能理解意思。,74,minor_issues,,[low] style: None; [low] style: None; [medium] terminology: None
+168,"00:09:25,300 --> 00:09:29,980","Now, let's come to unchangeable keywords or keywords",現在，讓我們來看看不可變的關鍵字，或是無,35,needs_revision,現在，讓我們來看看不可變的關鍵字，或是關鍵字,[medium] terminology: None; [high] meaning_drift: None
+169,"00:09:29,980 --> 00:09:32,140",that cannot be changed.,法更動的關鍵字。,45,needs_revision,無法更改。,[high] meaning_drift: None
+170,"00:09:33,220 --> 00:09:37,320",There are three common types of unchangeable keywords,有三種常見的無法更動關鍵字，包,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+171,"00:09:37,320 --> 00:09:39,760",including proper nouns.,括專有名詞。,45,needs_revision,包括專有名詞。,[high] meaning_drift: None
+172,"00:09:40,380 --> 00:09:42,620",The main feature of these words is to,這些字詞的主要特徵是,100,ok,,
+173,"00:09:42,620 --> 00:09:44,680",capitalize the first letters.,將首字母大寫。,100,ok,,
+174,"00:09:45,360 --> 00:09:49,280","Names of people, places, companies, and brands are",人名、地名、公司和品牌名稱是,100,ok,,
+175,"00:09:49,280 --> 00:09:52,480",often in this group and these keywords are,在這種群組中，這些關鍵字通常很,45,needs_revision,在這種群組中，這些關鍵字通常是,[high] meaning_drift: None
+176,"00:09:52,480 --> 00:09:56,720",really easy to find because of their capital letters.,容易找到，因為它們的首字母是大寫的。,100,ok,,
+177,"00:09:57,240 --> 00:10:01,180","In our example, there are the names of two cars.",在我們的範例中，有兩輛車的品牌名稱。,100,ok,,
+178,"00:10:02,100 --> 00:10:05,640",Kia Sorento and Mercedes-Benz GT.,Kia Sorento 與 Mercedes-Benz GT。,100,ok,,
+179,"00:10:07,100 --> 00:10:08,000",Acronyms.,縮寫詞。,100,ok,,
+180,"00:10:08,640 --> 00:10:12,480",Acronyms like the word SUV in the paragraph,如介紹汽車段落中出現的 SU,45,needs_revision,,[high] meaning_drift: None
+181,"00:10:12,480 --> 00:10:14,200",introducing the cars.,V 等縮寫詞。,45,needs_revision,introducing the cars.,[high] meaning_drift: None
+182,"00:10:14,580 --> 00:10:18,640",This is an acronym for Sport Utility Vehicle,這是 Sport Utility Vehicle 或我們提到的 I,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+183,"00:10:18,640 --> 00:10:21,460",or our word IELTS.,ELTS 等縮寫詞的縮寫。,45,needs_revision,或是我們的口語 IELTS。,[high] meaning_drift: None
+184,"00:10:21,640 --> 00:10:23,220",It's also an acronym.,它也是一個 acronym。,74,minor_issues,它也是一個 縮寫詞。,[low] style: None; [medium] terminology: None; [low] terminology: None
+185,"00:10:24,040 --> 00:10:28,580",The full phrase is International English Language Testing System.,完整詞組為 International English Language Testing System。,35,needs_revision,完整片語為 International English Language Testing System。,[high] terminology: None; [medium] terminology: None
+186,"00:10:29,100 --> 00:10:32,040","Well, it is just hard to remember,",嗯，記起來確實有點困難，所以你就,45,needs_revision,嗯，記起來確實有點困難，OK,[high] meaning_drift: None
+187,"00:10:32,380 --> 00:10:34,620",so you just have to say IELTS.,直接說 IELTS 就好。,100,ok,,
+188,"00:10:34,960 --> 00:10:37,020",But remember to pronounce it right.,但記得要發音正確。,100,ok,,
+189,"00:10:37,660 --> 00:10:39,640",Do not pronounce it like IELT.,不要把它唸成 IELTS。,100,ok,,
+190,"00:10:39,800 --> 00:10:43,330",While the nouns we only capitalize the first,對於名詞，我們僅將首字母大,45,needs_revision,對於名詞，我們僅將首字母大寫,[high] meaning_drift: None
+191,"00:10:43,330 --> 00:10:47,330","letters, with acronyms we usually capitalize all the",寫；對於縮寫詞，我們通常將所有,32,needs_revision,,[medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+192,"00:10:47,330 --> 00:10:50,390",letters which make them easier to identify.,字母大寫，這樣更容易識別。,35,needs_revision,使它們更容易識別的字母。,[medium] terminology: None; [high] meaning_drift: None
+193,"00:10:51,150 --> 00:10:53,430",This is also a type of keyword we,這也是一種我們需要,32,needs_revision,這也是我們的一種關鍵字,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+194,"00:10:53,430 --> 00:10:55,190",need to pay attention to.,注意的關鍵字。,35,needs_revision,需要注意的。,[medium] terminology: None; [high] meaning_drift: None
+195,"00:10:57,320 --> 00:10:58,000",Numbers.,數字。,45,needs_revision,數位。,[high] terminology: None
+196,"00:10:58,660 --> 00:11:03,280",Numbers are often categorized as unchangeable keywords due,由於數字表達的是具體數量，且這些數量,30,needs_revision,由於數位表達的是具體數量，且這些數量,[high] terminology: None; [low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+197,"00:11:03,280 --> 00:11:08,300",to their nature of expressing specific quantities which,很少改變，因此數字通常被歸類為不可,30,needs_revision,很少改變，因此數位通常被歸類為不可,[high] terminology: None; [high] meaning_drift: None
+198,"00:11:08,300 --> 00:11:09,760",are rarely changed.,變的關鍵字。,45,needs_revision,很少被更改。,[high] meaning_drift: None
+199,"00:11:10,360 --> 00:11:15,480","We can find metrics, time, and currencies in this group.",我們可以在這個部分找到指標、時間和貨幣。,100,ok,,
+200,"00:11:16,000 --> 00:11:20,600","For example, there are about 26 types of cars available.",例如，目前有約 26 種車型可供選擇。,100,ok,,
+201,"00:11:21,420 --> 00:11:23,200","No kidding, that's a lot.",開玩笑的，這真的很多。,100,ok,,
+202,"00:11:23,880 --> 00:11:27,260","Until now, the knowledge is quite enough so",目前的知識已經相當足夠，讓我,45,needs_revision,目前的知識已經相當足夠，所以,[high] meaning_drift: None
+203,"00:11:27,260 --> 00:11:28,620",let's practice.,們來練習。,87,minor_issues,我們來練習。,[low] grammar: None
+204,"00:11:29,040 --> 00:11:29,840",Here we go.,我們開始吧。,100,ok,,
+205,"00:11:35,280 --> 00:11:37,060",Let's start with something simple.,我們先從簡單的東西開始。,80,minor_issues,,[medium] terminology: None
+206,"00:11:37,800 --> 00:11:40,660","In the first exercise, your task is very simple.",在第一個練習中，你的任務非常簡單。,100,ok,,
+207,"00:11:41,400 --> 00:11:43,800",I have some keywords available for you here.,這裡有一些關鍵字提供給您。,100,ok,,
+208,"00:11:44,300 --> 00:11:48,320","Within 30 seconds, please divide them into two groups.",請在 30 秒內將它們分成兩組。,80,minor_issues,,[medium] terminology: None
+209,"00:11:49,160 --> 00:11:52,620",Changeable keywords and unchangeable keywords.,可變關鍵字與不可變關鍵字。,80,minor_issues,,[medium] terminology: None
+210,"00:11:53,360 --> 00:11:54,000",That's all.,就這些。,80,minor_issues,,[medium] terminology: None
+211,"00:11:54,260 --> 00:11:54,960",Are you ready?,準備好了嗎？,100,ok,,
+212,"00:11:55,320 --> 00:11:57,880","In three, two, one, go.",三、二、一，開始。,100,ok,,
+213,"00:11:58,620 --> 00:11:59,760",Here's the key.,這是重點。,35,needs_revision,這是關鍵。,[medium] terminology: None; [high] meaning_drift: None
+214,"00:12:00,360 --> 00:12:01,880",Let's check together.,我們一起來檢查。,100,ok,,
+215,"00:12:05,920 --> 00:12:09,020",This exercise is just a warm-up activity.,本練習僅為暖身活動。,80,minor_issues,,[medium] terminology: None
+216,"00:12:09,640 --> 00:12:11,980",It has nothing challenging at all.,這完全沒有任何挑戰性。,80,minor_issues,,[medium] terminology: None
+217,"00:12:12,380 --> 00:12:15,460",Now we're going to make it a bit more difficult.,接下來我們會讓難度稍微提高一些。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+218,"00:12:15,780 --> 00:12:17,360",I'll give you some sentences.,我會給你一些句子。,100,ok,,
+219,"00:12:18,020 --> 00:12:21,060",Please identify the keywords in each sentence and,請找出每個句子中的關鍵字，並,80,minor_issues,,[medium] terminology: None
+220,"00:12:21,060 --> 00:12:21,980",categorize them.,請將它們分類。,100,ok,,
+221,"00:12:22,700 --> 00:12:24,460",You are going to pause the video on,請在下一個畫面暫停影,30,needs_revision,請在下一個畫面暫停影片,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+222,"00:12:24,460 --> 00:12:26,620",the next screen to do this task within,片，於一分鐘內完成這項,45,needs_revision,下一個螢幕以執行此任務,[high] meaning_drift: None
+223,"00:12:26,620 --> 00:12:31,100",one minute and then we'll check the answers together.,任務，接著我們一起來檢查答案。,35,needs_revision,一分鐘後，接著我們一起來檢查答案。,[medium] terminology: None; [high] meaning_drift: None
+224,"00:12:31,100 --> 00:12:32,140",Let's do it everyone.,我們一起來做吧。,100,ok,,
+225,"00:12:37,510 --> 00:12:39,550","All right, here's the key.",好了，這裡是重點。,30,needs_revision,好了，這裡是鑰匙。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+226,"00:12:39,910 --> 00:12:42,770","If there is any new vocab, remember to",如果有新的詞彙，記得,100,ok,,
+227,"00:12:42,770 --> 00:12:45,030",write them down in your notebook.,在筆記本上寫下來。,100,ok,,
+228,"00:12:50,360 --> 00:12:53,080",Let's finish with the most challenging task.,讓我們以最具挑戰性的任務作為結束。,100,ok,,
+229,"00:12:53,420 --> 00:12:54,940","Now, I'll give you a passage.",現在，我將提供一篇閱讀文章。,100,ok,,
+230,"00:12:55,360 --> 00:12:58,220",Help me point out the keywords and categorize them.,請幫我指出關鍵字並進行分類。,100,ok,,
+231,"00:12:58,640 --> 00:13:01,440",Let's spend about five minutes doing this.,我們花大約五分鐘來完成這項任務。,100,ok,,
+232,"00:13:02,080 --> 00:13:03,700",Pause the video so that you can do,暫停影片，以便你能夠仔,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+233,"00:13:03,700 --> 00:13:06,480",it carefully and then check the answer.,細操作，然後再檢查答案。,32,needs_revision,仔細操作，然後再檢查答案。,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+234,"00:13:12,990 --> 00:13:14,330",Here's the answer.,以下是答案。,100,ok,,
+235,"00:13:14,870 --> 00:13:15,970",Let's check together.,我們一起來檢查。,100,ok,,
+236,"00:13:21,590 --> 00:13:24,990","After this exercise, you will probably wonder why",完成這項練習後，您可能會疑惑，為什,35,needs_revision,完成這項練習後，您可能會疑惑，為什麼,[medium] terminology: None; [high] meaning_drift: None
+237,"00:13:24,990 --> 00:13:30,010","all nouns, verbs, adjectives and adverbs are not",麼所有名詞、動詞、形容詞和副詞都沒有,32,needs_revision,所有名詞、動詞、形容詞和副詞皆不適用,[medium] terminology: None; [high] meaning_drift: None; [low] grammar: None
+238,"00:13:30,010 --> 00:13:31,750",highlighted as keywords.,被標示為關鍵字。,80,minor_issues,,[medium] terminology: None
+239,"00:13:32,230 --> 00:13:34,290",I'm going to give you two tips on,我要給您兩個 IELTS 閱讀課程的小撇步。,87,minor_issues,我要給您兩個 IELTS 閱讀課程的建議。,[low] register: None
+240,"00:13:34,290 --> 00:13:37,470",identifying keywords so that you can narrow down,辨識關鍵字，以便縮減需,30,needs_revision,辨識關鍵字，以便篩選,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+241,"00:13:37,470 --> 00:13:39,750",the amount of information you have to read,要閱讀的資訊量，並提升,32,needs_revision,要閱讀的資訊量並提升,[medium] terminology: None; [high] meaning_drift: None; [low] style: None
+242,"00:13:39,750 --> 00:13:43,270",and increase your reading speed.,您的閱讀速度。,45,needs_revision,並提升您的閱讀速度。,[high] meaning_drift: None
+243,"00:13:44,470 --> 00:13:47,650",The words which are mentioned several times only,僅需標記一次重複出,30,needs_revision,僅出現多次的字詞,[high] meaning_drift: None; [high] meaning_drift: None
+244,"00:13:47,650 --> 00:13:49,730",need to be identified once.,現的單字。,45,needs_revision,需要被識別一次。,[high] meaning_drift: None
+245,"00:13:50,450 --> 00:13:52,560","For example, in the last reading,",例如，在上一篇閱讀中，兩個字,35,needs_revision,例如，在最後一次閱讀中,[medium] terminology: None; [high] meaning_drift: None
+246,"00:13:52,560 --> 00:13:57,580","two words ""brands"" and ""cars"" appear continuously,","詞 ""brands"" 和 ""cars""",45,needs_revision,,[high] meaning_drift: None
+247,"00:13:57,580 --> 00:14:00,700",so identifying them in the first sentence is enough.,連續出現，因此在第一句中辨識它們就足夠了。,45,needs_revision,因此，因此在第一句中辨識它們就足夠了。,[high] meaning_drift: None
+248,"00:14:00,870 --> 00:14:03,510",We can skip them in the remaining sentences.,我們可以在後續的句子中跳過它們。,100,ok,,
+249,"00:14:04,470 --> 00:14:08,470",Words with general meanings used for many contexts,具有廣泛含義、適用於多種語境的詞彙,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+250,"00:14:08,470 --> 00:14:12,230","can be omitted, even though they belong to",即使這些詞彙屬於名詞、動詞、形,45,needs_revision,即使它們屬於,[high] meaning_drift: None
+251,"00:14:12,230 --> 00:14:15,850","the noun, verb, adjective or adverb group.",容詞或副詞類別，仍可能被省略。,32,needs_revision,名詞、動詞、形容詞或副詞群組。,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+252,"00:14:16,530 --> 00:14:25,970","For example, to be, have, include, they're, and people, etc.",例如，to be、have、include、they're 以及 people 等詞彙。,87,minor_issues,例如，to be、have、include、they're 以及 people 等單字 等詞彙。,[low] terminology: None
+253,"00:14:26,810 --> 00:14:32,000","By that, we can leave out more information that needs attention.",由此，我們可以省略更多需要留意的資訊。,100,ok,,
+254,"00:14:32,450 --> 00:14:35,850",Please note them down so you can practice more.,請將它們記錄下來，以便進行更多練習。,80,minor_issues,,[medium] terminology: None
+255,"00:14:40,810 --> 00:14:42,290","Well done, everyone!",大家做得很好！,100,ok,,
+256,"00:14:42,830 --> 00:14:45,610",We've completed the first skill building lesson of,我們已完成「Reading 4.0 -,35,needs_revision,我們已完成「閱讀 4.0 課程,[medium] terminology: None; [high] meaning_drift: None
+257,"00:14:45,610 --> 00:14:48,490","the Reading 4.0 - 5.0 course, which focuses",5.0」課程中的第一堂技能建,30,needs_revision,閱讀 4.0 - 5.0 課程，重點在於,[medium] terminology: None; [high] placeholder: None; [high] meaning_drift: None
+258,"00:14:48,490 --> 00:14:50,600","on identifying keywords,",構課程，該課程著重於,35,needs_revision,在識別關鍵字方面,[medium] terminology: None; [high] meaning_drift: None
+259,"00:14:50,600 --> 00:14:55,140",categorizing changeable keywords and unchangeable keywords.,辨識關鍵字、分類可變關鍵字與不可變關鍵字。,80,minor_issues,,[medium] terminology: None
+260,"00:14:55,470 --> 00:14:58,330","Also, we've achieved three goals.",此外，我們已經達成了三個目標。,100,ok,,
+261,"00:14:59,070 --> 00:15:04,710",The first is remember and understand the definition of keywords.,第一點是記住並理解關鍵字的定義。,100,ok,,
+262,"00:15:05,310 --> 00:15:08,690","The second, understand different types of keywords.",第二點是理解不同類型的關鍵字。,35,needs_revision,第二點是理解不同型別的關鍵字。,[high] terminology: None; [medium] terminology: None
+263,"00:15:09,490 --> 00:15:12,510","And the third, apply the knowledge of keywords",第三點，將關鍵字的知識應用,77,minor_issues,第三點，應用關鍵字的知識,[medium] terminology: None; [low] collocation: None
+264,"00:15:12,510 --> 00:15:14,390",to the reading passage.,於閱讀文章。,87,minor_issues,至閱讀文章。,[low] collocation: None
+265,"00:15:15,190 --> 00:15:17,630",See you all in the next lesson.,下一堂課見。,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+266,"00:15:17,630 --> 00:15:19,910",I'm Teacher Francois.,我是 Teacher Francois。,77,minor_issues,我是 法蘭索瓦老師。,[medium] terminology: None; [low] style: None
+267,"00:15:20,570 --> 00:15:21,380",Goodbye.,再見。,100,ok,,

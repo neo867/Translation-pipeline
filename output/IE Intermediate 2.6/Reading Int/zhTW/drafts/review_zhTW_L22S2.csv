@@ -1,0 +1,131 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:15,040 --> 00:00:20,200","Hi Preppies, welcome back to another crucial lesson in our IELTS reading course.",嗨，Preppies，歡迎回到我們 IELTS 閱讀課程的另一堂重要課程。,80,minor_issues,,[medium] terminology: None
+2,"00:00:20,480 --> 00:00:24,920",Today we are going to master a question type that often causes headaches for,今天我們將要掌握一種題型，由於資訊分散在文,35,needs_revision,今天我們將要掌握一種題型，由於導致人們困擾的,[medium] terminology: None; [high] meaning_drift: None
+3,"00:00:24,920 --> 00:00:28,640",many candidates because the information is scattered all over the passage.,章的各個部分，這常常讓許多考生感到頭痛。,30,needs_revision,因為資訊散落在文章各處，許多考生往往會感到頭痛。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+4,"00:00:29,020 --> 00:00:31,240",It is the matching features question type.,這是配對特徵題型。,80,minor_issues,,[medium] terminology: None
+5,"00:00:31,540 --> 00:00:36,260","Have you ever seen a box full of names, like researchers or scientists, and a",你曾經看過滿是名字（例如研究人員或科學家）的方框，,87,minor_issues,,[low] style: None
+6,"00:00:36,260 --> 00:00:39,320",list of statements and you had to figure out who said what?,以及一列陳述，而必須判斷誰說了什麼嗎？,84,minor_issues,以及一系列陳述，必須判斷誰說了什麼嗎？,[low] collocation: None; [low] style: None
+7,"00:00:39,620 --> 00:00:41,900",That is exactly what we are dealing with today.,那就是我們今天要處理的內容。,100,ok,,
+8,"00:00:42,360 --> 00:00:46,500","It challenges not just your reading speed, but your ability to scan for",它不僅挑戰你的閱讀速度，更考驗你搜尋特定人名,45,needs_revision,它不僅挑戰你的閱讀速度，更考驗你掃描尋找,[high] meaning_drift: None
+9,"00:00:46,500 --> 00:00:49,520",specific names and connect them to complex ideas.,並將它們與複雜概念連結的能力。,45,needs_revision,並將其與複雜觀念連結。,[high] meaning_drift: None
+10,"00:00:49,720 --> 00:00:53,760","But don't worry, by the end of this lesson you will be able to handle",但別擔心，在本堂課程結束時，你將能自信,35,needs_revision,但別擔心，在本堂課程結束時，你將能處理,[medium] terminology: None; [high] meaning_drift: None
+11,"00:00:53,760 --> 00:00:55,420",these questions with confidence.,地應對這些題目。,35,needs_revision,自信地回答這些問題。,[medium] terminology: None; [high] meaning_drift: None
+12,"00:00:55,920 --> 00:01:00,860",Our goals for today are understand the definition and key features of matching,今天的目標是了解配對題型的定義與主要特徵，,45,needs_revision,今天的目標是瞭解配對題型的定義與主要特徵，,[high] terminology: None
+13,"00:01:00,860 --> 00:01:06,180","features questions, Learn four useful tips to solve them faster and avoid traps.",並學習四個實用技巧， 以更快作答並避開陷阱。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+14,"00:01:06,720 --> 00:01:10,240",Master the four-step strategy to answer these questions accurately.,掌握四個步驟的策略，以準確回答這些題目。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+15,"00:01:10,740 --> 00:01:14,160","To achieve this, our lesson is divided into three main parts.",為達成此目標，我們的課程將分為三個主要部分。,100,ok,,
+16,"00:01:14,500 --> 00:01:18,840",Features. We will look at the structure and challenges of this question type.,Features。我們將 探討此題型的結構與挑戰。,80,minor_issues,,[medium] terminology: None
+17,"00:01:19,440 --> 00:01:22,940",Tips. I will share the best strategies to save you time.,小撇步。我將分享最棒的技巧 節省時間的策略。,35,needs_revision,小撇步。我將分享最佳策略，幫您節省時間。,[medium] terminology: None; [high] meaning_drift: None
+18,"00:01:23,500 --> 00:01:30,180",Steps and practice. We will learn the step-by-step method and apply it to a real example about AI in education.,步驟與練習。我們將學習逐步方法，並將其 套用至有關教育人工智慧的真实範例。,45,needs_revision,,[high] None: None
+19,"00:01:30,180 --> 00:01:32,220",Are you ready to become a matching expert?,你準備好成為配對專家了嗎？,100,ok,,
+20,"00:01:32,620 --> 00:01:33,400",Let's get started.,我們開始吧。,100,ok,,
+21,"00:01:37,940 --> 00:01:42,180",Matching features is a question type that requires candidates to match objects,配對特徵是一種題型，要求考生將清單中的受,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+22,"00:01:42,180 --> 00:01:46,840",in a list with given statements or information so that they are true to the,詞與給定的陳述或資訊進行配對，使其與文章,45,needs_revision,詞與給定的陳述或資訊進行配對，使其為真,[high] meaning_drift: None
+23,"00:01:46,840 --> 00:01:48,320",information in the passage.,中的資訊相符。,35,needs_revision,段落中的資訊。,[medium] terminology: None; [high] meaning_drift: None
+24,"00:01:49,260 --> 00:01:52,420",Matching features question type has the following parts.,Matching features 題型包含以下部分。,70,minor_issues,配對特徵 題型包含以下部分。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None
+25,"00:01:53,880 --> 00:02:00,220","Requirements, questions, features that are lettered A, B, C, etc. and in a frame.",要求、問題、特徵以及 以 A、B、C 等字母標示，並置於方框內。,100,ok,,
+26,"00:02:01,020 --> 00:02:04,760",Pay attention to check if the requirements include the sentence.,請注意檢查要求中是否包含該句子。,80,minor_issues,,[medium] terminology: None
+27,"00:02:05,700 --> 00:02:09,520",Note that then you may use any letter more than once.,備註：接著您可以多次使用任何字母。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+28,"00:02:10,780 --> 00:02:15,380","Each letter A, B, C, etc. can be used more than once.",每個字母 A、B、C 等 可重複使用。,100,ok,,
+29,"00:02:16,080 --> 00:02:21,480","If the requirements do not include the sentence, note that then you may use any",若需求中未包含該句子，則備註：接著您可以多次使用任,30,needs_revision,若需求中未包含該句子，則可備註：接著您可以使用任何,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+30,"00:02:21,480 --> 00:02:28,700","letter more than once, then each feature letter A, B, C, etc. can be used only once.",何字母，但每個功能字母 A 、B、C 等只能使用一次。,30,needs_revision,每個字母，但每個字母 A 、B、C 等只能使用一次。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] terminology: None
+31,"00:02:28,700 --> 00:02:33,120","So after choosing a letter, we're sure that it's not the answer for the rest",因此，在選定一個字母後，我們就能確定它不是其餘問,45,needs_revision,因此，在選定一個字母後，我們就能確定它不是其餘的答案,[high] meaning_drift: None
+32,"00:02:33,120 --> 00:02:38,480","of the question, which helps us to save time when finding out the answers to the next questions.",題的答案，這有助於我們節省時間。 找出以下問題的答案。,45,needs_revision,的問題，有助於我們在下一次尋找答案時節省時間。,[high] meaning_drift: None
+33,"00:02:39,840 --> 00:02:43,800","Once you know the main parts of this question type, you need to understand its",一旦您了解此題型的主要部分，就需要理解其特徵,45,needs_revision,一旦您瞭解此題型的主要部分，就需要理解其特徵,[high] terminology: None
+34,"00:02:43,800 --> 00:02:46,420",features to come up with suitable steps for it.,，以便擬定適合的解題步驟。,80,minor_issues,,[medium] terminology: None
+35,"00:02:47,080 --> 00:02:51,320","In general, matching features is a difficult question type in IELTS reading",一般而言，IELTS 閱讀中的配對題是一種較難的,30,needs_revision,一般而言，IELTS 閱讀的配對題是較難的題型,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+36,"00:02:51,320 --> 00:02:56,460",because questions do not follow the order of information in the passage.,題型，因為題目順序並不依照文章資訊的排列順序。,32,needs_revision,,[medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+37,"00:02:57,220 --> 00:02:59,480",Features are also organized randomly.,特徵也是隨機排列的。,87,minor_issues,,[low] style: None
+38,"00:03:00,400 --> 00:03:03,580",The number of features is usually fewer than the number of questions.,特徵的數量通常少於題目的數量。,80,minor_issues,,[medium] terminology: None
+39,"00:03:04,420 --> 00:03:08,540","Therefore, I'm going to give you four useful tips for matching features.",因此，我將提供四個有關「matching features」配對題的實用技巧。,70,minor_issues,因此，我將提供四個有關「匹配特徵」配對題的實用技巧。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+40,"00:03:13,260 --> 00:03:18,580","Firstly, features are usually proper names, so they serve as keywords, helping",首先，特徵通常是專有名詞，因此它們扮演關鍵字的角色，幫,80,minor_issues,,[medium] terminology: None
+41,"00:03:18,580 --> 00:03:20,620",us locate information areas effectively.,助我們有效地定位資訊區域。,100,ok,,
+42,"00:03:21,860 --> 00:03:26,160","If the requirements don't include the sentence, you may use any letter more",如果題目未要求寫出完整句子，您可以重複使,45,needs_revision,若要求中未包含該句子，您可以多使用任何一個字母,[high] meaning_drift: None
+43,"00:03:26,160 --> 00:03:30,720","than once, you can cross out the chosen features, because there won't be any",用任何字母，並劃掉已選用的特徵，因為不會有,30,needs_revision,多次之後，並劃掉已選用的特徵，因為並不存在,[high] meaning_drift: None; [high] meaning_drift: None
+44,"00:03:30,720 --> 00:03:32,260",features that are chosen twice.,特徵被選取兩次。,100,ok,,
+45,"00:03:33,280 --> 00:03:34,080",Tip number three.,第三個技巧。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+46,"00:03:34,840 --> 00:03:39,040","In questions that require matching statements with people's names, the passage",在需要將陳述句與人名配對的題目，文章中,77,minor_issues,在需要將陳述句與人名配對的題目中，文章,[medium] terminology: None; [low] grammar: None
+47,"00:03:39,040 --> 00:03:41,920",often uses their surnames when referring to them.,通常使用他們的姓氏來指稱他們。,100,ok,,
+48,"00:03:42,660 --> 00:03:47,260","IELTS reading passages are often academic articles, so they tend to use",IELTS 閱讀文章通常為學術文章，,100,ok,,
+49,"00:03:47,260 --> 00:03:51,920","surnames more than proper names, as proper names are commonly used when a",因此較常使用姓氏而非專有名詞，因為專,30,needs_revision,因此較常使用姓氏而非人名，因為專,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+50,"00:03:51,920 --> 00:03:55,620",person wants to address people that he or she is close to.,有名詞通常用於稱呼親近的人。,30,needs_revision,這是指用來稱呼親近的人的稱謂。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+51,"00:03:56,340 --> 00:04:01,060","For instance, if one of the names in the features is Jason Brown, you may",例如，如果特徵中的名字之一是 Jason Brown，您可能,87,minor_issues,,[low] style: None
+52,"00:04:01,060 --> 00:04:06,060","find that in the reading passage sometimes the full name Jason Brown appears,",在閱讀文章中，有時會出現 Jason Brown 的全,35,needs_revision,在閱讀文章中，有時會出現 Jason Brown 的全名,[medium] terminology: None; [high] meaning_drift: None
+53,"00:04:06,600 --> 00:04:10,260",or sometimes only the surname Brown is mentioned.,名，有時則只提到姓氏 Brown。,100,ok,,
+54,"00:04:10,980 --> 00:04:15,200",Remember that foreign people's surnames usually come after the first name.,請記住，外國人的姓氏通常排在名字之後。,87,minor_issues,,[low] style: None
+55,"00:04:16,560 --> 00:04:18,040",Let's move on to the last one.,接下來看最後一個。,80,minor_issues,,[medium] terminology: None
+56,"00:04:19,260 --> 00:04:23,780",We need to prioritize proper names or objects that appear less frequently than,我們需要優先考慮出現頻率較低的專有名詞或受詞，因為,45,needs_revision,我們需要優先考慮出現頻率較低的專有名詞或受詞，。,[high] meaning_drift: None
+57,"00:04:23,780 --> 00:04:26,020",others in the passage to read them first.,閱讀文章中的其他人，請先閱讀。,45,needs_revision,,[high] meaning_drift: None
+58,"00:04:27,300 --> 00:04:30,880","This is because if there are features that appear more frequently than others,",這是因為，如果有某些特徵出現的頻率高於其他特,87,minor_issues,這是因為，如果有某些特徵出現的頻率高於其他特徵,[low] typo: None
+59,"00:04:31,300 --> 00:04:37,060","or appear in a lot of paragraphs, it will be more challenging and time consuming to read them.",徵，或是出現在大量段落中， 閱讀起來會更具挑戰性且耗時。,39,needs_revision,,[low] style: None; [high] meaning_drift: None; [low] style: None
+60,"00:04:37,720 --> 00:04:41,320",So you've grasped the basic features of matching features.,所以，你已經掌握了配對題的基本特徵。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+61,"00:04:41,980 --> 00:04:46,800",Remember the four useful tips I gave you today and watch the next video to,記住我今天給你的四個實用小技巧，並觀看下一個影,70,minor_issues,記住我今天給你的四個實用小技巧，並觀看下一個影片,[medium] terminology: None; [medium] terminology: None; [low] typo: None
+62,"00:04:46,800 --> 00:04:50,440",learn how to apply steps for matching features.,片，學習如何套用配對題的步驟。,30,needs_revision,片，學習如何運用配對功能的步驟。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] collocation: None; [low] terminology: None
+63,"00:04:55,080 --> 00:04:56,610",Let's start with the first one.,我們先從第一個開始。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+64,"00:04:56,850 --> 00:05:01,690",Step 1. Read requirements carefully and underline keywords in questions.,步驟 1：仔細閱讀要求，並 在題目中的關鍵字下方劃線。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+65,"00:05:02,090 --> 00:05:04,950",This step is similar to that of other question types.,這一步驟與其他題型類似。,100,ok,,
+66,"00:05:05,390 --> 00:05:07,050",We need to understand the requirements.,我們需要釐清需求。,80,minor_issues,,[medium] terminology: None
+67,"00:05:07,450 --> 00:05:11,350",It helps us understand which features and questions we should match them with.,這有助於我們了解應將它們與哪些功能及問題配對。,35,needs_revision,這有助於我們瞭解應將它們與哪些功能及問題配對。,[high] terminology: None; [medium] terminology: None
+68,"00:05:11,790 --> 00:05:18,850","The requirements in this passage are, match each statement with the correct researcher A, B, or C.",本文的要求是：將每個陳述與正確的 研究員 A、B 或 C 配對。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+69,"00:05:19,290 --> 00:05:28,430","So the requirement is to match the statements 1 to 7 which describe findings or opinions on A, I, with the researchers A to C.",因此，要求是將描述 A、I 相關發現或觀點的第 1 至 7 號陳述，與研究員 A 至 C 進行配對。,80,minor_issues,,[medium] terminology: None
+70,"00:05:28,930 --> 00:05:34,930","Moreover, the requirements include this sentence, N, B, you may use any letter more than once.",此外，要求中還包含這句話， N、B，您可以多次使用任何一個選項。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+71,"00:05:35,330 --> 00:05:41,070","There are 7 questions and only 3 researchers, A, B, C, so it is certain",共有 7 道題目和 3 位研究員 A、B、C，因此可以確定,80,minor_issues,,[medium] terminology: None
+72,"00:05:41,070 --> 00:05:43,590",that the letters will be used multiple times.,這些字母會被多次使用。,100,ok,,
+73,"00:05:43,950 --> 00:05:47,370","Next, we need to underline the keywords in the questions.",接下來，我們需要劃出題目中的關鍵字。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+74,"00:05:47,670 --> 00:05:54,090","The purposes of this step are, firstly, it helps us have an overview of the content of the passage.",此步驟的目的，首先是幫助 我們掌握文章的內容概覽。,80,minor_issues,,[medium] terminology: None
+75,"00:05:54,610 --> 00:06:01,790","Secondly, it also helps us easily scan and locate information in the passage that matches the content of the question.",其次，它也有助於我們輕鬆掃描並定位資訊。 在與題目內容相符的文章段落中。,77,minor_issues,,[low] style: None; [medium] terminology: None
+76,"00:06:02,170 --> 00:06:06,490","One more thing is that the features, the names of the researchers, serve as",另外，這些特徵，也就是研究人員的姓名，可以作為,30,needs_revision,還有，這些特徵，以及研究人員的名字，會作為,[low] style: None; [medium] terminology: None; [high] meaning_drift: None; [low] register: None; [low] style: None
+77,"00:06:06,490 --> 00:06:09,850",keywords helping us find the correct answers faster.,關鍵字，幫助我們更快找到正確答案,80,minor_issues,,[medium] terminology: None
+78,"00:06:10,370 --> 00:06:16,890","Now, you have 20 seconds to underline the keywords in question 1 and scan the features A, B, and C.",現在，你有20秒的時間來劃出題目1的 關鍵字，並掃描A、B和C的特徵。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+79,"00:06:39,440 --> 00:06:41,060",I'm back with some suggestions.,我回來了，提供一些建議。,80,minor_issues,,[medium] terminology: None
+80,"00:06:41,520 --> 00:06:46,620","You should remember that when underlining the keywords, you need to understand the content of the questions.",你應該記住，在標記關鍵字時 ，你需要理解題目的內容。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+81,"00:06:47,120 --> 00:06:48,500",Here are the keywords I found.,以下是我找到的關鍵字。,100,ok,,
+82,"00:06:50,100 --> 00:06:51,800",Let's move on to the next step.,讓我們進入下一步。,80,minor_issues,,[medium] terminology: None
+83,"00:06:52,080 --> 00:06:55,800",Step 2. Scan the passage to locate information areas of features.,步驟 2：掃描文章以 定位具有特定特徵的資訊區塊。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+84,"00:06:56,160 --> 00:07:00,220",This step helps us quickly locate the information areas we need to read and,此步驟有助於我們快速定位需要閱讀的資訊區域,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+85,"00:07:00,220 --> 00:07:02,180",come up with suitable reading strategies.,，並擬定適當的閱讀策略。,100,ok,,
+86,"00:07:02,420 --> 00:07:05,180","Let's start with feature A, Dr. Dora Dembski.",讓我們從特徵 A 開始，Dora Dembski 博士。,80,minor_issues,,[medium] terminology: None
+87,"00:07:05,320 --> 00:07:09,220","As mentioned earlier in the video, the features are also keywords, therefore,",如影片先前所述，這些特徵也是關鍵字，因此，在這篇文,30,needs_revision,如影片先前所述，這些特徵也是關鍵字，因此，OK,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+88,"00:07:09,380 --> 00:07:13,540","in this passage, you're going to find all the areas containing the keyword Dembski.",章中，你將找到所有包含關鍵字 Dembski 的區域。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+89,"00:07:13,920 --> 00:07:15,240",You have 20 seconds.,你還有 20 秒。,100,ok,,
+90,"00:07:15,720 --> 00:07:16,320",Start now.,立即開始。,100,ok,,
+91,"00:07:39,240 --> 00:07:39,720",You finished?,你完成了？,100,ok,,
+92,"00:07:40,180 --> 00:07:40,860",Let's check.,我們來檢查一下。,100,ok,,
+93,"00:07:41,300 --> 00:07:45,160","In paragraph B, we can see the keyword Dembski mentioned multiple times.",在 B 段中，我們可以看到 Dembski 多次提到的關鍵字。,80,minor_issues,,[medium] terminology: None
+94,"00:07:45,520 --> 00:07:49,580",You should also circle the keywords in the passage to easily read and find the,你也應該在文章中圈出關鍵字，以便輕鬆閱讀和查,32,needs_revision,,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+95,"00:07:49,580 --> 00:07:51,160",information related to the features.,找與特徵相關的資訊。,100,ok,,
+96,"00:07:51,720 --> 00:07:57,880","However, if you only find the keyword Dembski in paragraph B, you might miss important information.",然而，如果你只在 B 段中找到 Demb ski 這個關鍵字，可能會錯過重要的資訊。,74,minor_issues,然而，如果你只在 B 段中找到 Dembski 這個關鍵字，可能會錯過重要的資訊。,[low] style: None; [medium] terminology: None; [low] typo: None
+97,"00:07:58,380 --> 00:08:03,480","If you scan the whole text carefully, you will see she appears again in paragraph E.",如果你仔細掃描整篇文章，你會 發現她在 E 段再次出現。,100,ok,,
+98,"00:08:03,480 --> 00:08:05,320","Pay more attention to this, guys.",各位請多注意這一點。,80,minor_issues,,[medium] terminology: None
+99,"00:08:05,660 --> 00:08:07,920",A feature can appear in different paragraphs.,某個特徵可能會出現在不同的段落中。,100,ok,,
+100,"00:08:08,380 --> 00:08:09,880",We're going to continue with step 3.,我們繼續進行第 3 步。,80,minor_issues,,[medium] terminology: None
+101,"00:08:10,900 --> 00:08:16,080",Step 3. Read information areas carefully to understand the main ideas about features.,第 3 步：仔細閱讀資訊區 ，以了解有關特徵的主旨。,30,needs_revision,第 3 步：仔細閱讀資訊區 ，以瞭解有關特徵的主旨。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+102,"00:08:16,440 --> 00:08:20,400","After locating the information areas, we're going to read them carefully and",定位資訊區後，我們將仔細閱讀這些區域，並,80,minor_issues,,[medium] terminology: None
+103,"00:08:20,400 --> 00:08:23,320",try to summarize the key points related to the features.,試著總結與特徵相關的重點。,100,ok,,
+104,"00:08:23,620 --> 00:08:26,860",This will help us shorten and skip unnecessary information.,這將幫助我們縮短並跳過不必要的資訊。,100,ok,,
+105,"00:08:26,860 --> 00:08:32,960",Let's read the information areas containing the keyword slash feature Dembski in paragraph B.,請閱讀B段中包含關鍵字斜線特徵 Dembski 的資訊區。,30,needs_revision,請閱讀B段中包含關鍵字斜線功能 Dembski 的資訊段落。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [high] meaning_drift: None
+106,"00:08:33,620 --> 00:08:36,980","When reading this paragraph, we need to grasp the main idea.",閱讀本段時，我們需要掌握主旨。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+107,"00:08:37,440 --> 00:08:41,419","To do this, I usually underline the keywords in the sentence to understand its",為了做到這一點，我通常會在句子中劃出關鍵字，以便掌,45,needs_revision,為了做到這一點，我通常會在句子中劃出關鍵字，以便理解其,[high] meaning_drift: None
+108,"00:08:41,419 --> 00:08:45,720","main point and easily compare it with the questions, which is the next step.",握其主要觀點，並輕鬆地與題目進行比較，這是下一步。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+109,"00:08:46,100 --> 00:08:51,060","In paragraph B, Dembski explains that while feedback improves teaching, it is",在B段中，Dembski 解釋道，雖然回饋能改善教學,74,minor_issues,在B段，Dembski 解釋道，雖然回饋能改善教學,[low] style: None; [medium] terminology: None; [low] style: None
+110,"00:08:51,060 --> 00:08:54,440",just not scalable for a human to do it every time.,，但人類每次親自執行卻難以規模化。,84,minor_issues,，但人類每次親自執行卻難以擴展。,[low] collocation: None; [low] style: None
+111,"00:08:54,720 --> 00:08:56,460",She emphasizes that A.,她強調的是 A。,100,ok,,
+112,"00:08:56,680 --> 00:09:00,780",I can create a bank of live advice based on expert pedagogy.,我可以建立一個基於專家教學法的即時建議庫,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+113,"00:09:01,260 --> 00:09:05,020",The keywords or content words help me understand the main idea.,而 keywords 或 content words 則幫助我理解主旨,70,minor_issues,而 關鍵字 或 實詞 則幫助我理解主旨,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] terminology: None
+114,"00:09:05,480 --> 00:09:10,540",She believes A.I. helps solve the problem of scale and provides expert advice.,她相信ＡＩ有助於解決規模問題，並提供專家建議。,100,ok,,
+115,"00:09:10,820 --> 00:09:12,720",Now let's get ready for the last step.,現在讓我們為最後一個步驟做好準備,100,ok,,
+116,"00:09:13,640 --> 00:09:18,500",Step 4. Compare information areas with questions and choose correct answers.,步驟 4：比較資訊區域與 回答 questions 並選出 correct answers。,70,minor_issues,步驟 4：比較資訊區與 回答 問題 並選出 正確答案。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None; [low] style: None
+117,"00:09:18,900 --> 00:09:23,380",We can see that the phrases in Dembski's paragraph match perfectly with question 1.,我們可以發現，Dembski 段 落中的片語與第 1 題完全吻合。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+118,"00:09:23,380 --> 00:09:28,040","In paragraph B, she mentions feedback is not scalable for humans.",在 B 段落中，她提到「feedback」對人類而言不具有規模效益。,30,needs_revision,在 B 段落中，她提到「回饋」對人類而言無法大規模處理。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [high] meaning_drift: None
+119,"00:09:28,520 --> 00:09:33,300","In question 1, it mentions guidance that would be difficult to provide on a large scale.",在第 1 題中，提到了一些指導方針 在規模上難以提供。,84,minor_issues,,[low] terminology: None; [low] collocation: None
+120,"00:09:33,680 --> 00:09:35,080",These meanings are identical.,這些意義是相同的。,100,ok,,
+121,"00:09:35,580 --> 00:09:39,420","Furthermore, she mentions advice based on expert pedagogy.",此外，她提到了基於專家教育法的建議。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+122,"00:09:39,860 --> 00:09:43,280","In question 1, it mentions established teaching methods.",在第一題中，提到了既定的教學方法。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+123,"00:09:43,680 --> 00:09:45,960",Pedagogy and teaching methods are synonyms.,教學法與教學方法是同義詞。,100,ok,,
+124,"00:09:46,320 --> 00:09:48,780","Therefore, the answer to question 1 is A.",因此，第 1 題的答案為 A。,80,minor_issues,,[medium] terminology: None
+125,"00:09:49,160 --> 00:09:51,420",So we've learned four steps for matching features.,所以我們學到了匹配特徵的四個步驟。,80,minor_issues,,[medium] terminology: None
+126,"00:09:51,740 --> 00:09:55,980",Please answer the interactive question about the four steps for matching features.,請回答關於匹配特徵 四個步驟的互動問題。,80,minor_issues,,[medium] terminology: None
+127,"00:10:00,490 --> 00:10:04,910","In today's lesson, we have learned all about matching features questions,",今天的課程中，我們已經學完了有關匹配特徵題型的內容，,80,minor_issues,,[medium] terminology: None
+128,"00:10:05,110 --> 00:10:09,250",including four tips for answering these questions and the four steps to follow,包含回答這些問題的四個技巧，以及確保您能,35,needs_revision,包含回答這些問題的四个技巧，以及四个遵循的步骤,[medium] terminology: None; [high] meaning_drift: None
+129,"00:10:09,250 --> 00:10:12,030",to ensure that you answer each question correctly.,正確回答每個問題的四個步驟,35,needs_revision,以確保你能正確回答每個問題,[medium] terminology: None; [high] meaning_drift: None
+130,"00:10:12,750 --> 00:10:15,630",Great job today and I'll see you in the next lesson.,今天表現很棒，我們下一堂課見。,100,ok,,

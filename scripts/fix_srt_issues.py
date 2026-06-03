@@ -10,6 +10,8 @@ Runs qa_srt.py internally, then applies fixes in two phases:
     • leading_comma       → strip leading ，or 、from block text
     • duplicate_phrase    → remove second occurrence of repeated phrase
     • trailing_fragment   → strip trailing space + dangling English fragment
+    • vocab_violation     → substitute preferred zhTW vocab (詞彙→字彙, 同義詞→同義字, 瞭解→了解, 堂課→單元)
+    • slash_artifact      → pick first option in word1/word2 pairs (skips known IELTS terms)
 
   Phase 2 — API-assisted (for cross_block_split only):
     • Sends the block AFTER the split (block N+1, which starts with English)
@@ -35,14 +37,14 @@ import requests
 
 SCRIPT_DIR = Path(__file__).parent.resolve()
 PROJECT_ROOT = SCRIPT_DIR.parent
-SOURCE_DIR = PROJECT_ROOT / "IE Intermediate 2.6" / "Listening Int"
+SOURCE_DIR = PROJECT_ROOT / "IE Intermediate 2.6" / "Reading Int"
 
 API_BASE = "https://translate.flowb.ai"
 API_KEY = "tw-localizer-dev-a1b2c3d4e5f6"
 REVIEW_TIMEOUT = 120
 
 CONTEXT = (
-    "Course subtitles from an English-language IELTS listening lesson for Taiwanese students. "
+    "Course subtitles from an English-language IELTS reading lesson for Taiwanese students. "
     "Target is Traditional Chinese (繁體中文). "
     "Preserve technical IELTS terms, English example words shown as answers, and all punctuation. "
     "Fix any untranslated English phrases at the start of the block."
@@ -70,6 +72,19 @@ _SIMP_RE = re.compile('[' + ''.join(re.escape(c) for c in SIMP_TO_TRAD) + ']')
 _LEADING_COMMA_RE = re.compile(r'^[，、]+')
 _TRAILING_FRAG_RE = re.compile(r'[ 　][a-zA-Z]{1,3}$')
 _DUPE_PHRASE_RE = re.compile(r'([一-鿿，、。！？]{3,})([\s，、。！？]*)(\1)')
+
+# ── Vocab violation substitution map ─────────────────────────────────────────
+VOCAB_MAP: dict[str, str] = {
+    '詞彙': '字彙',
+    '同義詞': '同義字',
+    '瞭解': '了解',
+    '堂課': '單元',
+}
+_VOCAB_RE = re.compile('|'.join(re.escape(k) for k in VOCAB_MAP))
+
+# Slash artifacts: IELTS terms to preserve as-is
+_SLASH_KEEP = {'True/False', 'Yes/No', 'True/False/Not Given', 'Yes/No/Not Given'}
+_SLASH_RE = re.compile(r'[A-Za-z一-鿿][A-Za-z一-鿿]*/[A-Za-z一-鿿][A-Za-z一-鿿]*')
 
 
 # ── SRT helpers ───────────────────────────────────────────────────────────────
@@ -140,6 +155,25 @@ def fix_trailing_fragment(text: str) -> tuple[str, bool]:
     return new, new != text
 
 
+def fix_vocab_violations(text: str) -> tuple[str, int]:
+    count = 0
+    def sub(m: re.Match) -> str:
+        nonlocal count
+        count += 1
+        return VOCAB_MAP[m.group()]
+    return _VOCAB_RE.sub(sub, text), count
+
+
+def fix_slash_artifact(text: str) -> tuple[str, bool]:
+    def sub(m: re.Match) -> str:
+        matched = m.group()
+        if matched in _SLASH_KEEP:
+            return matched
+        return matched.split('/')[0]
+    new = _SLASH_RE.sub(sub, text)
+    return new, new != text
+
+
 def apply_deterministic_fixes(blocks: list[dict]) -> tuple[list[dict], dict[int, list[str]]]:
     """Apply all phase-1 fixes. Returns updated blocks and a change log."""
     log: dict[int, list[str]] = {}
@@ -165,6 +199,16 @@ def apply_deterministic_fixes(blocks: list[dict]) -> tuple[list[dict], dict[int,
         text, changed = fix_trailing_fragment(b['text'])
         if changed:
             changes.append('trailing_fragment')
+            b['text'] = text
+
+        text, n = fix_vocab_violations(b['text'])
+        if n:
+            changes.append(f'vocab_violation ({n})')
+            b['text'] = text
+
+        text, changed = fix_slash_artifact(b['text'])
+        if changed:
+            changes.append('slash_artifact')
             b['text'] = text
 
         if changes:

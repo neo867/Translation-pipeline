@@ -1,0 +1,117 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:16,070 --> 00:00:20,570",Thank you for coming back to the second part of the lesson on summary completion.,感謝您回來繼續學習摘 要填空課程的第二部分。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None
+2,"00:00:21,190 --> 00:00:24,830","In this second video, we're going to see whether the steps for summary",在這支影片的第二部分中，我們將檢視使用詞彙列表,30,needs_revision,在這支影片的第二部分中，我們將檢視使用詞彙清單,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+3,"00:00:24,830 --> 00:00:30,730",completion with a word list is different from those of summary completion without a word list.,的摘要填空步驟，是否與不使用詞 彙列表的摘要填空步驟有所不同。,30,needs_revision,的摘要填空步驟，是否與不使用詞 彙清單的摘要填空步驟有所不同。,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] typo: None
+4,"00:00:31,650 --> 00:00:35,510",Step 1. Read the question's requirement carefully.,步驟一：仔細閱讀題目的要求。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+5,"00:00:36,710 --> 00:00:40,570",Step 2. Apply skimming skills to read the summary quickly.,步驟 2。運用略讀 技巧快速閱讀摘要。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+6,"00:00:42,250 --> 00:00:48,770",Step 3. Apply scanning skills to the first and last sentence of the summary to locate its area.,步驟三：運用掃描技巧於摘要的第 一句與最後一句，以定位其範圍。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] placeholder: None
+7,"00:00:49,870 --> 00:00:54,090",Step 4. Read each question carefully and predict the answer.,步驟 4：仔細閱讀 每個問題並預測答案。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+8,"00:00:55,070 --> 00:00:59,610",Step 5. Apply scanning skills to locate the information of each question.,步驟 5：運用掃描技 巧來定位每個問題的資訊。,70,minor_issues,步驟 5：運用掃描技巧來定位每個問題的資訊。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] typo: None
+9,"00:01:00,470 --> 00:01:07,890","Step 6. Find necessary information in the passage, compare and choose the corresponding answer in the word list.",步驟 6：在文章中尋找必要的資訊並進行比較 並從詞彙列表中選擇對應的答案。,30,needs_revision,步驟 6：在文章中尋找必要的資訊並進行比較 並從詞彙清單中選擇對應的答案。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+10,"00:01:09,150 --> 00:01:13,090","In your opinion, what is the step that makes the difference between this type",在您看來，哪一個步驟讓這種題型與上一支影片中,45,needs_revision,在您看來，哪一個步驟讓這種題型與此類題型之間,[high] meaning_drift: None
+11,"00:01:13,090 --> 00:01:17,150",and summary completion without a word list in the previous video?,沒有詞彙列表的摘要填空題型產生差異？,30,needs_revision,沒有詞彙清單的摘要填空題型產生差異？,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+12,"00:01:17,830 --> 00:01:20,290",Please answer the following interactive question.,請回答以下互動問題。,100,ok,,
+13,"00:01:21,370 --> 00:01:26,030","The biggest difference is in step 6, because in this step we do not take",最大的差異在於第 6 步，因為在這一階段我們不會採取,77,minor_issues,最大的差異在於第 6 步，因為在這一步我們不會採取,[medium] terminology: None; [low] terminology: None
+14,"00:01:26,030 --> 00:01:28,030",the words or phrases from the passage.,文章中的詞彙或片語,100,ok,,
+15,"00:01:28,750 --> 00:01:31,230","Instead, we choose from a word list.",相反地，我們從詞彙清單中進行選擇。,80,minor_issues,,[medium] terminology: None
+16,"00:01:32,230 --> 00:01:36,830","As mentioned in the first video, the words in this word list could be taken",如第一段影片所述，此詞彙清單中的詞彙可直接摘,30,needs_revision,如第一段影片所述，此單字列表中的單字可能取自,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+17,"00:01:36,830 --> 00:01:41,810","directly from the passage, be antonyms or be synonyms.",自文章，也可能是反義詞或同義詞。,81,minor_issues,從文章，或是反義詞或同義詞。,[low] style: None; [low] grammar: None; [low] collocation: None
+18,"00:01:42,530 --> 00:01:45,370",So we need to pay more attention to this.,因此，我們需要更加關注這一點。,80,minor_issues,,[medium] terminology: None
+19,"00:01:46,870 --> 00:01:52,010","To practice this type, we're going to reuse the passage Street Art Revolution.",為了練習這類型題目，我們將重複使用 Street Art Revolution 這篇文章。,45,needs_revision,為了練習這型別題目，我們將重複使用 Street Art Revolution 這篇文章。,[high] terminology: None
+20,"00:01:52,950 --> 00:01:57,910",Steps 1 to 5 of this question type are similar to those of summary completion,這道題型的前五步與沒有詞彙清單的摘要填空（summary com,30,needs_revision,此題型的前五步與摘要填空題類似,[medium] terminology: None; [medium] terminology: None; [high] placeholder: None; [high] meaning_drift: None
+21,"00:01:57,910 --> 00:02:02,350","without a word list, so I believe you can do it well.",pletion）相似，我相信你們能做得很好。,35,needs_revision,OK,[medium] terminology: None; [high] meaning_drift: None
+22,"00:02:08,990 --> 00:02:12,610",Step 1. Read the question's requirement carefully.,第一步：仔細閱讀題目的要求。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+23,"00:02:13,450 --> 00:02:18,890","The requirement is, complete the summary using the list of words A to J.",題目要求是：使用 A 至 J 的詞彙清單完成摘要。,80,minor_issues,,[medium] terminology: None
+24,"00:02:19,490 --> 00:02:23,930",So this is definitely summary completion with a word list.,所以這肯定是摘要填空題，並附有詞彙清單。,80,minor_issues,,[medium] terminology: None
+25,"00:02:24,630 --> 00:02:26,070",Here is a note for you.,這裡有一個備註提供給您。,42,needs_revision,這裡有一個筆記給您。,[high] meaning_drift: None; [low] style: None
+26,"00:02:26,450 --> 00:02:33,330","The answers you write in the answer sheet are letters A to J, not the words.",您在答題卷上填寫的答案應為 字母 A 至 J，而非單字。,45,needs_revision,您在答題捲上填寫的答案應為 字母 A 至 J，而非單字。,[high] terminology: None
+27,"00:02:34,490 --> 00:02:40,130","Looking at the summary quickly, we see there are seven blanks, but ten words in",快速瀏覽摘要後，我們可以看到有七個空白處，但詞彙清單中卻有十個單字。,100,ok,,
+28,"00:02:40,130 --> 00:02:43,650","the word list, so there are three distractors.",詞彙清單中有三個干擾選項。,80,minor_issues,,[medium] terminology: None
+29,"00:02:44,590 --> 00:02:49,070","Unless stated otherwise, each letter is used only once.",除非另有說明，否則每個選項字母僅能使用一次。,100,ok,,
+30,"00:02:50,790 --> 00:02:55,550",Step 2. Apply skimming skills to read the text quickly.,步驟 2：套用略 讀技巧快速閱讀文章。,77,minor_issues,步驟 2：套用略讀技巧快速閱讀文章。,[medium] terminology: None; [low] typo: None
+31,"00:02:56,490 --> 00:03:00,570",I'll give you 25 seconds to find the main idea of the passage.,我給你 25 秒的時間來找出文章的主旨。,80,minor_issues,,[medium] terminology: None
+32,"00:03:28,850 --> 00:03:33,090",Now choose the correct answer in the following interactive question.,現在請在以下互動題中選擇正確答案。,80,minor_issues,,[medium] terminology: None
+33,"00:03:34,950 --> 00:03:41,210","The answer is B, because we can identify some key words in the summary as follows.",答案是 B，因為我們可以 在摘要中識別出以下關鍵字。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+34,"00:03:41,930 --> 00:03:47,570","We see that the summary discusses the shift in focus, the financial benefits,",我們看到摘要討論了焦點的轉移、財務權,30,needs_revision,我們看到摘要討論了焦點的轉移、財務效益,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+35,"00:03:48,170 --> 00:03:55,090",and finally mentions that this movement proves that should be available to all.,益，最後提到這項運動證明應該人人都有。,35,needs_revision,並最後指出，這項運動證明應人人享有。,[medium] terminology: None; [high] meaning_drift: None
+36,"00:03:56,350 --> 00:04:02,670","This flow of ideas, from a shift in focus to economic benefits and a global",這個從焦點轉移、經濟權益到全球運動的想法流程，完全,39,needs_revision,這個從焦點轉移、經濟效益到全球運動的思維流動，完全,[low] terminology: None; [low] collocation: None; [high] meaning_drift: None
+37,"00:04:02,670 --> 00:04:09,610","movement, perfectly matches option B, the evolution of street art into a global",符合選項 B：街頭藝術（street art）演變為具,45,needs_revision,,[high] meaning_drift: None
+38,"00:04:09,610 --> 00:04:12,930",movement with social and economic benefits.,有社會與經濟權益的全球運動。,100,ok,,
+39,"00:04:14,990 --> 00:04:22,570",Step 3. Apply scanning skills to the first and last sentence of the summary to locate its area.,步驟 3：將掃描技巧套用於摘 要的首句與末句，以定位其範圍。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+40,"00:04:23,470 --> 00:04:25,590","In this step, I will help you.",在這個步驟中，我將協助您。,100,ok,,
+41,"00:04:26,310 --> 00:04:31,330",The information block for this summary starts with shifted focus toward,此摘要的資訊區塊以焦點轉移至相關疑慮開,42,needs_revision,此摘要的資訊區塊以焦點轉移開始,[low] typo: None; [high] meaning_drift: None
+42,"00:04:31,330 --> 00:04:37,830","concerns, matching paragraph four, and ends with the conclusion about",始，符合第四段，並以關於創造力的結,30,needs_revision,開始，符合第四段，並總結關於,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+43,"00:04:37,830 --> 00:04:41,070","creativity, matching paragraph seven.",論結束，符合第七段。,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+44,"00:04:41,890 --> 00:04:48,170","However, when you take the actual test, remember to do step three carefully to",然而，在參加實際測驗時，請記得仔細執行第三步，以,77,minor_issues,,[low] style: None; [medium] terminology: None
+45,"00:04:48,170 --> 00:04:50,010",define the scope yourself.,定義範圍,45,needs_revision,自行定義範圍,[high] meaning_drift: None
+46,"00:04:52,830 --> 00:04:57,710",Step 4. Read each question carefully and predict the answer.,步驟 4：仔細閱讀 每個問題，並預測答案。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+47,"00:04:58,890 --> 00:05:05,290","For question one, modern street art has shifted focus toward blank concerns,",第一題：現代街頭藝術的焦點已轉移至相關疑慮,77,minor_issues,,[medium] terminology: None; [low] style: None
+48,"00:05:05,970 --> 00:05:08,790",such as the environment and global peace.,，例如環境與世界和平。,80,minor_issues,,[medium] terminology: None
+49,"00:05:09,700 --> 00:05:11,430",We can make some predictions.,我們可以進行一些預測。,100,ok,,
+50,"00:05:12,470 --> 00:05:17,070","Grammatically, we need an adjective to describe the noun concerns.",在文法上，我們需要一個形容詞來描述名詞 concerns。,45,needs_revision,在文法上，我們需要一個形容詞來描述名詞 擔憂。,[high] meaning_drift: None
+51,"00:05:18,410 --> 00:05:24,730","Meaning-wise, since the examples are environment and peace, the missing word",從語意上來看，由於範例涉及環境與和平，因此缺失的詞彙,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+52,"00:05:24,730 --> 00:05:28,490",likely relates to social or global issues.,很可能與社會或全球議題有關。,100,ok,,
+53,"00:05:30,900 --> 00:05:36,140",Step 5. Apply scanning skills to locate the information for each question.,步驟 5：套用掃描技巧以 找出每題的答案資訊。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+54,"00:05:36,990 --> 00:05:40,540","For this instance, I will guide you through question one.",在這一部分，我將引導你完成第一題。,100,ok,,
+55,"00:05:41,540 --> 00:05:49,180","Based on the keywords peace and environmental care, we locate the information in paragraph four.",根據關鍵字 peace 和 environm ental care，我們定位到第四段的資訊。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [low] style: None
+56,"00:05:50,060 --> 00:06:09,720","The text says, Step 6. Find the necessary information in the passage, compare, and choose the",文章提到，Step 6。找出必要的資訊。 從文章中的資訊進行比較，並在詞,30,needs_revision,文章提到，步驟 6。找出必要的資訊。 從文章中的資訊進行比較，並選擇正確答案,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+57,"00:06:09,720 --> 00:06:12,120",corresponding answer in the word list.,彙表中選擇對應的答案。,35,needs_revision,單字表中對應的答案。,[medium] terminology: None; [high] meaning_drift: None
+58,"00:06:12,860 --> 00:06:19,700","Here, don't just stop at the first sentence, and you should also read the very next sentence.",這裡不要只停在第一句，你 也應該閱讀接下來的那一句。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+59,"00:06:20,800 --> 00:06:28,760",The text explicitly states that these images prompt discussions about important societal issues.,文章明確指出這些圖片 針對重要社會議題的討論。,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+60,"00:06:29,760 --> 00:06:36,420","Now, compare this to the summary, shifted focus toward, one, concerns.",現在，請將此內容與摘要進行比較，並將焦點轉向：一、相關疑慮。,100,ok,,
+61,"00:06:37,600 --> 00:06:44,560","Here, concerns is a direct synonym for issues, and the text uses the specific",在此，concerns 是 issues 的直接同義詞，而文章則使用特定的形,39,needs_revision,這裡，concerns 是 issues 的同義詞，而文章使用的是特定的,[low] style: None; [low] style: None; [high] meaning_drift: None
+62,"00:06:44,560 --> 00:06:47,780",adjective societal to describe them.,容詞 societal 來描述它們。,77,minor_issues,形容詞 societal 來描述它們。,[medium] terminology: None; [low] style: None
+63,"00:06:48,960 --> 00:06:53,120","This matches option C, societal, perfectly.",這與選項 C 的 societal 完全相符。,87,minor_issues,這與選項 C 的 社會性 完全相符。,[low] terminology: None
+64,"00:06:53,980 --> 00:06:57,180",We don't need to guess or change word forms.,我們不需要猜測或改變詞的形式。,100,ok,,
+65,"00:06:57,860 --> 00:07:01,040",The exact word is right there in the text.,文章中有「exact」這個確切的字眼。,80,minor_issues,,[medium] terminology: None
+66,"00:07:01,700 --> 00:07:03,840",So the answer is C.,因此，答案為 C。,80,minor_issues,,[medium] terminology: None
+67,"00:07:06,180 --> 00:07:08,080",Now it's time to practice.,現在是練習的時候。,100,ok,,
+68,"00:07:08,780 --> 00:07:13,960","Preppies, please pause the video for five minutes to complete the remaining questions.",Preppies，請暫停影片五秒 完成其餘問題所需的分鐘數。,30,needs_revision,Preppies，請暫停影片五分鐘以完成其餘問題。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] register: None
+69,"00:07:14,920 --> 00:07:19,900",Remember to scan for synonyms and choose the correct letter from the box.,記得掃描同義詞，並從方框中選出正確的選項。,70,minor_issues,記得找出同義詞，並從方框中選出正確的字母。,[medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None
+70,"00:07:25,980 --> 00:07:28,280","OK, let's check the answers.",好的，我們來對答案。,80,minor_issues,,[medium] terminology: None
+71,"00:07:29,220 --> 00:07:31,620","Question two, look at the grammar.",第二題，看看文法,100,ok,,
+72,"00:07:32,660 --> 00:07:39,440","Viewed as being more than, we need an adjective here to form a comparison.",「Viewed as being more than」被視為大於，此處需要一個形容詞來形成比較形式。,32,needs_revision,「Viewed 作為 being more than」被視為大於，此處需要一個形容詞來形成比較形式。,[medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+73,"00:07:40,560 --> 00:07:47,200",The text says street art feels more personal and conveys deeper meanings.,文中指出街頭藝術更具個人色彩，並傳達更深刻的意涵。,80,minor_issues,,[medium] terminology: None
+74,"00:07:48,220 --> 00:07:54,600","In the word list, I, subjective, is the perfect adjective to describe something",在詞彙表中，「I」是形容主詞個人化且易於,30,needs_revision,在詞彙表中，「I」是形容某事物,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+75,"00:07:54,600 --> 00:07:57,380",personal and open to interpretation.,詮釋的完美形容詞。,45,needs_revision,個人化且開放詮釋的。,[high] meaning_drift: None
+76,"00:07:59,000 --> 00:08:06,360","Question three, the sentence is, improve the blank of previously neglected neighbourhoods.",第三題，句子是，改善先前 被忽略的社區的空白處。,30,needs_revision,第三題，句子是，改善先前 被忽略的社群的空白處。,[high] terminology: None; [high] meaning_drift: None; [low] collocation: None
+77,"00:08:06,840 --> 00:08:08,760","Here, we need a noun.",此處我們需要一個名詞。,80,minor_issues,,[medium] terminology: None
+78,"00:08:09,700 --> 00:08:14,760",The text mentions turning overlooked areas into popular places.,文中提到將被忽視的區域轉化為熱門地點。,100,ok,,
+79,"00:08:15,940 --> 00:08:24,040","These changes improve the area's image, or specifically its reputation, which is a noun.",這些改變改善了該地區的形象，更 具體地說是其聲譽，這是一個名詞。,80,minor_issues,,[medium] terminology: None
+80,"00:08:26,260 --> 00:08:31,900","Question four, the summary says, financial benefits for blank.",第四題，摘要指出，針對空白處的財務權益。,32,needs_revision,第四題，摘要指出，針對空白的財務益處。,[medium] terminology: None; [high] meaning_drift: None; [low] terminology: None
+81,"00:08:33,000 --> 00:08:40,580","After the preposition for, we need a noun or noun phrase to tell us who gets the money.",介系詞 for 之後，我們需要名詞 或名詞片語來指出誰會獲得金錢。,77,minor_issues,,[low] style: None; [medium] terminology: None
+82,"00:08:41,900 --> 00:08:49,560",Paragraph five explicitly mentions an economic impact that helps local shops and small businesses.,第五段明確提到了有助於當 地商店和小型企業的經濟影響。,70,minor_issues,第五段明確提到了有助於當地商店和小型企業的經濟影響。,[medium] terminology: None; [medium] terminology: None; [low] typo: None
+83,"00:08:50,520 --> 00:08:55,940","This maps directly to the noun phrase, D, local businesses.",這直接對應到名詞片語 D：local businesses。,87,minor_issues,這直接對應到名詞片語 D，local businesses。,[low] style: None
+84,"00:08:57,540 --> 00:09:01,260","Question five, many officials now give artists.",第五題，許多官員現在會提供藝術家。,77,minor_issues,,[medium] terminology: None; [low] style: None
+85,"00:09:02,540 --> 00:09:06,860",We need a noun here to indicate what is being given.,我們需要在此處使用一個名詞，以表示所給予的內容。,80,minor_issues,,[medium] terminology: None
+86,"00:09:07,960 --> 00:09:12,940","In the text, the officials are actively inviting artists.",在文章中，官員們積極邀請藝術家。,100,ok,,
+87,"00:09:13,900 --> 00:09:18,280","We need to change the action, inviting, into a noun.",我們必須將動作 inviting 變更為名詞。,77,minor_issues,我們必須將動作 邀請 變更為名詞。,[medium] terminology: None; [low] style: None
+88,"00:09:19,420 --> 00:09:22,840","When you invite someone, you give them an invitation.",當你 invite 某人時，你會給他們一份 invitation。,84,minor_issues,當你 邀請 某人時，你會給他們一份 邀請函。,[low] terminology: None; [low] terminology: None
+89,"00:09:23,660 --> 00:09:28,020","So, G, invitation, is the correct noun.",所以，G，invitation 是正確的名詞。,100,ok,,
+90,"00:09:28,860 --> 00:09:36,160","Question six, the verb have allowed is plural, so we need a plural noun as the subject.",第六題，動詞 have allowed 是 複數形式，因此主詞需要是複數名詞。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+91,"00:09:37,220 --> 00:09:41,380","Paragraph six says, technology has played a role.",第六段提到，科技扮演了一定的角色。,80,minor_issues,,[medium] terminology: None
+92,"00:09:42,340 --> 00:09:49,220","Looking at the list, A, technological advances, is the only plural noun phrase",查看清單，A，technological advances，是唯一的名詞片語複數形式。,35,needs_revision,檢視清單，A，technological advances，是唯一的名詞片語複數形式。,[high] terminology: None; [medium] terminology: None
+93,"00:09:49,220 --> 00:09:51,300",that matches technology.,符合 technology。,45,needs_revision,符合 科技。,[high] meaning_drift: None
+94,"00:09:52,320 --> 00:09:58,520","Question seven, this movement proves that, blank, should be available to all.",第七題，這項運動證明，空白處應對所有人開放。,70,minor_issues,第七題，這項運動證明，空白應對所有人開放。,[medium] terminology: None; [medium] terminology: None; [low] style: None
+95,"00:09:59,460 --> 00:10:02,500",We need a noun representing a concept.,我們需要一個代表一個概念的名詞,80,minor_issues,,[medium] terminology: None
+96,"00:10:03,460 --> 00:10:09,580","The conclusion says, it reminds people that creativity can belong to everyone.",結論指出，它提醒人們創意可以屬於每個人,100,ok,,
+97,"00:10:10,460 --> 00:10:16,280","In this context, creativity refers to the ability to express art.",在此脈絡中，creativity 指的是表達藝術的能力。,87,minor_issues,在此脈絡中，創造力 指的是表達藝術的能力。,[low] style: None
+98,"00:10:16,820 --> 00:10:20,160","This matches F, artistic expression.",這與 F（藝術表達）相符。,100,ok,,
+99,"00:10:20,680 --> 00:10:22,600","So, the answer is F.",因此，答案是 F。,100,ok,,
+100,"00:10:29,870 --> 00:10:34,250","I hope that through these two videos, you have had a better understanding of",希望透過這兩部影片，您能對摘要填空題有,30,needs_revision,希望透過這兩部影片，您能對這些主題更清楚的了解,[high] meaning_drift: None; [high] meaning_drift: None
+101,"00:10:34,250 --> 00:10:35,570",summary completion questions.,更深入的瞭解。,30,needs_revision,摘要補題問題。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+102,"00:10:36,030 --> 00:10:42,890","Of course, to fully absorb the knowledge, you need to do the exercises attached below and practice more.",當然，要完全吸收這些知識，您必須 完成下方附上的練習，並多加練習。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+103,"00:10:43,450 --> 00:10:48,930",These are some important notes I've summarized for you from the two videos on summary completion.,以下是我為您從兩部關於摘要 填空的影片中整理的重點備註。,70,minor_issues,以下是我為您從兩個關於摘要填空的影片中整理的重點。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] collocation: None; [low] typo: None; [low] collocation: None
+104,"00:10:49,610 --> 00:10:53,530",The questions might not come in order as the information in the passage.,題目順序可能與文章資訊的出現順序不同。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [low] style: None
+105,"00:10:54,450 --> 00:10:58,390",It is not necessary to read and understand the whole passage.,不需要閱讀並理解整篇文章。,80,minor_issues,,[medium] terminology: None
+106,"00:10:58,950 --> 00:11:02,890","Instead, focus on sentences in the summary and the keywords.",相反地，著重於摘要中的句子和關鍵字。,100,ok,,
+107,"00:11:04,010 --> 00:11:09,530","Make predictions for the answers based on word form, grammar, meaning, and the",根據詞彙形式、文法、語意以及詞彙表（如有），,30,needs_revision,根據詞彙形式、文法、語意以及語境，,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+108,"00:11:09,530 --> 00:11:14,330","word list, if any, to locate information areas containing the answers carefully.",對答案進行預測，以仔細定 位包含答案的資訊區域。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] collocation: None; [low] register: None; [high] meaning_drift: None
+109,"00:11:15,390 --> 00:11:19,790","For summary with the word list, the words or phrases to be filled in must",針對有詞彙表的摘要題，要填入的詞彙或片語必須,80,minor_issues,,[medium] terminology: None
+110,"00:11:19,790 --> 00:11:26,210","be taken directly from the passage, be synonyms or antonyms for the words in the passage.",直接出自文章、是文章中詞 彙的同義詞或反義詞。,100,ok,,
+111,"00:11:27,150 --> 00:11:31,730","For summary with the word list, the answers you write in the answer sheet when",針對有詞彙表的摘要題，在紙筆測驗時填寫於答題卷,30,needs_revision,針對附有單字表的摘要題，作答時所寫的答案,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] register: None; [high] meaning_drift: None
+112,"00:11:31,730 --> 00:11:35,810","taking paper-based tests, or in the blanks when taking computer-based tests,",上，或在電腦測驗時填寫於空白處的答案，是詞彙表,30,needs_revision,紙筆測驗，或在電腦測驗時填寫於空白處的答案,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None; [high] meaning_drift: None
+113,"00:11:36,310 --> 00:11:39,930","are letters A, B, C, etc. in the word list.",中的字母 A、B、C 等。,80,minor_issues,,[medium] terminology: None
+114,"00:11:41,090 --> 00:11:42,050","All right, everyone.",好的，各位。,80,minor_issues,,[medium] terminology: None
+115,"00:11:42,490 --> 00:11:43,750",See you in the next lesson.,下一堂課見。,100,ok,,
+116,"00:11:43,950 --> 00:11:44,990","For now, goodbye.",目前先告別。,80,minor_issues,,[medium] terminology: None

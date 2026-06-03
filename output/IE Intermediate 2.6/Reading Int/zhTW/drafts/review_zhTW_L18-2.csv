@@ -1,0 +1,149 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:11,950 --> 00:00:13,150",Hi Preppies!,嗨，Preppies！,80,minor_issues,,[medium] terminology: None
+2,"00:00:13,290 --> 00:00:15,550",I'm back with another exciting lesson.,我回來了，帶來另一堂精彩的課程。,80,minor_issues,,[medium] terminology: None
+3,"00:00:16,270 --> 00:00:18,790",Let's start today's lesson with this task.,讓我們以這個任務開始今天的課程。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+4,"00:00:19,370 --> 00:00:21,210","Alright, have you found the answer?",好了，你找到答案了嗎？,100,ok,,
+5,"00:00:22,210 --> 00:00:26,610","From the interactive question, you've just had an experience of handling",透過這個互動式問題，你剛剛體驗了應對的過程。,80,minor_issues,,[medium] terminology: None
+6,"00:00:26,610 --> 00:00:29,710",matching information to paragraphs question type.,配對資訊段落題型。,35,needs_revision,matching information to paragraphs 題型,[medium] terminology: None; [high] meaning_drift: None
+7,"00:00:30,410 --> 00:00:33,150",Locate paragraphs containing given information.,找出包含指定資訊的段落。,80,minor_issues,,[medium] terminology: None
+8,"00:00:33,910 --> 00:00:36,410","In today's lesson, we're going to learn about this.",In today's lesson，我們接下來要來學習這個。,70,minor_issues,今天的課程中，我們接下來要來學習這個。,[medium] terminology: None; [medium] terminology: None
+9,"00:00:37,090 --> 00:00:41,950",We will go back to the question at the beginning after understanding steps for this question type.,了解此題型的解題步驟後， 我們將回到開頭的題目。,35,needs_revision,瞭解此題型的解題步驟後， 我們將回到開頭的題目。,[high] terminology: None; [medium] terminology: None
+10,"00:00:42,830 --> 00:00:45,010",This lesson has three parts.,本課程分為三個部分。,100,ok,,
+11,"00:00:46,530 --> 00:00:51,930",1. Introduction to matching information to paragraphs,1. 配對資 訊至段落介紹,70,minor_issues,1. 配對資訊與段落簡介,[medium] terminology: None; [medium] terminology: None; [low] collocation: None
+12,"00:00:52,690 --> 00:00:57,030",2. Steps for matching information to paragraphs,2. 將配對資訊與段落對應的步驟,77,minor_issues,2. 將資訊與段落配對的步驟,[medium] terminology: None; [low] collocation: None
+13,"00:00:57,790 --> 00:00:58,250",3. Practice.,3. 練習。,100,ok,,
+14,"00:00:59,370 --> 00:01:05,330",This lesson aims to help you understand features of matching information to paragraphs.,本課程旨在協助您理解將 配對資訊與段落對應的特徵。,80,minor_issues,,[medium] terminology: None
+15,"00:01:05,990 --> 00:01:10,170",Understand and apply steps for matching information to paragraphs.,理解並套用將配對資訊與段落對應的步驟。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+16,"00:01:11,430 --> 00:01:13,250",So what are we waiting for?,那麼我們還在等什麼呢？,100,ok,,
+17,"00:01:13,430 --> 00:01:16,270",Let's dive into the first part of today's lesson.,讓我們開始今天的課程第一部分。,80,minor_issues,,[medium] terminology: None
+18,"00:01:21,850 --> 00:01:25,870",Matching information to paragraphs in IELTS reading is a question type which,在 IELTS 閱讀測驗中，配對資訊至段落屬於,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+19,"00:01:25,870 --> 00:01:30,050",requires candidates to match questions with paragraphs containing suitable,一種題型，要求考生將問題與閱讀文章中包含合適,45,needs_revision,需將考生作答的題目與含有適當內容的段落配對,[high] meaning_drift: None
+20,"00:01:30,050 --> 00:01:31,890",information in the reading passage.,資訊的段落進行配對。,35,needs_revision,閱讀文章中的資訊。,[medium] terminology: None; [high] meaning_drift: None
+21,"00:01:32,630 --> 00:01:35,530",This question type has the following main parts.,此題型包含以下主要部分。,100,ok,,
+22,"00:01:37,090 --> 00:01:37,830",A requirement.,一項要求。,80,minor_issues,,[medium] terminology: None
+23,"00:01:38,930 --> 00:01:45,970","For those who take the paper-based test, please note that the requirement is write the correct letter A to H.",對於參加紙筆測驗的考生，請注意，作答 要求為寫入正確的 A 至 H 字母。,70,minor_issues,對於參加紙筆測驗的考生，請注意，作答要求為寫入正確的 A 至 H 選項。,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] style: None
+24,"00:01:46,450 --> 00:01:51,250","So when filling in the answers, you only write the letters from A to H,",因此，作答時請只填寫 A 至 H 的字母，不包含 section 或,70,minor_issues,因此，作答時請只填寫 A 至 H 的字母，不包含 章節 或,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] typo: None
+25,"00:01:51,250 --> 00:01:55,550",not including the word section or paragraph A or paragraph H.,paragraph A、paragraph H 等文字。,35,needs_revision,段落 A、paragraph H 等文字。,[medium] terminology: None; [high] meaning_drift: None
+26,"00:01:56,430 --> 00:01:59,450",The remaining part is numbered questions.,其餘部分為編號問題。,100,ok,,
+27,"00:02:00,590 --> 00:02:04,850","Next, you need to pay attention to the types of information in the questions,",接下來，您需要留意問題中的資訊類型，包,30,needs_revision,接下來，您需要留意問題中的資訊型別，包,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+28,"00:02:05,350 --> 00:02:05,930",including.,括。,45,needs_revision,包含。,[high] meaning_drift: None
+29,"00:02:26,210 --> 00:02:26,810",Definition.,定義。,100,ok,,
+30,"00:02:28,910 --> 00:02:29,510",Explanation.,說明。,100,ok,,
+31,"00:02:31,290 --> 00:02:31,890",Example.,範例。,100,ok,,
+32,"00:02:34,190 --> 00:02:39,930","Next, let's take a look at some features of this question type to help you tackle it better.",接下來，讓我們來看看此題型的 一些特徵，以幫助您更好地應對。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+33,"00:02:41,050 --> 00:02:44,990","In matching headings, in which you have to match headings with paragraphs,",在配對標題題型中，您需要將標題與段落進行配對，,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+34,"00:02:44,990 --> 00:02:47,150",your main task is to find the main idea.,您的主要任務是找出主旨。,100,ok,,
+35,"00:02:48,050 --> 00:02:52,230","In matching information to paragraphs, it requires you to match information",在配對段落資訊題型中，您需要將資訊與段落進行配對。,80,minor_issues,,[medium] terminology: None
+36,"00:02:52,230 --> 00:02:56,190",with paragraphs or find a detailed piece of information in the paragraphs.,段落配對，或在段落中尋找詳細資訊。,100,ok,,
+37,"00:02:57,110 --> 00:03:02,590",The information for answering the questions may not be located in just one or,作答所需資訊可能不局限在一、兩句話,30,needs_revision,回答問題所需的資訊可能不侷限在單一處或,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] register: None
+38,"00:03:02,590 --> 00:03:06,190","two sentences, but could be found in the whole paragraph.",內，而是散見於整個段落中。,45,needs_revision,兩句話，但可以在整個段落中找到。,[high] meaning_drift: None
+39,"00:03:06,870 --> 00:03:12,090","Therefore, many times you have to find very detailed information in the paragraph.",因此，您經常必須在段 落中尋找非常詳細的資訊。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+40,"00:03:12,850 --> 00:03:17,550","Moreover, you have to understand the overall meaning of the entire paragraph to",此外，您必須理解整段文字的整體意義，才能找,80,minor_issues,,[medium] terminology: None
+41,"00:03:17,550 --> 00:03:18,910",find the correct answer.,到正確答案。,35,needs_revision,找到正確答案。,[medium] terminology: None; [high] meaning_drift: None
+42,"00:03:19,690 --> 00:03:24,490","The number of paragraphs is always more than the number of questions, so there",段落數量通常多於題目數量，因此會有,80,minor_issues,,[medium] terminology: None
+43,"00:03:24,490 --> 00:03:27,390",will be options or paragraphs that are not used.,未使用的選項或段落。,100,ok,,
+44,"00:03:28,290 --> 00:03:31,230",Check if the requirement includes this sentence.,請確認該要求是否包含此句。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+45,"00:03:32,110 --> 00:03:38,710","Note then, you may use any letters more than once, as in this example.",備註：接著，您可以重複使用任何字母，如同本例所示。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+46,"00:03:39,390 --> 00:03:44,430","It means that one paragraph can contain the information for two questions, and",這表示一段文字可能包含兩道題目的資訊，而這兩,30,needs_revision,這表示一段文字可能包含兩道題目的資訊，而並且,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+47,"00:03:44,430 --> 00:03:46,730",these two questions can have the same answer.,道題目可能有相同的答案。,35,needs_revision,這兩道題目可能有相同的答案。,[medium] terminology: None; [high] meaning_drift: None
+48,"00:03:47,190 --> 00:03:52,350","In the case where the requirement does not include the sentence, it means that",若該要求不包含此句，則表示每個答,30,needs_revision,若該要求不包含此句，則表示代表,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+49,"00:03:52,350 --> 00:03:59,510","each answer can be written only once, and there won't be any question having the same answer.",案只能填寫一次，且無 不會有任何題目具有相同答案。,42,needs_revision,每個答案只能填寫一次，且不會有任何題目具有相同答案。,[low] style: None; [high] meaning_drift: None
+50,"00:04:00,530 --> 00:04:06,610",And the last feature is that the questions might not come in order as the information in the passage.,最後一個特點是，題目可能不 會按照文章資訊的順序出現。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+51,"00:04:08,010 --> 00:04:12,390",You should handle matching information to paragraphs questions after completing,完成其他題型後，您應處理段落配對資訊,30,needs_revision,完成後，您應處理段落配對題,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+52,"00:04:12,390 --> 00:04:17,390",other question types because the information is located in the whole passage.,題目，因為相關資訊分散在整篇文章中。,32,needs_revision,其他題型，因為相關資訊位於整篇文章中。,[medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+53,"00:04:18,050 --> 00:04:22,050","After finishing questions that require finding detailed information, we can",完成需要尋找詳細資訊的題目後，我們就能對,30,needs_revision,完成需要尋找詳細資訊的題目後，我們就能回答,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+54,"00:04:22,050 --> 00:04:24,510",somewhat understand the content of the paragraphs.,段落內容有某種程度的了解。,35,needs_revision,段落內容有某種程度的瞭解。,[high] terminology: None; [medium] terminology: None
+55,"00:04:24,910 --> 00:04:29,670","Hence, you can use scanning skill when looking for detailed information more quickly.",因此，在尋找詳細資訊時，您可以運用 scanning skill 來加快速度。,87,minor_issues,,[low] style: None
+56,"00:04:30,350 --> 00:04:34,050","So, we've gained the basic information about this question type.",因此，我們已掌握此題型的基本資訊。,100,ok,,
+57,"00:04:34,550 --> 00:04:36,070",How about the steps for it?,那它的步驟為何？,100,ok,,
+58,"00:04:36,350 --> 00:04:38,910",Let's find out about them in the next part.,讓我們在下一部分中進一步了解它們。,45,needs_revision,讓我們在下一部分中進一步瞭解它們。,[high] terminology: None
+59,"00:04:43,020 --> 00:04:46,520",There are three main steps for this question type.,此題型有三個主要步驟。,100,ok,,
+60,"00:04:47,380 --> 00:04:52,280",Step 1. Read the requirement carefully and underline keywords in questions.,步驟一：仔細閱讀題目要求 ，並在問題中劃出關鍵字。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] placeholder: None
+61,"00:04:53,140 --> 00:05:00,340",Step 2. Apply scanning skills to find keywords in paragraphs corresponding to keywords in questions.,步驟二。運用掃描技巧，在段落中找 出與題目關鍵字相對應的關鍵字。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] placeholder: None
+62,"00:05:01,240 --> 00:05:08,220","Step 3. Read paragraphs carefully, compare their information with questions, and choose the answers.",步驟 3：仔細閱讀段落，將其中的資 訊與題目進行比較，並選出正確答案。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+63,"00:05:09,040 --> 00:05:13,000","Now, we're going to apply these steps to the following passage.",現在，我們要將這些步驟套用到以下段落中。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+64,"00:05:23,120 --> 00:05:25,740",Let's take the first step together.,讓我們一起來完成第一步。,80,minor_issues,,[medium] terminology: None
+65,"00:05:26,560 --> 00:05:29,260",Step 1. Read the requirement carefully.,步驟 1。 仔細閱讀要求。,80,minor_issues,,[medium] terminology: None
+66,"00:05:29,900 --> 00:05:32,800",We have five questions and four paragraphs.,我們有五道題目和四個段落。,80,minor_issues,,[medium] terminology: None
+67,"00:05:33,220 --> 00:05:35,400","A, B, C, D.",A、B、C、D。,100,ok,,
+68,"00:05:36,120 --> 00:05:42,180","Because of the NB notes, don't assume that you will use every paragraph once.",由於 NB 說明，別以為每個段落都只會用到一次,100,ok,,
+69,"00:05:42,680 --> 00:05:47,200","Some might be used twice, or some might not be used at all.",有些段落可能會被使用兩次，有些則可能完全不會用到。,100,ok,,
+70,"00:05:47,880 --> 00:05:53,940","Now that we've understood the requirements, let's read and underline the keywords in question 1.",既然我們已經了解需求，現在請閱 讀並劃出第 1 題的關鍵字。,30,needs_revision,既然我們已經瞭解需求，現在請閱 讀並劃出第 1 題的關鍵字。,[high] terminology: None; [low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+71,"00:05:55,760 --> 00:06:01,540",Question 1. A reference to historical methods used to promote home ownership.,第 1 題。提及歷史 用於促進房屋所有權的方法。,30,needs_revision,問題一、提及過去促進住宅自有的方法。,[medium] terminology: None; [low] terminology: None; [low] collocation: None; [low] style: None; [high] meaning_drift: None
+72,"00:06:02,300 --> 00:06:07,980",The key phrase here is historical methods and promote home ownership.,這裡的關鍵詞組是歷史方法和促進房屋所有權。,32,needs_revision,這裡的關鍵片語是歷史方法和促進房屋所有權。,[high] terminology: None; [medium] terminology: None; [low] collocation: None
+73,"00:06:08,660 --> 00:06:13,160",We need to find a paragraph that talks about how things were done in the past,我們需要找到一個段落，內容是關於過去如何幫助,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+74,"00:06:13,160 --> 00:06:15,260",to help people buy homes.,人們購買房屋。,45,needs_revision,幫助人們購屋。,[high] meaning_drift: None
+75,"00:06:16,340 --> 00:06:24,740",Step 2. Apply scanning skills to find keywords in paragraphs corresponding to keywords in questions.,步驟 2。套用掃描技巧以找到關鍵字中的 對應題目關鍵字的段落,30,needs_revision,步驟 2。步驟 2。運用掃描技巧，找出段落中與題目關鍵字對應的內容,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+76,"00:06:25,820 --> 00:06:29,640","Now, we scan the text for synonyms or related words.",接著，我們掃描文章，尋找同義詞或相關詞,100,ok,,
+77,"00:06:30,460 --> 00:06:34,200","In paragraph A, we immediately see the word historically.",在A段中，我們立刻看到「historically」這個詞。,80,minor_issues,,[medium] terminology: None
+78,"00:06:35,120 --> 00:06:36,780",This matches our keyword.,這符合我們的關鍵字。,100,ok,,
+79,"00:06:37,540 --> 00:06:42,640","We also see promoted home ownership, which is an exact match.",我們也看到「home ownership」被列為推廣項目，這完全符合我們的關鍵字。,30,needs_revision,我們也看到「房屋所有權」被列為推廣專案，這完全符合我們的關鍵字。,[high] terminology: None; [low] style: None; [medium] terminology: None; [low] style: None
+80,"00:06:43,200 --> 00:06:49,940",And we see examples of methods like low interest loans and suburban development.,我們看到像 low interest loans 和 s uburban development 這類方法範例。,70,minor_issues,我們看到像 低利貸款 和 郊區開發 這類方法範例。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None
+81,"00:06:51,180 --> 00:06:54,280",Step 3. Read paragraphs carefully.,第 3 步。 請仔細閱讀段落。,80,minor_issues,,[medium] terminology: None
+82,"00:06:54,820 --> 00:06:58,460",Compare their information with questions and choose the answers.,將他們的資訊與問題進行比較，並選出答案。,80,minor_issues,,[medium] terminology: None
+83,"00:06:59,340 --> 00:07:01,880",Let's read paragraph A in detail.,請詳細閱讀段落 A。,80,minor_issues,,[medium] terminology: None
+84,"00:07:02,740 --> 00:07:07,880","In the decades following World War II, governments promoted home ownership",第二次世界大戰後的幾十年間，政府透過低利貸款（low interest loans）與郊區,35,needs_revision,二戰後的幾十年間，政府推動房屋自有率,[medium] terminology: None; [high] meaning_drift: None
+85,"00:07:07,880 --> 00:07:11,820",through low interest loans and suburban development.,開發（suburban development）推廣房屋自有。,30,needs_revision,開發（郊區開發）推廣房屋自有。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+86,"00:07:12,560 --> 00:07:18,860","Here, low interest loans and suburban development are the methods used.",此處，低利貸款（low interest loans）與郊區開發（suburban development）是所使用的方法。,100,ok,,
+87,"00:07:19,560 --> 00:07:25,580",Decades following World War II sets the historical context and the text,第二次世界大戰後的幾十年設定了歷史背景以及本文內容,84,minor_issues,第二次世界大戰後的幾十年設定歷史背景與本文內容,[low] collocation: None; [low] register: None
+88,"00:07:25,580 --> 00:07:29,540",explicitly says they promoted home ownership.,明確指出他們推廣了房屋自有。,77,minor_issues,明確指出他們推廣了購屋。,[medium] terminology: None; [low] collocation: None
+89,"00:07:30,600 --> 00:07:32,900",This perfectly matches question 1.,這完全符合第 1 題。,80,minor_issues,,[medium] terminology: None
+90,"00:07:33,480 --> 00:07:38,140",A reference to historical methods used to promote home ownership.,提及促進房屋自有所使用的歷史方法。,71,minor_issues,指涉促進自有住宅所所採用的歷史方法。,[medium] terminology: None; [low] terminology: None; [low] register: None; [low] collocation: None
+91,"00:07:38,860 --> 00:07:42,020","So, the answer to question 1 is A.",所以，第 1 題的答案是 A。,80,minor_issues,,[medium] terminology: None
+92,"00:07:47,920 --> 00:07:52,740","To practice this question type, we're going to move on to the remaining questions.",為了練習此題型，我們將 接下來進行其餘題目。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+93,"00:07:53,660 --> 00:07:57,900","Remember the note, you may use any letter more than once.",請記住備註：任何選項均可重複使用。,87,minor_issues,請記住提示：任何選項均可重複使用。,[low] terminology: None
+94,"00:07:58,680 --> 00:08:05,100","So, paragraph A could be the answer again, or it could be B, C or D.",所以，段落 A 可能是答案，也可能是 B、C 或 D。,87,minor_issues,,[low] style: None
+95,"00:08:05,920 --> 00:08:11,900","Preppies, please pause the video for four minutes to finish questions 2 through 5.",Preppies 請暫停影片四分 鐘，以完成第 2 至第 5 題。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+96,"00:08:16,180 --> 00:08:16,940",Time's up.,時間到。,80,minor_issues,,[medium] terminology: None
+97,"00:08:17,180 --> 00:08:18,800",Let's check question 2.,我們來檢查第 2 題。,100,ok,,
+98,"00:08:19,760 --> 00:08:26,720","Question 2. Rent control may benefit tenants initially, but can lead to neglected properties.",第 2 題：租金管制可能最初對 房客有利，但會導致房產遭到忽視。,80,minor_issues,,[medium] terminology: None
+99,"00:08:27,620 --> 00:08:32,100","Scanning for rent control, we find it in paragraph C.",搜尋租金管制，我們發現它位於段落 C。,100,ok,,
+100,"00:08:32,780 --> 00:08:37,799",The text says rent control schemes may protect tenants in the short term.,文中指出，租金管制計畫可能在短期內保護房客。,100,ok,,
+101,"00:08:38,360 --> 00:08:41,320",This matches benefit tenants initially.,此處符合「最初對房客有利」。,30,needs_revision,這符合受益人最初的條件。,[high] meaning_drift: None; [low] terminology: None; [high] meaning_drift: None
+102,"00:08:42,179 --> 00:08:47,980","It continues, but discouraged landlords from maintaining or improving properties.",文中接著指出，這可能會 disco urages 房東維持或改善房產。,87,minor_issues,,[low] style: None
+103,"00:08:48,780 --> 00:08:54,680","If a landlord stops maintaining a property, it becomes a neglected property.",如果房東停止維護房產，該房產便會遭到忽視。,100,ok,,
+104,"00:08:55,540 --> 00:08:58,620","So, paragraph C contains this information.",因此，段落 C 包含這項資訊。,100,ok,,
+105,"00:08:59,240 --> 00:09:00,740",The answer is C.,答案為 C。,80,minor_issues,,[medium] terminology: None
+106,"00:09:02,620 --> 00:09:08,400",Question 3. Examples of the social consequences of high housing costs.,問題 3：高房價所帶 來的社會影響示例。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+107,"00:09:09,560 --> 00:09:15,500","Scanning for social and high housing costs, we go to paragraph D.",尋找社會與高房價的影響，我們查看段落 D。,45,needs_revision,尋找社會與高房價的影響，我們檢視段落 D。,[high] terminology: None
+108,"00:09:16,380 --> 00:09:22,580",The first sentence mentions the impact of unaffordable housing on social well -being.,第一句提到了無法負擔的 住房對社會福祉的影響。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+109,"00:09:23,300 --> 00:09:26,440",The text then lists specific examples.,接著，文中列出了具體的範例。,80,minor_issues,,[medium] terminology: None
+110,"00:09:27,380 --> 00:09:29,100",1. Overcrowding.,1. Overcrowding 過度擁擠。,87,minor_issues,1. 1. 過度擁擠。,[low] style: None
+111,"00:09:29,520 --> 00:09:32,360",2. Increased commuting times.,2. 通勤時間增加。,100,ok,,
+112,"00:09:32,860 --> 00:09:36,320",3. Displacement of lower income families.,3. Displacement of lower income families 低收入家庭被迫搬遷。,100,ok,,
+113,"00:09:37,140 --> 00:09:39,200",4. Social divide.,4. 社會階級分化。,45,needs_revision,4. 社會分歧。,[high] meaning_drift: None
+114,"00:09:39,980 --> 00:09:43,140",These are all examples of social consequences.,這些都是社會影響的範例。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+115,"00:09:44,120 --> 00:09:46,180","Therefore, the answer is D.",因此，答案為 D。,80,minor_issues,,[medium] terminology: None
+116,"00:09:47,880 --> 00:09:54,580",Question 4. An explanation of why housing supply fails to meet demand in cities.,第 4 題。關於住房原因的解釋 供給無法滿足城市中的需求,35,needs_revision,第 4 題。第 4 題。說明為何城市住房供給無法滿足需求,[medium] terminology: None; [high] meaning_drift: None
+117,"00:09:55,500 --> 00:10:00,460",The key words supply and demand leads us to paragraph B.,關鍵詞 supply and demand 帶我們到 paragraph B,70,minor_issues,關鍵詞 供給與需求 帶我們到 段落 B,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+118,"00:10:01,000 --> 00:10:06,640",The text explicitly mentions the imbalance between supply and demand.,它明確提到 supply 和 demand 之間的不平衡。,77,minor_issues,,[low] style: None; [medium] terminology: None
+119,"00:10:07,680 --> 00:10:10,080",It explains why supply fails.,這解釋了為何供給不足。,100,ok,,
+120,"00:10:10,920 --> 00:10:16,640","Planning restrictions, limited land availability and lengthy approval processes.",規劃限制、土地有限 可用性與冗長的核准程序。,42,needs_revision,規劃限制、土地有限 可用性與冗長的核准程式。,[high] terminology: None; [low] style: None
+121,"00:10:17,960 --> 00:10:21,560","These are the reasons, the explanation for the failure.",這些就是原因，也是失敗的解釋。,87,minor_issues,,[low] style: None
+122,"00:10:22,220 --> 00:10:24,180","So, the answer is B.",所以，答案是 B。,80,minor_issues,,[medium] terminology: None
+123,"00:10:25,320 --> 00:10:30,680",Question 5. A statement on how difficult purchasing a home has become.,問題 5。關於購買 住宅變得多麼困難的陳述。,77,minor_issues,,[medium] terminology: None; [low] style: None
+124,"00:10:31,220 --> 00:10:34,160",We need to find a statement about difficulty.,我們需要找到一個關於 difficulty 的陳述。,77,minor_issues,我們需要找到一個關於 難度 的陳述。,[medium] terminology: None; [low] style: None
+125,"00:10:34,900 --> 00:10:37,320",Let's look at paragraph A again.,讓我們再次查看段落 A。,45,needs_revision,讓我們再次檢視段落 A。,[high] terminology: None
+126,"00:10:38,180 --> 00:10:43,420","The last sentence says, what was once a relatively straightforward path to",最後一句話指出，過去相對單純的擁有之路，對許,32,needs_revision,最後一句話指出，通往...的相對單純的路徑，是,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+127,"00:10:43,420 --> 00:10:48,140","ownership has become, for many, an almost impossible dream.",多人來說，已變成幾乎無法實現的夢想。,81,minor_issues,對許多人來說，成為幾乎無法實現的夢想。,[low] style: None; [low] collocation: None; [low] register: None
+128,"00:10:49,160 --> 00:10:54,880",Describing home ownership as an almost impossible dream is a very strong,將購屋視為幾乎不可能實現的夢想，是一種非常強烈的說法,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+129,"00:10:54,880 --> 00:10:57,820",statement about how difficult it has become.,關於變得有多困難的 statement。,42,needs_revision,關於變得有多困難的 聲明。,[high] meaning_drift: None; [low] register: None
+130,"00:10:58,540 --> 00:11:00,680","So, the answer is A.",所以，答案是 A。,100,ok,,
+131,"00:11:01,480 --> 00:11:07,160",Notice that we used paragraph A for both question 1 and question 5.,請注意，我們在第 1 題和第 5 題都使用了段落 A。,100,ok,,
+132,"00:11:07,760 --> 00:11:15,900","This confirms why the note NB, you may use any letter more than once, was so important.",這解釋了為什麼 NB（備註：您可以 重複使用任何字母）這項備註如此重要。,80,minor_issues,,[medium] terminology: None
+133,"00:11:17,420 --> 00:11:21,480",We've dealt with an example of matching information to paragraphs.,我們已經處理過一個將配對資訊與段落對應的範例。,80,minor_issues,,[medium] terminology: None
+134,"00:11:21,920 --> 00:11:25,200",Let's recap the key points of this lesson together.,讓我們一起複習本課的重點。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+135,"00:11:29,720 --> 00:11:34,600",You should pay attention to the important features of matching information to,您應該留意本課開頭提到的將配對資訊,30,needs_revision,您應該留意將資訊進行配對的重要特徵,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+136,"00:11:34,600 --> 00:11:37,220",paragraphs mentioned at the beginning of the lesson.,對應至段落的重要特徵。,35,needs_revision,課本開頭提到的段落。,[medium] terminology: None; [high] meaning_drift: None
+137,"00:11:38,200 --> 00:11:43,600",Task. Matching information with paragraphs to find detailed information in the passage.,任務：將配對資訊與段落對應 找到文章中的詳細資訊,84,minor_issues,任務：將資訊與段落配對，以在文章中找到詳細資訊,[low] grammar: None; [low] collocation: None
+138,"00:11:44,420 --> 00:11:49,360",Find detailed information and understand the overall meaning of the paragraph,並找到詳細資訊並理解段落的整體意思來,77,minor_issues,找出詳細資訊，並理解段落的整體語意,[medium] terminology: None; [low] grammar: None
+139,"00:11:49,360 --> 00:11:50,720",to find the answer.,找到答案,100,ok,,
+140,"00:11:51,560 --> 00:11:58,320","The number of paragraphs is more than the questions, so some paragraphs are not used.",段落數量會比題目多， 所以有些段落不會用到,80,minor_issues,,[medium] terminology: None
+141,"00:11:59,180 --> 00:12:01,640",Check if the requirement includes this sentence.,檢查是否包含這個句子。,80,minor_issues,,[medium] terminology: None
+142,"00:12:02,540 --> 00:12:06,340","Note NB, you may use any letters more than once.",備註：注意，任何字母均可重複使用。,100,ok,,
+143,"00:12:07,460 --> 00:12:11,220",Questions might not come in order as the information in the passage.,問題順序可能與文章中的資訊順序不一致。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+144,"00:12:12,500 --> 00:12:16,260","Moreover, you need to remember three steps for this question type.",此外，您需要記住此題型的三個步驟。,100,ok,,
+145,"00:12:17,080 --> 00:12:21,760",Step 1. Read the requirement carefully and underline keywords in questions.,步驟一：仔細閱讀題目要求。 並劃出題目中的關鍵字。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] placeholder: None
+146,"00:12:22,480 --> 00:12:29,340",Step 2. Apply scanning skills to find keywords in paragraphs corresponding to keywords in questions.,步驟 2：運用掃描技巧，在段落中 尋找與問題關鍵字相對應的關鍵字。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+147,"00:12:30,060 --> 00:12:36,820","Step 3. Read paragraphs carefully, compare the information with questions, and choose the answers.",步驟 3。仔細閱讀段落，將資 訊與問題進行比較，並選擇答案。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+148,"00:12:37,420 --> 00:12:39,860","For now, goodbye and see you in the next lesson.",目前就先到這裡，再見，我們下一堂課見。,80,minor_issues,,[medium] terminology: None

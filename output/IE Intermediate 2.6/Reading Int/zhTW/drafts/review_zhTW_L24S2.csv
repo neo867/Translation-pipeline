@@ -1,0 +1,202 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:12,760 --> 00:00:14,180",Welcome back preppies.,歡迎回來，Prep 學員們。,80,minor_issues,,[medium] terminology: None
+2,"00:00:14,560 --> 00:00:18,760",I hope you are ready to dive into today's lesson and learn something new.,希望您已準備好投入今天的課程，學習新事物。,80,minor_issues,,[medium] terminology: None
+3,"00:00:19,020 --> 00:00:25,380",This lesson aims to help you understand and identify types of multiple choice questions in IELTS reading.,本課程旨在幫助您理解並辨識 IEL TS 閱讀測驗中的多項選擇題型。,70,minor_issues,本課程旨在幫助您理解並辨識 IELTS 閱讀測驗中的多項選擇題型。,[medium] terminology: None; [medium] terminology: None; [low] typo: None
+4,"00:00:26,740 --> 00:00:31,140","Understand, identify and apply skills and steps for detailed questions.",理解、辨識並套用詳細題型的技巧與步驟。,80,minor_issues,,[medium] terminology: None
+5,"00:00:32,140 --> 00:00:34,520",Our lesson has three parts.,本課程分為三個部分。,100,ok,,
+6,"00:00:35,380 --> 00:00:40,500",1. Introduction to multiple choice questions and types of multiple choice questions.,1. 多項選擇題簡介及 多項選擇題的題型。,100,ok,,
+7,"00:00:41,180 --> 00:00:44,100",2. Steps for detailed questions.,2. 詳細題型的解答步驟。,100,ok,,
+8,"00:00:45,220 --> 00:00:47,200",3. Practice.,3. 練習。,100,ok,,
+9,"00:00:48,140 --> 00:00:50,640","Alright, no more delay, let's begin.",好了，不再拖延，我們開始吧。,100,ok,,
+10,"00:00:56,130 --> 00:01:01,530",Multiple choice questions in IELTS reading tests are divided into two main types.,IELTS 閱讀測驗中的 多項選擇題分為兩大類。,100,ok,,
+11,"00:01:01,530 --> 00:01:08,290",Multiple choice questions with single answer and multiple choice questions with multiple answers.,單一答案的多項選擇題與 多個答案的多項選擇題。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+12,"00:01:09,290 --> 00:01:13,550","Firstly, for multiple choice questions with single answer, candidates will",首先，在單一答案的多項選擇題中，考生大多會在,30,needs_revision,第一，針對單選題，考生將,[medium] terminology: None; [medium] terminology: None; [low] register: None; [low] collocation: None; [high] meaning_drift: None; [high] meaning_drift: None
+13,"00:01:13,550 --> 00:01:18,510",mostly see this question type in passage 3 of the IELTS reading tests.,IELTS 閱讀測驗的第三篇看到此題型。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+14,"00:01:19,450 --> 00:01:22,970",Each question has 4 options and 1 correct answer.,每道題目有 4 個選項和 1 個正確答案。,100,ok,,
+15,"00:01:23,650 --> 00:01:26,570",Each correct answer gets 1 out of 40 points.,每道正確答案可得 1 分，總分為 40 分。,35,needs_revision,每答對一題可得 1 分，滿分 40 分。,[medium] terminology: None; [high] meaning_drift: None
+16,"00:01:27,470 --> 00:01:31,850","Typically, the answer for each question will come in order as the information in the passage.",通常，每道題目的答案會是 依照文章中的資訊順序作答。,35,needs_revision,通常，每道題目的答案會是 依文章資訊的順序出現。,[medium] terminology: None; [high] meaning_drift: None
+17,"00:01:32,430 --> 00:01:35,110",Remember this to locate the information area quickly.,請記住這一點，以便快速定位資訊區域。,100,ok,,
+18,"00:01:35,950 --> 00:01:39,390","On the other hand, for multiple choice questions with multiple answers,",另一方面，對於有多個答案的多項選擇題，考生大,35,needs_revision,另一方面，對於有多個答案的多項選擇題，請選擇所有正確選項,[medium] terminology: None; [high] meaning_drift: None
+19,"00:01:39,950 --> 00:01:45,390",candidates will mostly see this question type in passage 2 of the IELTS reading tests.,多會在 IELTS 閱讀測 驗的第二篇文章中看到此題型。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] placeholder: None; [low] style: None
+20,"00:01:46,250 --> 00:01:53,190",Each question has 4 to 6 options and the number of correct answers is equal to the number of scores.,每道題目有 4 至 6 個選項 ，正確答案的數量等於得分數。,42,needs_revision,每道題目有 4 至 6 個選項 ，正確答案的數量等於分數。,[high] meaning_drift: None; [low] collocation: None
+21,"00:01:54,090 --> 00:02:00,250",Two correct answers to each question can be found in the passage without any particular order.,每道題目在文章中均可找到兩個 正確答案，且並無特定順序。,87,minor_issues,,[low] style: None
+22,"00:02:01,110 --> 00:02:04,750","Therefore, when candidates locate the information for the first answer, they",因此，當考生找到第一題答案的資訊時，他們,80,minor_issues,,[medium] terminology: None
+23,"00:02:04,750 --> 00:02:09,130",will have to find the remaining answer before or after the information found.,必須在已找到資訊的前或後面，找出其餘答案的對應位置。,100,ok,,
+24,"00:02:09,850 --> 00:02:14,890","At the intermediate level, understanding the type of multiple choice questions is not enough.",在進階程度，僅了解多項 選擇題的類型是不夠的。,30,needs_revision,在中階，僅瞭解多項選擇題的型別是不夠的。,[high] terminology: None; [high] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] typo: None
+25,"00:02:15,470 --> 00:02:19,570",We need to have a thorough understanding of the question's purpose to develop,我們需要徹底了解問題的目的，才能為其制,30,needs_revision,我們需要徹底瞭解問題的目的，才能制定,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+26,"00:02:19,570 --> 00:02:20,950",the best strategies for it.,定最佳策略。,100,ok,,
+27,"00:02:20,950 --> 00:02:25,110","Basically, there are two major types of questions in reading.",基本上，閱讀有兩種主要題型,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+28,"00:02:25,910 --> 00:02:27,990","Detailed questions, read for details.",細節題，讀取細節,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+29,"00:02:28,670 --> 00:02:32,190","And main idea questions, read for main idea.",主旨題，讀取主旨,45,needs_revision,而主旨題，請把握主旨來閱讀。,[high] meaning_drift: None
+30,"00:02:32,990 --> 00:02:36,270","Today, we're going to focus on detailed questions first.",今天，我們將先著重於細節題。,80,minor_issues,,[medium] terminology: None
+31,"00:02:36,810 --> 00:02:41,870","Taking a deeper look into this type, it often has two main types of questions.",深入探討這類題型時，通常包含兩種主要問題。,30,needs_revision,深入探討這種類型時，通常包含兩種主要類型的問題。,[high] meaning_drift: None; [high] meaning_drift: None
+32,"00:02:42,550 --> 00:02:45,250",Factual information questions or factual information.,事實資訊題型或事實資訊。,80,minor_issues,,[medium] terminology: None
+33,"00:02:46,090 --> 00:02:49,490",And writer's opinion questions or writer's opinion.,作者觀點題型或作者觀點。,87,minor_issues,,[low] style: None
+34,"00:02:50,630 --> 00:02:56,210",Let's discover the features of these two types through a learning by doing activity.,讓我們透過「做中學」的活動 ，來探索這兩種題型的特徵。,100,ok,,
+35,"00:02:57,530 --> 00:03:00,050",I have the following paragraph with two questions.,我有以下一段文字及兩個問題。,80,minor_issues,,[medium] terminology: None
+36,"00:03:00,750 --> 00:03:05,210",You'll spend 10 seconds reading the questions and deciding which one requires,你將花10秒鐘閱讀題目，並判斷哪一題需要,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+37,"00:03:05,210 --> 00:03:09,270",factual information and which one requires the writer's opinion.,事實資訊，哪一題需要作者的看法。,32,needs_revision,哪些是客觀事實資訊，哪些需要作者的主觀看法,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+38,"00:03:21,660 --> 00:03:23,720",Have you figured out the answer guys?,大家有想出答案了嗎？,100,ok,,
+39,"00:03:24,650 --> 00:03:31,180",Question 1 asks for factual information because it does not include the phrase writer's opinion.,第 1 題要求提供事實資訊，因為它未包含 「writer's opinion」一詞。,70,minor_issues,第 1 題要求提供事實資訊，因為它未包含 「作者觀點」一詞。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+40,"00:03:32,140 --> 00:03:34,300",Question 2 requires the writer's opinion.,第 2 題要求提供 writer's opinion。,77,minor_issues,第 2 題要求提供 作者觀點。,[medium] terminology: None; [low] terminology: None
+41,"00:03:35,100 --> 00:03:40,120","We can see the phrase according to the writer, which is a signal phrase for this type.",我們可以看見「according to the w riter」這個片語，這是此題型的信號詞。,30,needs_revision,我們可以看見「according to the writer」這個片語，這是此題型的訊號詞。,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] style: None
+42,"00:03:40,920 --> 00:03:45,860","From the activity, I'm sure you have grasped the features of these two types.",透過這項活動，我相信你已經掌握了這兩種題型的特徵。,100,ok,,
+43,"00:03:45,860 --> 00:03:50,400","Basically, as the name suggests, the purpose of the factual information",基本上，正如其名稱所示，事實性資訊的目的在於,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+44,"00:03:50,400 --> 00:03:53,900",question is to find the information based on facts.,題目是根據事實尋找資訊。,100,ok,,
+45,"00:03:54,260 --> 00:03:58,520",While the purpose of a writer's opinion question is to ask the writer's opinion.,雖然作者觀點題的目的 在於詢問作者的看法。,74,minor_issues,,[low] style: None; [low] style: None; [medium] terminology: None
+46,"00:03:59,480 --> 00:04:03,340","Corresponding to the purpose of the question, factual information questions",對應題目的目的，事實性資訊題目會著重於回答關於,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+47,"00:04:03,340 --> 00:04:10,840","will focus on answering details about what, who, where, when, why, and how.",什麼、誰、哪裡、何時、為什麼以及如何等細節。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+48,"00:04:10,840 --> 00:04:16,540","Moreover, this type doesn't include the words writer or author in the questions.",此外，這類題目不會包含 writ er 或 author 等字眼。,77,minor_issues,,[medium] terminology: None; [low] style: None
+49,"00:04:17,000 --> 00:04:21,560","Regarding writer's opinion questions, they often include the phrase the writer.",關於作者觀點類題目，經常會出現 the writer 這個詞組。,30,needs_revision,關於作者觀點類題目，經常會出現 the writer 這個片語。,[high] terminology: None; [low] style: None; [medium] terminology: None; [low] placeholder: None
+50,"00:04:22,360 --> 00:04:29,080","For example, according to the writer, what does the writer think that?",例如，根據 writer 的說法，writer 認為什麼？,42,needs_revision,例如，那麼，根據作者的看法，作者認為如何？,[high] meaning_drift: None; [low] terminology: None
+51,"00:04:30,400 --> 00:04:33,580","The writer refers to, to suggest that.",作者提到，旨在暗示。,42,needs_revision,作者引用，意在暗示。,[low] style: None; [high] meaning_drift: None
+52,"00:04:34,700 --> 00:04:37,260",What is the writer's view of?,writer 的觀點為何？,77,minor_issues,作者的觀點為何？,[medium] terminology: None; [low] terminology: None
+53,"00:04:37,260 --> 00:04:42,300",The only common feature between these two types is that the information will be,這兩種題型的唯一共同點是，答案資訊會出現在文,35,needs_revision,這兩種題型的唯一共同點是，這兩種題型的唯一共同點是，資訊會,[medium] terminology: None; [high] meaning_drift: None
+54,"00:04:42,300 --> 00:04:46,720","found in a part of the text, which could be a sentence or some sentences.",章的某個部分，可能是一個句子或幾個句子。,45,needs_revision,文字的某一部分，可能是一個句子或幾個句子。,[high] meaning_drift: None
+55,"00:04:47,560 --> 00:04:52,040","However, the answer to a factual information question will be directly stated",然而，事實性資訊問題的答案會在文中直接陳述，而 w,32,needs_revision,,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+56,"00:04:52,040 --> 00:04:57,800",in the text and the answer to a writer's opinion question will be implied in the text.,riter's 的問題答案 opinion question 的內容會在文章中暗示。,30,needs_revision,作家的意見問題答案將隐含在文章中。,[medium] terminology: None; [high] meaning_drift: None; [low] typo: None; [low] typo: None
+57,"00:04:59,000 --> 00:05:04,340","So, what does it mean by directly stated information or implied information?",那麼，直接陳述的資訊或暗示的資訊分別代表什麼意思？,100,ok,,
+58,"00:05:04,340 --> 00:05:08,800","To help you better understand the features of the answers to these two types,",為了幫助您更好地理解這兩種題型答案的特徵,100,ok,,
+59,"00:05:09,000 --> 00:05:12,040",we're going to handle the two questions of the previous paragraph.,，我們將處理上一段提到的兩個問題。,80,minor_issues,,[medium] terminology: None
+60,"00:05:12,720 --> 00:05:14,560",You have 40 seconds to do this.,您有 40 秒的時間來完成這項任務。,100,ok,,
+61,"00:05:56,900 --> 00:06:00,420",Let's look at the difference between these two questions.,讓我們來看看這兩道題型之間的差異。,77,minor_issues,,[low] style: None; [medium] terminology: None
+62,"00:06:01,020 --> 00:06:07,020","For question 1, based on the keywords majority of people and currently access,",針對第 1 題，根據關鍵字 majority of people 與 curre,77,minor_issues,針對第 1 題，根據關鍵字 majority of people 與 currently,[medium] terminology: None; [low] typo: None
+63,"00:06:07,460 --> 00:06:11,200",we can quickly locate the information in the second sentence.,ntly access，我們可以迅速在第二句中定位相關資訊。,45,needs_revision,,[high] meaning_drift: None
+64,"00:06:11,200 --> 00:06:17,720","The text states, most readers now access information through social media feeds",文章指出，現在大多數讀者是透過社群媒體動態消息或新聞聚合應,36,needs_revision,文章指出，現在大多數讀者是透過社群媒體動態訊息或新聞聚合應,[high] terminology: None; [low] style: None; [low] typo: None; [low] terminology: None
+65,"00:06:17,720 --> 00:06:20,200",or news aggregator apps.,用程式來取得資訊。,77,minor_issues,或新聞聚合應用程式。,[medium] terminology: None; [low] style: None
+66,"00:06:20,700 --> 00:06:25,840","This is a direct fact, so option B is the correct answer.",這是一個直接的事實，因此選項 B 為正確答案。,100,ok,,
+67,"00:06:26,720 --> 00:06:32,060","However, for question 2, notice the phrase according to the writer.",然而，針對第 2 題，請留意「according to the writer」這個片語。,74,minor_issues,,[low] style: None; [medium] terminology: None; [low] terminology: None
+68,"00:06:32,540 --> 00:06:38,420","This means we must look for the author's opinion, not just the trend itself.",這表示我們必須尋找作者的看法，而不僅僅是趨勢本身。,87,minor_issues,,[low] style: None
+69,"00:06:38,420 --> 00:06:42,180",Look at the sentence immediately following the trend.,請查看趨勢後面的句子。,45,needs_revision,請檢視趨勢後面的句子。,[high] terminology: None
+70,"00:06:42,960 --> 00:06:49,280","Unfortunately, this trend represents a dangerous erosion of critical engagement.",不幸的是，這項趨勢代表了一個 對深度參與的嚴重侵蝕。,45,needs_revision,不幸的是，這項趨勢代表了一個 對批判性參與的嚴重侵蝕。,[high] meaning_drift: None
+71,"00:06:50,180 --> 00:06:56,420",The author uses strong negative words like unfortunately and dangerous.,作者使用了強烈的負面詞彙，例如 unfortunately 和 dangerous。,71,minor_issues,作者使用了強烈的負面詞彙，例如 不幸的是 和 危險的。,[low] style: None; [medium] terminology: None; [low] terminology: None; [low] terminology: None
+72,"00:06:57,120 --> 00:07:05,180","This clearly shows that the writer considers this shift to be negative or specifically C, harmful.",這清楚顯示作者認為這種轉變是負面 的，或是具體而言 C（有害的）。,87,minor_issues,,[low] style: None
+73,"00:07:05,980 --> 00:07:12,100","Note that option A, convenient, is mentioned in the text, but that is the",備註：選項 A（convenient）在文中雖有提及，但這只是,30,needs_revision,注意：選項 A（convenient）在文中確實有提及，但這裡指的是,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [high] meaning_drift: None
+74,"00:07:12,100 --> 00:07:14,880","reader's view, not the writer's opinion.",讀者觀點，而非作者觀點。,87,minor_issues,,[low] style: None
+75,"00:07:15,380 --> 00:07:19,780","Through this example, we also understand that even though the questions ask",透過這個範例，我們也了解到，即使問題詢問的是,30,needs_revision,透過這個範例，我們也瞭解到，即使問題是,[high] terminology: None; [low] style: None; [high] meaning_drift: None
+76,"00:07:19,780 --> 00:07:24,080","about the same subject, different purposes will create two different answers.",相同的主詞，不同的目的會產生兩種不同的答案。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+77,"00:07:24,080 --> 00:07:29,480","That's why when taking the actual exam, we need to clearly identify whether",這就是為什麼在參加正式考試時，我們需要清楚辨識這是一道考察作,35,needs_revision,這就是為什麼在參加正式考試時，我們需要清楚辨識是否,[medium] terminology: None; [high] meaning_drift: None
+78,"00:07:29,480 --> 00:07:35,360",it's a writer's opinion question or a factual information question to find the correct answer.,者觀點的題目，還是一道事實性題目。 用以找出正確答案的資訊問題。,30,needs_revision,作者觀點的題目，還是事實資訊題，以找出正確答案。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None; [low] terminology: None
+79,"00:07:35,940 --> 00:07:39,800","Now, let's move on to part 2 to learn about steps for these two types.",現在，讓我們進入第二部分，來學習這兩種類型的步驟。,30,needs_revision,現在，讓我們進入第二部分，來學習這兩種型別的步驟。,[high] terminology: None; [medium] terminology: None; [high] placeholder: None
+80,"00:07:44,200 --> 00:07:47,960","To tackle this type, we're going to follow these four steps.",要應對這類題目，我們將遵循以下四個步驟。,100,ok,,
+81,"00:07:48,960 --> 00:07:52,860","Step 1, read the question carefully and underline keywords.",步驟 1：仔細閱讀題目並劃出關鍵字。,80,minor_issues,,[medium] terminology: None
+82,"00:07:52,860 --> 00:07:58,360","Step 2, scan the information in the passage by using keywords in the question.",步驟 2：利用題目中的關鍵字掃描文章中的資訊。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+83,"00:07:59,100 --> 00:08:02,940","For writer's opinion questions, you should prioritize finding sentences",對於作者觀點類題目，您應優先尋找包含表達作者觀點的關鍵,30,needs_revision,對於作者觀點題，您應優先尋找表達作者觀點的句子,[low] style: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None; [high] meaning_drift: None
+84,"00:08:02,940 --> 00:08:09,900","containing key phrases that express the writer's opinion, such as I believe, in my opinion.",詞組的句子，例如 I believe 、in my opinion。,30,needs_revision,片語的句子，例如 I believe、in my opinion。,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] typo: None
+85,"00:08:10,780 --> 00:08:11,840",It is clear that.,這很明顯。,100,ok,,
+86,"00:08:12,360 --> 00:08:15,900","Step 3, read each option and underline keywords.",步驟三，閱讀每個選項並劃記關鍵字,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] placeholder: None
+87,"00:08:16,760 --> 00:08:22,880","Step 4, compare keywords in options with the information found and choose the correct answer.",步驟 4：比較選項中的關鍵字 與找到的資訊，並選擇正確答案。,80,minor_issues,,[medium] terminology: None
+88,"00:08:23,640 --> 00:08:28,180","For writer's opinion questions, if the writer's opinion is not directly stated,",針對作者觀點類題目，若作者觀點未明確指出，請於,77,minor_issues,,[low] style: None; [medium] terminology: None
+89,"00:08:28,700 --> 00:08:33,880","then in step 4, compare keywords in options with the information found and",步驟 4：比較選項中的關鍵字與找到的資訊，並,80,minor_issues,,[medium] terminology: None
+90,"00:08:33,880 --> 00:08:35,039",choose the correct answer.,選擇正確答案。,100,ok,,
+91,"00:08:35,659 --> 00:08:39,820",You may need to infer the writer's opinion based on the language used.,您可能需要根據所使用的語言來推斷作者的觀點。,77,minor_issues,,[low] style: None; [medium] terminology: None
+92,"00:08:40,260 --> 00:08:42,080","So, how can we do this?",那麼，我們要怎麼做呢？,100,ok,,
+93,"00:08:42,080 --> 00:08:48,240",Here are some tips for you to draw conclusions when the writer's opinion is not directly stated.,以下是一些建議，幫助您在作者 未直接陳述觀點時，得出結論。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+94,"00:08:49,100 --> 00:08:52,760","Tip 1, pay attention to adjectives and adverbs.",提示 1：注意形容詞和副詞。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+95,"00:08:53,620 --> 00:08:58,220","Adjectives and adverbs are considered a part of subjective language, language",形容詞和副詞被視為主觀語言的一部分，主觀,45,needs_revision,,[high] meaning_drift: None
+96,"00:08:58,220 --> 00:09:02,220",expressing someone's opinions based on their personal beliefs or feelings,語言是用來表達基於個人信念或感受而非事實,35,needs_revision,表達基於個人信念或感受的觀點,[medium] terminology: None; [high] meaning_drift: None
+97,"00:09:02,220 --> 00:09:06,440","rather than facts, and can imply the writer's opinions.",的觀點，並能暗示作者的立場。,42,needs_revision,而非事實，且可能暗示作者的觀點。,[low] style: None; [high] meaning_drift: None
+98,"00:09:07,100 --> 00:09:08,860",I have the following two examples.,以下提供兩個範例。,80,minor_issues,,[medium] terminology: None
+99,"00:09:08,860 --> 00:09:13,320","Fact, the blue team beat the red team by 7 points.",事實上，藍色隊伍以 7 分之差擊敗了紅色隊伍。,87,minor_issues,,[low] style: None
+100,"00:09:14,500 --> 00:09:19,920","Opinion, the blue team unfortunately beat the red team by 7 points.",意見：很遺憾，藍隊以 7 分之差擊敗了紅隊。,87,minor_issues,,[low] style: None
+101,"00:09:20,700 --> 00:09:26,060","The second sentence uses the word unfortunately to show the writer's regret,",第二句使用「unfortunately」一詞來表達作者的遺憾，顯示作,30,needs_revision,第二句使用「unfortunately」一詞，顯示作者的遺憾,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+102,"00:09:26,640 --> 00:09:30,360",indicating that the writer favors the red team over the blue team.,者較傾向於「red team」而非「blue team」。,42,needs_revision,表示作者較傾向於「red team」而非「blue team」。,[low] style: None; [high] meaning_drift: None
+103,"00:09:31,120 --> 00:09:36,800","Tip 2, pay attention to sentences using comparison or contrast.",提示 2：注意使用比較或對比的句子。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+104,"00:09:37,800 --> 00:09:42,140",Sentences using comparison and contrast can reveal the writer's opinion by,使用比較和對比的句子可以揭示作者的觀點，因為,32,needs_revision,使用比較和對比的句子可以揭示作者的觀點，並,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+105,"00:09:42,140 --> 00:09:47,020",showing the writer's bias towards one side in an argument or presenting a more,顯示作者在爭論中偏向一方，或呈現更具價,42,needs_revision,,[low] style: None; [high] meaning_drift: None
+106,"00:09:47,020 --> 00:09:48,820",valuable or reasonable viewpoint.,值或更合理的觀點,45,needs_revision,有意義或更合理的觀點,[high] meaning_drift: None
+107,"00:09:49,600 --> 00:09:55,620","For example, football's exciting mix of strategy, physicality and goal scoring",例如，足球結合了策略、身體對抗與進球的多樣性,100,ok,,
+108,"00:09:55,620 --> 00:09:58,180",makes it more captivating than basketball.,，使其比籃球更具吸引力。,100,ok,,
+109,"00:09:59,060 --> 00:10:02,780","Although this sentence doesn't use the first person viewpoint of the writer,",雖然這個句子並未使用作者的第一人稱視角，,84,minor_issues,,[low] style: None; [low] style: None
+110,"00:10:03,300 --> 00:10:07,620","based on this comparison sentence, we can still infer that the writer shows a",根據這個比較句，我們仍可推斷作者對,30,needs_revision,根據這個比較句，我們仍可推斷作者展現出,[low] style: None; [low] style: None; [medium] terminology: None; [high] meaning_drift: None
+111,"00:10:07,620 --> 00:10:09,640",biased attitude towards football.,足球抱有偏見。,100,ok,,
+112,"00:10:10,600 --> 00:10:18,760","Tip 3, pay attention to adverbs of degree, like so, too, few or a few, little and a little.",提示 3：注意表示程度的副詞，例如 so、too、few 、a few、little 和 a little。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] terminology: None; [low] terminology: None; [low] terminology: None; [low] terminology: None; [low] terminology: None
+113,"00:10:19,260 --> 00:10:23,320",Adverbs of degrees are used to show the intensity or degree of something.,「Adverbs of degrees」用於表示某事物的強度或程度。,87,minor_issues,「Adverbs of degrees」用來表示某事物的強度或程度。,[low] style: None
+114,"00:10:23,320 --> 00:10:28,460","Moreover, they can also express the writer's opinion or assessment of a",此外，它們也能表達作者對特定情況或狀態,30,needs_revision,此外，它們也能表達作者對一個,[low] style: None; [low] style: None; [medium] terminology: None; [high] meaning_drift: None
+115,"00:10:28,460 --> 00:10:30,280",specific situation or state.,的觀點或評估。,45,needs_revision,特定情況或狀態。,[high] meaning_drift: None
+116,"00:10:30,700 --> 00:10:34,860","For example, the team performed so well in the competition, showcasing their",例如，該團隊在比賽中表現出色，展現了他們卓越的技,45,needs_revision,例如，該團隊在比賽中表現出色，展現了他們卓越的技術,[high] meaning_drift: None
+117,"00:10:34,860 --> 00:10:36,860",exceptional skill and teamwork.,巧與團隊合作精神。,45,needs_revision,卓越的技術與團隊合作精神。,[high] meaning_drift: None
+118,"00:10:37,260 --> 00:10:42,740",Using the word so expresses the writer's positive opinion about the team's outstanding achievement.,使用 so 這個詞表達了作者的正面 對該團隊傑出成就的看法。,84,minor_issues,使用「so」一詞表達了作者對該團隊傑出成就的正面看法。,[low] style: None; [low] grammar: None
+119,"00:10:43,220 --> 00:10:48,660","But when we replace the adverb so with the adverb of degree, too, meaning that",但是當我們將副詞 so 替換為程度副詞 too（表示,80,minor_issues,,[medium] terminology: None
+120,"00:10:48,660 --> 00:10:52,700","something is more than is needed or wanted, we have this example.",某事超過所需或所願）時，我們就有這個例子。,84,minor_issues,當若某事超過所需或所願時時，我們就有這個例子。,[low] grammar: None; [low] grammar: None
+121,"00:10:52,700 --> 00:10:58,100","The team performed too well in the competition, ruthlessly beating the other team.",該團隊在比賽中表現過於出 色，毫不留情地擊敗了另一支球隊。,100,ok,,
+122,"00:10:58,860 --> 00:11:03,320","Now, this sentence has a negative meaning and expresses the writer's opinion",現在，這句話具有負面含義，並表達了作者觀點,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+123,"00:11:03,320 --> 00:11:06,700",that the team's performance is too good and unnecessary.,，即團隊的表現過於出色且無必要。,77,minor_issues,,[low] style: None; [medium] terminology: None
+124,"00:11:07,800 --> 00:11:12,440","Also, the adverb ruthlessly conveys the writer's negative attitude towards the",此外，副詞 ruthlessly 傳達了作者對該團隊攻,42,needs_revision,此外，副詞 ruthlessly 傳達了作者對該,[low] style: None; [high] meaning_drift: None
+125,"00:11:12,440 --> 00:11:13,700",team's aggressive behaviour.,擊性行為的負面態度。,45,needs_revision,對團隊具攻擊性行為的態度,[high] meaning_drift: None
+126,"00:11:17,360 --> 00:11:23,180","In this part, we're going to read a passage about the rise of the content",在本部分中，我們將閱讀一篇關於內容崛起的文章。,80,minor_issues,,[medium] terminology: None
+127,"00:11:23,180 --> 00:11:25,920",creator and answer two questions.,創作者並回答兩個問題。,87,minor_issues,,[low] style: None
+128,"00:11:26,980 --> 00:11:31,700","Step 1, read the question carefully and underline keywords.",第一步，仔細閱讀題目並劃出關鍵字。,45,needs_revision,,[high] placeholder: None
+129,"00:11:32,760 --> 00:11:38,740","Now, you have 20 seconds to identify the keywords in these two questions.",現在，你有 20 秒的時間來找出這兩個問題的關鍵字。,80,minor_issues,,[medium] terminology: None
+130,"00:12:01,500 --> 00:12:03,840",20 seconds is up.,20 秒到了。,100,ok,,
+131,"00:12:04,440 --> 00:12:07,060",These are the keywords I identified.,這些是我找到的關鍵字。,100,ok,,
+132,"00:12:08,580 --> 00:12:11,120","Next, we will move on to step 2.",接下來，我們將進入第二步。,45,needs_revision,,[high] placeholder: None
+133,"00:12:11,720 --> 00:12:16,300",Scan the information in the passage by using keywords in the question.,使用問題中的關鍵字來掃描文章中的資訊。,100,ok,,
+134,"00:12:17,420 --> 00:12:24,320","In 30 seconds, based on the identified keywords, you're going to scan the information in the passage.",在 30 秒內，請根據已識別 的關鍵字，掃描文章中的資訊。,100,ok,,
+135,"00:12:25,040 --> 00:12:27,600","30 seconds, start now.",30 秒，現在開始。,80,minor_issues,,[medium] terminology: None
+136,"00:13:00,230 --> 00:13:05,990","Alright, the keywords in the questions show that the information is located in",好的，問題中的關鍵字顯示，第 1 題的資訊位於段落,45,needs_revision,好的，問題中的關鍵字顯示，問題的資訊位於段落,[high] meaning_drift: None
+137,"00:13:05,990 --> 00:13:11,610",paragraph A for question 1 and paragraph B for question 2.,A，第 2 題的資訊位於段落 B。,30,needs_revision,問題 1 的答案在段落 A，問題 2 的答案在段落 B。,[medium] terminology: None; [high] placeholder: None; [high] meaning_drift: None
+138,"00:13:12,170 --> 00:13:18,970","For question 1, in the last decade, what began as a simple way has transformed",第 1 題：在過去十年間，原本單純的形式已轉變為,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+139,"00:13:18,970 --> 00:13:21,510",into a massive global industry.,龐大的全球性產業。,100,ok,,
+140,"00:13:21,510 --> 00:13:28,330","And for question 2, in those early years, they were mostly hobbyists who",第 2 題：在那些早期歲月裡，他們主要是愛好者，而,87,minor_issues,,[low] style: None
+141,"00:13:28,330 --> 00:13:33,170",enjoyed the creative process and the ability to connect with others.,享受創作的過程以及與他人建立連結的能力。,100,ok,,
+142,"00:13:34,210 --> 00:13:36,230",We'll continue with step 3.,我們繼續進行第 3 步。,100,ok,,
+143,"00:13:36,790 --> 00:13:39,610",Read each option and underline keywords.,閱讀每個選項並劃出關鍵字。,100,ok,,
+144,"00:13:40,550 --> 00:13:45,450","Before we choose the answer, you need to compare the specific details in the",在選出答案之前，您需要將文章中的具體細節與選,30,needs_revision,在選出答案之前，您需要比較以下選項中的具體細節,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+145,"00:13:45,450 --> 00:13:48,050",text with the keywords in the options.,項中的關鍵字進行比較。,35,needs_revision,選項中的關鍵字。,[medium] terminology: None; [high] meaning_drift: None
+146,"00:13:48,720 --> 00:13:56,450","Look closely at phrases like medical field, mainstream job or secondary hobby.",仔細觀察像 medical field、mainstream job 或 secondary hobby 這樣的詞組。,36,needs_revision,仔細觀察像 醫學領域、主流職業 或 次要興趣 這樣的片語。,[high] terminology: None; [low] style: None; [low] style: None; [low] style: None
+147,"00:13:57,390 --> 00:14:04,630",Ask yourself which one matches the timeline of recently or the last decade,請自行判斷哪一個符合段落 A 中提到的近期或過,45,needs_revision,請自行判斷哪一個符合段落 A 中提到的近期或十年,[high] meaning_drift: None
+148,"00:14:04,630 --> 00:14:06,830",mentioned in paragraph A.,去十年的時間線。,35,needs_revision,mentioned in paragraph A.,[medium] terminology: None; [high] meaning_drift: None
+149,"00:14:07,750 --> 00:14:11,390",Now look at question 2 about motivation.,現在請看第 2 題，關於動機。,100,ok,,
+150,"00:14:12,390 --> 00:14:19,730",Paragraph B tells us what the early pioneers were not looking for and what they did enjoy.,Paragraph B 告訴我們早期先驅者的…… 並非他們所尋找的，以及他們所享受的。,30,needs_revision,Paragraph B 告訴我們早期先驅者的…… 不是他們在尋找的，以及他們享受的。,[low] style: None; [medium] terminology: None; [high] meaning_drift: None; [low] register: None
+151,"00:14:20,630 --> 00:14:24,870",You need to find the option that matches their positive motivation.,你需要找出符合他們正向動機的選項。,100,ok,,
+152,"00:14:25,710 --> 00:14:26,330",Is it money?,是關於金錢嗎？,100,ok,,
+153,"00:14:26,950 --> 00:14:28,010",Is it fame?,是關於名聲嗎？,100,ok,,
+154,"00:14:28,550 --> 00:14:29,970",Or is it connection?,還是關於人際關係呢？,45,needs_revision,還是關於連結呢？,[high] meaning_drift: None
+155,"00:14:30,730 --> 00:14:32,930",Look for the synonym in the options.,在選項中尋找同義詞。,100,ok,,
+156,"00:14:33,950 --> 00:14:38,830","After underlining the keywords in the options, we'll take step 4.",在選項中標記出關鍵字後，我們將進行第 4 步。,80,minor_issues,,[medium] terminology: None
+157,"00:14:38,830 --> 00:14:45,590",Compare keywords in options with the information found and choose the correct answer.,比較選項中的關鍵字與所 找到的資訊，並選擇正確答案。,100,ok,,
+158,"00:14:46,250 --> 00:14:51,570","Now, in two minutes, you're going to compare the keywords in the options and",現在，在兩分鐘內，你要比較選項中的關鍵字，並,100,ok,,
+159,"00:14:51,570 --> 00:14:54,650",choose the correct answers for both questions.,為這兩道題目選擇正確答案。,80,minor_issues,,[medium] terminology: None
+160,"00:14:55,270 --> 00:14:55,890",Are you ready?,準備好了嗎？,100,ok,,
+161,"00:14:56,410 --> 00:14:57,170",Let's go!,我們走吧！,80,minor_issues,,[medium] terminology: None
+162,"00:15:02,950 --> 00:15:03,590",Have you finished?,完成了嗎？,100,ok,,
+163,"00:15:04,010 --> 00:15:06,630",Let's check question 1 first.,我們先來檢查第 1 題。,80,minor_issues,,[medium] terminology: None
+164,"00:15:07,190 --> 00:15:08,690",The answer is B.,答案為 B。,80,minor_issues,,[medium] terminology: None
+165,"00:15:09,330 --> 00:15:09,750",Why?,為什麼？,100,ok,,
+166,"00:15:10,150 --> 00:15:12,290",Let's look at the synonyms.,我們來看看同義詞 synonyms。,45,needs_revision,,[high] meaning_drift: None
+167,"00:15:12,290 --> 00:15:18,010",The option mentions moving from a pastime to a mainstream job.,該選項提到從休閒活動轉向主流職業。,100,ok,,
+168,"00:15:18,530 --> 00:15:26,130","In the text, the writer says it began as a simple way to share hobbies, which equals pastime.",文中提到，它起初僅是一個簡單的 分享愛好的方式，等同於休閒活動。,80,minor_issues,,[medium] terminology: None
+169,"00:15:26,910 --> 00:15:37,890","Then it transformed into a massive global industry and a full-time professional identity, which equals mainstream job.",隨後，它轉變為一個龐大的全球性產業，並 成為一種全職的專業身份，這等同於主流職業。,100,ok,,
+170,"00:15:37,890 --> 00:15:40,670",The trend matches perfectly.,此趨勢完全吻合。,100,ok,,
+171,"00:15:41,290 --> 00:15:43,530",That is why B is correct.,這就是為什麼 B 是正確的。,100,ok,,
+172,"00:15:45,350 --> 00:15:49,190","Now, let's see why the other options are incorrect.",現在，讓我們來看看為什麼其他選項是不正確的。,100,ok,,
+173,"00:15:50,410 --> 00:15:59,430","Option A, medical field, is mentioned, but the text says students chose this in the past, not recently.",選項 A 為醫學領域，文中提到學 生過去曾選擇此選項，而非近期。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+174,"00:16:00,330 --> 00:16:09,610","Option C, secondary hobby, contradicts the text, which explicitly calls it a primary source of income.",選項 C 中的 secondary hobby 與原文矛盾，因為 原文明確指出它是 primary source of income。,74,minor_issues,選項 C 中的 次要興趣 與原文矛盾，因為 原文明確指出它是 primary 來源 of income。,[medium] terminology: None; [low] terminology: None; [low] terminology: None
+175,"00:16:10,770 --> 00:16:17,410","Option D, the text never says traditional roles are no longer being taught.",選項 D，文中從未提及傳統角色已不再被教授。,100,ok,,
+176,"00:16:18,050 --> 00:16:23,430","This is simply not mentioned, so be careful with these distractors.",文中並未提及，因此請謹慎對待這些干擾選項。,100,ok,,
+177,"00:16:24,430 --> 00:16:26,470",Moving on to question 2.,接下來看第 2 題。,100,ok,,
+178,"00:16:26,950 --> 00:16:28,410",The answer is C.,答案是 C。,100,ok,,
+179,"00:16:28,790 --> 00:16:30,730",Let's check the synonyms.,我們來看看同義詞。,80,minor_issues,,[medium] terminology: None
+180,"00:16:31,390 --> 00:16:37,890","The text mentions the ability to connect with others, which means interact, and",文中提到能夠與他人建立聯繫，這意味著互動，並,45,needs_revision,文中提到能夠與他人建立聯絡，這意味著互動，並,[high] terminology: None
+181,"00:16:37,890 --> 00:16:44,250","it says they shared niche interests, which is the same as specific passions,",指出他們分享了小眾興趣，這與特定的熱情相同,80,minor_issues,,[medium] terminology: None
+182,"00:16:44,830 --> 00:16:50,990",and makes everything in option C match together closely with the given question.,，使得選項 C 的所有 內容都與題目緊密契合。,100,ok,,
+183,"00:16:51,990 --> 00:16:54,410",So why are the others incorrect?,那為什麼其他選項是錯的呢？,80,minor_issues,,[medium] terminology: None
+184,"00:16:55,790 --> 00:17:01,530","Option A, it mentions securing a contract, but the text says they uploaded",選項 A 提到取得合約，但文中指出他們在無需電視,45,needs_revision,選項 A 提到取得合約，但文中指出他們已上傳,[high] meaning_drift: None
+185,"00:17:01,530 --> 00:17:04,829",without needing a television contract.,合約的情況下進行了上傳。,45,needs_revision,不需要電視合約。,[high] meaning_drift: None
+186,"00:17:05,730 --> 00:17:13,050","Option B, it mentions celebrity status, but the text explicitly says they were",選項 B 提到名人身份，但文中明確指出他們並,45,needs_revision,選項 B 提到名人身份，但文中明確指出他們並未,[high] meaning_drift: None
+187,"00:17:13,050 --> 00:17:14,730",not looking for fame.,非追求名聲。,100,ok,,
+188,"00:17:15,730 --> 00:17:22,010","Option D, it mentions financial rewards, but the text says they were not",選項 D 提到財務報酬，但文中指出他們並非追求,42,needs_revision,選項 D 提到財務獎勵，但文中指出他們並非如此,[low] terminology: None; [high] meaning_drift: None
+189,"00:17:22,010 --> 00:17:23,609",looking for fortune.,尋找財富。,100,ok,,
+190,"00:17:24,410 --> 00:17:28,650",All three options contradict the text directly.,這三個選項都與原文直接矛盾。,80,minor_issues,,[medium] terminology: None
+191,"00:17:32,510 --> 00:17:37,310","So, in today's lesson we have learned the following things about multiple choice questions.",因此，在今天的課程中，我們已 學會了關於多項選擇題的以下內容。,100,ok,,
+192,"00:17:38,170 --> 00:17:44,070","Features of multiple choice questions with single answer, and multiple choice questions with multiple answers.",單選題的多項選擇題特徵， 以及具有多個答案的多項選擇題。,30,needs_revision,單選題與多選題的特徵， 以及多選題。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] terminology: None
+193,"00:17:44,070 --> 00:17:47,230",Features of three types of questions.,三種題型的特徵。,80,minor_issues,,[medium] terminology: None
+194,"00:17:48,130 --> 00:17:53,010","Detail questions, factual information questions, and writer's opinion questions.",細節題、事實資訊 題與作者觀點題。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+195,"00:17:53,870 --> 00:17:55,090",Main idea questions.,主旨題。,100,ok,,
+196,"00:17:56,170 --> 00:17:57,670",Steps for detail questions.,細節題的解題步驟。,100,ok,,
+197,"00:17:58,270 --> 00:18:01,350",We have also applied these steps to handle detail questions.,我們也運用這些步驟來處理細節題。,87,minor_issues,,[low] style: None
+198,"00:18:02,350 --> 00:18:06,050",Remember to do the exercises to master all the steps for this type.,記得完成練習，以掌握此題型的各個步驟。,80,minor_issues,,[medium] terminology: None
+199,"00:18:06,610 --> 00:18:10,170",We'll finish the lesson for now before moving on to the main idea questions.,我們先結束這堂課，接下來進入主旨題。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+200,"00:18:10,170 --> 00:18:12,670",Catch you guys soon in the next video.,下次影片見嘍。,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+201,"00:18:13,010 --> 00:18:14,090","For now, goodbye.",暫時再見。,80,minor_issues,,[medium] terminology: None

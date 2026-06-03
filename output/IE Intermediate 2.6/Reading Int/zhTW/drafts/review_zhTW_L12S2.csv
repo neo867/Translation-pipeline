@@ -1,0 +1,95 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:11,890 --> 00:00:13,990","Hi guys, it's me again.",嗨，大家好，是我。,100,ok,,
+2,"00:00:14,410 --> 00:00:16,730",Welcome back to our IELTS reading course.,歡迎回到我們的 IELTS 閱讀課程。,100,ok,,
+3,"00:00:17,390 --> 00:00:21,890","Today, we're going to move on to the last type of completion questions,",今天，我們要進入最後一種填空題型，也就,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None
+4,"00:00:21,890 --> 00:00:25,270","which is summary completion, completing a summary.",是摘要填空，完成一篇摘要。,84,minor_issues,,[low] terminology: None; [low] style: None
+5,"00:00:26,230 --> 00:00:28,210",A common type in the IELTS reading test.,IELTS 閱讀測驗中的一種常見題型。,100,ok,,
+6,"00:00:28,610 --> 00:00:31,430","So, our lesson today will help you handle it.",所以，今天的課程將幫助你應付它。,100,ok,,
+7,"00:00:36,350 --> 00:00:42,710",Summary completion is a question type which requires candidates to fill in the blanks to complete a summary.,摘要填空是一種題型，要求考生填入空白處以完成摘要。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+8,"00:00:43,350 --> 00:00:48,290","In fact, it can summarize a part of a passage or summarize the whole passage.",事實上，它可以總結段落的一部分或總結整篇段落。,77,minor_issues,事實上，它可以總結段落的一部分或總結整篇文章。,[medium] terminology: None; [low] collocation: None
+9,"00:00:48,870 --> 00:00:53,030","However, with the current trend of the IELTS reading test, this question type",然而，隨著目前 IELTS 閱讀測驗的趨勢，此題型,87,minor_issues,,[low] style: None
+10,"00:00:53,030 --> 00:00:56,130",mostly summarizes a part of the passage.,大多是在總結段落的一部分。,80,minor_issues,,[medium] terminology: None
+11,"00:00:57,030 --> 00:01:01,150",The questions might not come in order as the information in the passage.,題目順序可能與文章資訊的出現順序不同。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [low] style: None
+12,"00:01:01,750 --> 00:01:05,570",It is not necessary to read and understand the whole passage.,不需要閱讀並理解整篇文章。,80,minor_issues,,[medium] terminology: None
+13,"00:01:06,250 --> 00:01:10,430","Instead, focus on the sentences in the summary and the keywords.",相反地，請著重於摘要中的句子和關鍵字。,100,ok,,
+14,"00:01:12,450 --> 00:01:15,970","Type one, choose suitable words from the passage.",第一題：從文章中挑選合適的字詞。,80,minor_issues,,[medium] terminology: None
+15,"00:01:16,390 --> 00:01:18,830",Summary completion without a word list.,無單字列表的摘要填空。,45,needs_revision,無單字清單的摘要填空。,[high] terminology: None
+16,"00:01:19,790 --> 00:01:24,470","For this type, you need to identify the exact words or phrases from the passage",這種題型需要您從文章中找出精確的字詞，,80,minor_issues,,[medium] terminology: None
+17,"00:01:24,470 --> 00:01:26,470",to fill in the blanks in the summary.,填入摘要的空白處。,80,minor_issues,,[medium] terminology: None
+18,"00:01:27,450 --> 00:01:31,950",Words or phrases to be filled in must be taken directly from the passage,填入的字詞或片語必須直接取自文章，且不得進,42,needs_revision,填入的字詞或片語必須直接取自文章，且不得更改,[low] style: None; [high] meaning_drift: None
+19,"00:01:31,950 --> 00:01:33,930",without any change.,行任何更動。,45,needs_revision,完全沒有改變。,[high] meaning_drift: None
+20,"00:01:35,070 --> 00:01:38,790","Type two, choose suitable words from a list.",第二題：從列表中挑選合適的字詞。,35,needs_revision,第二題：從清單中挑選合適的字詞。,[high] terminology: None; [medium] terminology: None
+21,"00:01:39,270 --> 00:01:41,950",Summary completion with a word list.,有字詞列表的摘要填空。,45,needs_revision,有字詞清單的摘要填空。,[high] terminology: None
+22,"00:01:42,530 --> 00:01:47,550","If the requirement is to choose suitable words from a list, then these words",若要求從列表中挑選合適的字詞，則這些字詞可,30,needs_revision,若要求從清單中挑選合適的字詞，則這些字詞可,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+23,"00:01:47,550 --> 00:01:53,550","can be taken directly from the passage, have the same spelling as the words",直接取自文章，且其拼寫必須與閱讀文章中出,32,needs_revision,直接取自文章，拼寫與文中單字相同,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+24,"00:01:53,550 --> 00:01:55,230",appearing in the reading passage.,現的字詞完全相同。,35,needs_revision,出現在閱讀文章中的。,[medium] terminology: None; [high] meaning_drift: None
+25,"00:01:56,150 --> 00:02:07,310","The antonyms have opposite meanings to the words appearing in the reading passage, or b-synonyms have the same meaning but the spelling is different from",antonyms 具有與閱讀文章中所出現詞彙相反的意思。 段落，或是 b-同義詞具有相同的意義，但拼寫方式與,30,needs_revision,反義詞與閱讀文章中的詞彙意思相反，或 b-同義詞意思相同但拼寫不同,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] terminology: None; [low] style: None
+26,"00:02:07,310 --> 00:02:09,449",the words appearing in the reading passage.,閱讀段落中出現的單字不同。,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+27,"00:02:10,830 --> 00:02:16,650","Moreover, you need to be aware that this type often includes distractors.",此外，您需要了解這種題型通常會包含干擾選項。,45,needs_revision,此外，您需要瞭解這種題型通常會包含干擾選項。,[high] terminology: None
+28,"00:02:17,230 --> 00:02:21,950","So, we've understood the features and two main types of summary completion questions.",因此，我們已經了解了摘要填空 題型的特徵以及兩種主要題型。,30,needs_revision,因此，我們已經瞭解了摘要填空題型的特徵以及兩類摘要填空題型。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] typo: None; [high] meaning_drift: None
+29,"00:02:22,230 --> 00:02:27,410","Now, let's see how we can handle summary completion without a word list.",現在，讓我們來看看如何在沒有單字清單的情況下處理摘要填空題。,80,minor_issues,,[medium] terminology: None
+30,"00:02:31,700 --> 00:02:35,500",Here are the steps for summary completion without a word list.,以下是沒有單字清單時的摘要填空步驟。,80,minor_issues,,[medium] terminology: None
+31,"00:02:36,240 --> 00:02:40,940",This type is different from other completion question types in steps two and three.,此題型在步驟二和步驟三中 ，與其他填空題型不同。,100,ok,,
+32,"00:02:41,460 --> 00:02:45,220","So, in this lesson, I'm going to focus more on these two steps.",所以，在這堂課中，我會更專注於這兩個步驟。,80,minor_issues,,[medium] terminology: None
+33,"00:02:46,180 --> 00:02:49,480","Step one, read the question's requirement carefully.",第一步，仔細閱讀題目的要求。,80,minor_issues,,[medium] terminology: None
+34,"00:02:50,360 --> 00:02:53,900","Step two, apply skimming skills to read the summary quickly.",第二步，運用略讀技巧快速閱讀摘要。,80,minor_issues,,[medium] terminology: None
+35,"00:02:54,660 --> 00:03:01,680","Step three, apply scanning skills to the first and last sentence of the summary to locate its area.",第三步，運用掃描技巧至摘要的第一 句與最後一句，以定位其所在區域。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [low] collocation: None
+36,"00:03:02,940 --> 00:03:06,980","Step four, read each question carefully and predict the answer.",第四步，仔細閱讀每個問題並預測答案。,80,minor_issues,,[medium] terminology: None
+37,"00:03:07,620 --> 00:03:12,280","Step five, apply scanning skills to locate the information of each question.",第五步，套用掃描技巧來定位每個問題的答案。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+38,"00:03:12,980 --> 00:03:16,240","Step six, find and fill in the answer.",第六步，找出並填寫答案。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+39,"00:03:17,300 --> 00:03:20,380","Now, let's dive into each of them in detail.",現在，讓我們逐一詳細說明。,100,ok,,
+40,"00:03:28,820 --> 00:03:32,100","Step one, read the question's requirement carefully.",第一步，仔細閱讀題目要求。,100,ok,,
+41,"00:03:32,620 --> 00:03:37,220","In the requirement, we can see, complete the summary, choose no more than two words.",從題目要求中，我們可以看到，完成 摘要，請不超過兩個字詞。,30,needs_revision,從題目要求中，我們可以看到，完成 總結，不可超過兩個字。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+42,"00:03:37,640 --> 00:03:43,540","So, this is summary completion without a word list and we must be careful not to exceed the word limit.",因此，這是摘要填空題，且沒有提供單 字列表，我們必須謹慎遵守字數限制。,32,needs_revision,因此，這是摘要填空題，且沒有提供單 字清單，我們必須謹慎遵守字數限制。,[high] terminology: None; [low] style: None; [medium] terminology: None
+43,"00:03:44,920 --> 00:03:48,060","Step two, apply skimming skills to read the summary quickly.",第二步，運用略讀技巧快速閱讀摘要。,80,minor_issues,,[medium] terminology: None
+44,"00:03:48,420 --> 00:03:52,760",This step helps you understand the main idea of the summary to locate the answers easily.,這個步驟能幫助你掌握大意。 從摘要中找出答案，以便輕鬆定位。,80,minor_issues,,[medium] terminology: None
+45,"00:03:53,160 --> 00:03:56,600",I'll give you 20 seconds to skim the summary and find its main idea.,我會給你 20 秒的時間快速瀏覽摘要，並找出其大意。,80,minor_issues,,[medium] terminology: None
+46,"00:04:19,610 --> 00:04:24,410","This summary has a title, the evolution and purpose of street art.",此摘要包含標題：街頭藝術的演變與宗旨。,100,ok,,
+47,"00:04:24,770 --> 00:04:26,250",This gives us a big clue.,這給了我們一個重要的線索。,100,ok,,
+48,"00:04:26,810 --> 00:04:30,710","After skimming, we can see the main idea of the summary is about the history",快速瀏覽後，我們可以發現摘要的大意是關於歷史。,80,minor_issues,,[medium] terminology: None
+49,"00:04:30,710 --> 00:04:35,290",of street art and how it has changed from something negative to something positive.,街頭藝術以及它如何從負面 的事物轉變為正面的事物。,100,ok,,
+50,"00:04:36,750 --> 00:04:40,790","Step three, apply scanning skills to locate the area of the summary.",步驟三：套用掃描技巧來定位摘要的範圍。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+51,"00:04:41,270 --> 00:04:45,990",We will scan for keywords to narrow down which paragraphs contain the answers.,我們將掃描關鍵字以縮小答案所在的段落範圍。,100,ok,,
+52,"00:04:46,590 --> 00:04:49,910","To do this, recall the scanning process we learned earlier.",要達成這個目標，請回想我們之前學過的掃描技巧。,87,minor_issues,,[low] style: None
+53,"00:04:50,450 --> 00:04:55,310","First, we need to identify our scanning words in the first and last sentence of the summary.",首先，我們需要找出摘要首 句與末句中的掃描用詞。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+54,"00:04:56,730 --> 00:05:00,570",Some scanning words that I found are in the past and reinforce.,我找到的部分掃描用詞包含 in the past 和 reinforce。,70,minor_issues,我找到的部分掃描用詞包含 在過去 和 強化。,[medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None
+55,"00:05:02,090 --> 00:05:04,430","Now, apply the final scanning step.",現在，套用最後一個掃描步驟。,100,ok,,
+56,"00:05:04,730 --> 00:05:07,670",Look for these keywords or their synonyms in the passage.,在文章中尋找這些關鍵字或它們的同義詞。,100,ok,,
+57,"00:05:07,990 --> 00:05:10,470",This summary covers paragraphs one to three.,本摘要涵蓋 paragraphs one to three。,42,needs_revision,,[low] style: None; [high] meaning_drift: None
+58,"00:05:10,810 --> 00:05:14,270","In paragraph one, we find the exact phrase in the past.",在第一段中，我們找到了 in the past 這個確切的詞組。,30,needs_revision,在第一段中，我們找到了 在過去 這個確切的片語。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+59,"00:05:14,590 --> 00:05:19,330","We also find associated with, which is the synonym for linked to.",我們也找到 associated with，它是 linked to 的同義詞。,78,minor_issues,,[low] style: None; [low] style: None; [low] style: None; [low] style: None
+60,"00:05:19,530 --> 00:05:24,030","In paragraph three, we find strengthened, which is the synonym for reinforce.",在第三段中，我們找到了 strengthened，它是 reinforce 的同義詞。,77,minor_issues,在第三段中，我們找到了 強化，它是 reinforce 的同義詞。,[medium] terminology: None; [low] terminology: None
+61,"00:05:24,510 --> 00:05:27,730","Now that we have locked down the area, let's solve question one.",現在我們已經鎖定該區域，讓我們來解答第一題。,100,ok,,
+62,"00:05:29,130 --> 00:05:33,270","Step four, read each question carefully and predict the answer.",第四步，仔細閱讀每個問題並預測答案。,80,minor_issues,,[medium] terminology: None
+63,"00:05:33,790 --> 00:05:39,730","After looking at question one, we most likely need a noun because it follows linked to.",在檢視第一題後，我們很可能需要一個名詞，因 為它跟在 linked to 之後。,87,minor_issues,,[low] style: None
+64,"00:05:40,170 --> 00:05:46,290",The context also suggests something negative because of the phrase rather than being seen as an art form.,這個語境也暗示了負面的含義，因為該詞組是「rather than bei ng seen as an art form」，而非被視為一種藝術形式。,39,needs_revision,這個語境也暗示了負面的含義，因為該片語是「rather than being seen as an art form」，而非被視為一種藝術形式。,[high] terminology: None; [low] style: None; [low] style: None
+65,"00:05:47,630 --> 00:05:51,410","Step five, apply scanning skills to locate the information.",第五步，套用掃描技巧來定位資訊。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+66,"00:05:51,970 --> 00:05:56,030",Let's read paragraph one and look for in the past and linked to.,讓我們閱讀第一段，並尋找「in the past」和「linked to」這兩個詞。,70,minor_issues,讓我們閱讀第一段，並尋找「在過去」和「linked to」這兩個詞。,[medium] terminology: None; [medium] terminology: None
+67,"00:05:56,450 --> 00:05:56,990",Found it!,找到了！,100,ok,,
+68,"00:05:57,310 --> 00:05:58,430",Look at this sentence here.,請看這裡這句話。,80,minor_issues,,[medium] terminology: None
+69,"00:05:58,870 --> 00:06:03,410","In the past, many people thought street art was only graffiti and associated it",在過去，許多人認為街頭藝術只是塗鴉，並將其與之關聯,81,minor_issues,過去，許多人認為街頭藝術只是塗鴉，並並將它與之聯繫起來,[low] style: None; [low] collocation: None; [low] style: None
+70,"00:06:03,410 --> 00:06:04,330",with property damage.,造成財產損失。,100,ok,,
+71,"00:06:04,930 --> 00:06:09,570","In the past, matches in the past and associated it with is a synonym for linked to.",過去，matches 在過去時態中與 is 同義，並與 linked to 相關聯。,30,needs_revision,過去，matches 是 is 的同義詞，且與 linked to 同義。,[medium] terminology: None; [high] meaning_drift: None; [low] style: None; [high] meaning_drift: None
+72,"00:06:11,010 --> 00:06:14,010","Step six, find and fill in the answer.",步驟六，找出並填寫答案。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+73,"00:06:14,490 --> 00:06:18,170",The phrase following associated it with is property damage.,「associated it with」之後的片語是「property damage」。,70,minor_issues,「associated it with」之後的片語是「財產損失」。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None
+74,"00:06:18,530 --> 00:06:19,670",This fits our prediction.,這符合我們的預測。,100,ok,,
+75,"00:06:20,050 --> 00:06:22,450",It's a noun phrase and meets the word limit.,這屬於名詞片語，且符合字數限制。,87,minor_issues,,[low] style: None
+76,"00:06:22,890 --> 00:06:25,910","So, the answer for question one is property damage.",所以，第一題的答案是財產損失。,100,ok,,
+77,"00:06:27,110 --> 00:06:29,790","Remember to always check, does it fit the grammar?",記得隨時檢查，這符合文法嗎？,100,ok,,
+78,"00:06:30,370 --> 00:06:30,690",Yes.,是。,100,ok,,
+79,"00:06:31,150 --> 00:06:32,290",Does it fit the meaning?,這符合文意嗎？,80,minor_issues,,[medium] terminology: None
+80,"00:06:32,850 --> 00:06:33,130",Yes.,是。,100,ok,,
+81,"00:06:33,550 --> 00:06:35,630",And that is how you tackle summary completion.,以上就是您處理摘要填空題目的方法。,100,ok,,
+82,"00:06:42,380 --> 00:06:43,420","Great job, preppies.",做得很好，Prep 學員們。,100,ok,,
+83,"00:06:43,820 --> 00:06:48,100",We have successfully conquered the strategy for summary completion without a word list.,我們已成功掌握該策略。 沒有詞庫的摘要填空。,32,needs_revision,我們已成功掌握該策略。 無需詞彙表即可完成摘要填補。,[medium] terminology: None; [high] meaning_drift: None; [low] terminology: None
+84,"00:06:48,580 --> 00:06:53,740","Before we go, let's quickly recap the six essential steps to ensure you get a high score.",在結束之前，讓我們快速回顧六 個關鍵步驟，確保你能取得高分。,77,minor_issues,,[low] style: None; [medium] terminology: None
+85,"00:06:54,880 --> 00:06:57,600","Step one, read requirements carefully.",第一步，仔細閱讀要求。,100,ok,,
+86,"00:06:57,980 --> 00:06:59,500",Always check the word limit.,請務必遵守字數限制。,80,minor_issues,,[medium] terminology: None
+87,"00:06:59,760 --> 00:07:03,000","Step two, skim the summary to grasp the main idea.",第二步，略讀摘要以掌握主旨。,100,ok,,
+88,"00:07:03,560 --> 00:07:08,340","Step three, scan the first and last sentences to locate the summary area in the passage.",第三步，掃描首尾句以定 位文章中的摘要區域。,84,minor_issues,第三步，掃描首尾句以定位文章中的摘要區域。,[low] register: None; [low] typo: None
+89,"00:07:08,700 --> 00:07:10,540","Step four, predict the answer.",第四步，預測答案。,100,ok,,
+90,"00:07:10,960 --> 00:07:15,200","Step five, scan for specific information using keywords and synonyms.",第五步，使用關鍵字和同義詞掃描以獲取特定資訊。,100,ok,,
+91,"00:07:15,560 --> 00:07:18,380","Step six, fill in the answer and double check it.",第六步，填入答案並仔細檢查。,80,minor_issues,,[medium] terminology: None
+92,"00:07:19,580 --> 00:07:24,280","Remember, the key to this question type is spotting synonyms and paraphrasing.",記住，解題的關鍵在於識別同義詞與改寫。,80,minor_issues,,[medium] terminology: None
+93,"00:07:24,580 --> 00:07:30,440",Keep practicing these steps and I'll see you in the next lesson where we tackle summary completion with a word list.,持續練習這些步驟，我們下一堂課再見， 屆時我們將使用詞彙列表進行摘要填空。,30,needs_revision,持續練習這些步驟，我們下一堂課再見， 屆時我們將使用詞彙清單進行摘要填空。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+94,"00:07:30,660 --> 00:07:31,140",See ya!,再見！,100,ok,,

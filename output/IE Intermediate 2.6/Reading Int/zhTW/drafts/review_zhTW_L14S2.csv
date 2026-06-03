@@ -1,0 +1,130 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:11,910 --> 00:00:13,750","Hey guys, it's me.",嗨，各位，是我。,100,ok,,
+2,"00:00:14,430 --> 00:00:16,670",I hope you guys are having fun with the course.,希望你們在課程中玩得開心。,100,ok,,
+3,"00:00:16,930 --> 00:00:17,910",Are you ready for more?,你們準備好繼續了嗎？,100,ok,,
+4,"00:00:18,450 --> 00:00:26,110",Today I'm going to introduce to you a new question type called short answer questions or questions that require short answers.,今天我要向大家介紹一種新的題型，稱為 簡答題，也就是需要簡短回答的問題。,77,minor_issues,,[low] style: None; [medium] terminology: None
+5,"00:00:27,090 --> 00:00:30,850",There are two goals we need to achieve in today's lesson.,今天的課程中，我們需要達成兩個目標。,100,ok,,
+6,"00:00:31,470 --> 00:00:35,690",They are understand and identify short answer questions.,他們需要理解並辨識簡答題。,100,ok,,
+7,"00:00:35,690 --> 00:00:39,970",Apply five steps for short answer questions effectively.,套用簡答題的五個步驟，以提升作答效果。,100,ok,,
+8,"00:00:41,130 --> 00:00:43,230",This lesson has three parts.,本課程分為三個部分。,100,ok,,
+9,"00:00:44,290 --> 00:00:48,550",Introduction to short answer questions and how to write effective answers.,簡答題介紹及撰寫有效答案的方法。,80,minor_issues,,[medium] terminology: None
+10,"00:00:49,350 --> 00:00:52,790",Steps for short answer questions and practice.,簡答題步驟與練習,45,needs_revision,,[high] meaning_drift: None
+11,"00:00:53,750 --> 00:00:58,390",It won't be as difficult as you imagine and I'll guide you through this.,這不會像你想的那麼困難，我會引導你完成。,80,minor_issues,,[medium] terminology: None
+12,"00:00:58,650 --> 00:00:59,750",So let's go.,那麼，我們開始吧。,100,ok,,
+13,"00:01:03,819 --> 00:01:05,980","Well, short answer question.",那麼，簡答題。,100,ok,,
+14,"00:01:06,660 --> 00:01:10,640","As its name suggests, is a question that requires a short answer.",正如其名稱所示，這是一道需要簡答題。,70,minor_issues,正如其名稱所示，這是一道簡答題。,[medium] terminology: None; [medium] terminology: None; [low] grammar: None
+15,"00:01:11,440 --> 00:01:13,440",Let's take a look at the following question.,讓我們來看看以下問題。,80,minor_issues,,[medium] terminology: None
+16,"00:01:14,480 --> 00:01:20,680","What name does the writer give to breeds such as the Persian, Russian Blue and Siamese?",作者對波斯貓、俄羅斯藍貓和暹 羅貓等品種使用了什麼名稱？,74,minor_issues,,[low] style: None; [low] style: None; [medium] terminology: None
+17,"00:01:21,720 --> 00:01:24,440",A question of this type has two important parts.,這種類型問題有兩個重要部分。,35,needs_revision,這種型別問題有兩個重要部分。,[high] terminology: None; [medium] terminology: None
+18,"00:01:25,480 --> 00:01:33,400","Question words, which is WH words and content, which is the content of the question.",疑問詞，也就是 WH 詞和 題目內容,42,needs_revision,疑問詞，也就是 WH 詞和 問題內容,[low] style: None; [high] meaning_drift: None
+19,"00:01:34,120 --> 00:01:37,800",Question words help us identify the format of the answer.,疑問詞有助於我們辨識答案的形式。,80,minor_issues,,[medium] terminology: None
+20,"00:01:38,540 --> 00:01:41,700","For example, what is the word form of the answer?",例如，答案的詞彙形式為何？,100,ok,,
+21,"00:01:42,400 --> 00:01:47,700","About content, it is obviously necessary for scanning and finding the correct answer.",關於內容部分，掃描並找 出正確答案顯然是必要的。,84,minor_issues,關於內容，掃描並找 出正確答案顯然是必要的。,[low] style: None; [low] style: None
+22,"00:01:48,240 --> 00:01:52,980","And we're going to explore this in part two of the lesson, which is the",接下來我們將在課程的第二部分探索這個主題，,100,ok,,
+23,"00:01:52,980 --> 00:01:55,180",steps for short answer questions.,也就是簡答題的步驟。,42,needs_revision,簡答題的步驟。,[low] style: None; [high] meaning_drift: None
+24,"00:01:56,000 --> 00:01:59,320","In fact, this question type is not difficult.",事實上，這類題型並不難。,80,minor_issues,,[medium] terminology: None
+25,"00:01:59,880 --> 00:02:02,880",You just need to be a little careful when writing the answer.,寫答案時只需稍微小心即可。,100,ok,,
+26,"00:02:02,880 --> 00:02:08,539","To make it easier for you, I'm going to give you the rule named WFWC.",為了方便您，我要提供給您一個名為 WFWC 的規則。,80,minor_issues,,[medium] terminology: None
+27,"00:02:09,780 --> 00:02:12,400",W is for words or phrases.,W 代表單字或片語。,100,ok,,
+28,"00:02:13,520 --> 00:02:16,600",F is for from the passage.,F 代表文章中的 from。,100,ok,,
+29,"00:02:17,700 --> 00:02:20,600",W for within the word limit.,W 代表字數限制內。,100,ok,,
+30,"00:02:21,320 --> 00:02:23,860",And C come in order.,C 依序出現。,100,ok,,
+31,"00:02:24,980 --> 00:02:29,560","Firstly, the answers to this question type will only be words or phrases.",首先，此題型的答案僅限為單字或片語。,100,ok,,
+32,"00:02:29,560 --> 00:02:35,020","For example, they can be nouns or noun phrases, not the whole sentence.",例如，它們可以是名詞或名詞片語，而非完整的句子。,100,ok,,
+33,"00:02:35,840 --> 00:02:40,260","Secondly, the answers to this question type are taken exactly from the passage",其次，此題型的答案完全取自文章，且沒有,32,needs_revision,其次，此題型的答案完全取自文章，。,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+34,"00:02:40,260 --> 00:02:41,700",without any changes.,任何更動。,87,minor_issues,沒有任何變更。,[low] style: None
+35,"00:02:42,320 --> 00:02:44,880","Like, don't change the word form.",像這樣，不要改變單字形式。,80,minor_issues,,[medium] terminology: None
+36,"00:02:45,700 --> 00:02:47,120",Don't change the order.,不要改變順序。,100,ok,,
+37,"00:02:47,940 --> 00:02:52,620",And don't change the singular into the plural and vice versa.,另外，不要將單數變成複數，反之亦然。,74,minor_issues,,[low] style: None; [low] style: None; [medium] terminology: None
+38,"00:02:53,320 --> 00:02:57,020","Thirdly, the answers must follow the word limit in the requirement.",第三，答案必須符合要求的字數限制。,80,minor_issues,,[medium] terminology: None
+39,"00:02:57,660 --> 00:03:02,020","Until this lesson, I believe you can understand it well, especially through the",到目前為止，我相信您能理解得很好，特別是透過,80,minor_issues,,[medium] terminology: None
+40,"00:03:02,020 --> 00:03:04,460",series of lessons on completion questions.,有關完成題的系列課程。,100,ok,,
+41,"00:03:05,240 --> 00:03:14,280","I want to remind you again, when handling this question type, please pay attention to the requirement and check how many words you are allowed to write.",我想再次提醒您，在處理這類題型時，請務必注意 留意題目要求，並確認您被允許書寫的字數。,70,minor_issues,我想再次提醒您，在處理這類題型時，請務必注意題目要求，並確認您被允許書寫的字數。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] collocation: None
+42,"00:03:15,020 --> 00:03:18,840","This is the reason why the answers for this type are only words or phrases,",這就是這類題目的答案僅為單字或片語，而非完,45,needs_revision,這就是這類題目的答案僅為單字或片語，而是單字或片語,[high] meaning_drift: None
+43,"00:03:19,480 --> 00:03:20,760",not the whole sentence.,整句子的原因。,45,needs_revision,不是整句。。,[high] meaning_drift: None
+44,"00:03:21,520 --> 00:03:23,160",Please pay attention to this.,請務必留意這一點。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+45,"00:03:23,880 --> 00:03:28,320","Lastly, this is the question type in which the answers come in order.",最後，這是答案依序出現的題型。,100,ok,,
+46,"00:03:29,060 --> 00:03:34,880","It means that you will find the answers to question one before the answer to question two, and so on.",這表示您會先找到第一題的答案，接 著才是第二題的答案，依此類推。,80,minor_issues,,[medium] terminology: None
+47,"00:03:35,840 --> 00:03:39,400",Let's use the WFWC as a checklist.,讓我們將 WFWC 作為一份檢查清單來使用。,100,ok,,
+48,"00:03:43,940 --> 00:03:47,000","For this question type, we'll follow five steps.",針對此種題型，我們將遵循五個步驟。,80,minor_issues,,[medium] terminology: None
+49,"00:03:48,080 --> 00:03:50,780","Step one, read the requirement carefully.",第一步，仔細閱讀題目要求。,80,minor_issues,,[medium] terminology: None
+50,"00:03:51,680 --> 00:03:55,300","Step two, read questions and identify keywords.",第二步，閱讀題目並找出關鍵字。,100,ok,,
+51,"00:03:56,520 --> 00:03:58,940","Step three, predict answers.",第三步，預測答案。,100,ok,,
+52,"00:03:59,760 --> 00:04:04,920","Step four, apply scanning skills to locate information areas of the questions.",第四步，套用掃描技巧以定位題目的資訊區域。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+53,"00:04:05,780 --> 00:04:12,420","Step five, read the information areas located in step four carefully to identify correct answers.",第五步，仔細閱讀第四步所定位 的資訊區域，以找出正確答案。,100,ok,,
+54,"00:04:13,340 --> 00:04:16,180",Let's take the following passage as an example.,以下面這段文章為例。,80,minor_issues,,[medium] terminology: None
+55,"00:04:24,370 --> 00:04:28,450",This step helps us to identify the question type and the word limit.,此步驟有助於我們辨識題型與字數限制。,80,minor_issues,,[medium] terminology: None
+56,"00:04:28,450 --> 00:04:35,110","Looking at the requirement quickly, we can recognize that this is a short answer question with its features.",快速檢視要求後，我們可以辨識出 這是一道簡答題，並具有其特徵。,74,minor_issues,快速檢視需求後，我們可以辨識出 這是一道簡答題，有其特點。,[medium] terminology: None; [low] terminology: None; [low] style: None
+57,"00:04:35,690 --> 00:04:41,130","The requirement is no more than three words, so we can write a maximum of",要求不超過三個字，因此我們最多可以寫,80,minor_issues,,[medium] terminology: None
+58,"00:04:41,130 --> 00:04:43,450",three words for each answer.,每個答案三個字。,100,ok,,
+59,"00:04:43,850 --> 00:04:50,710","In the exam room, remember to underline this detail to remind yourself when choosing the answer.",在考場中，記得將此細節劃線 ，以便在選擇答案時提醒你自己。,74,minor_issues,在考場裡，記得將此細節劃線 ，以提醒自己在選擇答案時。,[medium] terminology: None; [low] style: None; [low] style: None
+60,"00:05:14,730 --> 00:05:21,630","Step two, read questions and identify keywords, just like other question types of IELTS.",第二步，閱讀題目並找出關鍵字，這與 I ELTS 的其他題型做法相同。,87,minor_issues,第二步，閱讀題目並找出關鍵字，這與 IELTS 的其他題型做法相同。,[low] typo: None
+61,"00:05:21,650 --> 00:05:25,830","Reading, identifying keywords is a necessary skill.",閱讀時，辨識關鍵字是一項必要的技巧。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+62,"00:05:26,270 --> 00:05:31,550","For this type, the keywords include the WH words or question words.",此類題型的關鍵字包含 WH 疑問詞或疑問詞。,45,needs_revision,此類題型的關鍵字包含 WH 疑問詞或其他疑問詞。,[high] meaning_drift: None
+63,"00:05:32,070 --> 00:05:34,450","Now, it's time for the second challenge.",現在，我們要進行第二個挑戰了。,100,ok,,
+64,"00:05:34,910 --> 00:05:42,250","In 10 seconds, you're going to underline the keywords and identify scanning words, if any, in this question.",在 10 秒內，你要劃出這個問題中 的關鍵字，並找出是否有任何掃讀詞。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] terminology: None; [low] register: None
+65,"00:05:42,690 --> 00:05:45,110","Three, two, one, start.",三、二、一，開始。,100,ok,,
+66,"00:05:58,920 --> 00:05:59,820",Time's up.,時間到。,80,minor_issues,,[medium] terminology: None
+67,"00:05:59,900 --> 00:06:00,580",Have you finished?,請問您已完成嗎？,100,ok,,
+68,"00:06:00,880 --> 00:06:04,460","For this question, we need to focus on the following keywords.",針對此題，我們需要著重於以下關鍵字。,80,minor_issues,,[medium] terminology: None
+69,"00:06:05,560 --> 00:06:09,000","Step three, predict answers.",第三步：預測答案。,100,ok,,
+70,"00:06:09,640 --> 00:06:15,180","For this step, we will use the question words to make predictions about the answer.",在這個步驟中，我們將 利用問題詞來預測答案。,80,minor_issues,,[medium] terminology: None
+71,"00:06:15,660 --> 00:06:20,500",This requires us to have a good understanding of English grammar about,這需要我們對英語文法中不同的問題詞有,35,needs_revision,這需要我們了解英語語法,[medium] terminology: None; [high] meaning_drift: None
+72,"00:06:20,500 --> 00:06:21,980",different question words.,深入的理解。,35,needs_revision,不同的疑問詞。,[medium] terminology: None; [high] meaning_drift: None
+73,"00:06:22,380 --> 00:06:26,480","However, I'll give you a quick summary of them in the following table.",不過，我會在下方的表格中為你們提供一個簡要摘要。,100,ok,,
+74,"00:06:46,380 --> 00:06:51,820",Let's remember this knowledge to identify the correct answers more easily.,讓我們記住這些知識，以便更容易地找出正確答案。,100,ok,,
+75,"00:06:51,820 --> 00:06:57,840","For our questions, all of them start with the word what, so we will have",在我們的問題中，所有問題都以 what 開頭，因此我,30,needs_revision,在我們的問題中，所有問題都以 「什麼」 開頭，因此我們將,[medium] terminology: None; [medium] terminology: None; [low] terminology: None; [high] meaning_drift: None
+76,"00:06:57,840 --> 00:07:01,460",to look for a noun or noun phrase for all of them.,們必須為所有問題尋找名詞或名詞片語。,35,needs_revision,為它們尋找名詞或名詞片語,[medium] terminology: None; [high] meaning_drift: None
+77,"00:07:02,880 --> 00:07:08,520","Step four, apply scanning skills to locate information areas of the questions.",第四步，套用掃描技巧來定位問題中的資訊區域。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+78,"00:07:09,120 --> 00:07:13,840","Based on the keywords and scanning words we've identified, now you have",根據我們已確定的關鍵字和掃描詞，現在你已經,100,ok,,
+79,"00:07:13,840 --> 00:07:17,780",30 seconds to locate the information area that contains the answer.,在 30 秒內找到包含答案的資訊區域。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+80,"00:07:18,220 --> 00:07:19,920",Your time starts now.,現在開始計時。,80,minor_issues,,[medium] terminology: None
+81,"00:07:53,640 --> 00:08:01,060","From the keyword anxiety in question one, we can locate the information needed in paragraph one.",從第一題的關鍵字 anxiety， 我們可以定位到第一段所需的資訊。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+82,"00:08:01,660 --> 00:08:07,220","In the fourth sentence, we can find the phrase a small amount of anxiety,",在第四句中，我們可以找到「a small amount of anxiety」這個片語，,30,needs_revision,在第四句中，我們可以找到「少量焦慮」這個片語，,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+83,"00:08:07,220 --> 00:08:09,640",which is a synonym of minor anxiety.,是『minor anxiety』的同義詞。,84,minor_issues,是『輕度焦慮』的同義詞。,[low] terminology: None; [low] script: None
+84,"00:08:11,240 --> 00:08:16,540","Similarly, using the keywords child and acting out, we can easily locate the",同樣地，利用關鍵字 child 和 acting out，我們可以,84,minor_issues,同樣地，利用關鍵字 孩子 和 行為表現，我們可以,[low] terminology: None; [low] terminology: None
+85,"00:08:16,540 --> 00:08:18,180",information in the second paragraph.,輕鬆地找到第二段中的相關資訊。,80,minor_issues,,[medium] terminology: None
+86,"00:08:19,280 --> 00:08:25,480","Step five, read the information areas located in step four carefully to",第五步，仔細閱讀第四步中所列的資訊區域，以,100,ok,,
+87,"00:08:25,480 --> 00:08:27,180",identify correct answers.,找出正確答案。,100,ok,,
+88,"00:08:27,820 --> 00:08:29,480",We only have one more step.,我們只剩下最後一個步驟。,100,ok,,
+89,"00:08:29,980 --> 00:08:34,799",We need to find a noun slash noun phrase slash proper noun in the passage.,我們需要在文章中找出名詞、名詞片語或 proper noun。,77,minor_issues,我們需要在文章中找出名詞、名詞片語或 專有名詞。,[medium] terminology: None; [low] terminology: None
+90,"00:08:35,460 --> 00:08:38,780",It will be somewhere around the information area we've identified.,答案應位於我們已標示的 information area 周圍。,77,minor_issues,答案應位於我們已標示的 資訊區 周圍。,[medium] terminology: None; [low] terminology: None
+91,"00:08:39,100 --> 00:08:44,080","As mentioned in the previous step, we could locate the information needed in the fourth sentence.",如同前一個步驟所提及的，我們可以 在第四個句子中找到所需的資訊,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+92,"00:08:44,080 --> 00:08:49,220",A small amount of anxiety is the synonym of minor anxiety.,少量的焦慮是 minor anxiety 的同義詞。,87,minor_issues,少量的焦慮是 輕度焦慮 的同義詞。,[low] style: None
+93,"00:08:49,840 --> 00:08:52,360",Be helpful is the same as assist.,Be helpful 與 assist 的意思相同。,30,needs_revision,有幫助 與 作為sist 的意思相同。,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+94,"00:08:52,800 --> 00:08:57,980",And finish a school project means the same as project completion.,完成一份 school project 與 project completion 的意思相同。,74,minor_issues,完成一份 學校作業 與 完成專案 的意思相同。,[medium] terminology: None; [low] terminology: None; [low] terminology: None
+95,"00:08:58,660 --> 00:09:04,360",The sentence says a small amount of anxiety can provide a boost of energy.,該句指出，少量的焦慮能提供一絲能量。,80,minor_issues,,[medium] terminology: None
+96,"00:09:04,780 --> 00:09:07,800",And that is exactly what we need for question one.,而這就是我們在第一題時所需要的。,100,ok,,
+97,"00:09:08,980 --> 00:09:19,540","For question two, if you look closely in the fifth sentence of the second paragraph, you can find the exact phrase acting out, which is a keyword we found earlier.",第二題，若仔細查看第二段的第五句，你會找到「acting out」這個確切的片語，這是我們先前找到的關鍵字。,30,needs_revision,第二題，若仔細檢視第二段的第五句，你會找到「acting out」這個確切的片語，這是我們先前找到的關鍵字。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+98,"00:09:20,100 --> 00:09:25,080","We also found the word misinterpreted, another way of saying perceived.",我們也找到了「misinterpreted」這個詞，它是「perceived」的另一種說法。,87,minor_issues,,[low] style: None
+99,"00:09:25,580 --> 00:09:29,440",It's easy to find the answer for question two at the end of that sentence.,在該句的末尾，很容易就能找到第二題的答案。,80,minor_issues,,[medium] terminology: None
+100,"00:09:29,960 --> 00:09:34,560",Acting out is often misinterpreted as simple disobedience.,「acting out」常被誤解為單純的不服從。,80,minor_issues,,[medium] terminology: None
+101,"00:09:41,090 --> 00:09:46,410","In this part, you have three minutes to answer the three more questions of this passage.",本部分有三分鐘的時間，請回答 關於此篇文章的另外三題。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+102,"00:09:46,410 --> 00:09:51,090",Please pause the video for three minutes and follow all the steps.,請暫停影片三分鐘，並完成所有步驟。,80,minor_issues,,[medium] terminology: None
+103,"00:09:51,410 --> 00:09:52,930",Now let's start reading.,現在我們開始閱讀。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+104,"00:09:59,350 --> 00:10:04,210","If you look closely at the last sentence of the third paragraph, you can find",如果您仔細看第三段的最後一句，您可以找到,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+105,"00:10:04,210 --> 00:10:11,930","the phrase value is tied solely to, which matches our keyword self-worth relies on.",該片段的意義完全取決於符合我們關 鍵字的 self-worth。,30,needs_revision,詞義僅取決於與我們關鍵字 self-worth 相符的部分。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+106,"00:10:12,470 --> 00:10:20,210","We also see grades or your popularity, which is another way of saying academic or social success.",我們也會看到 grades 或您的受歡迎程度，這另一種說法 就是 academic 或 social success。,84,minor_issues,,[low] style: None; [low] style: None
+107,"00:10:20,210 --> 00:10:25,670",It's easy to find the answer for question three right at the end of that sentence.,要找到問題的答案很容易 就在該句的末尾。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+108,"00:10:26,410 --> 00:10:30,090",The foundation for chronic anxiety is often laid.,慢性焦慮的基礎往往就此奠定。,100,ok,,
+109,"00:10:30,830 --> 00:10:34,330","Following the word limit, the answer is chronic anxiety.",在字數限制內，答案為慢性焦慮。,80,minor_issues,,[medium] terminology: None
+110,"00:10:35,690 --> 00:10:40,690","In the second sentence of the fourth paragraph, you can find the exact word",在第四段的第二句話中，您可以找到確切的詞彙 phenom,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+111,"00:10:40,690 --> 00:10:44,290","phenomenon, which is a keyword from our question.",enon，這是我們問題中的一個關鍵字,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+112,"00:10:44,770 --> 00:10:51,050","We also found the word inadequate, which is another way of saying non -fulfillment.",我們也找到 inadequate 這個字，它表示另一種非滿足的狀態。,81,minor_issues,我們也找到 不充足 這個字，它表示另一種未滿足的狀態。,[low] style: None; [low] terminology: None; [low] register: None
+113,"00:10:51,850 --> 00:10:56,890",You can find the answer for question four immediately following the word phenomenon.,您可以在 phenomenon 這個詞之後立即找到第四題的答案。,74,minor_issues,您可以在 現象 這個詞之後立即找到第四題的答案。,[low] style: None; [medium] terminology: None; [low] terminology: None
+114,"00:10:57,490 --> 00:11:00,190",It is known as social comparison.,這被稱為 social comparison。,70,minor_issues,這被稱為 社會比較。,[medium] terminology: None; [medium] terminology: None; [low] style: None
+115,"00:11:00,930 --> 00:11:03,530",This fits our word limit perfectly.,這完全符合我們的字數限制。,100,ok,,
+116,"00:11:04,850 --> 00:11:12,350","In the middle of the fifth paragraph, you can find the word dismissing, which matches our keyword dismissal.",在第五段的中間，您可以找到單字 dismissin g，它與我們的關鍵字 dismissal 相符。,77,minor_issues,在第五段的中間，您可以找到單字 dismissing，它與我們的關鍵字 dismissal 相符。,[medium] terminology: None; [low] typo: None
+117,"00:11:12,350 --> 00:11:18,810","The question asks what adults should avoid, and the text says adults should",題目詢問成年人應避免什麼，文中指出成年人應聆聽,45,needs_revision,題目詢問成年人應避免什麼，文中指出成年人應避免,[high] meaning_drift: None
+118,"00:11:18,810 --> 00:11:20,830",listen without doing this.,而不要做這件事。,45,needs_revision,listen without doing this.。,[high] meaning_drift: None
+119,"00:11:21,070 --> 00:11:25,230",The answer for question five is found right after that keyword.,第五題的答案就在該關鍵字之後。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+120,"00:11:26,010 --> 00:11:31,250",Adults should avoid dismissing feelings as just a phase.,成年人應避免將感受視為僅僅是階段性的現象。,80,minor_issues,,[medium] terminology: None
+121,"00:11:31,510 --> 00:11:34,210",That is our three-word answer.,這就是我們的三字答案。,100,ok,,
+122,"00:11:41,010 --> 00:11:43,770","Another lesson, another question type conquered.",又一堂課，又攻克了一種題型。,100,ok,,
+123,"00:11:44,210 --> 00:11:48,770",We have successfully completed the lesson on short answer questions and,我們已成功完成關於簡答題的課程，並,80,minor_issues,,[medium] terminology: None
+124,"00:11:48,770 --> 00:11:50,210",achieved two goals.,達成兩個目標。,100,ok,,
+125,"00:11:51,470 --> 00:11:54,130",Understand and identify short answer questions.,理解並辨識簡答題。,45,needs_revision,,[high] meaning_drift: None
+126,"00:11:55,030 --> 00:11:58,590",And apply five steps for short answer questions effectively.,套用簡答題的五個步驟，以有效作答。,100,ok,,
+127,"00:11:59,370 --> 00:12:03,430","Before finishing the lesson, I have two questions to check your knowledge.",在課程結束前，我有兩個問題要測驗您的知識。,80,minor_issues,,[medium] terminology: None
+128,"00:12:04,090 --> 00:12:05,050",Please answer them quickly.,請盡快回答。,100,ok,,
+129,"00:12:05,050 --> 00:12:11,180","For now, see you all in the next lesson and goodbye.",暫且如此，我們下一堂課再見，再見。,70,minor_issues,那麼，我們下一堂課見，再見。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [low] register: None; [low] collocation: None

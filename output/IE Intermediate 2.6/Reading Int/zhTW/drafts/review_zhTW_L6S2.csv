@@ -1,0 +1,210 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:11,810 --> 00:00:15,850","Hi guys, welcome back to another exciting lesson.",嗨，各位同學，歡迎回到另一堂精彩的課程。,100,ok,,
+2,"00:00:16,470 --> 00:00:20,690",This is an example of table completion in IELTS reading.,這是 IELTS 閱讀測驗中表格填空題型的範例。,100,ok,,
+3,"00:00:21,320 --> 00:00:23,590",This is also what we learn today.,這也是我們今天要學習的內容。,87,minor_issues,,[low] style: None
+4,"00:00:24,630 --> 00:00:27,910",This lesson aims to help you understand the,本課程旨在協助您了解表格,30,needs_revision,本課程旨在協助您瞭解此課程,[high] terminology: None; [high] meaning_drift: None
+5,"00:00:27,910 --> 00:00:29,250",format of table completion.,填空題型的形式。,30,needs_revision,表格填充格式。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+6,"00:00:29,930 --> 00:00:34,150","Remember, understand and apply steps for table completion.",請記得、理解並套用表格填空的步驟。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+7,"00:00:35,250 --> 00:00:37,750",Practice table completion in IELTS reading.,練習 IELTS 閱讀的表格填空。,80,minor_issues,,[medium] terminology: None
+8,"00:00:38,910 --> 00:00:40,850",Let's get started with the first part.,讓我們開始第一部分的學習。,100,ok,,
+9,"00:00:45,160 --> 00:00:48,520","Similar to the other completion questions in IELTS reading,",IELTS 閱讀中的其他完成題類似,45,needs_revision,IELTS 閱讀的完成題與其他題目類似,[high] meaning_drift: None
+10,"00:00:48,520 --> 00:00:50,880",table completion is a question type which,，表格填空是一種題型，它,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+11,"00:00:50,880 --> 00:00:53,260",requires candidates to fill in the blanks to,要求考生填寫空白處以完,77,minor_issues,要求考生填寫空白以完成,[medium] terminology: None; [low] grammar: None
+12,"00:00:53,260 --> 00:00:55,560",complete a given table of information.,成給定的資訊表格。,77,minor_issues,完成給定的資訊表格。,[medium] terminology: None; [low] grammar: None
+13,"00:00:56,540 --> 00:00:58,720","Of course, we are not allowed to change",當然，在填寫空白處時，,30,needs_revision,當然，我們不能改變，,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+14,"00:00:58,720 --> 00:01:00,780",the word form when filling in the blanks.,我們不得變更詞彙形式。,35,needs_revision,填寫空白處的詞形。,[medium] terminology: None; [high] meaning_drift: None
+15,"00:01:01,600 --> 00:01:04,680","Usually, the table will have specific headings for",通常，表格會有特定的標題，用於,87,minor_issues,通常，資料表會有特定的標題，用於,[low] style: None
+16,"00:01:04,680 --> 00:01:08,080","columns and rows, so we can identify which",欄與列，以便我們識別需,35,needs_revision,欄與列，以便我們識別,[medium] terminology: None; [high] meaning_drift: None
+17,"00:01:08,080 --> 00:01:09,600",information we need to find.,要尋找的資訊。,80,minor_issues,,[medium] terminology: None
+18,"00:01:10,940 --> 00:01:13,560",This is an example of a table completion question,這是 IELTS 閱讀測驗中「表格填空」題型的,30,needs_revision,這是一個表格填空題的範例,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+19,"00:01:13,560 --> 00:01:14,840",in the IELTS reading,範例。從這個範例中，,30,needs_revision,在 IELTS 閱讀測驗中,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+20,"00:01:15,740 --> 00:01:18,800","From this example, we can see that table completion",我們可以了解「table completion」,30,needs_revision,我們可以瞭解「表格填空」,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+21,"00:01:18,800 --> 00:01:20,680",is different from other question types,與其他題型不同，,100,ok,,
+22,"00:01:20,680 --> 00:01:22,720",because we need to look at the headings of,因為我們需要檢視,30,needs_revision,因為我們需要查看,[high] meaning_drift: None; [high] meaning_drift: None
+23,"00:01:22,720 --> 00:01:24,780","the columns and the headings of the rows,",欄位標題與列標題（,45,needs_revision,欄位與列標題,[high] meaning_drift: None
+24,"00:01:24,900 --> 00:01:27,600","if any, to identify the information in the",如有），以便識別文,35,needs_revision,如有），以便資訊,[medium] terminology: None; [high] meaning_drift: None
+25,"00:01:27,600 --> 00:01:31,020",passage and differentiate it from the information in,章中的資訊，並將其與,30,needs_revision,並將其與資訊區分開來,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+26,"00:01:31,020 --> 00:01:32,200",other rows and columns.,其他欄與列。,100,ok,,
+27,"00:01:32,720 --> 00:01:35,300","After that, we can make predictions about the",之後，我們可以預測答案,30,needs_revision,之後，我們可以預測後續內容,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+28,"00:01:35,300 --> 00:01:37,320",answers to fill in the blanks.,以填入空白處。,35,needs_revision,空白處的答案。,[medium] terminology: None; [high] meaning_drift: None
+29,"00:01:37,720 --> 00:01:39,980","To be more specific, we are going to",更具體來說，我們將探討,100,ok,,
+30,"00:01:39,980 --> 00:01:43,080",explore the steps for table completion questions and,完成題（表格填空）的步驟，以及,80,minor_issues,,[medium] terminology: None
+31,"00:01:43,080 --> 00:01:45,380",see if there are any differences between the,請確認本題型的步驟與我,45,needs_revision,看看,[high] meaning_drift: None
+32,"00:01:45,380 --> 00:01:47,680",steps for this type and those of other,先前指示的其他完成,35,needs_revision,此類及其他 [type] 的步驟,[medium] terminology: None; [high] meaning_drift: None
+33,"00:01:47,680 --> 00:01:50,240",completion questions that I have instructed you.,題之間，是否有任何差異。,32,needs_revision,completion questions that I have instructed you.,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+34,"00:01:53,760 --> 00:01:57,260",Let's start by recalling the standard steps for,讓我們先從複習完成題的標準,30,needs_revision,讓我們先複習標準步驟,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+35,"00:01:57,260 --> 00:01:58,300",completion tasks.,步驟開始。,35,needs_revision,完成任務。,[medium] terminology: None; [high] meaning_drift: None
+36,"00:01:59,200 --> 00:02:01,480","Generally, the rules are the same as those",一般而言，這些規則與其他,30,needs_revision,一般而言，這些規則與之相同,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+37,"00:02:01,480 --> 00:02:03,040",of other completion questions.,完成題的規則相同。,45,needs_revision,與其他完成題相同。,[high] meaning_drift: None
+38,"00:02:03,820 --> 00:02:06,040",You should follow these four steps.,你應該遵循這四個步驟。,80,minor_issues,,[medium] terminology: None
+39,"00:02:07,300 --> 00:02:07,840",Step 1.,步驟一：,45,needs_revision,,[high] placeholder: None
+40,"00:02:08,520 --> 00:02:11,520",Read instructions and check word limit.,閱讀說明並確認字數限制。,80,minor_issues,,[medium] terminology: None
+41,"00:02:12,060 --> 00:02:13,900",No more than two words.,不超過兩個字詞。,100,ok,,
+42,"00:02:15,080 --> 00:02:15,960",Step 2.,步驟 2。,100,ok,,
+43,"00:02:16,660 --> 00:02:21,160","Predict the answer type, noun, verb, or adjective.",預測答案類型，為名詞、動詞或形容詞。,45,needs_revision,預測答案型別，為名詞、動詞或形容詞。,[high] terminology: None
+44,"00:02:22,880 --> 00:02:23,340",Step 3.,步驟 3。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+45,"00:02:24,060 --> 00:02:26,960",Apply scanning skills to locate the information.,運用掃描技巧以定位相關資訊。,80,minor_issues,,[medium] terminology: None
+46,"00:02:28,640 --> 00:02:29,220",Step 4.,步驟 4。,80,minor_issues,,[medium] terminology: None
+47,"00:02:29,980 --> 00:02:33,160",Fill in the answer and check spelling/grammar.,填寫答案並檢查拼字／文法。,87,minor_issues,填寫答案並檢查拼寫／文法。,[low] terminology: None
+48,"00:02:34,660 --> 00:02:38,100","Steps 1, 2, and 4 are quite standard,",步驟 1、2 和 4 相當,45,needs_revision,步驟 1、2 和 4 相當標準,[high] meaning_drift: None
+49,"00:02:38,520 --> 00:02:41,144",and I believe you are already familiar with them.,標準，我相信您已經熟悉這些內容。,35,needs_revision,OK，我相信您已經熟悉這些內容。,[medium] terminology: None; [high] meaning_drift: None
+50,"00:02:41,440 --> 00:02:45,680","However, in reading, the most difficult and important step",然而，在閱讀中，最困難且最重要的步驟,84,minor_issues,,[low] style: None; [low] style: None
+51,"00:02:45,680 --> 00:02:47,560",is always Step 3.,第 3 步。,80,minor_issues,,[medium] terminology: None
+52,"00:02:48,151 --> 00:02:50,153",How to locate the information.,如何尋找資訊。,80,minor_issues,,[medium] terminology: None
+53,"00:02:50,880 --> 00:02:53,140",If you cannot find where the information is,如果無法在文章中找到資,45,needs_revision,如果無法在文章中找到資訊,[high] meaning_drift: None
+54,"00:02:53,140 --> 00:02:55,760","in the passage, you cannot solve the question.",訊所在位置，就無法解題。,30,needs_revision,在該段落中，你無法解答該問題。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+55,"00:02:57,000 --> 00:03:00,460","So, for this specific table completion task,",因此，針對這項特定的表格填空任務，,80,minor_issues,,[medium] terminology: None
+56,"00:03:00,660 --> 00:03:03,880",what should we focus on to locate information quickly?,我們應該著重於哪些方面來快速定位資訊？,100,ok,,
+57,"00:03:05,060 --> 00:03:07,660","As we discussed in the previous section, the",正如我們在上一節所討論的,77,minor_issues,正如上一節所討論的,[medium] terminology: None; [low] style: None
+58,"00:03:07,660 --> 00:03:10,000",secret lies in the structure of the table.,，關鍵在於表格的結構。,87,minor_issues,關鍵在於表格的結構。,[low] typo: None
+59,"00:03:10,320 --> 00:03:12,080",The rows and the columns.,行與列。,100,ok,,
+60,"00:03:13,360 --> 00:03:16,179","Instead of reading question by question immediately,",不要立即逐題閱讀，,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+61,"00:03:16,180 --> 00:03:19,820",you must focus on the headings of the rows and columns.,你必須著重於行與列的標題。,80,minor_issues,,[medium] terminology: None
+62,"00:03:20,800 --> 00:03:23,380",These tell you exactly where the needed information,這些內容明確指出所需資訊在文章,45,needs_revision,這些資訊明確指出所需內容,[high] meaning_drift: None
+63,"00:03:23,380 --> 00:03:24,620",is in the passage.,中的位置。,80,minor_issues,,[medium] terminology: None
+64,"00:03:25,440 --> 00:03:28,480",Let's look at and analyze this specific table.,讓我們來查看並分析這張特定的表格。,45,needs_revision,讓我們來檢視並分析這張特定的表格。,[high] terminology: None
+65,"00:03:29,320 --> 00:03:32,060","First, look at the titles in the top row.",首先，請查看最上方的標題。,45,needs_revision,首先，請檢視最上方的標題。,[high] terminology: None
+66,"00:03:32,680 --> 00:03:35,540",Positive features and effects and goals.,正面特徵、影響與目標。,100,ok,,
+67,"00:03:36,840 --> 00:03:38,500",These are general concepts.,這些是通用概念。,100,ok,,
+68,"00:03:38,500 --> 00:03:41,680","In the passage, the writer might use different",在文章內容中，作者可能會使用不同的詞,81,minor_issues,在文章中，作者可能會使用不同的詞彙,[low] style: None; [low] style: None; [low] style: None
+69,"00:03:41,680 --> 00:03:43,000",words to describe these.,彙來描述這些事物。,45,needs_revision,用以描述這些詞彙。,[high] meaning_drift: None
+70,"00:03:43,840 --> 00:03:47,080","Instead of positive features, they might say benefits,",他們可能會改用權益，而非正面特徵。,45,needs_revision,他們可能會改用好處，而非正面特徵。,[high] meaning_drift: None
+71,"00:03:47,880 --> 00:03:50,500","advantages, or good points.",優勢，或優點。,80,minor_issues,,[medium] terminology: None
+72,"00:03:51,180 --> 00:03:55,740","Instead of effects, they might say results, consequences,",除了影響之外，他們可能會說結果、後果,87,minor_issues,,[low] style: None
+73,"00:03:56,320 --> 00:03:57,480",or outcomes.,或成果。,100,ok,,
+74,"00:03:58,660 --> 00:04:02,400","However, sometimes they might not use a specific noun at all.",然而，有時他們可能根本不使用任何特定的名詞。,77,minor_issues,,[low] style: None; [medium] terminology: None
+75,"00:04:03,140 --> 00:04:06,340","Instead, they might describe the situation or the feeling.",相反地，他們可能會描述這種情境或感受。,100,ok,,
+76,"00:04:06,340 --> 00:04:10,000","For example, instead of using the word effect,",例如，他們可能會說這讓員工感覺更好,45,needs_revision,例如，例如，而非使用「效果」一詞,[high] meaning_drift: None
+77,"00:04:10,620 --> 00:04:14,237","they might just say, this makes workers feel better,",，或有助於人們保持快樂，而不是使用,45,needs_revision,他們可能會說，這能讓員工感覺好一點,[high] meaning_drift: None
+78,"00:04:14,237 --> 00:04:16,620",or it helps people stay happy.,effect 這個詞。,45,needs_revision,或者它能幫助人們保持快樂。,[high] meaning_drift: None
+79,"00:04:17,700 --> 00:04:20,160","So, here is the important takeaway.",因此，這裡有個重要的重點。,100,ok,,
+80,"00:04:21,140 --> 00:04:23,860",Because these column titles can be paraphrased into,因為這些欄位標題可以改寫為,100,ok,,
+81,"00:04:23,860 --> 00:04:26,900","so many different words, or even long descriptions,",這麼多不同的單字，甚至是長篇的描述，,80,minor_issues,,[medium] terminology: None
+82,"00:04:27,520 --> 00:04:29,800",you cannot find them easily in the text.,你都無法在文章中找到它們。,100,ok,,
+83,"00:04:30,760 --> 00:04:33,080","Therefore, we should not rely on them as",因此，我們不應將它們視為掃,35,needs_revision,因此，我們不應將它們看待,[medium] terminology: None; [high] meaning_drift: None
+84,"00:04:33,080 --> 00:04:34,660",our main keywords for scanning.,描時的主要關鍵字。,87,minor_issues,掃描時的主要關鍵字。,[low] style: None
+85,"00:04:34,660 --> 00:04:37,280",If you try to scan for the word,如果你試圖掃描查找該 word,36,needs_revision,如果你嘗試掃描查詢該 單字,[high] terminology: None; [low] terminology: None; [low] register: None; [low] collocation: None
+86,"00:04:37,280 --> 00:04:40,480","effect or feature, you will likely get lost.",如果是效應或特徵，你可能會迷失方向。,100,ok,,
+87,"00:04:41,500 --> 00:04:44,040","Now, look at the titles in the left column.",現在，請看左側欄位的標題。,80,minor_issues,,[medium] terminology: None
+88,"00:04:44,720 --> 00:04:49,580","Work environment, pay and benefits, leadership style, and so on.",工作環境、薪資與權益、領導風格等。,100,ok,,
+89,"00:04:50,540 --> 00:04:51,820",See the difference?,看出差異了嗎？,100,ok,,
+90,"00:04:52,140 --> 00:04:53,960",These are distinct topics.,這些是截然不同的主題。,87,minor_issues,,[low] style: None
+91,"00:04:54,700 --> 00:04:57,200",While the top row used general words like,雖然第一列使用了「effects」,30,needs_revision,雖然第一列使用了「效果」,[low] style: None; [medium] terminology: None; [low] style: None; [high] meaning_drift: None
+92,"00:04:57,200 --> 00:05:00,480","effects, these rows talk about specific things.",等通用詞彙，但這些列談論的是具體事物。,42,needs_revision,這些效果，但這些列說明具體事物。,[high] meaning_drift: None; [low] style: None
+93,"00:05:01,500 --> 00:05:03,780","Also, think about the text structure.",此外，請考慮文章結構。,100,ok,,
+94,"00:05:04,300 --> 00:05:06,620",A table is just a summary of the passage.,表格僅是文章的摘要。,100,ok,,
+95,"00:05:07,560 --> 00:05:10,180","Therefore, the order of the rows usually matches",因此，列的順序通常相符,45,needs_revision,因此，行的順序通常相符,[high] meaning_drift: None
+96,"00:05:10,180 --> 00:05:12,040",the order of the paragraphs.,段落順序。,100,ok,,
+97,"00:05:12,660 --> 00:05:14,920","First, the text discusses the environment.",首先，文章探討了環境議題。,100,ok,,
+98,"00:05:15,740 --> 00:05:17,840","Then, it moves to pay and benefits.",接著，它轉向薪資與權益。,100,ok,,
+99,"00:05:18,380 --> 00:05:19,520","Then, leadership.",接著，領導力。,100,ok,,
+100,"00:05:20,540 --> 00:05:23,000","So, you can mostly trust these words to",因此，你大可以放心地信任這些詞彙，用來,84,minor_issues,所以，你大可以放心地相信這些單字，用來,[low] collocation: None; [low] register: None
+101,"00:05:23,000 --> 00:05:25,308",guide you through the passage from top to bottom.,引導你由上至下閱讀文章。,100,ok,,
+102,"00:05:26,100 --> 00:05:29,860","However, again, don't just look for the exact word, pay.",不過，再次強調，不要只尋找「pay」這個確切的字詞。,80,minor_issues,,[medium] terminology: None
+103,"00:05:30,440 --> 00:05:31,820",Be ready for synonyms.,準備好面對同義詞。,100,ok,,
+104,"00:05:32,500 --> 00:05:35,980",Work environment might be workspace or office.,工作環境可能是工作空間或辦公室。,100,ok,,
+105,"00:05:36,940 --> 00:05:39,440",Pay might be salary or wages.,Pay 可能是薪資或計件工資。,80,minor_issues,付款 可能是薪資或計件工資。,[medium] terminology: None
+106,"00:05:40,300 --> 00:05:43,440","So, because these topics are specific and follow",因此，由於這些題目具有特定性且依照文,39,needs_revision,因此，由於這些題目特定且遵循,[low] style: None; [high] meaning_drift: None; [low] style: None
+107,"00:05:43,440 --> 00:05:46,400","the text's order, we use the left column to scan.",章順序排列，我們使用左側欄位進行掃描。,32,needs_revision,文字順序，我們使用左欄進行掃描。,[medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+108,"00:05:47,220 --> 00:05:50,240","First, read the topic in the left column.",首先，請閱讀左欄的主題。,100,ok,,
+109,"00:05:50,960 --> 00:05:55,000","Then, scan quickly to find that topic or its synonym.",接著，快速掃描以找到該主題或其同義詞。,100,ok,,
+110,"00:05:55,880 --> 00:05:58,920","And finally, once you find it, stop and",最後，當你找到它時，請停下來並,80,minor_issues,,[medium] terminology: None
+111,"00:05:58,920 --> 00:06:01,344",read that specific question block carefully.,仔細閱讀該特定題目區塊。,80,minor_issues,,[medium] terminology: None
+112,"00:06:01,960 --> 00:06:03,800",That is where your answer is hiding.,答案就隱藏在那裡。,100,ok,,
+113,"00:06:04,820 --> 00:06:07,580","Now, let's try question one together to see",現在，讓我們一起練習第一題，看看這,45,needs_revision,現在，讓我們一起練習第一題，看看結果,[high] meaning_drift: None
+114,"00:06:07,580 --> 00:06:09,000",how this works in practice.,在實務上是如何運作的。,80,minor_issues,,[medium] terminology: None
+115,"00:06:10,140 --> 00:06:10,680",Step one.,第一步。,100,ok,,
+116,"00:06:11,160 --> 00:06:12,520",Look at the left column.,請看左側欄位。,80,minor_issues,,[medium] terminology: None
+117,"00:06:13,080 --> 00:06:15,320",What is the keyword or subtopic we need,這裡我們需要著重於哪個關鍵,35,needs_revision,我們需要哪個關鍵詞或子主題,[medium] terminology: None; [high] meaning_drift: None
+118,"00:06:15,320 --> 00:06:16,240",to focus on here?,字或子主題？,35,needs_revision,重點是什麼？,[medium] terminology: None; [high] meaning_drift: None
+119,"00:06:16,920 --> 00:06:18,780",It's work environment.,這是工作環境。,100,ok,,
+120,"00:06:20,380 --> 00:06:21,000",Step two.,第二步。,100,ok,,
+121,"00:06:21,000 --> 00:06:23,900","Now, let's scan the text quickly to find",現在，讓我們快速掃描文章，找出這,45,needs_revision,現在，讓我們快速掃描文章，找出,[high] meaning_drift: None
+122,"00:06:23,900 --> 00:06:25,368",where this topic appears.,個主題出現的位置。,100,ok,,
+123,"00:06:25,600 --> 00:06:28,371",I'll give you a few seconds to find the right paragraph.,我會給您幾秒鐘的時間，找出正確的段落。,100,ok,,
+124,"00:06:39,090 --> 00:06:40,530","Okay, did you find it?",好了，你找到了嗎？,100,ok,,
+125,"00:06:40,870 --> 00:06:43,790",We can see mentions of workspace and environmental,我們可以看到提到 workspace 和環境,87,minor_issues,我們可以看到提到 工作區 和環境,[low] style: None
+126,"00:06:43,790 --> 00:06:45,760",factors in the second paragraph.,第二段中的因素。,80,minor_issues,,[medium] terminology: None
+127,"00:06:46,030 --> 00:06:47,650","So, we stop there.",那麼，我們就停在這邊。,80,minor_issues,,[medium] terminology: None
+128,"00:06:49,090 --> 00:06:49,670",Step three.,第三步。,100,ok,,
+129,"00:06:50,170 --> 00:06:52,110","Now, look at the specific question.",現在，請看具體的問題。,100,ok,,
+130,"00:06:52,810 --> 00:06:54,810",Having one and nice peers.,認識一些不錯的同學。,100,ok,,
+131,"00:06:55,690 --> 00:06:58,800","Before we look for the answer, I have a question for you.",在尋找答案之前，我有一個問題想問你。,77,minor_issues,,[low] style: None; [medium] terminology: None
+132,"00:06:59,290 --> 00:07:01,220",What kind of word do we need here?,這裡需要什麼樣的單字？,100,ok,,
+133,"00:07:01,900 --> 00:07:03,140",Look at the grammar.,請看文法。,100,ok,,
+134,"00:07:03,550 --> 00:07:05,870",Since it comes after having and is connected,因為它位於 having 之後，並與 nice,42,needs_revision,因為它出現在 having 之後，且與 nice,[low] style: None; [high] meaning_drift: None
+135,"00:07:05,870 --> 00:07:08,970","to nice peers, we definitely need a noun",peers 相連，所以我們絕對需要一個名詞。,30,needs_revision,同儕 相連，所以我們絕對需要一個名詞。,[medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None; [low] terminology: None
+136,"00:07:08,970 --> 00:07:10,350",or a noun phrase.,或是名詞片語。,100,ok,,
+137,"00:07:11,070 --> 00:07:13,150","Keep that in mind, because it will help",請記住這一點，因為這將有助,87,minor_issues,請記住這一點，因為這會有所幫助,[low] collocation: None
+138,"00:07:13,150 --> 00:07:14,920",us find the answer more quickly.,於我們更快地找到答案。,87,minor_issues,讓我們更快找到答案。,[low] grammar: None
+139,"00:07:16,190 --> 00:07:16,790",Step four.,第四步。,100,ok,,
+140,"00:07:17,430 --> 00:07:19,750","Now, let's look for the keywords to help",現在，讓我們尋找關鍵字來幫助我們。,100,ok,,
+141,"00:07:19,750 --> 00:07:21,350",us locate the exact spot.,讓我們找到確切的位置,100,ok,,
+142,"00:07:22,050 --> 00:07:24,850",The key phrase is nice peers.,關鍵詞是 nice peers,30,needs_revision,關鍵是 不錯的同學,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] terminology: None; [low] placeholder: None
+143,"00:07:25,570 --> 00:07:26,470",Quick check.,快速檢查一下,100,ok,,
+144,"00:07:26,970 --> 00:07:28,431",Do you know what a peer is?,你知道什麼是 peer 嗎？,100,ok,,
+145,"00:07:29,070 --> 00:07:31,150",A peer is someone at the same level as you.,peer 是指與你處於同等地位的人。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+146,"00:07:32,010 --> 00:07:34,350","In a workplace context, a peer is a",在工作場合中，peer 指,87,minor_issues,在工作場合中，同事 指,[low] style: None
+147,"00:07:34,350 --> 00:07:35,610",co-worker or colleague.,的是同事或合夥人。,45,needs_revision,co-worker or colleague,[high] meaning_drift: None
+148,"00:07:36,470 --> 00:07:38,790","With that meaning in mind, can you find",基於上述語意，你能在文中找到「,80,minor_issues,,[medium] terminology: None
+149,"00:07:38,790 --> 00:07:41,330",how nice peers is paraphrased in the text?,peers」是如何被改寫的嗎？,74,minor_issues,文中是如何改寫「「peers」一詞的？,[medium] terminology: None; [low] grammar: None; [low] typo: None
+150,"00:07:42,030 --> 00:07:44,270",I will give you ten seconds to find it.,我會給你十秒鐘的時間來尋找。,100,ok,,
+151,"00:08:00,460 --> 00:08:01,320",Did you spot it?,你找到它了嗎？,100,ok,,
+152,"00:08:01,820 --> 00:08:04,740",The text uses the phrase friendly co-workers.,文中使用了「friendly co-workers」這個片語。,30,needs_revision,文中使用了「友善同事」這個片語。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+153,"00:08:05,520 --> 00:08:07,840","Now, look at what comes before that.",現在，看看這之前出現了什麼。,87,minor_issues,,[low] style: None
+154,"00:08:08,430 --> 00:08:11,740",The text says comfort through simple things like,文中提到，透過簡單的細節如良好的照,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+155,"00:08:11,740 --> 00:08:15,920",good lighting and positive social interactions with friendly co-workers.,明和與友善同事之間的正向社交互動，能帶來舒適感。,32,needs_revision,,[low] style: None; [medium] terminology: None; [high] meaning_drift: None
+156,"00:08:17,340 --> 00:08:18,020",Step five.,第五步。,100,ok,,
+157,"00:08:18,680 --> 00:08:23,540",The text lists good lighting right alongside friendly co-workers.,文中列出了良好的照明，與「friendly co-workers」並列。,32,needs_revision,文中提到良好的照明，與「友善同事」並列。,[medium] terminology: None; [high] meaning_drift: None; [low] register: None
+158,"00:08:24,160 --> 00:08:27,360","Since good lighting is a noun phrase, which",由於「good lighting」是一,30,needs_revision,由於「良好的照明」是一,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+159,"00:08:27,360 --> 00:08:30,140",is also a positive feature and has exactly,個名詞片語，同時也是一個正面特徵，且,39,needs_revision,也是，同時也是一個正面特徵，且,[low] style: None; [low] style: None; [high] meaning_drift: None
+160,"00:08:30,140 --> 00:08:34,320","two words fitting the limit, it is the perfect answer.",恰好只有兩個字詞符合限制，因此它是完美的答案。,100,ok,,
+161,"00:08:35,059 --> 00:08:39,000","So, the answer for the first question is good lighting.",所以，第一個問題的答案是「good lighting」良好的照明。,35,needs_revision,所以，第一個問題的答案是良好的照明。,[medium] terminology: None; [high] meaning_drift: None
+162,"00:08:42,070 --> 00:08:44,970","Now, let's practice again with question two.",現在，讓我們針對第二題再進行一次練習。,100,ok,,
+163,"00:08:46,270 --> 00:08:46,770",Step one.,第一步。,100,ok,,
+164,"00:08:47,390 --> 00:08:48,810",Look at the left column again.,請再看左側的欄位。,80,minor_issues,,[medium] terminology: None
+165,"00:08:49,550 --> 00:08:52,010",We are still in the work environment row.,我們仍在「工作環境」這一列。,87,minor_issues,,[low] style: None
+166,"00:08:52,810 --> 00:08:54,870",This means we do not need to move,這表示我們暫時還不,45,needs_revision,這意味著我們不需要移動,[high] meaning_drift: None
+167,"00:08:54,870 --> 00:08:56,350",to a new paragraph yet.,需要換段落。,45,needs_revision,yet 還沒換段落。,[high] meaning_drift: None
+168,"00:08:56,970 --> 00:08:59,450",We stay right here in paragraph two.,我們就停留在第二段。,80,minor_issues,,[medium] terminology: None
+169,"00:09:00,830 --> 00:09:01,490",Step two.,第二步。,100,ok,,
+170,"00:09:02,150 --> 00:09:03,526",Look at the question.,請看題目。,100,ok,,
+171,"00:09:03,910 --> 00:09:06,170",Helping workers stay…,協助員工留任…,100,ok,,
+172,"00:09:06,700 --> 00:09:08,360",Think about the grammar here.,請思考這裡的文法。,100,ok,,
+173,"00:09:08,890 --> 00:09:11,970","After the verb stay, we usually describe a",在動詞 stay 之後，我們通常描述一種狀態或感受，,39,needs_revision,在動詞 stay 後面，我們通常會用，,[low] style: None; [low] collocation: None; [high] meaning_drift: None
+174,"00:09:11,970 --> 00:09:16,900",state or a feeling like stay happy or stay productive.,例如 stay happy 或 stay productive。,87,minor_issues,,[low] style: None
+175,"00:09:17,210 --> 00:09:19,530","So, we are looking for an adjective.",所以，我們要找的是形容詞（adjective）。,80,minor_issues,,[medium] terminology: None
+176,"00:09:20,390 --> 00:09:23,090","Now, let's scan the text quickly for the",現在，讓我們快速掃描文本，尋找 stay,30,needs_revision,現在，讓我們快速掃描文字，尋找 關鍵字,[high] terminology: None; [high] meaning_drift: None
+177,"00:09:23,090 --> 00:09:28,570",word stay or a potential paraphrase such as keep or remain.,一詞或可能的同義詞，例如 keep 或 remain。,35,needs_revision,保留原詞或可能的替換詞，例如 keep 或 remain。,[medium] terminology: None; [high] meaning_drift: None
+178,"00:09:34,050 --> 00:09:35,110",Did you find it?,你找到了嗎？,100,ok,,
+179,"00:09:35,950 --> 00:09:39,562","The text says, when employees feel respected,",文中指出，當員工感到受尊重時，他們更可能保持,100,ok,,
+180,"00:09:39,562 --> 00:09:41,960",they are more likely to stay motivated.,動機（stay motivated）。,45,needs_revision,他們更有可能保持動機。,[high] meaning_drift: None
+181,"00:09:42,290 --> 00:09:45,950",The word motivated is an adjective and it,motivated 是形容詞，放在 s,45,needs_revision,,[high] meaning_drift: None
+182,"00:09:45,950 --> 00:09:47,690",fits perfectly after stay.,tay 之後非常合適。,39,needs_revision,,[low] style: None; [high] meaning_drift: None; [low] collocation: None
+183,"00:09:48,450 --> 00:09:52,190","So, the answer for question two is motivated.",所以，第二題的答案是 motivated。,100,ok,,
+184,"00:09:54,790 --> 00:09:55,390",Great.,太好了。,100,ok,,
+185,"00:09:55,710 --> 00:09:57,250","So, we finished today's lesson.",所以，我們完成了今天的課程。,80,minor_issues,,[medium] terminology: None
+186,"00:09:57,770 --> 00:10:00,350","When working on this question type, remember to",作答此題型時，請務必多花,45,needs_revision,作答此題型時，請務必記住,[high] meaning_drift: None
+187,"00:10:00,350 --> 00:10:02,910",spend time taking the additional step which is,時間進行額外步驟，檢查所,45,needs_revision,花費時間執行額外步驟，也就是,[high] meaning_drift: None
+188,"00:10:02,910 --> 00:10:05,570",to check whether the chosen word meets all,選單詞是否符合語法、詞,30,needs_revision,選單字是否符合文法、詞,[high] terminology: None; [high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+189,"00:10:05,570 --> 00:10:08,250","the criteria in terms of grammar, word form,",彙形式、語意及字數限制,30,needs_revision,文法、詞形方面的標準,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+190,"00:10:08,570 --> 00:10:10,270","meaning, and word limit.",等所有標準。,30,needs_revision,意義及字數限制。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+191,"00:10:11,190 --> 00:10:13,450","Moreover, because you are still in the studying",此外，因為您仍在學習階段,77,minor_issues,,[low] style: None; [medium] terminology: None
+192,"00:10:13,450 --> 00:10:16,270","IELTS process, so after checking the answers, you",在 IELTS 閱讀測驗中，在核對答案之後，,42,needs_revision,IELTS 流程，因此在核對答案後，,[low] style: None; [high] meaning_drift: None
+193,"00:10:16,270 --> 00:10:17,470",should learn new words.,你應該學習新的單字。,80,minor_issues,,[medium] terminology: None
+194,"00:10:17,910 --> 00:10:19,890",You can focus on learning the ones in,您可以先著重於學習,45,needs_revision,您可以專注學習,[high] meaning_drift: None
+195,"00:10:19,890 --> 00:10:22,150",the sentences that contain the answers first.,包含答案的那些句子。,45,needs_revision,先列出包含答案的句子。,[high] meaning_drift: None
+196,"00:10:26,800 --> 00:10:28,390","So, this lesson helps you to…",所以，這堂課能幫助您……,80,minor_issues,,[medium] terminology: None
+197,"00:10:29,090 --> 00:10:31,614",1. Understand table completion,1. 理解表格填,70,minor_issues,1. 理解填寫表格,[medium] terminology: None; [medium] terminology: None; [low] collocation: None
+198,"00:10:31,860 --> 00:10:34,590",and its differences from other question types.,空及其與其他題型的差異。,45,needs_revision,以及及其與其他題型的差異。,[high] meaning_drift: None
+199,"00:10:35,310 --> 00:10:37,960",2. Steps for table completion,2. 表格填空的步驟,80,minor_issues,,[medium] terminology: None
+200,"00:10:39,340 --> 00:10:41,690",Here are some tips that I want to remind you of.,以下是我想提醒您的一些建議。,100,ok,,
+201,"00:10:42,310 --> 00:10:45,310","For table completion, always remember to read headings",對於表格填空，請務必仔細閱讀每,35,needs_revision,對於表格填空，請務必仔細閱讀標題,[medium] terminology: None; [high] meaning_drift: None
+202,"00:10:45,310 --> 00:10:47,330",of each column and row carefully.,個欄位與列的標題。,45,needs_revision,每個欄位與列。,[high] meaning_drift: None
+203,"00:10:48,130 --> 00:10:51,020",Make predictions about the word form and grammar,根據同一欄或列的其餘儲,30,needs_revision,預測詞形和語法,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+204,"00:10:51,020 --> 00:10:53,300",based on the given information in the remaining,存格中提供的資訊，預測詞,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [low] style: None
+205,"00:10:53,300 --> 00:10:55,750",cells of the same column or row.,彙形式與文法。,45,needs_revision,相同欄位或直列的儲存格。,[high] meaning_drift: None
+206,"00:10:56,970 --> 00:11:00,190",Learn new words after doing an IELTS Reading.,完成 IELTS 閱讀練習後，學習新單字。,100,ok,,
+207,"00:11:01,340 --> 00:11:03,070",See you all in the next lesson.,下一堂課見。,35,needs_revision,,[medium] terminology: None; [high] meaning_drift: None
+208,"00:11:03,070 --> 00:11:03,840",Happy learning.,祝學習愉快。,100,ok,,
+209,"00:11:03,863 --> 00:11:04,647",Goodbye.,再見。,100,ok,,

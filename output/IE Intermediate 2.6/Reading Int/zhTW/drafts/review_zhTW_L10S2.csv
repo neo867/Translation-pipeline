@@ -1,0 +1,150 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:11,830 --> 00:00:13,930","Hi guys, welcome back.",大家好，歡迎回來。,80,minor_issues,,[medium] terminology: None
+2,"00:00:14,370 --> 00:00:18,690",I'm sure many of you might feel just a little confused when looking at some,我確定大家在看一些像這樣的圖表填空題時，可能會感,45,needs_revision,,[high] meaning_drift: None
+3,"00:00:18,690 --> 00:00:24,850","questions of diagram completion like this, like this and like this, am I right?",到有點困惑，像是這樣、這樣，還有這樣，我說得對吧？,30,needs_revision,關於這類圖表填補的問題，像是這樣、這樣和這樣，我說得對吧？,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+4,"00:00:28,000 --> 00:00:32,960","So don't worry, today I'm going to help you master this question type.",所以別擔心，今天我會幫助大家掌握這個題型。,80,minor_issues,,[medium] terminology: None
+5,"00:00:33,440 --> 00:00:35,540",Our lesson has three parts.,我們的課程分為三個部分。,100,ok,,
+6,"00:00:35,540 --> 00:00:39,660","Number one, introduction to diagram completion.",第一，圖表填空題簡介。,80,minor_issues,,[medium] terminology: None
+7,"00:00:40,460 --> 00:00:45,480",We're going to analyze some features and difficulties in handling this question type.,我們將分析處理此題 型的一些特徵與困難。,80,minor_issues,,[medium] terminology: None
+8,"00:00:46,240 --> 00:00:48,920","Two, steps for diagram completion.",第二，圖表填空題的步驟。,45,needs_revision,第二，圖表補全的步驟。,[high] meaning_drift: None
+9,"00:00:49,620 --> 00:00:54,520","Three, practice diagram completion with the topic of food.",第三，以食物為主題進行圖表填空題練習。,100,ok,,
+10,"00:00:55,300 --> 00:01:01,540",This lesson aims to help you understand the format of diagram completion in IELTS Reading.,本課程旨在協助您了解 IELT S 閱讀測驗中圖表填空題的形式。,30,needs_revision,本課程旨在協助您瞭解 IELTS 閱讀測驗中圖表填空題的形式。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] typo: None
+11,"00:01:02,540 --> 00:01:07,780","Remember, understand and apply steps for diagram completion in IELTS Reading.",記住、理解並套用 IELTS Reading 圖表填空題的步驟。,70,minor_issues,記住、理解並套用 IELTS 閱讀 圖表填空題的步驟。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+12,"00:01:08,660 --> 00:01:11,520",Apply the knowledge to some practice exercises.,將所學知識套用於練習題。,100,ok,,
+13,"00:01:12,620 --> 00:01:14,180",So let's get started.,那麼，我們開始吧。,100,ok,,
+14,"00:01:18,940 --> 00:01:25,660","Features Feature one, the requirement is to complete the diagram within a word limit.",功能一：要求在字數 限制內完成圖表。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+15,"00:01:26,400 --> 00:01:32,080",This question type differs from the flowchart completion in the previous lesson in some ways.,此題型與前一課的流程圖填 空題在某些方面有所不同。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+16,"00:01:32,680 --> 00:01:33,700",Diagram completion.,圖表填空題。,45,needs_revision,圖表完成題。,[high] meaning_drift: None
+17,"00:01:34,540 --> 00:01:37,340",This question type includes an illustrated image.,此題型包含一張插圖。,100,ok,,
+18,"00:01:38,040 --> 00:01:41,900",The given information is used to explain the details in that image.,所提供的資訊用於解釋該圖片中的細節。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+19,"00:01:42,480 --> 00:01:47,900",So that you have to find the answers based on the image and the information in the passage.,因此，您必須根據圖片和文 章中的資訊來尋找答案。,77,minor_issues,因此，您必須根據圖片和文章中的資訊來尋找答案。,[medium] terminology: None; [low] typo: None
+20,"00:01:49,200 --> 00:01:50,060",Flowchart completion.,流程圖填空,45,needs_revision,流程圖完成,[high] meaning_drift: None
+21,"00:01:50,820 --> 00:01:55,940","A flowchart shows the process, steps or stages linked together by arrows.",流程圖顯示了由箭頭連接在一起的過程、步驟或階段。,45,needs_revision,流程圖顯示了由箭頭連結在一起的過程、步驟或階段。,[high] terminology: None
+22,"00:01:56,460 --> 00:01:59,620",This question type does not have an illustrated image.,此題型沒有配圖。,45,needs_revision,,[high] meaning_drift: None
+23,"00:02:00,140 --> 00:02:05,000",So you have to find the answers based on the sentences in the flowchart and,因此，您必須根據流程圖中的句子和文章中的,30,needs_revision,因此，您必須根據流程圖中的段落中的資訊,[medium] terminology: None; [high] meaning_drift: None; [low] terminology: None; [high] meaning_drift: None
+24,"00:02:05,000 --> 00:02:06,840",the information in the passage.,資訊來尋找答案。,35,needs_revision,段落中的資訊。,[medium] terminology: None; [high] meaning_drift: None
+25,"00:02:08,500 --> 00:02:13,360","Feature two, the answers are words taken from the reading passage.",特徵二：答案為取自閱讀文章的詞彙。,100,ok,,
+26,"00:02:14,200 --> 00:02:19,560","We need to write the exact words, so do not change or paraphrase them.",必須寫下精確的詞彙，因此不要更動或改寫。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+27,"00:02:20,140 --> 00:02:26,100","Feature three, the questions might not come in order as the information in the passage.",特徵三：問題可能不會按照 文章中的資訊順序出現。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+28,"00:02:26,980 --> 00:02:35,260","Feature four, the information areas that contain the answers are usually located within one to three paragraphs, not the whole passage.",特徵四：包含答案的資訊區通常 位於一至三段之間，而非整篇文章。,77,minor_issues,,[low] style: None; [medium] terminology: None
+29,"00:02:36,460 --> 00:02:46,700","Feature five, the paragraphs that contain the answers often include some descriptive words, such as words showing parts or components of the diagram,",特徵五：包含答案的段落通常會包含一些描述性詞彙，例如顯 示圖表部分或組件的詞彙、表示位置的介系詞，如 below,30,needs_revision,特徵五：包含答案的段落通常會包含一些描述性詞彙，例如顯 示圖表部分或元件的詞彙、表示位置的介系詞，如 below,[high] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] script: None
+30,"00:02:47,480 --> 00:02:53,520","prepositions of position, below, through or between, etc.",、through 或 between 等。,35,needs_revision,介詞用法，如 below、through 或 between 等,[medium] terminology: None; [high] meaning_drift: None
+31,"00:02:54,660 --> 00:02:59,700","Sequence words, then, after, finally, etc.",Sequence words、then、after、finally 等。,100,ok,,
+32,"00:03:01,860 --> 00:03:04,060",Difficulties in handling diagram completion.,處理圖表填充題的困難。,80,minor_issues,,[medium] terminology: None
+33,"00:03:04,680 --> 00:03:05,160",Difficulties.,困難。,100,ok,,
+34,"00:03:06,200 --> 00:03:10,480","Number one, cannot identify positions of missing words.",第一題：無法辨識缺失單詞的位置。,32,needs_revision,第一題：無法辨識遺漏單字的位置。,[high] terminology: None; [medium] terminology: None; [low] terminology: None
+35,"00:03:11,480 --> 00:03:15,040",This question type requires candidates to fill in a diagram.,此題型要求考生填寫圖表。,77,minor_issues,此題型要求考生填寫圖形。,[medium] terminology: None; [low] terminology: None
+36,"00:03:15,360 --> 00:03:19,920",So the given information in the diagram is usually summarized ideas.,因此，圖表中的給定資訊通常是摘要概念。,100,ok,,
+37,"00:03:20,820 --> 00:03:26,620","In addition, the key words in these ideas are often paraphrased based on the key words in the passage.",此外，這些概念中的關鍵字通常是 根據文章中的關鍵字進行改寫。,100,ok,,
+38,"00:03:27,380 --> 00:03:32,040","Therefore, you may find it challenging to identify which parts of the passage",因此，您可能會發現難以判斷應閱讀文章中的哪些,35,needs_revision,因此，您可能會發現難以辨識段落中的哪些部分,[medium] terminology: None; [high] meaning_drift: None
+39,"00:03:32,040 --> 00:03:38,480","to read and understand the main ideas, which can lead to not choosing the suitable words to fill in the blanks.",部分，也難以掌握主要概念，進而導致 無法選取合適的詞彙填入空白處。,77,minor_issues,,[low] style: None; [medium] terminology: None
+40,"00:03:38,920 --> 00:03:39,420",Solutions.,解答。,100,ok,,
+41,"00:03:40,340 --> 00:03:41,900",Read the diagram's title.,閱讀圖表的標題。,100,ok,,
+42,"00:03:42,620 --> 00:03:46,500",Skim key words and identify scanning words in the given information.,瀏覽關鍵字並從提供的資訊中找出掃描詞。,80,minor_issues,,[medium] terminology: None
+43,"00:03:47,380 --> 00:03:53,140",Locate paragraphs that contain descriptive words or key words from the title and the given information.,找出包含標題及所提供資訊中 描述性詞彙或關鍵詞的段落。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+44,"00:03:54,360 --> 00:03:58,180","Two, cannot understand what diagrams are about.",第二，無法理解圖表是在說明什麼。,100,ok,,
+45,"00:03:59,100 --> 00:04:04,860","This question type, many candidates focus too much on the diagram to fully understand what it's about.",此題型，許多考生過度專注於圖 表，導致無法充分理解其內容。,80,minor_issues,,[medium] terminology: None
+46,"00:04:05,680 --> 00:04:09,540","However, the diagrams sometimes can be highly specialized.",然而，圖表有時可能具有高度專業性。,87,minor_issues,,[low] style: None
+47,"00:04:10,200 --> 00:04:16,019","Therefore, the vocabulary in these diagrams is often uncommon and unfamiliar to you.",因此，這些圖表中的 vocabular y 對您來說通常是不常見且不熟悉的。,84,minor_issues,,[low] style: None; [low] typo: None
+48,"00:04:16,680 --> 00:04:23,440","Even if you find the correct paragraph containing the information about the diagram, you can't still find the missing word.",即使你找到了包含圖表資訊的正確段 落，仍然無法找出缺失的單字。,70,minor_issues,即使你找到了包含圖表資訊的正確段落，仍然無法找出缺失的單字。,[low] style: None; [low] style: None; [medium] terminology: None; [medium] terminology: None; [low] typo: None
+49,"00:04:24,300 --> 00:04:24,660",Solutions.,解答。,100,ok,,
+50,"00:04:25,680 --> 00:04:31,300",Do not try to fully understand what diagrams are about if they have too many specialized terms.,如果圖表含有過多專有名詞，請勿試圖完全理 解 diagrams 是在說明什麼。,87,minor_issues,如果圖表含有過多專有名詞，請勿試圖完全理 解 圖表 是在說明什麼。,[low] placeholder: None
+51,"00:04:32,540 --> 00:04:35,760",Identify scanning words in the title and the given information.,辨識標題及已知資訊中的掃描詞彙。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+52,"00:04:36,680 --> 00:04:38,960",Handle the questions with the given clues first.,先根據給定的線索回答問題。,100,ok,,
+53,"00:04:40,060 --> 00:04:43,760",Identifying the relationship between paragraphs and the diagram is more,辨識段落與圖表之間的關係，比試圖,42,needs_revision,辨識段落與圖表之間的關係，比來,[low] style: None; [high] meaning_drift: None
+54,"00:04:43,760 --> 00:04:48,240","important than trying to fully understand what the diagram is about, because",完全理解圖表內容更重要，因為這是一,45,needs_revision,比起嘗試完全理解圖表內容，更重要的一點是，因為,[high] meaning_drift: None
+55,"00:04:48,240 --> 00:04:52,200","this is a reading comprehension test, not a specialized test.",項閱讀測驗，而非專業測驗。,35,needs_revision,這是一份閱讀測驗，而非專業測驗。,[medium] terminology: None; [high] meaning_drift: None
+56,"00:04:52,980 --> 00:04:59,700","Therefore, you should focus on identifying scanning words to locate the information and then compare to the question.",因此，你應該著重於辨識掃描詞彙以 定位資訊，然後再與問題進行比較。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+57,"00:05:00,500 --> 00:05:04,560","Moreover, it's recommended that you should handle the questions with the given clues first.",此外，建議您先根據 給定的線索回答問題。,80,minor_issues,,[medium] terminology: None
+58,"00:05:05,460 --> 00:05:06,260",Difficulties.,困難。,100,ok,,
+59,"00:05:07,080 --> 00:05:11,080",3. Diagrams do not provide any information.,3. 圖表並未提供任何資訊。,100,ok,,
+60,"00:05:11,800 --> 00:05:12,260",Solutions.,解答。,100,ok,,
+61,"00:05:13,040 --> 00:05:19,320","In this case, we need to study the diagram and predict some features of where",在這種情況下，我們需要研究圖表，並根據圖表的,35,needs_revision,在這種情況下，我們需要研究圖表，並預測其特徵,[medium] terminology: None; [high] meaning_drift: None
+62,"00:05:19,320 --> 00:05:27,580","to be filled in, based on the title of the diagram and the passage, shape, quantity and function.",標題、文章內容，預測填入處的特 徵，包括形狀、數量和功能。,30,needs_revision,圖表標題與文章內容，應填入的內容之特徵，包括形狀、數量和功能。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] typo: None; [low] collocation: None
+63,"00:05:28,300 --> 00:05:33,140","Moreover, you need to remember and apply feature 5 of this question type.",此外，你需要記住並套用此題型的特徵 5。,100,ok,,
+64,"00:05:33,640 --> 00:05:39,880","Apply feature 5. The paragraphs that contain the answers often include some descriptive words,",套用特徵 5。包含答案的段落通常會包 含一些描述性詞彙，例如顯示圖表部,42,needs_revision,套用特徵 5。包含答案的段落通常會包含一些描述性詞彙，例如顯示圖表部,[low] typo: None; [high] meaning_drift: None
+65,"00:05:40,080 --> 00:05:46,040","such as words showing parts or components of the diagram,",分或組件的詞彙、表示位置的介系詞，例如 b,30,needs_revision,部分或元件的詞彙，例如 b,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] terminology: None; [high] meaning_drift: None
+66,"00:05:46,040 --> 00:05:56,200","prepositions of position, such as below, through, between, etc., sequence words, such as then, after, finally, etc.",elow、through、between， 等等，順序詞，例如 then、after、finally 等。,70,minor_issues,below、穿過、之間， 等等，順序詞，例如 然後、之後、最後 等。,[medium] terminology: None; [medium] terminology: None; [low] typo: None; [low] terminology: None; [low] terminology: None; [low] terminology: None; [low] terminology: None; [low] terminology: None; [low] register: None
+67,"00:06:00,840 --> 00:06:05,600","To practice the steps for this question type, we're going to look at the following passage.",為了練習此題型的步驟， 我們將檢視以下文章。,100,ok,,
+68,"00:06:18,100 --> 00:06:22,160","Similar to the other question types of completion we've learned in this course,",與本課程中學習的其他完成題型類似，diagram co,35,needs_revision,與本課程中學習的其他完成題型類似，圖表填空題,[medium] terminology: None; [high] meaning_drift: None
+69,"00:06:22,440 --> 00:06:25,880",we have some steps for diagram completion as follows.,mpletion 也有一些步驟如下。,30,needs_revision,完成 也有一些步驟如下。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [low] script: None; [high] meaning_drift: None
+70,"00:06:27,080 --> 00:06:32,560",Step 1. Read the question's requirement carefully and identify the word limit.,Step 1：仔細閱讀題 目要求並確認字數限制。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+71,"00:06:33,420 --> 00:06:36,160",Step 2. Study the diagram quickly.,步驟 2：快速檢視圖表。,80,minor_issues,,[medium] terminology: None
+72,"00:06:37,140 --> 00:06:42,120","Step 3. Underline keywords, if any, and predict answers.",步驟 3：標示關鍵字（如有），並預測答案。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+73,"00:06:42,800 --> 00:06:46,700",Step 4. Apply scanning skills to locate information.,步驟 4：運用掃描技巧來定位資訊。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+74,"00:06:47,680 --> 00:06:50,560",Step 5. Find and fill in the answer.,步驟 5：找出答案並填入。,80,minor_issues,,[medium] terminology: None
+75,"00:06:51,500 --> 00:06:53,780",Additional step. Check answers.,額外步驟：檢查答案。,100,ok,,
+76,"00:06:54,860 --> 00:06:56,280",Here we have a new step.,接下來是一個新的步驟。,100,ok,,
+77,"00:06:56,740 --> 00:06:59,280",Step 2. Study the diagram quickly.,步驟 2：快速研讀圖表。,100,ok,,
+78,"00:07:00,180 --> 00:07:03,500","Besides that, the rest is similar to other completion types.",除此之外，其餘部分與其他完成題型類似。,77,minor_issues,,[low] style: None; [medium] terminology: None
+79,"00:07:04,480 --> 00:07:07,660","Now, let's dive into each step in the...",現在，讓我們深入探討每一個步驟……,100,ok,,
+80,"00:07:07,660 --> 00:07:08,280",Step 1.,步驟 1：,100,ok,,
+81,"00:07:08,620 --> 00:07:12,320",Read the question's requirement carefully and identify the word limit.,仔細閱讀題目要求，並確認字數限制。,80,minor_issues,,[medium] terminology: None
+82,"00:07:12,820 --> 00:07:17,560","With this instruction, we can only write a maximum of two words in each blank.",根據此指示，每個空格最多只能寫兩個字。,30,needs_revision,根據此指示，每個空格最多隻能寫兩個字。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None
+83,"00:07:18,940 --> 00:07:22,940",Moving on to Step 2. Study the diagram quickly.,接著進入步驟 2。快速研讀圖表。,100,ok,,
+84,"00:07:23,300 --> 00:07:25,600","First, we have to answer this question.",首先，我們必須回答這個問題。,80,minor_issues,,[medium] terminology: None
+85,"00:07:25,980 --> 00:07:27,740",Does this diagram have a title?,這個圖表有標題嗎？,100,ok,,
+86,"00:07:27,740 --> 00:07:33,320","If yes, then it helps us understand what the diagram is about, making it easier",如果是的話，這有助於我們理解圖表的主旨，進而,45,needs_revision,如果是的話，這有助於我們理解圖表的主旨，，讓它變得更簡單,[high] meaning_drift: None
+87,"00:07:33,320 --> 00:07:37,260",to locate the information areas that contain the answers.,更容易定位包含答案的資訊區域。,100,ok,,
+88,"00:07:37,700 --> 00:07:43,120","For this exercise, the title tells us that it is a diagram of a rice cooker.",在這項練習中，標題告訴我們這是一個電鍋的圖表。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+89,"00:07:43,480 --> 00:07:45,560",So let's take Step 3 together.,讓我們一起來進行第三步。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+90,"00:07:47,000 --> 00:07:51,080",Step 3. Underline keywords and predict answers.,步驟三：劃出關鍵字並預測答案。,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [high] placeholder: None
+91,"00:07:51,080 --> 00:07:58,360","In this diagram, the labels provide functional descriptions that act as our primary keywords.",在此圖表中，標籤提供了作為我們主要關鍵字的實用說明。,80,minor_issues,,[medium] terminology: None
+92,"00:07:58,960 --> 00:08:04,240","Since we are labelling a physical object, we can predict that all answers will",由於我們正在標示一個實體物件，我們可以預測所有答案,80,minor_issues,,[medium] terminology: None
+93,"00:08:04,240 --> 00:08:10,360",be nouns or noun phrases representing specific components of the equipment.,都將是名詞或名詞片語，用以代表設備的特定組件。,30,needs_revision,都將是名詞或名詞片語，用以代表裝置的特定元件。,[high] terminology: None; [high] terminology: None
+94,"00:08:10,960 --> 00:08:12,580",Let's look at Question 1.,讓我們來看看第 Question 1 題。,74,minor_issues,讓我們來看看第 第一 題。,[medium] terminology: None; [low] terminology: None; [low] collocation: None
+95,"00:08:13,040 --> 00:08:14,720",Helps keep the heat in.,有助於保持熱量。,100,ok,,
+96,"00:08:14,940 --> 00:08:16,880",The arrow points to the cover.,箭頭指向封面。,100,ok,,
+97,"00:08:16,880 --> 00:08:22,540","Its function is to prevent heat from escaping, so we can predict that we need",其功能是防止熱能流失，因此我們可以預測，需要一,87,minor_issues,其功能是防止熱能流失，所以推測需要,[low] style: None
+98,"00:08:22,540 --> 00:08:27,440",a noun for a part located at the very top of the device.,個名詞來表示位於裝置最頂端的部件。,100,ok,,
+99,"00:08:28,060 --> 00:08:31,580",Now look at Question 3. Provides electricity.,現在請看第 3 題。提供電力。,80,minor_issues,,[medium] terminology: None
+100,"00:08:32,679 --> 00:08:37,159","From the picture, we see that this must be the component that connects the",從圖片中我們可以看到，這必須是將裝置連接至電,30,needs_revision,從圖片中我們可以看到，這必須是將裝置連結至電,[high] terminology: None; [high] meaning_drift: None
+101,"00:08:37,159 --> 00:08:38,620",device to a power source.,源來源的元件。,35,needs_revision,連接至電源。,[medium] terminology: None; [high] meaning_drift: None
+102,"00:08:39,179 --> 00:08:44,160",We probably need a noun for the part extending from the back with a plug.,我們可能需要在從背面延伸並帶有插頭的部分使用名詞。,80,minor_issues,,[medium] terminology: None
+103,"00:08:45,520 --> 00:08:51,060",Step 4. Apply scanning skills to locate information.,步驟 4：運用掃描技巧來定位資訊。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+104,"00:08:51,780 --> 00:08:53,060",Here is your challenge.,以下是您的挑戰。,100,ok,,
+105,"00:08:53,560 --> 00:08:59,760",Scan the second paragraph of the passage to find the names of the parts described in the diagram.,掃描文章的第二段，找出圖表中所述各部分的名称。,32,needs_revision,掃描文章的第二段，找出圖表中所述各部分的名稱。,[medium] terminology: None; [low] script: None; [high] None: None
+106,"00:09:00,300 --> 00:09:01,900",You have 20 seconds.,您有 20 秒的時間。,100,ok,,
+107,"00:09:02,280 --> 00:09:02,960",Let's go.,我們走吧。,80,minor_issues,,[medium] terminology: None
+108,"00:09:26,830 --> 00:09:31,610","If you found the sentences in the second paragraph, you are ready to find the answers.",如果您在第二段找到了這些句子，就準備好作答了。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+109,"00:09:31,610 --> 00:09:36,890","For Question 1, we scan for the function of keeping heat in.",針對第 1 題，我們掃描的是保持熱量的功能。,74,minor_issues,針對第 1 題，我們檢查的是保溫的功能。,[medium] terminology: None; [low] terminology: None; [low] terminology: None
+110,"00:09:37,450 --> 00:09:44,970","The text mentions, At the top, the outer lid closes the cooker, trapping heat and moisture.",文中提到，最外層的蓋子會蓋住炊具，將熱量和水分鎖住。,87,minor_issues,,[low] style: None
+111,"00:09:45,710 --> 00:09:50,990",The phrase trapping heat is a perfect paraphrase for keep the heat in.,「trapping heat」這個片語是「keep the heat in」的完美同義轉換。,80,minor_issues,,[medium] terminology: None
+112,"00:09:51,470 --> 00:09:56,250","For Question 7, the diagram says it lets steam out.",第 7 題的圖示顯示，它讓蒸氣排出。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+113,"00:09:56,250 --> 00:10:03,250","We scan the same area and find, A steam vent allows excess steam to escape.",我們掃描相同的區域並發現，蒸汽排氣口讓過多的蒸汽排出。,80,minor_issues,,[medium] terminology: None
+114,"00:10:03,870 --> 00:10:07,070",Escape is a paraphrase for let's out.,「Escape」是「let's out」的同義轉換。,100,ok,,
+115,"00:10:08,590 --> 00:10:12,510",Step 5. Find and fill in the answer.,步驟 5。找出並填寫答案。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+116,"00:10:12,950 --> 00:10:16,910","Now, let's finalize our labels based on the text.",現在，讓我們根據文章內容確定標籤。,100,ok,,
+117,"00:10:17,150 --> 00:10:20,910",We must strictly follow the no more than two words limit.,我們必須嚴格遵守不超過兩個字詞的限制。,100,ok,,
+118,"00:10:20,910 --> 00:10:27,490","Pause the video for about 5 minutes, find the answers and write them down on your paper.",暫停影片約 5 分鐘，找出答案並寫在紙上。,100,ok,,
+119,"00:10:33,910 --> 00:10:35,410",Did you get all of them?,你都找出來了嗎？,80,minor_issues,,[medium] terminology: None
+120,"00:10:35,690 --> 00:10:37,070",Let's find the answer together.,我們一起來找出答案吧。,100,ok,,
+121,"00:10:37,390 --> 00:10:43,570","Question 1. If you scan the first part of paragraph 2, the text says, At the top,",第 1 題。如果您掃描第 2 段的第一部分，文字顯示：「在,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [low] style: None
+122,"00:10:43,870 --> 00:10:47,610","the outer lid closes the cooker, trapping heat.",最上方，外蓋關閉鍋具，鎖住熱量。」,39,needs_revision,外蓋，外蓋蓋上鍋具，鎖住熱量。」,[low] style: None; [high] meaning_drift: None; [low] collocation: None
+123,"00:10:47,950 --> 00:10:53,550","Since trapping heat matches our diagram perfectly and it's exactly two words,",由於「trapping heat」與我們的圖表完全吻合，而且它正好是兩個字，,39,needs_revision,由於「trap heat」與我們的圖表完全吻合，而且它正好是兩個字詞，,[low] style: None; [high] meaning_drift: None; [low] terminology: None
+124,"00:10:53,550 --> 00:10:56,550",outer lid is our answer.,外蓋是我們的解答。,87,minor_issues,,[low] style: None
+125,"00:10:57,050 --> 00:11:04,550","Question 2. Moving to the side of the machine, we need the part that covers and provides the structure.",第 2 題。移至機器側邊，我們需要能覆蓋並提供結構的零件。,87,minor_issues,,[low] style: None
+126,"00:11:05,110 --> 00:11:10,310","Scanning further down that same paragraph, the text mentions that the outer",繼續掃描該段落的其餘部分，Scanning further down that same paragraph，the text mentions that the,45,needs_revision,,[high] meaning_drift: None
+127,"00:11:10,310 --> 00:11:16,850",body protects the internal components and provides the overall structure of the cooker.,outer body protects the internal components and provides the overall structure of the cooker,100,ok,,
+128,"00:11:17,390 --> 00:11:22,210",Question 3. The arrow is pointing right at the plug.,Question 3。箭頭正指向插頭。,80,minor_issues,,[medium] terminology: None
+129,"00:11:22,210 --> 00:11:29,190","The text tells us that, finally, the power cord supplies electricity to the cooker.",文中指出，電源線最終為電鍋供電。,45,needs_revision,,[high] meaning_drift: None
+130,"00:11:29,790 --> 00:11:36,530","Since our diagram says this part provides electricity, we know we found the right term.",由於我們的圖表顯示此部分提供電力，因此我們知道已找到正確的術語。,100,ok,,
+131,"00:11:37,010 --> 00:11:39,370",Question 4. Now look at the front.,Question 4。現在請看正面。,100,ok,,
+132,"00:11:39,910 --> 00:11:46,410","The passage explains that, on the front, the control panel is used to choose cooking settings.",文章說明，在正面，控制面板用於選擇烹飪設定。,100,ok,,
+133,"00:11:46,850 --> 00:11:50,390",It fits the description and the two word limit perfectly.,它完全符合描述和兩字數限制。,100,ok,,
+134,"00:11:51,050 --> 00:11:55,010",Question 5. What actually makes the rice hot?,Question 5。究竟是什麼讓飯變熱的？,100,ok,,
+135,"00:11:55,650 --> 00:12:00,370","If you look at the bottom of the diagram, the text says, At the bottom,",如果你查看圖表的底部，文字顯示：「在底部，,35,needs_revision,如果你檢視圖表的底部，文字顯示：「在底部，,[high] terminology: None; [medium] terminology: None
+136,"00:12:00,750 --> 00:12:02,890",the heating plate produces heat.,加熱板產生熱量。」,87,minor_issues,,[low] collocation: None
+137,"00:12:03,410 --> 00:12:07,910",That's the base component doing all the heavy lifting to cook your food evenly.,這就是負責主要工作、讓你的食物均勻受熱的基礎組件。,35,needs_revision,這就是負責主要工作、讓你的食物均勻受熱的基礎元件。,[high] terminology: None; [medium] terminology: None
+138,"00:12:08,470 --> 00:12:12,950",Question 6. This arrow points to the actual container inside.,Question 6。這個箭頭指向內部的實際容器。,80,minor_issues,,[medium] terminology: None
+139,"00:12:13,510 --> 00:12:19,390","The text describes it as the main container where rice and water are placed,",文字將它描述為放置米和水的容器，,80,minor_issues,,[medium] terminology: None
+140,"00:12:19,390 --> 00:12:22,450",specifically calling it the inner pot.,特別稱之為內鍋。,87,minor_issues,,[low] style: None
+141,"00:12:22,990 --> 00:12:28,630",Question 7. The arrow points at a little hole that lets steam out.,Question 7。箭頭指向一個讓蒸氣排出的小孔。,80,minor_issues,,[medium] terminology: None
+142,"00:12:28,990 --> 00:12:35,310",The text calls this a steam vent and says it allows excess steam to escape.,文中將此稱為蒸氣閥，並指出它可用於排出多餘的蒸氣。,35,needs_revision,文中將此稱為排氣口，並指出它可用於排出多餘的蒸氣。,[medium] terminology: None; [high] meaning_drift: None
+143,"00:12:36,550 --> 00:12:37,850",Great job everyone.,大家做得很好。,100,ok,,
+144,"00:12:38,090 --> 00:12:39,950",Now let's review what we learned today.,現在讓我們複習一下今天所學的內容。,100,ok,,
+145,"00:12:45,030 --> 00:12:52,010","In this lesson, we've learned about Features of diagram completion Three common",在這堂課中，我們學習了圖表填充的特點、三個常見困,70,minor_issues,在這堂課中，我們學習了圖表補齊的特點、三個常見問題,[medium] terminology: None; [medium] terminology: None; [low] style: None; [low] style: None
+146,"00:12:52,010 --> 00:12:58,790","difficulties and how to deal with them Five steps for diagram completion So,",難及其應對方法，以及圖表填充的五個步驟。所以，,70,minor_issues,困難及其應對方法，以及圖表填答的五個步驟。因此，,[medium] terminology: None; [medium] terminology: None; [low] style: None; [low] terminology: None; [low] style: None
+147,"00:12:58,970 --> 00:13:00,090",that's all for this video.,本影片到此結束。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+148,"00:13:00,370 --> 00:13:01,630",I hope you enjoyed the lesson.,希望您喜歡這堂課。,80,minor_issues,,[medium] terminology: None
+149,"00:13:02,070 --> 00:13:03,690",Goodbye and see you next time.,再見，下次見。,100,ok,,

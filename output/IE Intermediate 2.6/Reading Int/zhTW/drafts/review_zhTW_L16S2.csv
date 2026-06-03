@@ -1,0 +1,84 @@
+﻿block,timestamp,source,translation,score,verdict,corrected,issues
+1,"00:00:11,860 --> 00:00:17,180","Hi guys, I'm back and in today's video we are going to deal with one",大家好，我回來了。在今天的影片中，我們將探討,30,needs_revision,,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+2,"00:00:17,180 --> 00:00:23,840","of the hardest, most painful questions in the IELTS reading test, which is matching headings.",最困難、最痛苦的其中一個問題。 IELTS 閱讀測驗，題型為段落標題配對。,45,needs_revision,最困難、最痛苦的其中一個問題。 IELTS 閱讀測驗中，最困難且最痛苦的題型之一就是段落配對題。,[high] meaning_drift: None
+3,"00:00:24,480 --> 00:00:27,680",So stay tuned and we'll dive right into it.,請繼續關注，我們將立即進入主題。,100,ok,,
+4,"00:00:28,260 --> 00:00:33,400","This lesson aims to help you understand some features of matching headings,",本課程旨在協助您了解段落標題配對的一些特點，,35,needs_revision,本課程旨在協助您瞭解段落標題配對的一些特點，,[high] terminology: None; [medium] terminology: None
+5,"00:00:34,040 --> 00:00:41,280","choose one effective approach to matching headings, understand and apply steps for matching headings.",選擇一種有效的段落標題配對方法， 了解並套用段落標題配對的步驟。,30,needs_revision,選擇一種有效的段落標題配對方法， 瞭解並套用段落標題配對的步驟。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+6,"00:00:42,400 --> 00:00:45,360","So hang in there, it'll be worth it, I promise.",再堅持一下，絕對值得，我保證。,100,ok,,
+7,"00:00:46,700 --> 00:00:49,460",We'll start with the first part of today's lesson.,我們先從今天的課程第一部分開始。,80,minor_issues,,[medium] terminology: None
+8,"00:00:54,440 --> 00:00:58,440",Matching headings is a question type which requires candidates to match the,段落標題配對是一種題型，要求考生配對,80,minor_issues,,[medium] terminology: None
+9,"00:00:58,440 --> 00:01:03,340","given headings with the paragraphs, so that each paragraph will be matched with",提供標題與段落，使每個段落都能與其對應,32,needs_revision,提供段落對應的標題，使每個段落都能與其對應,[medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+10,"00:01:03,340 --> 00:01:04,480",its corresponding heading.,的標題配對。,45,needs_revision,其對應的標題。,[high] meaning_drift: None
+11,"00:01:05,460 --> 00:01:16,800","Questions of matching headings often have three parts, a requirement, a list of headings and question numbers corresponding to paragraphs.",配對標題類型的題目通常包含三個部分：要 求、標題清單，以及對應段落的題目編號。,30,needs_revision,配對標題型別的題目通常包含三個部分：要 求、標題清單，以及對應段落的題目編號。,[high] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None
+12,"00:01:17,460 --> 00:01:22,400","Moreover, there are some features of matching headings that you should pay attention to.",此外，配對題型還有一些特徵。 您應注意的標題。,30,needs_revision,此外，此外，配對題型的標題還有一些特徵，您應注意。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+13,"00:01:22,940 --> 00:01:31,160","One heading is only used for one paragraph, there are no cases where two or more paragraphs have the same heading.",每個標題僅用於一個段落，不會出現兩 個或更多段落共用同一個標題的情況。,100,ok,,
+14,"00:01:31,990 --> 00:01:38,800","There are usually more headings than the number of paragraphs, so there are some headings that are not used.",標題的數量通常多於段落數 ，因此會有一些標題未被使用。,100,ok,,
+15,"00:01:39,740 --> 00:01:43,940",The correct headings need to cover the whole content of paragraphs.,正確的標題必須涵蓋段落的全部內容。,87,minor_issues,,[low] style: None
+16,"00:01:44,740 --> 00:01:51,180","These are the most basic features of this question type, let's analyse it in more detail in the next part.",這些是此題型最基本的特徵，讓 我們在下一部分進行更詳細的分析。,100,ok,,
+17,"00:01:55,940 --> 00:01:59,920",There are two approaches to matching headings that you can choose from.,您可以選擇兩種方式來進行 matching headings。,77,minor_issues,您可以選擇兩種方式來進行 段落標題配對。,[medium] terminology: None; [low] terminology: None
+18,"00:02:01,080 --> 00:02:07,039","Approach 1. Answer this question type right from the beginning, because it usually appears",方法一：正確回答此題型 從一開始，因為它通常出現在,30,needs_revision,方法一：從一開始就正確回答這類題目，因為它通常會出現,[high] placeholder: None; [high] meaning_drift: None
+19,"00:02:07,039 --> 00:02:11,900","as the first question type of one passage, usually in passage 2.",一篇文章的第一題型，通常在第二篇。,45,needs_revision,,[high] placeholder: None
+20,"00:02:12,800 --> 00:02:21,320","The advantage is that it helps us to understand the main idea of all paragraphs, therefore we can answer the following question types faster.",優點在於它能幫助我們理解各段落的主 旨，因此我們可以更快地回答以下題型。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+21,"00:02:22,120 --> 00:02:28,080","However, the disadvantage is that it can take us a lot of time from the beginning of the test.",然而，缺點在於它可能會花上 從測驗一開始就耗費了大量時間。,30,needs_revision,然而，缺點在於這會從測驗一開始就耗費我們大量時間。,[low] style: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+22,"00:02:28,760 --> 00:02:31,820","As a result, it is difficult to manage time.",因此，時間管理變得困難。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+23,"00:02:32,840 --> 00:02:36,740","If we answer this question type for too long, we can take up a lot",如果我們在某種題型上花費太長時間，就會佔用其,35,needs_revision,如果我們在某種題型上花費太長時間，就會佔用時間,[medium] terminology: None; [high] meaning_drift: None
+24,"00:02:36,740 --> 00:02:42,060",of time for other questions and can't solve all the questions in time.,他題目的時間，導致無法在規定時間內完成所有題目。,30,needs_revision,沒有足夠時間處理其他問題，也無法及時解決所有問題。,[medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None; [high] meaning_drift: None
+25,"00:02:43,100 --> 00:02:46,880",Approach 2. Answer this question type last.,方法二：最後回答這類題型。,35,needs_revision,,[medium] terminology: None; [high] placeholder: None
+26,"00:02:47,720 --> 00:02:52,500","The advantage is that we can finish this question type faster, because after",優點在於我們可以更快完成這類題型，因為,80,minor_issues,,[medium] terminology: None
+27,"00:02:52,500 --> 00:02:56,860","answering other question types, we can understand the main idea of the whole",在解答其他題型後，我們能掌握整篇閱讀文,32,needs_revision,針對其他題型，我們能掌握全文,[medium] terminology: None; [high] meaning_drift: None; [low] collocation: None
+28,"00:02:56,860 --> 00:03:01,720",reading passage and can somehow understand the information in each paragraph.,章的主旨，並大致理解每個段落中的資訊。,80,minor_issues,,[medium] terminology: None
+29,"00:03:02,340 --> 00:03:05,900",So finding the main idea of each paragraph is faster.,因此，找出每個段落的主旨會更快。,100,ok,,
+30,"00:03:06,900 --> 00:03:13,540",The disadvantage is that we can't answer other question types as quickly as we take the first approach.,缺點在於我們無法回答其他題目 採用第一種方法，我們可以更快地完成題目。,30,needs_revision,缺點是，相較於採用第一種方法，我們無法快速回答其他類型的題目。,[medium] terminology: None; [medium] terminology: None; [medium] terminology: None; [high] meaning_drift: None
+31,"00:03:14,760 --> 00:03:17,180","Of course, the choice belongs to you.",當然，選擇權在您手中。,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+32,"00:03:18,000 --> 00:03:25,040","Each of you can have an approach that you find effective, so please choose the most suitable one for yourself.",各位都可以採用自己認為有效的方 法，請選擇最適合自己的方式。,80,minor_issues,,[medium] terminology: None
+33,"00:03:25,680 --> 00:03:29,440",Now let's see how we can handle the matching headings questions.,現在我們來看看如何處理 matching headings questions。,74,minor_issues,現在我們來看看如何處理 matching headings 題。,[medium] terminology: None; [low] terminology: None; [low] register: None
+34,"00:03:33,660 --> 00:03:36,960",Now let's learn how to handle this question type step by step.,現在我們來學習如何逐步處理這種題型。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+35,"00:03:37,460 --> 00:03:40,820",Step 1. Read given headings and underline keywords.,步驟 1。 閱讀給定的標題並劃出關鍵字。,100,ok,,
+36,"00:03:41,240 --> 00:03:44,460","In this step, we need to have an overview of the headings.",在這個步驟中，我們需要先對標題有個整體的認識。,80,minor_issues,,[medium] terminology: None
+37,"00:03:44,880 --> 00:03:49,380","Because this question type often includes headings with similar keywords, you",由於此題型通常包含帶有相似關鍵字的標題，你,100,ok,,
+38,"00:03:49,380 --> 00:03:54,640",need to take notes by circling or rewriting the similarities or differences in your own language.,需要透過圈選或重寫的方式，用你自己 的語言記錄相似處或不同之處的筆記。,77,minor_issues,,[low] style: None; [medium] terminology: None
+39,"00:03:54,980 --> 00:03:57,960",This helps us find out the correct headings more easily.,這有助於我們更輕鬆地找出正確的標題。,100,ok,,
+40,"00:03:58,500 --> 00:04:05,120","After you understand the importance of this step, I'll give you 15 seconds to underline keywords in each heading.",了解這個步驟的重要性後，我會給你 1 5 秒的時間，在每個標題中劃出關鍵字。,30,needs_revision,瞭解這個步驟的重要性後，我會給你 15 秒的時間，在每個標題中劃出關鍵字。,[high] terminology: None; [high] placeholder: None; [low] typo: None
+41,"00:04:05,540 --> 00:04:09,020",Find out differences among the headings that contain similar keywords.,找出包含相似 keywords 的標題之間的差異。,74,minor_issues,找出包含相似 關鍵字 的標題之間的差異。,[low] style: None; [medium] terminology: None; [low] terminology: None
+42,"00:04:25,640 --> 00:04:28,500",Here are the keywords I found when reading the headings.,以下是我在閱讀標題時找到的關鍵字。,80,minor_issues,,[medium] terminology: None
+43,"00:04:28,880 --> 00:04:33,920","When reading, I noticed that headings 5 and 6 both talk about education or",閱讀時我注意到，標題 5 和 6 都涉及教育或學校,80,minor_issues,,[medium] terminology: None
+44,"00:04:33,920 --> 00:04:40,820","schools, but 5 focuses on different ways and methods, while 6 focuses on success rates.",，但 5 側重於不同的方式和方 法，而 6 則側重於成功率。,100,ok,,
+45,"00:04:41,400 --> 00:04:46,580","Similarly, headings 1 and 4 both mention the brain, but 1 is about old age",同樣地，標題 1 和 4 都提到了大腦，但 1 著重於高齡或,87,minor_issues,同樣地，標題 1 和 4 都提到了大腦，但 1 著重於高齡,[low] typo: None
+46,"00:04:46,580 --> 00:04:50,120","or health, and 4 is about focus and multitasking.",健康，而 4 則著重於專注力與多工處理。,100,ok,,
+47,"00:04:50,620 --> 00:04:53,400","After having an overview, we move on to the next step.",概覽之後，我們進入下一步。,77,minor_issues,,[low] style: None; [medium] terminology: None
+48,"00:04:54,420 --> 00:04:59,220",Step 2. Use skimming skills for each paragraph to find the main idea.,步驟 2：使用略讀技巧閱 讀每個段落，以掌握主要大意。,80,minor_issues,,[medium] terminology: None
+49,"00:04:59,480 --> 00:05:00,100",A quick tip.,一個小撇步。,77,minor_issues,一個小建議。,[medium] terminology: None; [low] register: None
+50,"00:05:00,360 --> 00:05:06,740","In academic writing, the first sentence is often the topic sentence, and the last sentence summarizes the ideas.",在學術寫作中，第一句通常為主旨句 ，而最後一句則對觀點進行總結。,80,minor_issues,,[medium] terminology: None
+51,"00:05:38,240 --> 00:05:41,600",Let's analyze the content words to find the main idea.,讓我們分析 content words 以找出主要大意。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None; [low] placeholder: None
+52,"00:05:42,060 --> 00:05:44,360",This first sentence sets the context.,這第一句設定背景。,80,minor_issues,,[medium] terminology: None
+53,"00:05:44,680 --> 00:05:49,540","The key idea here is, speaking more than one language is becoming more common.",這裡的重點是，會說兩種以上的語言正變得越來越普遍。,100,ok,,
+54,"00:05:50,640 --> 00:05:52,360",Now on to the second sentence.,接下來看第二句。,80,minor_issues,,[medium] terminology: None
+55,"00:05:52,720 --> 00:05:55,340",This sentence explains why it is becoming common.,這句話解釋了為什麼這正變得越來越普遍。,80,minor_issues,,[medium] terminology: None
+56,"00:05:55,340 --> 00:06:00,660","Keywords include migration, global communication, millions use different languages.",關鍵字包括遷徙、全球通 訊，以及數百萬人使用不同的語言。,80,minor_issues,,[medium] terminology: None
+57,"00:06:02,200 --> 00:06:04,640",This sentence here reinforces the first point.,這句話進一步強調了第一點。,80,minor_issues,,[medium] terminology: None
+58,"00:06:04,960 --> 00:06:08,800",Keywords here are rare skill and normal part of life.,此處的關鍵字為稀有技能，也是日常生活的常態。,87,minor_issues,,[low] style: None
+59,"00:06:09,660 --> 00:06:12,040",The final sentence summarizes the trend.,最後一句話總結了這項趨勢。,80,minor_issues,,[medium] terminology: None
+60,"00:06:12,400 --> 00:06:16,500",Keywords include specialized talent and essential everyday skill.,Keywords 包括專業人才和基本的日常技能。,80,minor_issues,,[medium] terminology: None
+61,"00:06:17,680 --> 00:06:21,540","To sum up, we can see the main idea of paragraph A is about how",總而言之，我們可以看出段落 A 的主要概念在於說明……,70,minor_issues,,[low] style: None; [medium] terminology: None; [medium] terminology: None
+62,"00:06:21,540 --> 00:06:25,640",speaking multiple languages has grown from something rare to something very,說多種語言的情況已從罕見變為全球極為普遍且,42,needs_revision,說多種語言的能力已從稀有變得非常,[low] style: None; [high] meaning_drift: None
+63,"00:06:25,640 --> 00:06:27,580",common and essential globally.,不可或缺的一環。,45,needs_revision,全球普遍且必要。,[high] meaning_drift: None
+64,"00:06:28,980 --> 00:06:32,620",Step 3. Choose the most suitable heading for each paragraph.,步驟 3。為每個段落 選擇最合適的標題。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+65,"00:06:33,080 --> 00:06:37,780",Now let's look at our headings again and choose the one that matches our main idea.,現在讓我們再次查看我們的標題，並 選擇符合我們主要概念（main idea）的那一項。,30,needs_revision,現在讓我們再次檢視我們的標題，並選擇符合我們主要概念（主旨）的那一項。,[high] terminology: None; [medium] terminology: None; [low] terminology: None; [low] typo: None
+66,"00:06:38,100 --> 00:06:39,520",Let's check heading 3.,讓我們來看看標題 3。,80,minor_issues,,[medium] terminology: None
+67,"00:06:39,760 --> 00:06:44,160","The paragraph talks about modern, connected world, migration, global",該段落討論了現代化的連線世界、移民、全球通訊，以及,84,minor_issues,該段落討論了現代化的網路世界、移民、全球化，以及,[low] style: None; [low] style: None
+68,"00:06:44,160 --> 00:06:48,580","communication, and how it is becoming more common and a normal part of life.",這些現象如何變得越來越普遍，並成為生活中正常的一部分。,45,needs_revision,溝通，以及它如何變得越來越普遍，並成為生活中正常的一部分。,[high] meaning_drift: None
+69,"00:06:48,580 --> 00:06:51,560",This matches perfectly with global increase.,這與全球增長完全吻合。,100,ok,,
+70,"00:06:52,900 --> 00:06:55,680",So the answer for paragraph A is 3.,因此，A 段落的答案是 3。,80,minor_issues,,[medium] terminology: None
+71,"00:06:55,900 --> 00:06:59,120","Once found, cross it out to save time for the next paragraph.",找到後，劃掉以節省下一段落的时间。,30,needs_revision,找到後，劃掉以節省下一段落的時間。,[medium] terminology: None; [low] script: None; [low] register: None; [high] None: None; [high] None: None
+72,"00:07:04,560 --> 00:07:10,140","In today's lesson, we've learned about the structures and features of matching headings,",今天的課程中，我們已學習了配對標題的結構與特徵、,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+73,"00:07:10,140 --> 00:07:16,560","the two approaches to matching headings, and three steps for matching headings.",配對標題的兩種方法，以及 配對標題的三個步驟。,80,minor_issues,,[medium] terminology: None
+74,"00:07:17,260 --> 00:07:22,480","Moreover, we also mentioned some common difficulties, solutions, as well as",此外，我們也提到了一些常見困難、解決方案，以,77,minor_issues,,[low] style: None; [medium] terminology: None
+75,"00:07:22,480 --> 00:07:25,600",tips to skim a little more effectively for matching headings questions.,及更有效地為配對標題題目進行略讀的提示。,80,minor_issues,,[medium] terminology: None
+76,"00:07:27,580 --> 00:07:30,720",Please take note of those tips and practice regularly.,請留意這些建議並經常練習。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+77,"00:07:31,620 --> 00:07:36,100","Remember to choose reading materials that are suitable for your level, as I",請記得選擇適合您程度的閱讀材料，正如我,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+78,"00:07:36,100 --> 00:07:38,700",mentioned in the video about the course introduction.,在課程介紹的影片中提到的。,70,minor_issues,,[medium] terminology: None; [medium] terminology: None
+79,"00:07:39,840 --> 00:07:44,240","Moreover, if you don't have enough vocabulary and a good understanding of",此外，如果您沒有足夠的詞彙和良好的文法理解能,45,needs_revision,此外，如果您沒有足夠的詞彙和良好的文法理解能力,[high] meaning_drift: None
+80,"00:07:44,240 --> 00:07:48,660","grammar, it will be a bit challenging for you to apply the knowledge in today's lesson.",力，要將今天的課程中所学 的知識套用起來會有些困難。,30,needs_revision,力，要將今天的課程中所學 的知識套用起來會有些困難。,[medium] terminology: None; [low] style: None; [low] style: None; [high] None: None
+81,"00:07:49,580 --> 00:07:52,840","Finally, I really do hope you enjoyed this lesson.",最後，我真心希望這堂課對您有所幫助。,35,needs_revision,最後，我真心希望您喜歡這堂課。,[medium] terminology: None; [high] meaning_drift: None
+82,"00:07:53,360 --> 00:07:54,540",See you next time.,下次見。,100,ok,,
+83,"00:07:54,880 --> 00:07:55,160",Goodbye.,再見。,100,ok,,
