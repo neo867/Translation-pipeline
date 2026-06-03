@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 -u
 from __future__ import annotations
 """
 translate_srt.py — Translate an SRT subtitle file via the Translation API V11 (Pipeline V10).
@@ -574,8 +574,8 @@ Examples:
         print(f"\nAll done! {total_files} files processed.")
 
     elif args.inputs:
-        if len(args.inputs) > 10:
-            print(f"Error: queue limit is 10 files, got {len(args.inputs)}. Split into multiple runs.", file=sys.stderr)
+        if len(args.inputs) > 20:
+            print(f"Error: queue limit is 20 files, got {len(args.inputs)}. Split into multiple runs.", file=sys.stderr)
             sys.exit(1)
 
         input_paths = []

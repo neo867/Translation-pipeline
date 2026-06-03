@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 -u
 from __future__ import annotations
 """
 fix_srt_issues.py — Auto-fix QA issues in zhTW revised SRT files.
@@ -37,14 +37,13 @@ import requests
 
 SCRIPT_DIR = Path(__file__).parent.resolve()
 PROJECT_ROOT = SCRIPT_DIR.parent
-SOURCE_DIR = PROJECT_ROOT / "IE Intermediate 2.6" / "Reading Int"
 
 API_BASE = "https://translate.flowb.ai"
 API_KEY = "tw-localizer-dev-a1b2c3d4e5f6"
 REVIEW_TIMEOUT = 120
 
 CONTEXT = (
-    "Course subtitles from an English-language IELTS reading lesson for Taiwanese students. "
+    "Course subtitles from an English-language IELTS lesson for Taiwanese students. "
     "Target is Traditional Chinese (繁體中文). "
     "Preserve technical IELTS terms, English example words shown as answers, and all punctuation. "
     "Fix any untranslated English phrases at the start of the block."
@@ -115,13 +114,43 @@ def write_srt(blocks: list[dict], path: Path) -> None:
 # ── Source SRT lookup ─────────────────────────────────────────────────────────
 
 def find_source_srt(revised_path: Path) -> Path | None:
-    """Extract lesson code from zhTW_L10S2_revised.srt → L10S2.srt in SOURCE_DIR."""
-    m = re.match(r'zhTW_([A-Za-z0-9]+)_revised', revised_path.stem)
+    """Locate the English source SRT for a revised translation file.
+
+    Handles lesson codes with dashes (e.g. L18-2, L26-4).
+    Output structure: output/<Course>/<Skill>/<lang>/final/<lang>_<Lesson>_revised.srt
+    Source structure: <Course>/<Skill>/<Lesson>.srt
+    """
+    m = re.match(r'[a-zA-Z]+_([A-Za-z0-9][A-Za-z0-9-]*)_revised', revised_path.stem)
     if not m:
         return None
     lesson = m.group(1)
-    candidate = SOURCE_DIR / f'{lesson}.srt'
-    return candidate if candidate.exists() else None
+    lesson_file = f'{lesson}.srt'
+
+    OUTPUT_DIR = PROJECT_ROOT / 'output'
+
+    # Primary: derive source dir from output path
+    # output/<Course>/<Skill>/... → <Course>/<Skill>/
+    try:
+        rel = revised_path.resolve().relative_to(OUTPUT_DIR.resolve())
+        if len(rel.parts) >= 2:
+            candidate = PROJECT_ROOT / rel.parts[0] / rel.parts[1] / lesson_file
+            if candidate.exists():
+                return candidate
+    except ValueError:
+        pass
+
+    # Fallback: search all course/skill dirs under project root
+    skip = {'output', 'scripts', 'input', 'archive', '.git'}
+    for course_dir in PROJECT_ROOT.iterdir():
+        if not course_dir.is_dir() or course_dir.name in skip:
+            continue
+        for skill_dir in course_dir.iterdir():
+            if skill_dir.is_dir():
+                c = skill_dir / lesson_file
+                if c.exists():
+                    return c
+
+    return None
 
 
 # ── Phase 1: Deterministic fixes ─────────────────────────────────────────────

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 -u
 from __future__ import annotations
 """
 batch_review.py — Queue and run reviews for all translated SRT files.
