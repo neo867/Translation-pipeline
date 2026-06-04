@@ -69,6 +69,39 @@ _DUPE_PHRASE_RE = re.compile(
 _LONG_EN_RE = re.compile(r'[a-zA-Z][a-zA-Z ]{23,}[a-zA-Z]')
 _HAS_CJK_RE = re.compile(r'[一-鿿]')
 
+# ── 7. Vocabulary rule violations — zhTW patterns the mechanical fix should have replaced ─
+VOCAB_VIOLATIONS_ZHTW: list[tuple[str, str]] = [
+    ("演說話者", "→ 說話者 (garble from 演講者 substring replace)"),
+    ("講者",     "→ 說話者"),
+    ("聆聽",     "→ 聽"),
+    ("瞭解",     "→ 了解"),
+    ("詞彙",     "→ 字彙"),
+    ("同義詞",   "→ 同義字"),
+    ("文法變化", "→ 詞性變化"),
+    ("部分匹配", "→ 部分符合"),
+    ("堂課",     "→ 單元"),
+    ("播客",     "→ Podcast"),
+    ("惠靈頓",   "→ 威靈頓"),
+]
+
+# ── 8. Vocabulary rule violations — Bahasa Indonesia (id_) ────────────────────
+VOCAB_VIOLATIONS_ID: list[tuple[str, str]] = [
+    ("grup musik",        "→ Band (IELTS band score mistranslated as music band)"),
+    ("melatih",           "→ berlatih (self-practice is intransitive)"),
+    ("menyimak IELTS",    "→ Listening IELTS (keep skill name in English)"),
+    ("tingkatan",         "→ tingkat"),
+    ("persis sama",       "→ sama persis"),
+    ("bad cuaca",         "→ cuaca buruk (adjective-noun order)"),
+    ("football",          "→ sepak bola"),
+    ("synonyms",          "→ sinonim"),
+]
+
+# ── 9. Slash artifact — translation model left X/Y alternatives in any language ─
+# Matches word/word where neither side is a URL or known compound (e.g. A/B options)
+_SLASH_ARTIFACT_RE = re.compile(
+    r'(?<![:/])\b([a-zA-ZÀ-ɏĀ-ɏ]{3,})/([a-zA-ZÀ-ɏĀ-ɏ]{3,})\b'
+)
+
 
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -92,16 +125,17 @@ def _issue(block_idx: int, issue_type: str, detail: str, text: str) -> dict:
     return {'block': block_idx, 'type': issue_type, 'detail': detail, 'text': text}
 
 
-def check_block(block: dict) -> list[dict]:
+def check_block(block: dict, lang: str = 'zhTW') -> list[dict]:
     issues = []
     idx = block['index']
     text = block['text']
 
-    # 1. Simplified chars
-    found = _SIMP_RE.findall(text)
-    if found:
-        corrections = ', '.join(f'{c}→{SIMP_TO_TRAD[c]}' for c in dict.fromkeys(found))
-        issues.append(_issue(idx, 'simplified_char', corrections, text))
+    # 1. Simplified chars (zhTW only)
+    if lang == 'zhTW':
+        found = _SIMP_RE.findall(text)
+        if found:
+            corrections = ', '.join(f'{c}→{SIMP_TO_TRAD[c]}' for c in dict.fromkeys(found))
+            issues.append(_issue(idx, 'simplified_char', corrections, text))
 
     # 2. Leading comma
     if _LEADING_COMMA_RE.match(text):
@@ -116,12 +150,23 @@ def check_block(block: dict) -> list[dict]:
     for m in _DUPE_PHRASE_RE.finditer(text):
         issues.append(_issue(idx, 'duplicate_phrase', f'"{m.group(1)}" repeated', text))
 
-    # 6. Long untranslated English
-    if _HAS_CJK_RE.search(text):
+    # 6. Long untranslated English (zhTW only — Bahasa intentionally mixes English terms)
+    if lang == 'zhTW' and _HAS_CJK_RE.search(text):
         m = _LONG_EN_RE.search(text)
         if m:
             snippet = m.group()[:50]
             issues.append(_issue(idx, 'untranslated_english', f'"{snippet}"', text))
+
+    # 7. Vocabulary rule violations — language-specific
+    vocab_list = VOCAB_VIOLATIONS_ZHTW if lang == 'zhTW' else VOCAB_VIOLATIONS_ID
+    for pattern, suggestion in vocab_list:
+        if pattern in text:
+            issues.append(_issue(idx, 'vocab_violation', f'"{pattern}" {suggestion}', text))
+
+    # 9. Slash artifact — any language
+    m = _SLASH_ARTIFACT_RE.search(text)
+    if m:
+        issues.append(_issue(idx, 'slash_artifact', f'"{m.group()}" (translation alt — pick one)', text))
 
     return issues
 
@@ -145,11 +190,24 @@ def check_cross_blocks(blocks: list[dict]) -> list[dict]:
     return issues
 
 
+def detect_lang(path: Path) -> str:
+    """Infer language from filename prefix (id_, ja_, ko_) or default to zhTW."""
+    name = path.name.lower()
+    if name.startswith('id_'):
+        return 'id'
+    if name.startswith('ja_'):
+        return 'ja'
+    if name.startswith('ko_'):
+        return 'ko'
+    return 'zhTW'
+
+
 def audit_file(path: Path) -> list[dict]:
+    lang = detect_lang(path)
     blocks = parse_srt(path)
     issues: list[dict] = []
     for block in blocks:
-        issues.extend(check_block(block))
+        issues.extend(check_block(block, lang=lang))
     issues.extend(check_cross_blocks(blocks))
     for iss in issues:
         iss['file'] = path.name

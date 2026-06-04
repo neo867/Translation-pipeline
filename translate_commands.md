@@ -376,7 +376,24 @@ python3 scripts/apply_review_corrections.py \
 | `score` | 0–100 (≥90 shippable, 70–89 usable, <70 rework) |
 | `verdict` | `ok` / `warning` / `reject` |
 | `corrected` | Suggested fix (when verdict ≠ ok) — edit this column for human review |
-| `issues` | List of flagged issues with severity and category |
+| `issues` | List of flagged issues with severity and category. Grouped blocks show `[group X–Y]` tag. |
+
+### Sentence grouping (2026-06-04)
+
+`review_srt.py` groups consecutive mid-sentence SRT blocks before sending them to the reviewer.
+Blocks that end without terminal punctuation (`.?!:…`) are merged with the next block(s) until a
+sentence-completing block is found. The group is reviewed as a single unit.
+
+**Why:** SRT files split long sentences across multiple blocks. Sending each block individually caused
+the API to score mid-sentence fragments as meaning drift — 85% false positive rate on L1S2 (17/20
+flagged blocks were false positives). After grouping: 5 flagged blocks, all false positives from
+malformed source blocks.
+
+**Effect on CSV output:**
+- All blocks in a group share the same score and verdict.
+- `corrected` text (if any) appears only on the **first block** of the group.
+- Subsequent blocks in the group have empty `corrected` and an `[grouped with block N]` note in `issues`.
+- `apply_review_corrections.py` is unchanged — it applies corrections block-by-block as before.
 
 ---
 

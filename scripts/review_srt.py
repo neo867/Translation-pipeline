@@ -50,6 +50,30 @@ CONTEXT_DEFAULT = (
 )
 
 
+def ends_sentence(text: str) -> bool:
+    """Return True if source text ends with sentence-terminal punctuation."""
+    return bool(re.search(r'[.?!:…]\s*$', text.rstrip()))
+
+
+def build_sentence_groups(pairs: list[dict]) -> list[list[dict]]:
+    """Group consecutive mid-sentence SRT blocks so the reviewer sees complete thoughts.
+
+    Blocks that end without terminal punctuation are merged with the next block(s)
+    until a sentence-ending block is found. This prevents the reviewer from flagging
+    incomplete fragments as meaning drift.
+    """
+    groups: list[list[dict]] = []
+    current: list[dict] = []
+    for pair in pairs:
+        current.append(pair)
+        if ends_sentence(pair["source"]):
+            groups.append(current)
+            current = []
+    if current:
+        groups.append(current)
+    return groups
+
+
 def parse_srt(text: str) -> dict[int, dict]:
     """Parse SRT into {block_index: {index, timestamp, text}} — text is lines joined."""
     blocks = {}
@@ -209,8 +233,12 @@ Examples:
         for i in common_indices
         if source_blocks[i]["text"] and translated_blocks[i]["text"]
     ]
-    total = len(pairs_to_review)
-    print(f"Reviewing {total} pairs ({source_path.name} → {args.target})...")
+
+    # Group mid-sentence fragments so the reviewer scores complete thoughts
+    all_groups = build_sentence_groups(pairs_to_review)
+    total_blocks = len(pairs_to_review)
+    total_groups = len(all_groups)
+    print(f"Reviewing {total_blocks} blocks in {total_groups} sentence groups ({source_path.name} → {args.target})...")
     print(f"Strictness: {args.strictness}")
 
     # Output path mirrors input folder structure
@@ -234,24 +262,34 @@ Examples:
         if existing:
             print(f"  Resuming: {len(existing)} already reviewed.")
 
-    pending = [p for p in pairs_to_review if p["block_index"] not in existing]
-    skipped = total - len(pending)
-    if skipped:
-        print(f"  Skipping {skipped} already reviewed, {len(pending)} remaining.")
-    if not pending:
-        print("All pairs already reviewed.")
+    # A group is pending if its first block hasn't been reviewed yet
+    pending_groups = [g for g in all_groups if g[0]["block_index"] not in existing]
+    done_groups = total_groups - len(pending_groups)
+    pending_blocks = sum(len(g) for g in pending_groups)
+    if done_groups:
+        print(f"  Resuming: {done_groups} groups already reviewed, {len(pending_groups)} remaining.")
+    if not pending_groups:
+        print("All groups already reviewed.")
         return
 
     fieldnames = ["block", "timestamp", "source", "translation", "score", "verdict", "corrected", "issues"]
     results_map: dict[int, dict] = dict(existing)
 
-    done = 0
-    for start in range(0, len(pending), BATCH_SIZE):
-        chunk = pending[start: start + BATCH_SIZE]
-        api_pairs = [{"source": p["source"], "translation": p["translation"]} for p in chunk]
-        chunk_start = skipped + done + 1
-        chunk_end = skipped + done + len(chunk)
-        print(f"[{chunk_start}–{chunk_end}/{total}] scoring batch of {len(chunk)}...")
+    reviewed_groups = 0
+    for start in range(0, len(pending_groups), BATCH_SIZE):
+        chunk = pending_groups[start: start + BATCH_SIZE]
+        # Concatenate each group into a single source/translation pair for the API
+        api_pairs = [
+            {
+                "source": " ".join(p["source"] for p in g),
+                "translation": " ".join(p["translation"] for p in g),
+            }
+            for g in chunk
+        ]
+        g_start = done_groups + reviewed_groups + 1
+        g_end = done_groups + reviewed_groups + len(chunk)
+        blk_count = sum(len(g) for g in chunk)
+        print(f"[groups {g_start}–{g_end}/{total_groups}] scoring {len(chunk)} groups ({blk_count} blocks)...")
 
         try:
             results = review_batch_chunk(api_pairs, TARGET_LANG_MAP[args.target], args.context, args.strictness)
@@ -259,24 +297,60 @@ Examples:
             print(f"  [ERROR] {e}", file=sys.stderr)
             results = [{}] * len(chunk)
 
-        for pair, res in zip(chunk, results):
+        for group, res in zip(chunk, results):
             issues = res.get("issues", [])
             issue_str = "; ".join(
                 f"[{i.get('severity')}] {i.get('category')}: {i.get('message')}"
                 for i in issues
             ) if issues else ""
-            results_map[pair["block_index"]] = {
-                "block": pair["block_index"],
-                "timestamp": pair["timestamp"],
-                "source": pair["source"],
-                "translation": pair["translation"],
-                "score": res.get("score", ""),
-                "verdict": res.get("verdict", ""),
-                "corrected": res.get("corrected") or "",
-                "issues": issue_str,
-            }
+            score = res.get("score", "")
+            verdict = res.get("verdict", "")
+            corrected = res.get("corrected") or ""
 
-        done += len(chunk)
+            if len(group) == 1:
+                pair = group[0]
+                results_map[pair["block_index"]] = {
+                    "block": pair["block_index"],
+                    "timestamp": pair["timestamp"],
+                    "source": pair["source"],
+                    "translation": pair["translation"],
+                    "score": score,
+                    "verdict": verdict,
+                    "corrected": corrected,
+                    "issues": issue_str,
+                }
+            else:
+                # Multi-block group: distribute the group score to each block.
+                # Corrected text (if any) goes on the first block; subsequent blocks
+                # note they are grouped so reviewers know they were scored together.
+                block_ids = [p["block_index"] for p in group]
+                group_tag = f"[group {block_ids[0]}–{block_ids[-1]}]"
+                for i, pair in enumerate(group):
+                    if i == 0:
+                        first_issues = f"{issue_str} {group_tag}" if issue_str else group_tag
+                        results_map[pair["block_index"]] = {
+                            "block": pair["block_index"],
+                            "timestamp": pair["timestamp"],
+                            "source": pair["source"],
+                            "translation": pair["translation"],
+                            "score": score,
+                            "verdict": verdict,
+                            "corrected": corrected,
+                            "issues": first_issues,
+                        }
+                    else:
+                        results_map[pair["block_index"]] = {
+                            "block": pair["block_index"],
+                            "timestamp": pair["timestamp"],
+                            "source": pair["source"],
+                            "translation": pair["translation"],
+                            "score": score,
+                            "verdict": verdict,
+                            "corrected": "",
+                            "issues": f"[grouped with block {block_ids[0]}]",
+                        }
+
+        reviewed_groups += len(chunk)
 
         # Save progress after each chunk
         sorted_rows = [results_map[i] for i in sorted(results_map)]
@@ -285,7 +359,7 @@ Examples:
             writer.writeheader()
             writer.writerows(sorted_rows)
 
-        if done < len(pending):
+        if reviewed_groups < len(pending_groups):
             time.sleep(2)
 
     # Summary
@@ -296,8 +370,10 @@ Examples:
             avg = sum(scores) / len(scores)
             rejected = sum(1 for r in all_results if r["verdict"] == "reject")
             warnings = sum(1 for r in all_results if r["verdict"] == "warning")
+            ok = len(scores) - rejected - warnings
             print(f"\nAverage score: {avg:.1f}/100")
-            print(f"Verdicts — ok: {len(scores) - rejected - warnings}, warning: {warnings}, reject: {rejected}")
+            print(f"Verdicts — ok: {ok}, warning: {warnings}, reject: {rejected}")
+            print(f"Sentence groups reviewed: {total_groups} ({total_blocks} blocks total)")
 
     print(f"\nDone. Report saved to:\n  {output_path}")
     if any(str(r.get("score", "")).isdigit() and int(r["score"]) < 70 for r in all_results):

@@ -5,8 +5,7 @@ zhTW_mechanical_fix.py — Apply deterministic zhTW review rules before a Claude
 Applies:
   Rule 1: IELTS → 雅思 (except inside formal tier names like "IELTS Academic")
   Rule 2: 您 → 你 (instructor-to-student direction; not in quoted dialogue)
-  Rule 4: Keep technical English terms as-is (no change needed — this is a no-op guard)
-  Rule 5: Keep accent names as-is (same)
+  Rule 3: Word-level substitutions (see WORD_SUBS below)
   Rule 6: Output saved as <name>_revised.srt
   Rule 7: 『』→ 「」(TW-standard quotation marks)
 
@@ -30,6 +29,34 @@ IELTS_KEEP_PATTERNS = re.compile(
 # Matches standalone IELTS not followed by a formal tier name
 IELTS_STANDALONE = re.compile(r"\bIELTS\b(?!\s+(?:Academic|General))")
 
+# Rule 3 — deterministic word-level substitutions.
+# ORDER MATTERS: longer / more-specific patterns must come before shorter ones
+# to avoid substring collisions (e.g. 演講者 must precede 講者).
+WORD_SUBS: list[tuple[str, str]] = [
+    # Speaker terminology — specific compounds first
+    ("演講者",   "說話者"),   # before 講者 to prevent 演→演說話者 garble
+    ("發言者",   "說話者"),
+    ("講者",     "說話者"),
+    # Listening / attention verbs
+    ("聆聽",     "聽"),
+    # Vocabulary / word terminology
+    ("詞彙",     "字彙"),
+    ("同義詞",   "同義字"),
+    ("瞭解",     "了解"),
+    # IELTS-specific terminology
+    ("部分匹配", "部分符合"),
+    ("文法變化", "詞性變化"),
+    # Course structure
+    ("堂課",     "單元"),
+    # Spoken-register connectors (only when followed by a comma)
+    ("然而，",   "不過，"),
+    ("因此，",   "所以，"),
+    # Proper nouns
+    ("惠靈頓",   "威靈頓"),
+    # Brand / product names kept in English
+    ("播客",     "Podcast"),
+]
+
 
 def apply_rule1_ielts(text: str) -> tuple[str, int]:
     """Replace standalone IELTS with 雅思; preserve IELTS Academic / General Training."""
@@ -37,7 +64,6 @@ def apply_rule1_ielts(text: str) -> tuple[str, int]:
 
     def replace(m: re.Match) -> str:
         nonlocal count
-        # Double-check it's not part of a kept pattern
         start = m.start()
         surrounding = text[max(0, start - 1): start + 30]
         if IELTS_KEEP_PATTERNS.search(surrounding):
@@ -53,6 +79,17 @@ def apply_rule2_nin(text: str) -> tuple[str, int]:
     """Replace 您 with 你 throughout (instructor-to-student context)."""
     count = text.count("您")
     return text.replace("您", "你"), count
+
+
+def apply_rule3_word_subs(text: str) -> tuple[str, dict[str, int]]:
+    """Apply WORD_SUBS in order; return updated text and per-pattern counts."""
+    counts: dict[str, int] = {}
+    for src, dst in WORD_SUBS:
+        n = text.count(src)
+        if n:
+            text = text.replace(src, dst)
+            counts[src] = n
+    return text, counts
 
 
 def apply_rule7_quotes(text: str) -> tuple[str, int]:
@@ -123,6 +160,7 @@ Examples:
     total_ielts = 0
     total_nin = 0
     total_quotes = 0
+    total_word_subs: dict[str, int] = {}
     changed_blocks = []
 
     for block in blocks:
@@ -131,11 +169,14 @@ Examples:
         for line in block["text_lines"]:
             line, n1 = apply_rule1_ielts(line)
             line, n2 = apply_rule2_nin(line)
+            line, wsubs = apply_rule3_word_subs(line)
             line, n3 = apply_rule7_quotes(line)
             new_lines.append(line)
             total_ielts += n1
             total_nin += n2
             total_quotes += n3
+            for k, v in wsubs.items():
+                total_word_subs[k] = total_word_subs.get(k, 0) + v
         if new_lines != original_lines:
             changed_blocks.append({
                 "index": block["index"],
@@ -148,6 +189,10 @@ Examples:
     print(f"\nFile: {input_path.name}")
     print(f"  Rule 1 — IELTS → 雅思:  {total_ielts} replacement(s)")
     print(f"  Rule 2 — 您 → 你:        {total_nin} replacement(s)")
+    if total_word_subs:
+        for src, cnt in total_word_subs.items():
+            dst = next(d for s, d in WORD_SUBS if s == src)
+            print(f"  Rule 3 — {src} → {dst}: {cnt}")
     print(f"  Rule 7 — 『』→ 「」:     {total_quotes} replacement(s)")
     print(f"  Blocks changed: {len(changed_blocks)}")
 
